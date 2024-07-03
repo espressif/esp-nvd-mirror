@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A9D4254B-12C9-4C2A-99A2-121D79143F55", "criteria": "cpe:2.3:a:pivotal_software:spring_framework:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.1.0", "versionEndExcluding": "5.1.18", "lastModified": "2022-02-17T15:34:39.760", "cpeLastModified": "2022-04-07T19:48:46.467", "created": "2022-02-17T15:34:39.760", "status": "Inactive"}}

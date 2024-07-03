@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "294179FF-AF49-43A6-8405-ECFF03779D65", "criteria": "cpe:2.3:a:ibm:storwize_v7000_software:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.8.0.0", "versionEndExcluding": "8.4.0.0", "lastModified": "2021-10-22T17:35:36.993", "cpeLastModified": "2021-10-26T02:03:51.073", "created": "2021-10-22T17:35:36.993", "status": "Active"}}

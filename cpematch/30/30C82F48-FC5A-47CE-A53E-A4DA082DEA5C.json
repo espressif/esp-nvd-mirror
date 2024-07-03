@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "30C82F48-FC5A-47CE-A53E-A4DA082DEA5C", "criteria": "cpe:2.3:a:ubuntu:accountsservice:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.6.55-0ubuntu13", "versionEndExcluding": "0.6.55-0ubuntu13.3", "lastModified": "2021-11-18T15:35:37.500", "created": "2021-11-18T15:35:37.500", "status": "Inactive"}}

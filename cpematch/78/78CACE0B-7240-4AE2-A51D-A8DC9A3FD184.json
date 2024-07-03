@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "78CACE0B-7240-4AE2-A51D-A8DC9A3FD184", "criteria": "cpe:2.3:a:vmware:tools:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndIncluding": "10.3.32", "lastModified": "2022-06-06T15:17:59.200", "cpeLastModified": "2022-06-06T15:17:59.200", "created": "2022-06-06T15:17:59.200", "status": "Inactive"}}

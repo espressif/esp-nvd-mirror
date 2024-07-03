@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2CE4FB98-0276-4573-BAD7-04CE7F7E025E", "criteria": "cpe:2.3:o:siemens:simatic_step_7_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0", "versionEndExcluding": "5.7", "lastModified": "2022-04-01T12:59:05.597", "cpeLastModified": "2022-07-01T18:12:56.750", "created": "2022-04-01T12:59:05.597", "status": "Active"}}

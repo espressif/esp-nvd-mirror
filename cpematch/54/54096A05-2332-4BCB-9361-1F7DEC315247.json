@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "54096A05-2332-4BCB-9361-1F7DEC315247", "criteria": "cpe:2.3:a:linuxfoundation:argo-cd:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.8.0", "versionEndExcluding": "1.8.6", "lastModified": "2021-03-03T16:38:16.570", "cpeLastModified": "2021-03-03T16:40:44.537", "created": "2021-03-03T16:38:16.570", "status": "Inactive"}}

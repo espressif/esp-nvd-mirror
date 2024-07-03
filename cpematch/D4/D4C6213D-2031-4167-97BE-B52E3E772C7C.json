@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D4C6213D-2031-4167-97BE-B52E3E772C7C", "criteria": "cpe:2.3:a:safe:fme_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "2022.0.0.0", "versionEndExcluding": "2022.0.1.0", "lastModified": "2022-09-28T12:09:11.650", "cpeLastModified": "2022-09-28T12:08:49.243", "created": "2022-09-28T12:08:49.243", "status": "Inactive"}}

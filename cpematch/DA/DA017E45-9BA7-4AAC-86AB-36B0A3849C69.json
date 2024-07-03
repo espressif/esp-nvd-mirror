@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DA017E45-9BA7-4AAC-86AB-36B0A3849C69", "criteria": "cpe:2.3:a:proofpoint:enterprise_protection:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.12.0-2104190000", "versionEndExcluding": "8.12.0-2106240000", "lastModified": "2021-10-15T12:52:52.177", "created": "2021-10-15T12:52:52.177", "status": "Inactive"}}

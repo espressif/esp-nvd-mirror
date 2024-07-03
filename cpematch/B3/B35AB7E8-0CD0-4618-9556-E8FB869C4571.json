@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B35AB7E8-0CD0-4618-9556-E8FB869C4571", "criteria": "cpe:2.3:a:netapp:storage_replication_adapter:*:*:*:*:*:clustered_data_ontap:*:*", "versionStartIncluding": "7.2", "lastModified": "2020-12-23T14:39:47.810", "cpeLastModified": "2021-10-20T11:15:43.263", "created": "2020-12-23T14:39:47.810", "status": "Active"}}

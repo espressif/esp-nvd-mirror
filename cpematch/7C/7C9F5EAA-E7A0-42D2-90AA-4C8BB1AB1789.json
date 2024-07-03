@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7C9F5EAA-E7A0-42D2-90AA-4C8BB1AB1789", "criteria": "cpe:2.3:a:dell:bsafe:*:*:*:*:micro_edition_suite:*:*:*", "versionStartIncluding": "4.1.0", "versionEndExcluding": "4.1.6.3", "lastModified": "2021-11-30T17:24:47.043", "cpeLastModified": "2021-12-09T18:19:51.603", "created": "2021-11-30T17:24:47.043", "status": "Inactive"}}

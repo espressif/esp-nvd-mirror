@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F2163618-5FF1-453B-9EA7-1FF2ED203E3F", "criteria": "cpe:2.3:a:dell:bsafe_crypto-c:*:*:*:*:micro:*:*:*", "versionStartIncluding": "4.1.0", "versionEndExcluding": "4.1.4", "lastModified": "2021-11-30T18:51:55.267", "cpeLastModified": "2021-12-09T18:17:10.287", "created": "2021-11-30T18:51:55.267", "status": "Inactive"}}

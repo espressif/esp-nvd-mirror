@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A2FA230D-0CDC-4AC3-A8F7-C0980507DDF6", "criteria": "cpe:2.3:o:dell:emc_powerscale_onefs:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.1.0", "versionEndExcluding": "9.1.0.20", "lastModified": "2023-02-08T03:00:11.623", "cpeLastModified": "2023-02-07T13:35:39.017", "created": "2023-02-07T13:35:39.017", "status": "Inactive"}}

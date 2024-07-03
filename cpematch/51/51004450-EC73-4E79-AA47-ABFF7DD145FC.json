@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "51004450-EC73-4E79-AA47-ABFF7DD145FC", "criteria": "cpe:2.3:a:opnsense:opnsense:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.7.0", "versionEndExcluding": "21.7.4", "lastModified": "2022-04-25T16:10:42.717", "cpeLastModified": "2022-07-28T17:57:28.587", "created": "2022-04-25T16:10:42.717", "status": "Active"}}

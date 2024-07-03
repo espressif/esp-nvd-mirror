@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ED77FD14-5EFE-4A53-AB8A-1D283241B544", "criteria": "cpe:2.3:a:containous:traefik:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.6.0", "versionEndExcluding": "1.6.6", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-07-28T15:04:28.403", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

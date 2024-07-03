@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A1E1AE98-7EED-4156-B2E8-71FF563B1DBB", "criteria": "cpe:2.3:a:cisco:wireless_lan_controller_software:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.0.115.0", "lastModified": "2021-04-16T17:42:49.320", "cpeLastModified": "2021-04-16T17:42:49.320", "created": "2021-04-16T17:42:49.320", "status": "Inactive"}}

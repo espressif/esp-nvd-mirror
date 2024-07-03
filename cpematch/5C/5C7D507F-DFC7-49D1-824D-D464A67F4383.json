@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5C7D507F-DFC7-49D1-824D-D464A67F4383", "criteria": "cpe:2.3:o:netmodule:nb2810_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.8.0", "versionEndExcluding": "4.8.0.101", "lastModified": "2023-11-03T02:00:35.810", "cpeLastModified": "2023-10-30T16:53:02.933", "created": "2023-10-30T16:53:02.933", "status": "Inactive"}}

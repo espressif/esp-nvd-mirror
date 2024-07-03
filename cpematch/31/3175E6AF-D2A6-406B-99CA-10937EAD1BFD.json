@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3175E6AF-D2A6-406B-99CA-10937EAD1BFD", "criteria": "cpe:2.3:o:siemens:siplus_cpu_1513f-1_pn_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5", "versionEndExcluding": "2.9.2", "lastModified": "2021-08-19T18:09:09.283", "cpeLastModified": "2021-08-20T18:56:05.673", "created": "2021-08-19T18:09:09.283", "status": "Active"}}

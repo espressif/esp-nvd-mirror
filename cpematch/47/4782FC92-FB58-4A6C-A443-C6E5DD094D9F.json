@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4782FC92-FB58-4A6C-A443-C6E5DD094D9F", "criteria": "cpe:2.3:a:conduit-hyper_project:conduit-hyper:*:*:*:*:*:*:*:*", "versionStartExcluding": "0.2.0", "versionEndExcluding": "0.4.2", "lastModified": "2022-11-01T14:31:55.240", "cpeLastModified": "2022-11-01T14:31:55.240", "created": "2022-11-01T14:14:30.047", "status": "Inactive"}}

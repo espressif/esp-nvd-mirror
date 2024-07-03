@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B5F96146-94D8-4FA0-9A21-80012DB0B2FB", "criteria": "cpe:2.3:a:tanstack:query:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.18.0", "lastModified": "2024-02-06T16:39:44.340", "cpeLastModified": "2024-04-23T14:38:48.603", "created": "2024-02-06T16:39:44.340", "status": "Active"}}

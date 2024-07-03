@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0409961E-C2A5-490B-9FF2-1A8E26ABD9FA", "criteria": "cpe:2.3:a:oracle:configurator:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.2.3", "versionEndIncluding": "12.2.11", "lastModified": "2022-01-20T17:43:06.790", "cpeLastModified": "2022-01-22T03:43:19.450", "created": "2022-01-20T17:43:06.790", "status": "Active"}}

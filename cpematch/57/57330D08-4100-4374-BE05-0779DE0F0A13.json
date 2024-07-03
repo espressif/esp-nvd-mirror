@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "57330D08-4100-4374-BE05-0779DE0F0A13", "criteria": "cpe:2.3:a:pandatix:go-cvss:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.2.0", "versionEndExcluding": "0.4.0", "lastModified": "2023-08-18T15:32:01.117", "cpeLastModified": "2023-08-18T15:32:01.117", "created": "2023-08-18T15:32:01.117", "status": "Inactive"}}

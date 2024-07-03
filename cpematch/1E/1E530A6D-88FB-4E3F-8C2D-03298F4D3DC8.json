@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1E530A6D-88FB-4E3F-8C2D-03298F4D3DC8", "criteria": "cpe:2.3:a:atlassian:bitbucket_data_center:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.14.0", "versionEndExcluding": "7.6.14", "lastModified": "2022-04-28T17:50:49.643", "cpeLastModified": "2022-04-28T17:50:58.273", "created": "2022-04-28T17:50:49.643", "status": "Active"}}

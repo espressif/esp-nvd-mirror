@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DC21BAC1-FCF8-4DC7-89D6-BAA2CF6F411D", "criteria": "cpe:2.3:a:pnpm:pnpm:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.6.8", "lastModified": "2023-08-04T17:44:01.120", "cpeLastModified": "2023-08-04T17:44:01.120", "created": "2023-08-04T17:44:01.120", "status": "Active"}}

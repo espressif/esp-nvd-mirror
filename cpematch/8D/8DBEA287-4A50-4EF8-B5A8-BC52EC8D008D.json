@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8DBEA287-4A50-4EF8-B5A8-BC52EC8D008D", "criteria": "cpe:2.3:a:rabiitmq:jms_client:*:*:*:*:*:rabbitmq:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.15.2", "lastModified": "2021-03-15T10:41:25.497", "cpeLastModified": "2021-03-15T10:45:13.260", "created": "2021-03-15T10:41:25.497", "status": "Inactive"}}

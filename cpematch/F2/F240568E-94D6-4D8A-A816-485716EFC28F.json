@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F240568E-94D6-4D8A-A816-485716EFC28F", "criteria": "cpe:2.3:o:cisco:ucs_6332_fabric_interconnect_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.1", "versionEndExcluding": "4.1\\(3l\\)", "lastModified": "2023-09-04T00:55:36.203", "cpeLastModified": "2023-09-04T00:55:36.203", "created": "2023-09-04T00:55:36.203", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BC6AB3D8-DB98-4D6E-8A7B-4188C3DCBE7B", "criteria": "cpe:2.3:o:cisco:fx-os:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.3", "versionEndExcluding": "2.3.1.73", "lastModified": "2023-04-21T02:00:13.670", "cpeLastModified": "2023-04-20T14:47:11.077", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

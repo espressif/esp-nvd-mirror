@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F9CB34E2-B41A-48AC-B97F-C9F9999CE0FB", "criteria": "cpe:2.3:o:siemens:siplus_cpu_1518f-4_pn\\/dp_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5", "versionEndExcluding": "2.9.2", "lastModified": "2021-08-19T18:09:13.077", "cpeLastModified": "2021-08-20T18:56:05.673", "created": "2021-08-19T18:09:13.077", "status": "Active"}}

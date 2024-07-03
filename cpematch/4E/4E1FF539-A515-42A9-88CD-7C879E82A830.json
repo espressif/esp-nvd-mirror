@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4E1FF539-A515-42A9-88CD-7C879E82A830", "criteria": "cpe:2.3:o:intel:ethernet_controller_e810_firmware:*:*:*:*:*:linux:*:*", "versionEndExcluding": "1.3.19", "lastModified": "2021-08-19T14:44:17.853", "cpeLastModified": "2021-09-07T19:02:35.567", "created": "2021-08-19T14:44:17.853", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "428D83E3-D8EC-4219-9B75-E9758EB00210", "criteria": "cpe:2.3:a:dell:solutions_enabler_virtual_appliance:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.2.0.0", "versionEndExcluding": "9.2.3.0", "lastModified": "2022-01-27T20:04:01.793", "cpeLastModified": "2022-01-28T15:11:59.010", "created": "2022-01-27T20:04:01.793", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9DBA81CD-E1A7-4FAD-BC47-B91F088E7CBA", "criteria": "cpe:2.3:a:projen_project:projen:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.6.0", "versionEndExcluding": "0.16.41", "lastModified": "2021-04-12T12:33:28.707", "cpeLastModified": "2021-04-12T12:34:34.410", "created": "2021-04-12T12:33:28.707", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D0E59935-5E8C-4F3A-B0F7-5880392692AB", "criteria": "cpe:2.3:a:siemens:mendix_saml_module:*:*:*:*:*:mendix_9:*:*", "versionStartIncluding": "3.3.0", "versionEndExcluding": "3.3.4", "lastModified": "2022-11-08T16:14:47.803", "cpeLastModified": "2022-11-08T16:05:17.590", "created": "2022-11-08T16:05:17.590", "status": "Inactive"}}

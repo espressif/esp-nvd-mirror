@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5D130A0C-B859-4E13-9694-7387D628F97B", "criteria": "cpe:2.3:a:hcltech:workload_automation:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.5.0.0", "versionEndIncluding": "9.5.0.5", "lastModified": "2022-12-14T03:00:11.957", "cpeLastModified": "2022-12-13T18:12:41.630", "created": "2022-12-13T18:12:41.630", "status": "Inactive"}}

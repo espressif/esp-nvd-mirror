@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3CF2CD8E-8E3F-4FBD-A6AD-A1B247762A76", "criteria": "cpe:2.3:a:f5:big-ip_link_controller:*:*:*:*:*:*:*:*", "versionStartIncluding": "14.0.0", "versionEndExcluding": "14.1.4.4", "lastModified": "2022-01-31T16:41:19.970", "created": "2022-01-31T16:41:19.970", "status": "Inactive"}}

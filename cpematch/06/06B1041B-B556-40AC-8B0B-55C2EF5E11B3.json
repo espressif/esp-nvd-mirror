@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "06B1041B-B556-40AC-8B0B-55C2EF5E11B3", "criteria": "cpe:2.3:a:redhat:kubernetes-client:*:*:*:*:*:*:*:*", "versionEndExcluding": "4.9.3", "lastModified": "2022-04-05T16:50:36.330", "created": "2022-04-05T16:50:36.330", "status": "Inactive"}}

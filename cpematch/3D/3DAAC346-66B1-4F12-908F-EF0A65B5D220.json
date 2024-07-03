@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3DAAC346-66B1-4F12-908F-EF0A65B5D220", "criteria": "cpe:2.3:a:cloudflare:warp_mobile_client:*:*:*:*:*:android:*:*", "versionEndExcluding": "6.20", "lastModified": "2023-01-19T03:00:21.183", "cpeLastModified": "2023-01-18T15:11:07.360", "created": "2023-01-18T15:11:07.360", "status": "Inactive"}}

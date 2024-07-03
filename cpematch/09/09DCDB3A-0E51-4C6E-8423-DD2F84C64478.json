@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "09DCDB3A-0E51-4C6E-8423-DD2F84C64478", "criteria": "cpe:2.3:a:netmodule:netmodule_router_software:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.5.0.0", "versionEndExcluding": "4.5.0.105", "lastModified": "2023-11-02T15:23:11.273", "cpeLastModified": "2023-11-02T15:23:11.273", "created": "2023-11-02T15:23:11.273", "status": "Active"}}

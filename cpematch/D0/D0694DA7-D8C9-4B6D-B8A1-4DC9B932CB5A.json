@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D0694DA7-D8C9-4B6D-B8A1-4DC9B932CB5A", "criteria": "cpe:2.3:a:featherjs:feathers-sequelize:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.3.4", "lastModified": "2023-01-06T18:39:00.203", "cpeLastModified": "2023-07-28T14:13:17.130", "created": "2023-01-06T18:39:00.203", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "90331D4E-C178-43A0-B11E-757E7CF28D45", "criteria": "cpe:2.3:a:busybox:busybox:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.28.0", "versionEndExcluding": "1.33.1", "lastModified": "2022-01-04T17:10:26.273", "created": "2022-01-04T17:10:26.273", "status": "Inactive"}}

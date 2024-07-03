@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ED827A0A-C6AE-4061-AC2C-6E14DF97F520", "criteria": "cpe:2.3:a:redhat:gluster_storage:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.1.0", "versionEndIncluding": "4.1.8", "lastModified": "2022-03-03T01:43:04.427", "cpeLastModified": "2022-04-12T18:34:03.870", "created": "2022-03-03T01:43:04.427", "status": "Active"}}

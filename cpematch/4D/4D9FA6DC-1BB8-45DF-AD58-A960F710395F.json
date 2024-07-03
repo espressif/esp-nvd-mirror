@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4D9FA6DC-1BB8-45DF-AD58-A960F710395F", "criteria": "cpe:2.3:a:fortinet:fortiproxy:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.2.0", "versionEndExcluding": "7.2.6", "lastModified": "2024-05-24T02:00:25.910", "cpeLastModified": "2024-05-23T17:42:57.123", "created": "2024-05-23T17:42:57.123", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A77393E2-0619-426B-9EDE-0F89E2818F17", "criteria": "cpe:2.3:a:cisco:ironport_email_security_appliance:*:*:*:*:*:*:*:*", "versionStartIncluding": "15.0.0", "versionEndExcluding": "15.0.0-009", "lastModified": "2023-01-31T03:00:13.220", "cpeLastModified": "2023-01-30T16:46:07.660", "created": "2023-01-30T16:46:07.660", "status": "Inactive"}}

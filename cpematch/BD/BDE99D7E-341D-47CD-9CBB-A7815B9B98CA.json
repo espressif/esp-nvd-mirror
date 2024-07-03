@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BDE99D7E-341D-47CD-9CBB-A7815B9B98CA", "criteria": "cpe:2.3:o:broadcom:symantec_advanced_secure_gateway_500-10_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.6", "versionEndExcluding": "6.7.4.17", "lastModified": "2021-07-06T15:07:07.587", "created": "2021-07-06T15:07:07.587", "status": "Active"}}

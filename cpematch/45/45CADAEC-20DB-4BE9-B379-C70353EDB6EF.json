@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "45CADAEC-20DB-4BE9-B379-C70353EDB6EF", "criteria": "cpe:2.3:a:redhat:machine-config-operator:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.3.0", "versionEndExcluding": "4.3.25", "lastModified": "2021-06-17T17:58:54.877", "created": "2021-06-17T17:58:54.877", "status": "Active"}}

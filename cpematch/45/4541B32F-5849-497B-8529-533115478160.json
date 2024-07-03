@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4541B32F-5849-497B-8529-533115478160", "criteria": "cpe:2.3:a:synaptics:fingerprint_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.2.300.26", "versionEndExcluding": "5.2.325.26", "lastModified": "2022-07-01T16:01:21.617", "cpeLastModified": "2022-07-01T16:01:21.617", "created": "2022-07-01T16:01:21.617", "status": "Active"}}

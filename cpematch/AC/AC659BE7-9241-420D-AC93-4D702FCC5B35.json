@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AC659BE7-9241-420D-AC93-4D702FCC5B35", "criteria": "cpe:2.3:o:cisco:asyncos:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.0", "versionEndExcluding": "13.5.3-010", "lastModified": "2021-06-22T16:59:39.957", "cpeLastModified": "2021-06-22T16:59:39.957", "created": "2021-06-22T16:59:39.957", "status": "Inactive"}}

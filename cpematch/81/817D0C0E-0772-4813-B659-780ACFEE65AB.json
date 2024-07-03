@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "817D0C0E-0772-4813-B659-780ACFEE65AB", "criteria": "cpe:2.3:a:f5:big-ip_dns:*:*:*:*:*:*:*:*", "versionStartIncluding": "16.1.0", "versionEndIncluding": "16.1.4", "lastModified": "2023-11-03T17:57:26.343", "cpeLastModified": "2023-11-02T23:04:33.187", "created": "2023-11-02T23:04:33.187", "status": "Inactive"}}

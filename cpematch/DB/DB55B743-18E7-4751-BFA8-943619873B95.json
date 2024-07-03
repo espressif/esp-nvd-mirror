@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DB55B743-18E7-4751-BFA8-943619873B95", "criteria": "cpe:2.3:o:brocade:fabric_os:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.2.1", "versionEndExcluding": "8.2.1d", "lastModified": "2020-02-06T18:12:47.030", "cpeLastModified": "2021-06-22T15:20:40.133", "created": "2020-02-06T18:12:47.030", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "17A4C4F8-3EC2-422D-BAC6-224E3FC2DEE5", "criteria": "cpe:2.3:a:amazon:freertos-plus-tcp:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.1.1", "lastModified": "2024-06-25T14:15:11.290", "cpeLastModified": "2024-06-25T14:15:31.380", "created": "2024-06-25T14:15:11.290", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5EDB0B6B-9F0E-47D7-AD31-B69A00EBC7F5", "criteria": "cpe:2.3:a:ibm:host_access_transformation_services:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.6", "versionEndIncluding": "9.6.1.4", "lastModified": "2024-03-18T20:43:56.053", "cpeLastModified": "2024-03-18T20:43:56.053", "created": "2024-03-18T20:43:56.053", "status": "Active"}}

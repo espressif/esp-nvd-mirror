@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "66A12C5E-81B3-419A-9D6B-7B870BA0488E", "criteria": "cpe:2.3:a:rubrik:copy_data_management:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0", "versionEndIncluding": "5.0.4", "lastModified": "2020-04-15T14:25:13.157", "cpeLastModified": "2021-07-01T14:30:37.530", "created": "2020-04-15T14:25:13.157", "status": "Inactive"}}

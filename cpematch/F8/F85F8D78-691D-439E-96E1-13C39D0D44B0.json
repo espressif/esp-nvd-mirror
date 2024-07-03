@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F85F8D78-691D-439E-96E1-13C39D0D44B0", "criteria": "cpe:2.3:a:pypi:django-navbar-client:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.9.50", "versionEndIncluding": "1.0.1", "lastModified": "2022-07-02T00:18:26.807", "cpeLastModified": "2022-07-02T00:18:26.807", "created": "2022-07-02T00:18:26.807", "status": "Inactive"}}

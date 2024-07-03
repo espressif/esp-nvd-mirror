@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FD9616D3-85E7-4DDD-BE35-0F4D0B7798DF", "criteria": "cpe:2.3:a:jenkins:msteams_webhook_trigger:*:*:*:*:*:jenkins:*:*", "versionEndIncluding": "0.1.1", "lastModified": "2023-11-01T18:21:31.720", "cpeLastModified": "2023-10-30T14:00:12.253", "created": "2023-10-30T14:00:12.253", "status": "Inactive"}}

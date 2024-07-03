@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9C117434-366A-4114-8D06-E2B0F02E5B1D", "criteria": "cpe:2.3:a:cisco:cloud_application_policy_infrastructure_controller:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.2", "versionEndIncluding": "3.2\\(10f\\)", "lastModified": "2021-09-01T00:14:42.720", "created": "2021-09-01T00:14:42.720", "status": "Inactive"}}

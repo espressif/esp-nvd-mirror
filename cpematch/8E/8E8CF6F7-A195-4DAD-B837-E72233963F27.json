@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8E8CF6F7-A195-4DAD-B837-E72233963F27", "criteria": "cpe:2.3:o:netmodule:nb2800_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.8.0", "versionEndExcluding": "4.8.0.101", "lastModified": "2023-11-03T02:00:35.810", "cpeLastModified": "2023-10-30T16:53:02.933", "created": "2023-10-30T16:53:02.933", "status": "Inactive"}}

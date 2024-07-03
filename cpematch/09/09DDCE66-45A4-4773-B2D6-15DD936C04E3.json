@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "09DDCE66-45A4-4773-B2D6-15DD936C04E3", "criteria": "cpe:2.3:a:ibm:openpages_with_watson:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.2", "versionEndExcluding": "8.2.0.2", "lastModified": "2022-08-01T14:49:59.273", "cpeLastModified": "2022-08-01T14:49:59.273", "created": "2022-08-01T14:49:59.273", "status": "Active"}}

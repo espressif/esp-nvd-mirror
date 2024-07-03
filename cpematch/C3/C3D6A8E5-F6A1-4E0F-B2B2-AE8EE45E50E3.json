@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C3D6A8E5-F6A1-4E0F-B2B2-AE8EE45E50E3", "criteria": "cpe:2.3:a:apache:sling_resource_merger:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.0", "versionEndExcluding": "1.4.2", "lastModified": "2023-03-29T15:10:36.093", "cpeLastModified": "2023-03-29T15:10:36.093", "created": "2023-03-29T15:10:36.093", "status": "Active"}}

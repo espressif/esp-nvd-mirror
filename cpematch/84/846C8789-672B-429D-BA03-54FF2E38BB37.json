@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "846C8789-672B-429D-BA03-54FF2E38BB37", "criteria": "cpe:2.3:a:zstack:rest_api:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.10.0", "versionEndExcluding": "3.10.8", "lastModified": "2021-08-25T14:05:51.580", "cpeLastModified": "2021-08-25T14:08:10.140", "created": "2021-08-25T14:05:51.580", "status": "Active"}}

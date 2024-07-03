@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A53CD265-5D64-4D08-9002-0D5BAC56362F", "criteria": "cpe:2.3:a:broadcom:advanced_secure_gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.6", "versionEndExcluding": "6.7.5.12", "lastModified": "2021-07-08T16:37:16.930", "cpeLastModified": "2021-07-08T16:37:16.930", "created": "2021-07-08T16:37:16.930", "status": "Inactive"}}

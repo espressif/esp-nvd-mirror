@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D830B426-1BE8-4C47-99C9-3DEEF8E54396", "criteria": "cpe:2.3:a:digitalocean:toxcore:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.2.8", "lastModified": "2021-12-15T16:15:23.687", "cpeLastModified": "2022-02-08T18:54:49.800", "created": "2021-12-15T16:15:23.687", "status": "Inactive"}}

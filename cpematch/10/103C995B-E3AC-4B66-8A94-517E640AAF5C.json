@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "103C995B-E3AC-4B66-8A94-517E640AAF5C", "criteria": "cpe:2.3:a:apache:tika:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0", "versionEndExcluding": "1.28.3", "lastModified": "2022-06-07T13:40:37.407", "cpeLastModified": "2022-06-07T13:40:37.407", "created": "2022-06-07T13:40:37.407", "status": "Inactive"}}

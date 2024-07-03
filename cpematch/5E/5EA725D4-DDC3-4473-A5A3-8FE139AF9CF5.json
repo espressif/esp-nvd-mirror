@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5EA725D4-DDC3-4473-A5A3-8FE139AF9CF5", "criteria": "cpe:2.3:a:ibm:cognos_analytics:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.1.0.0", "versionEndIncluding": "11.1.7.4", "lastModified": "2021-12-03T18:09:00.040", "created": "2021-12-03T18:09:00.040", "status": "Inactive"}}

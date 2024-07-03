@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F3C40DE2-564E-4D08-A747-50B64D47C08A", "criteria": "cpe:2.3:o:siemens:simatic_reader_rf685r_fcc_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0", "versionEndExcluding": "4.0", "lastModified": "2022-04-28T14:48:30.637", "cpeLastModified": "2022-05-13T17:29:17.453", "created": "2022-04-28T14:48:30.637", "status": "Active"}}

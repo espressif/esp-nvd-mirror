@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5C9D5EC2-A38D-4469-BDF6-1723BC77B010", "criteria": "cpe:2.3:a:rubyonrails:actionpack:*:*:*:*:*:ruby:*:*", "versionStartIncluding": "6.1.0", "versionEndExcluding": "6.1.5.1", "lastModified": "2022-06-03T18:46:33.183", "cpeLastModified": "2022-06-03T18:46:33.183", "created": "2022-06-03T18:46:33.183", "status": "Active"}}

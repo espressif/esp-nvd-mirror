@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A14F03B2-2C86-4353-ABF5-18F1AA699128", "criteria": "cpe:2.3:o:siemens:cpu_1513f-1_pn_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5", "versionEndExcluding": "2.9.2", "lastModified": "2021-08-19T18:09:22.860", "cpeLastModified": "2021-08-20T18:56:05.673", "created": "2021-08-19T18:09:22.860", "status": "Active"}}

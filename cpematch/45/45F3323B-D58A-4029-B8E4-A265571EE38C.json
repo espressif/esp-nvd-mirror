@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "45F3323B-D58A-4029-B8E4-A265571EE38C", "criteria": "cpe:2.3:a:nbdkit_project:nbdkit:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.15.0", "versionEndExcluding": "1.15.1", "lastModified": "2021-03-19T02:55:18.863", "created": "2021-03-19T02:55:18.863", "status": "Active"}}

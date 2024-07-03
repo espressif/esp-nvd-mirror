@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "95300D56-98D4-41DC-A3A3-5A574A8523E3", "criteria": "cpe:2.3:a:jenkins:jira:*:*:*:*:*:jenkins:*:*", "versionStartExcluding": "3.6.1", "versionEndIncluding": "3.7", "lastModified": "2022-04-16T03:14:32.500", "created": "2022-04-16T03:14:32.500", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D17DC1DE-B0BC-4D58-B3EC-C73D17F32CEF", "criteria": "cpe:2.3:a:apache:airflow-airflow-providers-google:*:*:*:*:*:*:*:*", "versionEndExcluding": "8.10.0", "lastModified": "2023-03-04T03:00:17.020", "cpeLastModified": "2023-03-03T18:11:15.840", "created": "2023-03-03T18:05:48.690", "status": "Inactive"}}

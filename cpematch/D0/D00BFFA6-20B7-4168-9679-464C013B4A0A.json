@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D00BFFA6-20B7-4168-9679-464C013B4A0A", "criteria": "cpe:2.3:a:github:enterprise_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0", "versionEndExcluding": "3.0.3", "lastModified": "2021-03-24T15:19:39.860", "cpeLastModified": "2021-03-24T15:25:37.027", "created": "2021-03-24T15:19:39.860", "status": "Inactive"}}

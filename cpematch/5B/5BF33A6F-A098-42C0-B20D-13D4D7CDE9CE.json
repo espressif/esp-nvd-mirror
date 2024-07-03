@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5BF33A6F-A098-42C0-B20D-13D4D7CDE9CE", "criteria": "cpe:2.3:a:snyk:cli:*:*:*:*:*:gradle:*:*", "versionEndExcluding": "3.24.5", "lastModified": "2022-12-02T03:00:12.867", "cpeLastModified": "2022-12-01T15:48:11.493", "created": "2022-12-01T15:48:11.493", "status": "Inactive"}}

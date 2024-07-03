@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "60196B6F-929F-4887-9CCE-7E5CB49BF8B2", "criteria": "cpe:2.3:a:pagerduty:rundeck:*:*:*:*:community:*:*:*", "versionStartIncluding": "4.2.0", "versionEndExcluding": "4.2.2", "lastModified": "2022-06-24T14:42:08.250", "cpeLastModified": "2022-06-24T14:42:08.250", "created": "2022-06-24T14:42:08.250", "status": "Inactive"}}

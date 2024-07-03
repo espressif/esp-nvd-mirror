@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F14FC625-097E-4CA0-A0AC-486F0CF83A29", "criteria": "cpe:2.3:a:vmware:vrealize_log_insight:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.6", "lastModified": "2021-10-14T15:17:45.277", "created": "2021-10-14T15:17:45.277", "status": "Inactive"}}

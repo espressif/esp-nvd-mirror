@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "12398ECD-32E3-44FB-9934-7E9AD6459C4B", "criteria": "cpe:2.3:a:zulip:zulip_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndIncluding": "4.10.0", "lastModified": "2022-03-03T19:39:05.760", "created": "2022-03-03T19:39:05.760", "status": "Inactive"}}

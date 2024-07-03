@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "118E29B8-130F-49EB-AE43-2E5DDC3A6182", "criteria": "cpe:2.3:a:veritas:netbackup:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0", "versionEndExcluding": "9.0.0.1", "lastModified": "2022-07-28T20:35:29.537", "cpeLastModified": "2022-07-28T20:35:29.537", "created": "2022-07-28T20:35:29.537", "status": "Inactive"}}

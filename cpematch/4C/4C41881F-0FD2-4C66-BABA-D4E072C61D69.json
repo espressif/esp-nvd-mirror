@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4C41881F-0FD2-4C66-BABA-D4E072C61D69", "criteria": "cpe:2.3:a:sendmail:sendmail:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.12.0", "versionEndIncluding": "8.12.7", "lastModified": "2024-02-08T03:00:23.113", "cpeLastModified": "2024-02-07T15:24:37.580", "created": "2024-02-07T15:24:37.580", "status": "Inactive"}}

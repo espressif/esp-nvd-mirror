@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "03C97350-61CB-47D2-A58B-CCB854EFD895", "criteria": "cpe:2.3:a:apache:spark:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.2.0", "versionEndExcluding": "2.2.3", "lastModified": "2024-06-08T02:01:01.957", "cpeLastModified": "2024-06-07T17:14:23.660", "created": "2024-06-07T17:14:23.660", "status": "Inactive"}}

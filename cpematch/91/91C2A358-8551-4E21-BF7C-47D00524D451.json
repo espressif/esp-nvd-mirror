@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "91C2A358-8551-4E21-BF7C-47D00524D451", "criteria": "cpe:2.3:a:sha512crypt_project:sha512crypt:*:*:*:*:*:*:*:*", "versionEndIncluding": "0.6", "lastModified": "2022-03-03T16:37:32.627", "cpeLastModified": "2022-03-03T16:43:28.087", "created": "2022-03-03T16:37:32.627", "status": "Active"}}

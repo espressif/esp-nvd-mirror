@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A5302364-97A9-470A-A2CE-B12B51DAF845", "criteria": "cpe:2.3:a:arista:terminattr:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.17.0", "versionEndExcluding": "1.19.2", "lastModified": "2022-06-08T13:04:07.653", "cpeLastModified": "2022-06-08T13:04:07.653", "created": "2022-06-08T13:04:07.653", "status": "Active"}}

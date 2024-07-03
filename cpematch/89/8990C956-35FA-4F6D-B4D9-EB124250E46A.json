@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8990C956-35FA-4F6D-B4D9-EB124250E46A", "criteria": "cpe:2.3:a:amazon:aws_workspaces:*:*:*:*:*:windows:*:*", "versionStartIncluding": "3.0.10", "versionEndExcluding": "3.1.9", "lastModified": "2021-09-30T16:34:09.780", "cpeLastModified": "2021-09-30T16:34:13.343", "created": "2021-09-30T16:34:09.780", "status": "Active"}}

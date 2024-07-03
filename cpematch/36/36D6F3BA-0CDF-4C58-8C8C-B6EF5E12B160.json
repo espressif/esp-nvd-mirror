@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "36D6F3BA-0CDF-4C58-8C8C-B6EF5E12B160", "criteria": "cpe:2.3:a:microsoft:azure_active_directory_connect:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.3.20.0", "versionEndIncluding": "1.6.4.0", "lastModified": "2021-08-18T22:51:24.920", "cpeLastModified": "2021-08-18T22:51:24.920", "created": "2021-08-18T22:51:24.920", "status": "Inactive"}}

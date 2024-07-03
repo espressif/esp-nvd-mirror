@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BF75E5AA-0858-416A-A1C7-3E04F93E8CD2", "criteria": "cpe:2.3:a:nomachine:enterprise_client:*:*:*:*:*:*:*:*", "versionStartExcluding": "4.0.346", "versionEndExcluding": "7.7.4", "lastModified": "2021-12-08T03:34:01.267", "cpeLastModified": "2021-12-08T16:30:24.510", "created": "2021-12-08T03:34:01.267", "status": "Active"}}

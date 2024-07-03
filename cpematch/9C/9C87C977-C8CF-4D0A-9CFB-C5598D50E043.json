@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9C87C977-C8CF-4D0A-9CFB-C5598D50E043", "criteria": "cpe:2.3:a:netapp:oncommand_system_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.7", "versionEndExcluding": "9.7p16", "lastModified": "2021-11-02T16:34:42.263", "created": "2021-11-02T16:34:42.263", "status": "Inactive"}}

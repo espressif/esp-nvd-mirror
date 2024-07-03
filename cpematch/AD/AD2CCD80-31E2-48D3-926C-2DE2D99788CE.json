@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AD2CCD80-31E2-48D3-926C-2DE2D99788CE", "criteria": "cpe:2.3:o:citrix:application_delivery_controller_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.0", "versionEndExcluding": "12.0-63.22", "lastModified": "2021-12-08T16:00:17.080", "created": "2021-12-08T16:00:17.080", "status": "Inactive"}}

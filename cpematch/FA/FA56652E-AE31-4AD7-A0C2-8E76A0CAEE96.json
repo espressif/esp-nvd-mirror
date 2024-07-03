@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FA56652E-AE31-4AD7-A0C2-8E76A0CAEE96", "criteria": "cpe:2.3:a:postgresql:pgjdbc:*:*:*:*:*:*:*:*", "versionStartIncluding": "42.3.0", "versionEndExcluding": "42.3.3", "lastModified": "2022-03-16T12:56:36.237", "cpeLastModified": "2022-03-30T17:14:22.033", "created": "2022-03-16T12:56:36.237", "status": "Inactive"}}

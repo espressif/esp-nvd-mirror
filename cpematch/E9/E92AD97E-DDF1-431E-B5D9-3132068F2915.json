@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E92AD97E-DDF1-431E-B5D9-3132068F2915", "criteria": "cpe:2.3:a:redhat:libvirtd:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.4.1", "lastModified": "2019-08-01T17:17:27.053", "cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-08-01T17:17:27.053", "status": "Active"}}

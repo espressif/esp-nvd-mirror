@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A3A8411B-EB2C-422C-BA70-ACF9ABF57F59", "criteria": "cpe:2.3:o:siemens:simatic_reader_rf685r_arib_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0", "versionEndExcluding": "4.0", "lastModified": "2022-04-28T14:48:31.520", "cpeLastModified": "2022-05-13T17:29:17.453", "created": "2022-04-28T14:48:31.520", "status": "Active"}}

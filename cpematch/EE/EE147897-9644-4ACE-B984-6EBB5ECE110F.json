@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EE147897-9644-4ACE-B984-6EBB5ECE110F", "criteria": "cpe:2.3:a:hcltech:hcl_domino:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.0.0", "versionEndExcluding": "11.0.1", "lastModified": "2020-12-01T18:46:24.823", "created": "2020-12-01T18:46:24.823", "status": "Active"}}

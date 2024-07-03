@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F9F29BA2-FF4A-45AE-8E51-65918EB46224", "criteria": "cpe:2.3:a:libp2p-deflate_project:libp2p-deflate:*:*:*:*:*:rust:*:*", "versionEndExcluding": "0.27.1", "lastModified": "2021-08-10T17:43:05.913", "created": "2021-08-10T17:43:05.913", "status": "Inactive"}}

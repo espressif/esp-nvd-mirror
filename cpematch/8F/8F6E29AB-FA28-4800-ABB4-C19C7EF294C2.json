@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8F6E29AB-FA28-4800-ABB4-C19C7EF294C2", "criteria": "cpe:2.3:a:shibboleth:oidc_op:*:*:*:*:identity_provider:*:*:*", "versionEndExcluding": "3.0.4", "lastModified": "2022-02-08T14:35:56.577", "created": "2022-02-08T14:35:56.577", "status": "Inactive"}}

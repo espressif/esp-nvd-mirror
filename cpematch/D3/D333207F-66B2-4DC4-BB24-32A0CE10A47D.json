@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D333207F-66B2-4DC4-BB24-32A0CE10A47D", "criteria": "cpe:2.3:a:intel:hid_event_filter_driver:*:*:*:*:*:windows:*:*", "versionEndExcluding": "2.2.2.1", "lastModified": "2023-11-20T17:20:26.790", "cpeLastModified": "2023-11-20T17:20:26.790", "created": "2023-11-20T17:20:26.790", "status": "Active"}}

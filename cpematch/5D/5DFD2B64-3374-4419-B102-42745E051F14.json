@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5DFD2B64-3374-4419-B102-42745E051F14", "criteria": "cpe:2.3:o:intel:server_platform_services_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "sps_soc-a_04.00.00.000.0", "versionEndExcluding": "sps_soc-a_04.00.04.191.0", "lastModified": "2019-12-31T18:28:19.407", "created": "2019-12-31T18:28:19.407", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "33FEECC6-DBCD-437A-80C0-72E52F3D0FB6", "criteria": "cpe:2.3:a:debian:apache2:*:squeeze10:*:*:*:*:*:*", "versionEndIncluding": "2.2.16-6", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-07-29T14:44:51.830", "created": "2019-06-17T09:16:33.960", "status": "Active"}}

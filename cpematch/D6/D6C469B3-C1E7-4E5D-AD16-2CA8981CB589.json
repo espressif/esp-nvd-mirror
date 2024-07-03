@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D6C469B3-C1E7-4E5D-AD16-2CA8981CB589", "criteria": "cpe:2.3:a:redhat:icedtea6:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.11.0", "versionEndExcluding": "1.11.3", "lastModified": "2022-11-08T19:34:39.890", "cpeLastModified": "2022-11-08T19:34:39.890", "created": "2022-11-08T19:34:39.890", "status": "Active"}}

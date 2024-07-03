@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E86DB2A1-FAA5-4A8E-AF5B-0549759CE42F", "criteria": "cpe:2.3:a:kubernetes:java:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.0.0", "versionEndIncluding": "11.0.1", "lastModified": "2021-10-12T17:43:57.700", "created": "2021-10-12T17:43:57.700", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A5FB7948-D4C7-4806-A707-B1F4FC340F97", "criteria": "cpe:2.3:a:redhat:coreos-installer:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.10.0", "lastModified": "2022-08-25T14:26:53.147", "cpeLastModified": "2022-08-25T14:26:53.147", "created": "2022-08-25T14:26:53.147", "status": "Active"}}

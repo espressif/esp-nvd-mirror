@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B6EFFE98-C633-4C31-9FDA-F88C4CE7A04B", "criteria": "cpe:2.3:a:codesys:control_for_beaglebone_sl:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.4.0.0", "versionEndExcluding": "4.5.0.0", "lastModified": "2022-05-12T13:07:15.203", "cpeLastModified": "2022-05-12T13:07:15.203", "created": "2022-05-12T13:07:15.203", "status": "Active"}}

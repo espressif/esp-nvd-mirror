@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "92FF887E-F119-413F-92F4-B9314C953F9B", "criteria": "cpe:2.3:a:fortinet:forticlient_enterprise_management_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.2.0", "versionEndExcluding": "7.2.3", "lastModified": "2024-05-24T02:00:25.910", "cpeLastModified": "2024-05-23T17:08:58.683", "created": "2024-05-23T17:08:58.683", "status": "Inactive"}}

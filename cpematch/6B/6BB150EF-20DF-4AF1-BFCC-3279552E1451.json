@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6BB150EF-20DF-4AF1-BFCC-3279552E1451", "criteria": "cpe:2.3:o:hikvision:ds-7604ni-q1_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.30.210", "versionEndIncluding": "4.31.000", "lastModified": "2021-10-12T14:50:54.567", "cpeLastModified": "2021-10-15T17:12:55.180", "created": "2021-10-12T14:50:54.567", "status": "Active"}}

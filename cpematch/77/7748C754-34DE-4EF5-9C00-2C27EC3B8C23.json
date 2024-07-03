@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7748C754-34DE-4EF5-9C00-2C27EC3B8C23", "criteria": "cpe:2.3:a:libp2p:libp2p:*:*:*:*:*:rust:*:*", "versionEndExcluding": "0.45.1", "lastModified": "2022-12-10T03:00:12.747", "cpeLastModified": "2022-12-09T13:59:49.453", "created": "2022-12-09T13:59:49.453", "status": "Inactive"}}

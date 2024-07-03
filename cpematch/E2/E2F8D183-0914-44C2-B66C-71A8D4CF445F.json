@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E2F8D183-0914-44C2-B66C-71A8D4CF445F", "criteria": "cpe:2.3:a:cisco:email_security_appliance:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.5.1", "versionEndExcluding": "14.0.3-015", "lastModified": "2022-11-08T03:00:12.663", "cpeLastModified": "2022-11-07T11:53:31.083", "created": "2022-11-07T11:53:31.083", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F49BB419-7967-4B5D-8D3D-579F8AA952EC", "criteria": "cpe:2.3:a:ibm:websphere_application_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.5.0.0", "versionEndIncluding": "8.5.5.23", "lastModified": "2023-05-23T02:00:12.143", "cpeLastModified": "2023-05-20T03:20:57.833", "created": "2023-05-02T20:09:18.460", "status": "Inactive"}}

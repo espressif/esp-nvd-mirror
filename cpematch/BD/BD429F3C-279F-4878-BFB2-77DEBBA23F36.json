@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BD429F3C-279F-4878-BFB2-77DEBBA23F36", "criteria": "cpe:2.3:a:cisco:sd-wan:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.5.0", "versionEndExcluding": "20.5.1", "lastModified": "2021-07-23T16:57:48.290", "created": "2021-07-23T16:57:48.290", "status": "Inactive"}}

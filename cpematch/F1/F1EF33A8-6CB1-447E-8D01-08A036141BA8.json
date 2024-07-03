@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F1EF33A8-6CB1-447E-8D01-08A036141BA8", "criteria": "cpe:2.3:a:eset:server_security:*:*:*:*:*:linux_kernel:*:*", "versionStartIncluding": "8.0.375.0", "versionEndIncluding": "8.1.813.0", "lastModified": "2022-03-08T15:28:14.530", "cpeLastModified": "2022-03-08T15:28:23.190", "created": "2022-03-08T15:28:14.530", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F7BA77AA-AED6-495F-B143-688EE57C4CB9", "criteria": "cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:*:*:*:*:*:wordpress:*:*", "versionEndExcluding": "4.0.72", "lastModified": "2022-07-02T03:31:29.557", "cpeLastModified": "2022-07-02T03:31:29.557", "created": "2022-07-02T03:31:29.557", "status": "Inactive"}}

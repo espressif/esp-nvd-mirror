@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2BE35F72-16D9-4207-A751-D44014BD8009", "criteria": "cpe:2.3:a:cpanel:cpanel:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.94.0.0", "versionEndExcluding": "11.94.0.13", "lastModified": "2021-08-20T19:09:00.160", "cpeLastModified": "2021-08-20T19:13:00.843", "created": "2021-08-20T19:09:00.160", "status": "Active"}}

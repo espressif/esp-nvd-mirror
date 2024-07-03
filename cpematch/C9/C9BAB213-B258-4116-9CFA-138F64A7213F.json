@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C9BAB213-B258-4116-9CFA-138F64A7213F", "criteria": "cpe:2.3:a:envoyproxy:envoy:*:*:*:*:*:*:*:*", "versionEndIncluding": "1.17.1", "lastModified": "2021-05-26T15:52:10.340", "cpeLastModified": "2021-08-30T12:41:41.320", "created": "2021-05-26T15:52:10.340", "status": "Inactive"}}

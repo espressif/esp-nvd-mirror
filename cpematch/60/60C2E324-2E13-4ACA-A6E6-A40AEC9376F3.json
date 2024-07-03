@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "60C2E324-2E13-4ACA-A6E6-A40AEC9376F3", "criteria": "cpe:2.3:a:ezsystems:ezplatform-http-cache-fastly:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.0", "versionEndExcluding": "1.1.9", "lastModified": "2023-03-16T02:00:17.643", "cpeLastModified": "2023-03-15T16:30:16.330", "created": "2023-03-15T16:23:40.147", "status": "Inactive"}}

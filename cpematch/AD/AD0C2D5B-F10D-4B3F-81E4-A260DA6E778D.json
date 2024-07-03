@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AD0C2D5B-F10D-4B3F-81E4-A260DA6E778D", "criteria": "cpe:2.3:a:opswat:media_validation_agent:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.0.7", "lastModified": "2023-09-29T17:59:19.623", "cpeLastModified": "2023-09-29T17:59:19.623", "created": "2023-09-29T17:59:19.623", "status": "Active"}}

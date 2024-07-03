@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9E0D4B27-99B3-45B7-9289-8AFD05A65591", "criteria": "cpe:2.3:a:cisco:unified_threat_defense:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.12", "versionEndExcluding": "6.12.6", "lastModified": "2021-10-28T18:03:22.977", "created": "2021-10-28T18:03:22.977", "status": "Inactive"}}

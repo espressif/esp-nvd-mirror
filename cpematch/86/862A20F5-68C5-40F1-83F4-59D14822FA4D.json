@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "862A20F5-68C5-40F1-83F4-59D14822FA4D", "criteria": "cpe:2.3:a:lightbend:play_framework:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.8.3", "versionEndExcluding": "2.8.16", "lastModified": "2022-06-09T14:32:12.750", "cpeLastModified": "2022-06-09T14:32:12.750", "created": "2022-06-09T14:32:12.750", "status": "Inactive"}}

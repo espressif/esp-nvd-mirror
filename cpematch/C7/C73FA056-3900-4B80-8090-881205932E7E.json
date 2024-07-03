@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C73FA056-3900-4B80-8090-881205932E7E", "criteria": "cpe:2.3:o:siemens:cpu_1516f-3_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5", "versionEndExcluding": "2.9.2.", "lastModified": "2021-08-19T18:18:29.290", "cpeLastModified": "2021-08-20T18:56:05.673", "created": "2021-08-19T18:18:29.290", "status": "Active"}}

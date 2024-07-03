@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BE62D940-6760-40D9-A5FA-113872E663BA", "criteria": "cpe:2.3:a:apache:xerces-c\\+\\+:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndIncluding": "3.2.2", "lastModified": "2023-02-05T21:10:03.387", "cpeLastModified": "2023-02-05T21:10:03.387", "created": "2023-02-05T21:10:03.387", "status": "Inactive"}}

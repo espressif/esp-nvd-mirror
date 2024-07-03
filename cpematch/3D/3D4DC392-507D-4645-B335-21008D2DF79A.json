@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3D4DC392-507D-4645-B335-21008D2DF79A", "criteria": "cpe:2.3:a:ibm:gpfs.tct.server:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.1.0", "versionEndIncluding": "1.1.8.4", "lastModified": "2021-05-25T12:48:10.293", "cpeLastModified": "2021-05-25T12:49:19.753", "created": "2021-05-25T12:48:10.293", "status": "Inactive"}}

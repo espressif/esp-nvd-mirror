@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3BC2C971-8105-459B-AA0C-A028882AE46E", "criteria": "cpe:2.3:a:vmware:view_planner:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0", "versionEndExcluding": "4.6", "lastModified": "2021-03-04T13:15:51.433", "created": "2021-03-04T13:15:51.433", "status": "Active"}}

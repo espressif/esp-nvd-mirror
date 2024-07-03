@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "20242FEF-ED7B-403A-8213-9E2267A713E8", "criteria": "cpe:2.3:a:haxx:curl:*:*:*:*:*:*:*:*", "versionStartExcluding": "7.84.0", "versionEndIncluding": "8.4.0", "lastModified": "2023-12-15T03:00:23.720", "cpeLastModified": "2023-12-14T21:20:37.673", "created": "2023-12-14T21:20:37.673", "status": "Inactive"}}

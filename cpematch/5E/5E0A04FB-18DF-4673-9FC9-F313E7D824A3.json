@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5E0A04FB-18DF-4673-9FC9-F313E7D824A3", "criteria": "cpe:2.3:o:cisco:meraki_mx_security_appliance_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "15.0", "versionEndExcluding": "16.6.7", "lastModified": "2022-11-21T16:08:40.650", "cpeLastModified": "2022-11-21T16:01:44.630", "created": "2022-11-21T16:01:44.630", "status": "Inactive"}}

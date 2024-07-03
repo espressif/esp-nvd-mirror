@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C2C68323-F23A-4A99-BC59-E0B12E610ECD", "criteria": "cpe:2.3:a:citrix:sharefile_storage_zones_controller:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.7", "versionEndExcluding": "5.7.3", "lastModified": "2021-06-03T15:44:30.430", "cpeLastModified": "2021-06-03T15:46:52.110", "created": "2021-06-03T15:44:30.430", "status": "Active"}}

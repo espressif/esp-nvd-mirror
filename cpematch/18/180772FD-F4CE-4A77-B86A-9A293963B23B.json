@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "180772FD-F4CE-4A77-B86A-9A293963B23B", "criteria": "cpe:2.3:a:ibm:cloud_orchestrator_enterprise:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5", "versionEndIncluding": "2.5.0.9", "lastModified": "2019-10-25T16:43:51.690", "created": "2019-10-25T16:43:51.690", "status": "Active"}}

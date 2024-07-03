@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "751F9EB8-FE3C-4162-9C1F-FE61D8BF0A55", "criteria": "cpe:2.3:a:redhat:fedora_coreos:*:*:*:*:*:*:*:*", "versionStartIncluding": "36.20220820.3.0", "versionEndIncluding": "36.20221030.3.0", "lastModified": "2022-11-04T11:56:30.183", "cpeLastModified": "2022-11-04T11:51:11.077", "created": "2022-11-04T11:51:11.077", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "64139E32-9B40-4E32-9BE6-8FB7351920A5", "criteria": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.0", "versionEndExcluding": "13.0", "lastModified": "2022-11-10T03:00:51.317", "cpeLastModified": "2022-11-08T18:52:35.067", "created": "2022-11-08T18:52:35.067", "status": "Inactive"}}

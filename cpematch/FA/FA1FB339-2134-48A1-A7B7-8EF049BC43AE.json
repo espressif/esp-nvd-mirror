@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FA1FB339-2134-48A1-A7B7-8EF049BC43AE", "criteria": "cpe:2.3:a:fsevents_project:fsevents:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "1.2.11", "lastModified": "2023-10-15T17:07:32.837", "cpeLastModified": "2023-10-15T17:07:32.837", "created": "2023-10-15T17:07:32.837", "status": "Active"}}

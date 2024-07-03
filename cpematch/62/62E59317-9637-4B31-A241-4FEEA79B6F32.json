@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "62E59317-9637-4B31-A241-4FEEA79B6F32", "criteria": "cpe:2.3:a:protocol:go-codec-dagpb:*:*:*:*:go:*:*:*", "versionEndExcluding": "2022-03-16", "lastModified": "2023-01-05T03:00:11.633", "cpeLastModified": "2023-01-04T19:15:34.083", "created": "2023-01-04T19:15:34.083", "status": "Inactive"}}

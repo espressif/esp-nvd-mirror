@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EAFDE7AE-B2FB-4A10-86B7-95699A78C01C", "criteria": "cpe:2.3:o:broadcom:fabric_operating_system:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.2.0cbn4", "lastModified": "2021-08-23T14:54:16.140", "created": "2021-08-23T14:54:16.140", "status": "Inactive"}}

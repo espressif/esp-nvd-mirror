@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "76C885A0-06D7-4573-97BA-FBCA7653F008", "criteria": "cpe:2.3:a:microsoft:azure_storage_blobs:*:*:*:*:*:.net:*:*", "versionEndExcluding": "12.13.0", "lastModified": "2022-07-19T14:53:59.460", "cpeLastModified": "2022-07-19T14:53:59.460", "created": "2022-07-19T14:53:59.460", "status": "Active"}}

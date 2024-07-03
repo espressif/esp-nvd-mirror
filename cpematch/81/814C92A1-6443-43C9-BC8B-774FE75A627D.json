@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "814C92A1-6443-43C9-BC8B-774FE75A627D", "criteria": "cpe:2.3:a:gitlab:omnibus:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.4.0", "versionEndExcluding": "12.0.8", "lastModified": "2019-09-17T20:06:41.717", "created": "2019-09-17T20:06:41.717", "status": "Active"}}

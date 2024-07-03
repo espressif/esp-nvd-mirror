@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0EAD1166-5C25-41C5-B9F3-BFB1E7EF08E6", "criteria": "cpe:2.3:a:ivanti:policy_secure:*:*:*:*:*:*:*:*", "versionStartIncluding": "22.0", "versionEndExcluding": "22.3", "lastModified": "2022-12-09T03:00:10.387", "cpeLastModified": "2022-12-08T15:02:00.573", "created": "2022-12-08T15:02:00.573", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B8B711CD-F826-46D0-AD7C-DCAF85F594E9", "criteria": "cpe:2.3:a:zabbix:zabbix-agent2:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.2.0", "versionEndExcluding": "6.2.6", "lastModified": "2022-12-17T14:07:01.350", "cpeLastModified": "2022-12-17T14:07:01.350", "created": "2022-12-17T14:07:01.350", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "188945D9-7BE7-4077-AB71-CEE8CD01B974", "criteria": "cpe:2.3:a:chat_server_project:chat_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.3.2", "versionEndExcluding": "2.6.0", "lastModified": "2022-06-08T13:14:40.797", "cpeLastModified": "2022-06-08T13:14:40.797", "created": "2022-06-08T13:14:40.797", "status": "Active"}}

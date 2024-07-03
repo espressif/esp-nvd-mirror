@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D57C6EB7-AF27-4FEF-9202-4235D28CEA9B", "criteria": "cpe:2.3:a:codesys:control_for_raspberry_pi_sl:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.4.0.0", "versionEndExcluding": "4.5.0.0", "lastModified": "2022-05-12T13:07:15.203", "cpeLastModified": "2022-05-12T13:07:15.203", "created": "2022-05-12T13:07:15.203", "status": "Active"}}

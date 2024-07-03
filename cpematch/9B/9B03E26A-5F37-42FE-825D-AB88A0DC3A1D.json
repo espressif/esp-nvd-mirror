@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9B03E26A-5F37-42FE-825D-AB88A0DC3A1D", "criteria": "cpe:2.3:a:f5:big-ip_application_security_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "15.0.0", "versionEndExcluding": "15.1.4", "lastModified": "2022-01-31T16:53:43.497", "created": "2022-01-31T16:53:43.497", "status": "Inactive"}}

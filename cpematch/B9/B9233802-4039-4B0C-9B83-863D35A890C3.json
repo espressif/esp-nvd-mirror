@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B9233802-4039-4B0C-9B83-863D35A890C3", "criteria": "cpe:2.3:a:fastify:bearer-auth:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "7.0.2", "versionEndExcluding": "8.0.0", "lastModified": "2022-07-20T11:29:40.837", "cpeLastModified": "2022-07-20T11:29:40.837", "created": "2022-07-20T11:29:40.837", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "31691FCD-854D-4ED7-AA21-68E48A49174D", "criteria": "cpe:2.3:a:google:bazel:*:*:*:*:*:visual_studio:*:*", "versionStartIncluding": "3.1.0", "versionEndExcluding": "4.2.3", "lastModified": "2022-10-28T17:50:59.330", "cpeLastModified": "2022-10-28T17:50:59.330", "created": "2022-10-28T17:50:59.330", "status": "Active"}}

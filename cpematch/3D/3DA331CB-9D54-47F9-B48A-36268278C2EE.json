@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3DA331CB-9D54-47F9-B48A-36268278C2EE", "criteria": "cpe:2.3:o:cisco:firepower_threat_defense:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.5.0", "versionEndExcluding": "6.6.4", "lastModified": "2024-07-23T13:54:02.720", "cpeLastModified": "2024-07-23T13:54:02.720", "created": "2024-07-23T13:54:02.720", "status": "Active"}}

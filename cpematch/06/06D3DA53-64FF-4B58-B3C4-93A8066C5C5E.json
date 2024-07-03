@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "06D3DA53-64FF-4B58-B3C4-93A8066C5C5E", "criteria": "cpe:2.3:a:containerd:imgcrypt:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.1.4", "lastModified": "2022-04-05T15:04:58.400", "cpeLastModified": "2022-04-07T15:51:12.673", "created": "2022-04-05T15:04:58.400", "status": "Active"}}

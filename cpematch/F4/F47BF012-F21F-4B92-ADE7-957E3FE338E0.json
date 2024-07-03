@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F47BF012-F21F-4B92-ADE7-957E3FE338E0", "criteria": "cpe:2.3:a:apache:xml_graphics_batik:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0", "versionEndIncluding": "1.16", "lastModified": "2023-08-25T15:56:19.697", "cpeLastModified": "2023-08-25T15:56:19.697", "created": "2023-08-25T15:56:19.697", "status": "Active"}}

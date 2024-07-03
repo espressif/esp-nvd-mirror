@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9F2E8912-8429-407C-B36D-41D50B4E97D8", "criteria": "cpe:2.3:a:vmware:aria_operations_for_networks:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.0", "versionEndIncluding": "6.10.0", "lastModified": "2024-06-27T02:00:56.250", "cpeLastModified": "2024-06-26T11:40:36.360", "created": "2024-06-26T11:40:36.360", "status": "Inactive"}}

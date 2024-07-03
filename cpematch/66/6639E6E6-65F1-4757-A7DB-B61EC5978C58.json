@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6639E6E6-65F1-4757-A7DB-B61EC5978C58", "criteria": "cpe:2.3:a:microsoft:identitymodel_extensions:*:*:*:*:*:.net:*:*", "versionStartIncluding": "7.0.0", "versionEndExcluding": "7.1.2", "lastModified": "2024-01-17T17:37:40.697", "cpeLastModified": "2024-01-17T17:37:40.697", "created": "2024-01-17T17:37:40.697", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2113F11E-F789-4038-91A8-7D4DEBAB958C", "criteria": "cpe:2.3:a:realtek:hda_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "8155", "versionEndIncluding": "9150", "lastModified": "2021-07-07T18:28:47.317", "cpeLastModified": "2021-09-20T12:29:17.977", "created": "2021-07-07T18:28:47.317", "status": "Active"}}

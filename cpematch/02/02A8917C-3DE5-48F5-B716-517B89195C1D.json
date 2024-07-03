@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "02A8917C-3DE5-48F5-B716-517B89195C1D", "criteria": "cpe:2.3:a:sonicwall:global_vpn_client:*:*:*:*:*:*:x86:*", "versionEndIncluding": "4.10.6", "lastModified": "2021-12-10T15:11:25.697", "cpeLastModified": "2021-12-10T15:16:37.173", "created": "2021-12-10T15:11:25.697", "status": "Active"}}

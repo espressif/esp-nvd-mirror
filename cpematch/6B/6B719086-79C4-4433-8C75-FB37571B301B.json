@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6B719086-79C4-4433-8C75-FB37571B301B", "criteria": "cpe:2.3:a:peteroupc:cbor:*:*:*:*:*:net:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.5.1", "lastModified": "2024-01-11T17:48:16.140", "cpeLastModified": "2024-01-11T19:58:43.837", "created": "2024-01-11T17:48:16.140", "status": "Active"}}

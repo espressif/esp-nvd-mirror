@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5228AB79-AFF1-4B2D-BB60-62D180F6D83B", "criteria": "cpe:2.3:a:microsoft:azure_diagnostics:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0", "versionEndExcluding": "4.0.27", "lastModified": "2022-06-22T15:11:59.217", "cpeLastModified": "2022-06-22T15:11:59.217", "created": "2022-06-22T15:11:59.217", "status": "Active"}}

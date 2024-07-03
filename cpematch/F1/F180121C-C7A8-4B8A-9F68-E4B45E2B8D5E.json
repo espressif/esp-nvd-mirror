@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F180121C-C7A8-4B8A-9F68-E4B45E2B8D5E", "criteria": "cpe:2.3:a:snyk:cli:*:*:*:*:*:docker:*:*", "versionEndExcluding": "5.6.5", "lastModified": "2022-12-02T03:00:12.867", "cpeLastModified": "2022-12-01T15:48:11.493", "created": "2022-12-01T15:48:11.493", "status": "Inactive"}}

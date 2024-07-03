@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "34656ECE-15CB-495C-8573-7C98B383F15B", "criteria": "cpe:2.3:a:oracle:timesten_in-memory_database:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.0.0", "versionEndExcluding": "21.1.1.1.0", "lastModified": "2022-02-14T17:04:26.300", "cpeLastModified": "2022-02-20T06:22:53.880", "created": "2022-02-14T17:04:26.300", "status": "Active"}}

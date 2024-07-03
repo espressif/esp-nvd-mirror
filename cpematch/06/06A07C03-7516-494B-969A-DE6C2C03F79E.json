@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "06A07C03-7516-494B-969A-DE6C2C03F79E", "criteria": "cpe:2.3:a:ca:network_flow_analysis:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.3.1", "versionEndIncluding": "9.5.0", "lastModified": "2019-10-06T21:11:39.970", "cpeLastModified": "2021-04-09T17:43:41.707", "created": "2019-10-06T21:11:39.970", "status": "Inactive"}}

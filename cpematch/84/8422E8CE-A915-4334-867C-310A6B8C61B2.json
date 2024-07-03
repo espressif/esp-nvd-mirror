@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8422E8CE-A915-4334-867C-310A6B8C61B2", "criteria": "cpe:2.3:a:citrix:access_gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.1", "versionEndExcluding": "12.1-61.18", "lastModified": "2021-06-23T13:05:21.423", "cpeLastModified": "2021-06-23T13:46:10.840", "created": "2021-06-23T13:05:21.423", "status": "Inactive"}}

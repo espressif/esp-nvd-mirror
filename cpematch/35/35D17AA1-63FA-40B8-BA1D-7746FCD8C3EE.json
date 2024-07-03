@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "35D17AA1-63FA-40B8-BA1D-7746FCD8C3EE", "criteria": "cpe:2.3:a:tenancy:multi-tenant:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.7.0", "versionEndExcluding": "5.7.2", "lastModified": "2021-06-04T16:30:49.340", "cpeLastModified": "2021-06-04T16:34:23.270", "created": "2021-06-04T16:30:49.340", "status": "Inactive"}}

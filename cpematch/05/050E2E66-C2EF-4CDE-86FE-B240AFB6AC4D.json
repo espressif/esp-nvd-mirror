@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "050E2E66-C2EF-4CDE-86FE-B240AFB6AC4D", "criteria": "cpe:2.3:a:jumpserver_project:jumpserver:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.6.0", "versionEndExcluding": "2.6.2", "lastModified": "2021-07-29T18:00:23.017", "created": "2021-07-29T18:00:23.017", "status": "Inactive"}}

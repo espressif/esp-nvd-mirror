@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "37D0BC79-E23A-4982-8A7A-F292F79A3621", "criteria": "cpe:2.3:a:microsoft:azure_pipelines_agent:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.39.1", "lastModified": "2023-11-21T14:52:09.503", "cpeLastModified": "2023-11-21T14:52:09.503", "created": "2023-11-21T14:52:09.503", "status": "Active"}}

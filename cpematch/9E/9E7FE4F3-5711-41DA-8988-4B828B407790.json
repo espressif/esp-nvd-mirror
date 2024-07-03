@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9E7FE4F3-5711-41DA-8988-4B828B407790", "criteria": "cpe:2.3:a:zeit:next.js:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "9.5.0", "versionEndExcluding": "9.5.4", "lastModified": "2020-10-19T15:03:47.097", "created": "2020-10-19T15:03:47.097", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "938AFC99-6D58-47A8-92C9-95C484961492", "criteria": "cpe:2.3:a:ca:release_automation:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.3", "versionEndExcluding": "6.3.0.9945", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-04-12T14:14:27.107", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

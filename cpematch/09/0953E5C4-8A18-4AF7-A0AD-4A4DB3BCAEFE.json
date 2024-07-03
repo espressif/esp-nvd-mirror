@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0953E5C4-8A18-4AF7-A0AD-4A4DB3BCAEFE", "criteria": "cpe:2.3:a:codesys:opc_da_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.5.18.20", "lastModified": "2022-07-15T14:53:31.260", "cpeLastModified": "2022-07-15T14:53:31.260", "created": "2022-07-15T14:53:31.260", "status": "Active"}}

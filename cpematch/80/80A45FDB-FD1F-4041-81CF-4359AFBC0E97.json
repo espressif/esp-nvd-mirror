@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "80A45FDB-FD1F-4041-81CF-4359AFBC0E97", "criteria": "cpe:2.3:a:ibm:notes:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "10.0.1", "lastModified": "2022-12-20T19:55:29.247", "cpeLastModified": "2022-12-20T19:55:29.247", "created": "2022-12-20T19:55:29.247", "status": "Active"}}

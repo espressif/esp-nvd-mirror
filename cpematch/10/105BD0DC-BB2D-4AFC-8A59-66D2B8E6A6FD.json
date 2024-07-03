@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "105BD0DC-BB2D-4AFC-8A59-66D2B8E6A6FD", "criteria": "cpe:2.3:a:tensorflow:tensorflow:*:*:*:*:lite:*:*:*", "versionStartIncluding": "2.1.0", "versionEndExcluding": "2.1.2", "lastModified": "2020-09-29T11:36:48.557", "cpeLastModified": "2021-08-17T13:19:31.927", "created": "2020-09-29T11:36:48.557", "status": "Inactive"}}

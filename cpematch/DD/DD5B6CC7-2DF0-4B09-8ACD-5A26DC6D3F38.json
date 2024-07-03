@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DD5B6CC7-2DF0-4B09-8ACD-5A26DC6D3F38", "criteria": "cpe:2.3:a:mbsync_project:mbsync:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.4.0", "versionEndExcluding": "1.4.1", "lastModified": "2021-02-24T16:09:21.567", "cpeLastModified": "2022-07-01T15:15:07.380", "created": "2021-02-24T16:09:21.567", "status": "Active"}}

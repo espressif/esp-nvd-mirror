@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CF6BDAA2-24BE-434F-ADB8-5D9C72922B7C", "criteria": "cpe:2.3:a:ibexa:ezplatform-graphql:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.3.0", "versionEndExcluding": "2.3.12", "lastModified": "2022-11-16T03:00:13.270", "cpeLastModified": "2022-11-15T20:08:58.380", "created": "2022-11-15T20:08:58.380", "status": "Inactive"}}

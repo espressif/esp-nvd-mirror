@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D0A4772F-7B6B-4A7C-BD9D-922CD44A8228", "criteria": "cpe:2.3:a:cncf:cni_network_plugins:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.8.6", "lastModified": "2023-03-15T02:00:17.627", "cpeLastModified": "2023-03-14T15:35:34.180", "created": "2020-06-04T16:25:30.713", "status": "Inactive"}}

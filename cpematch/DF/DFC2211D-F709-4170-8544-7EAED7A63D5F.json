@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DFC2211D-F709-4170-8544-7EAED7A63D5F", "criteria": "cpe:2.3:a:cisco:sd-wan_vmanage:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.6", "versionEndExcluding": "20.6.1", "lastModified": "2023-10-17T02:01:02.910", "cpeLastModified": "2023-10-16T16:35:23.810", "created": "2021-09-28T14:09:42.253", "status": "Inactive"}}

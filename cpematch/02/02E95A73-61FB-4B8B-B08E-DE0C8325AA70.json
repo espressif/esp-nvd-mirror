@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "02E95A73-61FB-4B8B-B08E-DE0C8325AA70", "criteria": "cpe:2.3:a:nextcloud:contacts:*:*:*:*:*:*:*:*", "versionStartIncluding": "5..0.0", "versionEndExcluding": "5.0.3", "lastModified": "2023-06-05T16:29:30.287", "cpeLastModified": "2023-06-05T16:29:30.287", "created": "2023-06-05T16:29:30.287", "status": "Active"}}

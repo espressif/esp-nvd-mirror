@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9833834E-EB33-48D7-BD41-8BE3DBCF88E8", "criteria": "cpe:2.3:a:atlassian:service_management_data_center:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.2", "versionEndExcluding": "4.5.16", "lastModified": "2021-08-11T16:50:30.437", "cpeLastModified": "2022-03-30T13:29:49.960", "created": "2021-08-11T16:50:30.437", "status": "Active"}}

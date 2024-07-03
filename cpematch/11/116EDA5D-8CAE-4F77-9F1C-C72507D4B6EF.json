@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "116EDA5D-8CAE-4F77-9F1C-C72507D4B6EF", "criteria": "cpe:2.3:a:cisco:jabber:*:*:*:*:*:macos:*:*", "versionStartIncluding": "12.5.0", "versionEndExcluding": "12.5.4", "lastModified": "2021-03-26T15:36:31.453", "created": "2021-03-26T15:36:31.453", "status": "Inactive"}}

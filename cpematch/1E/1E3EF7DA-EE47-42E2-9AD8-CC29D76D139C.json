@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1E3EF7DA-EE47-42E2-9AD8-CC29D76D139C", "criteria": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:windows:*:*", "versionStartIncluding": "6.2.0", "versionEndIncluding": "6.2.8", "lastModified": "2021-12-02T15:16:32.173", "created": "2021-12-02T15:16:32.173", "status": "Inactive"}}

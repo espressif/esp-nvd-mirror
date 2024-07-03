@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "368A31E7-06F9-48BD-91F7-DF6E83A0CA2F", "criteria": "cpe:2.3:a:hcltech:hcl_launch_container_image:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.1.0.0", "versionEndExcluding": "7.1.0.1", "lastModified": "2022-11-01T19:08:28.970", "cpeLastModified": "2022-11-01T19:08:28.970", "created": "2022-11-01T19:08:28.970", "status": "Active"}}

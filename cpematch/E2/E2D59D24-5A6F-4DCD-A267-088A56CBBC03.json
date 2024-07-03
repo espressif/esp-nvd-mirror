@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E2D59D24-5A6F-4DCD-A267-088A56CBBC03", "criteria": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.1.0.8", "versionEndIncluding": "13.1.4", "lastModified": "2021-05-20T22:02:09.307", "cpeLastModified": "2021-05-20T22:02:09.307", "created": "2021-05-20T22:02:09.307", "status": "Inactive"}}

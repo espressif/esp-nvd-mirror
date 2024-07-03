@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "60CD3395-8839-4682-B0AB-3014302A92DC", "criteria": "cpe:2.3:a:bitdefender:endpoint_security_tools:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.6.27.0", "versionEndExcluding": "6.6.27.390", "lastModified": "2021-11-29T15:56:47.990", "cpeLastModified": "2021-11-29T16:05:39.020", "created": "2021-11-29T15:56:47.990", "status": "Active"}}

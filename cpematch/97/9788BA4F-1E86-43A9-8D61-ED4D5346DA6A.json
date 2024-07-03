@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9788BA4F-1E86-43A9-8D61-ED4D5346DA6A", "criteria": "cpe:2.3:a:snyk:golang_cli:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.19.1", "lastModified": "2022-10-05T17:08:25.227", "cpeLastModified": "2022-10-05T17:08:25.227", "created": "2022-10-05T17:08:25.227", "status": "Active"}}

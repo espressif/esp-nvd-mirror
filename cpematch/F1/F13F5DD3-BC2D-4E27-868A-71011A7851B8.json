@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F13F5DD3-BC2D-4E27-868A-71011A7851B8", "criteria": "cpe:2.3:a:snyk:cli:*:*:*:*:*:maven:*:*", "versionEndExcluding": "2.31.3", "lastModified": "2022-12-02T03:00:12.867", "cpeLastModified": "2022-12-01T15:38:55.133", "created": "2022-12-01T15:38:55.133", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F1CD3AAE-04C8-4032-BB8E-3F4651793A1C", "criteria": "cpe:2.3:o:arubanetworks:aos-cx_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.05.0000", "versionEndExcluding": "10.05.0070", "lastModified": "2021-08-06T15:07:06.420", "created": "2021-08-06T15:07:06.420", "status": "Active"}}

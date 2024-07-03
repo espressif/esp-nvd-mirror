@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A6DF3630-82F0-4917-B4CD-8B93EE5DF79B", "criteria": "cpe:2.3:a:nextcloud:openid_connect_user_backend:*:*:*:*:*:nextcloud:*:*", "versionEndExcluding": "1.2.1", "lastModified": "2022-12-01T20:42:18.607", "cpeLastModified": "2022-12-01T20:41:38.433", "created": "2022-12-01T20:41:38.433", "status": "Active"}}

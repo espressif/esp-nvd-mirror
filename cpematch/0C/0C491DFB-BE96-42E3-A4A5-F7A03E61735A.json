@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0C491DFB-BE96-42E3-A4A5-F7A03E61735A", "criteria": "cpe:2.3:a:elastic:apm_agent:*:*:*:*:*:java:*:*", "versionStartIncluding": "1.10.0", "versionEndIncluding": "1.26.0", "lastModified": "2021-12-13T17:26:21.873", "cpeLastModified": "2021-12-14T00:23:18.090", "created": "2021-12-13T17:26:21.873", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2FE090EB-9367-4D6E-BECC-A09A2BAB05C7", "criteria": "cpe:2.3:o:cisco:cbs25048t-4x_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5", "versionEndExcluding": "2.5.9.54", "lastModified": "2024-02-03T03:00:23.723", "cpeLastModified": "2024-02-02T15:19:06.583", "created": "2024-02-02T15:19:06.583", "status": "Inactive"}}

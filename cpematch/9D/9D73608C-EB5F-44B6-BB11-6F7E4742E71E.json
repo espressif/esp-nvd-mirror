@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9D73608C-EB5F-44B6-BB11-6F7E4742E71E", "criteria": "cpe:2.3:o:zyxel:zywall_atp500_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.10", "versionEndExcluding": "5.37", "lastModified": "2023-07-26T16:18:49.370", "cpeLastModified": "2023-07-26T16:18:49.370", "created": "2023-07-26T16:18:49.370", "status": "Active"}}

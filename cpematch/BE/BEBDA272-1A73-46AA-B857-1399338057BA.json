@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BEBDA272-1A73-46AA-B857-1399338057BA", "criteria": "cpe:2.3:a:apache:activemq:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.18.0", "versionEndIncluding": "5.18.3", "lastModified": "2023-11-03T15:41:40.603", "cpeLastModified": "2023-11-03T15:36:50.960", "created": "2023-11-03T15:36:50.960", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "416F7C96-3EF0-4B6D-B414-3FC0D0848144", "criteria": "cpe:2.3:a:cisco:integrated_management_controller_supervisor:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0.0", "versionEndExcluding": "2.0\\(13o\\)", "lastModified": "2019-08-27T15:25:58.787", "created": "2019-08-27T15:25:58.787", "status": "Active"}}

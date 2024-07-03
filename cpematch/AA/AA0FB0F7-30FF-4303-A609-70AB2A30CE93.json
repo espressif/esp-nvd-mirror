@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AA0FB0F7-30FF-4303-A609-70AB2A30CE93", "criteria": "cpe:2.3:a:d-bus_project:d-bus:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.13.0", "versionEndExcluding": "1.14.4", "lastModified": "2023-12-28T03:00:22.330", "cpeLastModified": "2023-12-27T16:36:56.510", "created": "2022-10-11T15:05:06.827", "status": "Inactive"}}

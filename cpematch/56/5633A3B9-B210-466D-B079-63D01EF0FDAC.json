@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5633A3B9-B210-466D-B079-63D01EF0FDAC", "criteria": "cpe:2.3:a:ibm:robotic_process_automation_for_cloud_pak:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.0.0", "versionEndExcluding": "21.0.7", "lastModified": "2023-08-26T02:00:32.713", "cpeLastModified": "2023-08-25T19:01:25.753", "created": "2023-08-25T19:01:25.753", "status": "Inactive"}}

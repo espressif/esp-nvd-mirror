@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "102525DF-5B36-479E-A9C6-B0169D9D9D36", "criteria": "cpe:2.3:a:ironmansoftware:powershell_universal:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "3.4.7", "lastModified": "2022-11-17T03:00:12.800", "cpeLastModified": "2022-11-15T19:29:02.347", "created": "2022-11-15T19:29:02.347", "status": "Inactive"}}

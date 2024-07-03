@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C25424A1-853F-4CA7-8D14-E72430069CBF", "criteria": "cpe:2.3:a:vmware:single_sign-on_for_tanzu:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.11.3", "lastModified": "2020-11-07T02:27:34.227", "created": "2020-11-07T02:27:34.227", "status": "Active"}}

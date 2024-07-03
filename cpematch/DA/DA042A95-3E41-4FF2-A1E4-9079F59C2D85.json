@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DA042A95-3E41-4FF2-A1E4-9079F59C2D85", "criteria": "cpe:2.3:o:cisco:catalyst_9800-80_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "17.6", "versionEndExcluding": "17.6.4", "lastModified": "2022-10-05T16:04:07.630", "cpeLastModified": "2022-10-05T16:04:07.630", "created": "2022-10-05T16:04:07.630", "status": "Active"}}

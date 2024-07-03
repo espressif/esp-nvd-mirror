@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5B285E16-632A-4E48-A889-1863CCC2451B", "criteria": "cpe:2.3:a:tar_project:tar:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "5.0.0", "versionEndIncluding": "5.0.9", "lastModified": "2021-09-02T15:42:59.873", "cpeLastModified": "2021-09-02T17:28:24.417", "created": "2021-09-02T15:42:59.873", "status": "Inactive"}}

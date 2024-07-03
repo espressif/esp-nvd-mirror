@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D8B02D0A-5934-4406-912C-777886195AB9", "criteria": "cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.17.0.0", "versionEndExcluding": "9.17.1.7", "lastModified": "2023-08-16T16:17:07.960", "cpeLastModified": "2023-08-16T16:17:07.960", "created": "2023-08-16T16:17:07.960", "status": "Inactive"}}

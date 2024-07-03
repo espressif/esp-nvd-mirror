@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "98835F8B-739E-4091-8D8C-E12D62F558CA", "criteria": "cpe:2.3:a:ibm:qradar_network_security:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.5.0.0", "versionEndExcluding": "5.5.0.9", "lastModified": "2021-11-08T19:54:39.973", "cpeLastModified": "2021-11-09T20:01:45.260", "created": "2021-11-08T19:54:39.973", "status": "Active"}}

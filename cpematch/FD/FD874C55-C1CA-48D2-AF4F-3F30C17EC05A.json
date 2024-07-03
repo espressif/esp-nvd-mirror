@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FD874C55-C1CA-48D2-AF4F-3F30C17EC05A", "criteria": "cpe:2.3:a:redhat:a-mq_streams:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.3.0", "versionEndExcluding": "2.4.0", "lastModified": "2023-10-02T14:22:09.790", "cpeLastModified": "2023-10-02T14:22:09.790", "created": "2023-10-02T14:22:09.790", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "03AB0FCF-E605-4474-977A-4356E89FBDC3", "criteria": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:enterprise:*:*:*", "versionStartIncluding": "14.6", "versionEndExcluding": "15.0.5", "lastModified": "2022-08-08T23:10:35.597", "cpeLastModified": "2022-08-08T23:10:35.597", "created": "2022-08-08T23:10:35.597", "status": "Inactive"}}

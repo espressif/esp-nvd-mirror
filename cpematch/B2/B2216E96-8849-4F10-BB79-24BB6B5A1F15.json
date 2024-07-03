@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B2216E96-8849-4F10-BB79-24BB6B5A1F15", "criteria": "cpe:2.3:a:vmware:spring_vault:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.3.0", "versionEndExcluding": "2.3.3", "lastModified": "2023-03-27T17:33:31.617", "cpeLastModified": "2023-03-27T17:33:31.617", "created": "2023-03-27T17:33:31.617", "status": "Active"}}

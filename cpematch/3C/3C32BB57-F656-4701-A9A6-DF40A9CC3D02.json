@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3C32BB57-F656-4701-A9A6-DF40A9CC3D02", "criteria": "cpe:2.3:a:hashicorp:terraform_enterprise:*:*:*:*:*:*:*:*", "versionEndExcluding": "202107-1", "lastModified": "2021-07-26T17:23:54.053", "cpeLastModified": "2021-07-26T17:24:18.323", "created": "2021-07-26T17:23:54.053", "status": "Inactive"}}

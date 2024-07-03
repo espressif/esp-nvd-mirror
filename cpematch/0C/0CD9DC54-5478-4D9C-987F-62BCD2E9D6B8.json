@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0CD9DC54-5478-4D9C-987F-62BCD2E9D6B8", "criteria": "cpe:2.3:a:knime:knime_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.14.0", "versionEndExcluding": "4.14.3", "lastModified": "2022-11-28T09:34:32.837", "cpeLastModified": "2022-11-28T09:34:32.837", "created": "2022-11-28T09:34:32.837", "status": "Active"}}

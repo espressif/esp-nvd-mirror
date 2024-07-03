@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7685FD7F-A59E-4A10-9F97-49F0008F981B", "criteria": "cpe:2.3:a:feathersjs:feathers:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.0.8", "lastModified": "2023-07-28T14:03:48.100", "cpeLastModified": "2023-07-28T14:03:48.100", "created": "2023-07-28T14:03:48.100", "status": "Active"}}

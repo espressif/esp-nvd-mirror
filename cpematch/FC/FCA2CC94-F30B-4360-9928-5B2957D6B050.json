@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FCA2CC94-F30B-4360-9928-5B2957D6B050", "criteria": "cpe:2.3:a:owasp:dependency-check:*:*:*:*:*:cli:*:*", "versionStartIncluding": "9.0.0", "versionEndExcluding": "9.0.5", "lastModified": "2024-01-27T03:00:48.357", "cpeLastModified": "2024-01-26T15:05:18.430", "created": "2024-01-26T15:05:18.430", "status": "Inactive"}}

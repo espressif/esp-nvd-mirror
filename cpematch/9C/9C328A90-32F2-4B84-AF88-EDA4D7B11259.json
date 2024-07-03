@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9C328A90-32F2-4B84-AF88-EDA4D7B11259", "criteria": "cpe:2.3:a:digitalocean:golang-nanoauth:*:*:*:*:*:go:*:*", "versionEndExcluding": "2020-01-31", "lastModified": "2023-01-09T18:35:14.850", "cpeLastModified": "2023-01-09T18:25:50.753", "created": "2023-01-09T18:25:50.753", "status": "Inactive"}}

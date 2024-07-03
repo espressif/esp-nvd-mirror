@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C0BDAE54-B9CB-485E-95E1-302A728A298F", "criteria": "cpe:2.3:a:paypal:paypal:*:*:*:*:*:sylius:*:*", "versionStartIncluding": "1.3.0", "versionEndExcluding": "1.3.1", "lastModified": "2021-10-07T12:29:09.957", "created": "2021-10-07T12:29:09.957", "status": "Inactive"}}

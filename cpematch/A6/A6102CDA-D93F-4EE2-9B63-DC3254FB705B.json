@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A6102CDA-D93F-4EE2-9B63-DC3254FB705B", "criteria": "cpe:2.3:a:spring:spring:*:*:*:*:*:graphql:*:*", "versionStartIncluding": "1.1.0", "versionEndIncluding": "1.1.5", "lastModified": "2023-09-25T15:58:37.370", "cpeLastModified": "2023-09-25T15:58:37.370", "created": "2023-09-25T15:58:37.370", "status": "Active"}}

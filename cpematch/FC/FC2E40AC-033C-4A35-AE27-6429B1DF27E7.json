@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FC2E40AC-033C-4A35-AE27-6429B1DF27E7", "criteria": "cpe:2.3:a:arista:terminattr:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.11.0", "versionEndExcluding": "1.16.8", "lastModified": "2022-06-08T13:04:07.653", "cpeLastModified": "2022-06-08T13:04:07.653", "created": "2022-06-08T13:04:07.653", "status": "Active"}}

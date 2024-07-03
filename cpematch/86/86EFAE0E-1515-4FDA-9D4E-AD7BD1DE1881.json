@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "86EFAE0E-1515-4FDA-9D4E-AD7BD1DE1881", "criteria": "cpe:2.3:a:dell:emc_unisphere_for_powermax:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.1.0.0", "versionEndExcluding": "9.1.0.9", "lastModified": "2020-01-16T19:48:35.180", "created": "2020-01-16T19:48:35.180", "status": "Active"}}

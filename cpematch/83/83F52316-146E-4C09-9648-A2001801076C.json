@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "83F52316-146E-4C09-9648-A2001801076C", "criteria": "cpe:2.3:a:silver-peak:ecos:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.1", "versionEndExcluding": "8.1.9.15", "lastModified": "2023-11-08T03:00:20.547", "cpeLastModified": "2023-11-07T20:49:24.733", "created": "2020-12-16T19:05:03.030", "status": "Inactive"}}

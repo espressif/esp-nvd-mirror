@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5015875D-5A93-4B98-B98C-4D68ADFFFFBE", "criteria": "cpe:2.3:a:weave:gitops_terraform_controller:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.14.4", "lastModified": "2023-07-30T03:44:21.180", "cpeLastModified": "2023-07-30T03:44:21.180", "created": "2023-07-30T03:44:21.180", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A11AF1D3-E82C-4C30-BD28-E1A0118D37D5", "criteria": "cpe:2.3:a:qlik:qlik_sense:*:*:*:*:enterprise:*:*:*", "versionStartIncluding": "14.0", "versionEndExcluding": "14.44.0", "lastModified": "2022-02-28T14:23:35.813", "cpeLastModified": "2022-03-01T16:03:45.610", "created": "2022-02-28T14:23:35.813", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E0367089-77F2-4A29-A730-1D58202AFFBF", "criteria": "cpe:2.3:a:sequelizejs:sequelize:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "5.00.0", "versionEndExcluding": "5.15.1", "lastModified": "2019-10-20T21:37:38.580", "cpeLastModified": "2019-10-24T14:31:21.827", "created": "2019-10-20T21:37:38.580", "status": "Inactive"}}

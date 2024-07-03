@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "085C9CDB-CE91-4C2D-9A14-83D7F59092A6", "criteria": "cpe:2.3:a:symantec:messaging_gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.7.4", "versionEndIncluding": "10.7.13", "lastModified": "2022-12-12T03:00:11.487", "cpeLastModified": "2022-12-12T02:23:37.960", "created": "2022-12-12T02:23:37.960", "status": "Inactive"}}

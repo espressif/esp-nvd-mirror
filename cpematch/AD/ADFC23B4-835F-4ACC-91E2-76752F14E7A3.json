@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ADFC23B4-835F-4ACC-91E2-76752F14E7A3", "criteria": "cpe:2.3:a:replicated:replicated_classic:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.38.0", "versionEndIncluding": "2.38.5", "lastModified": "2021-08-04T18:41:32.330", "created": "2021-08-04T18:41:32.330", "status": "Active"}}

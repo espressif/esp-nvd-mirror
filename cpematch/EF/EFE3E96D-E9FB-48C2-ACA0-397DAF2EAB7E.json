@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EFE3E96D-E9FB-48C2-ACA0-397DAF2EAB7E", "criteria": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.9", "versionEndExcluding": "4.9.8", "lastModified": "2022-01-26T17:01:46.630", "created": "2022-01-26T17:01:46.630", "status": "Inactive"}}

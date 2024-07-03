@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5FD907A1-8BDC-459D-B4F0-F35B90E6CB55", "criteria": "cpe:2.3:o:cisco:fxos:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.2", "versionEndExcluding": "2.2.1.70", "lastModified": "2023-04-21T02:00:13.670", "cpeLastModified": "2023-04-20T15:27:47.277", "created": "2020-08-31T13:14:59.883", "status": "Inactive"}}

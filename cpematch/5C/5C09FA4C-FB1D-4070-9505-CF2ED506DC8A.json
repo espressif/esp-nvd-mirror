@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5C09FA4C-FB1D-4070-9505-CF2ED506DC8A", "criteria": "cpe:2.3:a:ibm:sterling_b2b_integrator:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.1.0.0", "versionEndExcluding": "6.1.0.5", "lastModified": "2022-08-17T11:24:57.660", "cpeLastModified": "2022-08-17T11:24:57.660", "created": "2022-08-17T11:24:57.660", "status": "Inactive"}}

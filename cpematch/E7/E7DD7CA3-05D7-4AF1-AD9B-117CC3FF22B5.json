@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E7DD7CA3-05D7-4AF1-AD9B-117CC3FF22B5", "criteria": "cpe:2.3:a:bosch:video_recording_manager_exporter:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.1", "versionEndIncluding": "2.10.0008", "lastModified": "2021-12-14T15:42:31.910", "cpeLastModified": "2021-12-14T16:33:23.157", "created": "2021-12-14T15:42:31.910", "status": "Active"}}

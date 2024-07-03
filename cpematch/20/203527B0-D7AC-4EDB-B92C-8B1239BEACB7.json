@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "203527B0-D7AC-4EDB-B92C-8B1239BEACB7", "criteria": "cpe:2.3:a:microsoft:azure_site_recovery:*:*:*:*:vmware_to_azure:*:*:*", "versionEndExcluding": "9.49.6395.1", "lastModified": "2022-07-27T22:57:23.463", "cpeLastModified": "2022-07-27T22:57:23.463", "created": "2022-07-27T22:57:23.463", "status": "Active"}}

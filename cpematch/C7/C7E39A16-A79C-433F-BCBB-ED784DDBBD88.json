@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C7E39A16-A79C-433F-BCBB-ED784DDBBD88", "criteria": "cpe:2.3:a:google:exposure_notification_verification_server:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.23.1", "lastModified": "2021-04-02T14:58:19.123", "cpeLastModified": "2021-04-02T14:59:14.517", "created": "2021-04-02T14:58:19.123", "status": "Inactive"}}

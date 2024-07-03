@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "646A12CD-0089-49E6-9F17-E7C965BA131F", "criteria": "cpe:2.3:a:jenkins:jenkins:*:*:*:*:lts:*:*:*", "versionStartIncluding": "2.332.1", "versionEndIncluding": "2.332.3", "lastModified": "2022-06-27T18:08:23.907", "cpeLastModified": "2022-06-27T18:08:23.907", "created": "2022-06-27T18:08:23.907", "status": "Active"}}

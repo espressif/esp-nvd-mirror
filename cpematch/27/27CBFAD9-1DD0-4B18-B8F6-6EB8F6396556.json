@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "27CBFAD9-1DD0-4B18-B8F6-6EB8F6396556", "criteria": "cpe:2.3:o:yokogawa:centum_vp_entry_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "r6.01.00", "versionEndExcluding": "r6.09.00", "lastModified": "2022-03-16T16:35:35.460", "cpeLastModified": "2022-03-18T14:04:30.950", "created": "2022-03-16T16:35:35.460", "status": "Active"}}

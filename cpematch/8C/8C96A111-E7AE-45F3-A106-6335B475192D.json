@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8C96A111-E7AE-45F3-A106-6335B475192D", "criteria": "cpe:2.3:a:kubernetes:java:*:*:*:*:*:*:*:*", "versionEndExcluding": "9.0.1", "lastModified": "2022-10-08T02:00:11.263", "cpeLastModified": "2022-10-07T02:20:04.737", "created": "2022-10-07T02:20:04.737", "status": "Inactive"}}

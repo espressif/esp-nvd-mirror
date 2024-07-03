@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AAF6FFF3-89F4-4355-B6C6-C5A4395E3E3F", "criteria": "cpe:2.3:a:siemens:teamcenter_active_workspace:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.2.0", "versionEndExcluding": "5.2.1", "lastModified": "2021-09-17T20:01:02.137", "cpeLastModified": "2021-09-28T13:19:06.440", "created": "2021-09-17T20:01:02.137", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "75C6F03D-BA0C-4C98-9A68-DEF5CA00979B", "criteria": "cpe:2.3:a:goa.design:goa:*:*:*:*:*:go:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.0.10", "lastModified": "2023-01-04T16:29:31.680", "cpeLastModified": "2023-01-04T19:52:14.733", "created": "2023-01-04T16:29:31.680", "status": "Active"}}

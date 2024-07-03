@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A31C412A-0E8D-4DD4-9D10-E3767EDDD813", "criteria": "cpe:2.3:a:linuxptp_project:linuxptp:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.8.0", "versionEndExcluding": "1.8.1", "lastModified": "2021-07-09T13:49:41.500", "cpeLastModified": "2021-09-14T14:42:40.920", "created": "2021-07-09T13:49:41.500", "status": "Active"}}

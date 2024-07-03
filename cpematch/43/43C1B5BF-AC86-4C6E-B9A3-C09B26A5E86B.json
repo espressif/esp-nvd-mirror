@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "43C1B5BF-AC86-4C6E-B9A3-C09B26A5E86B", "criteria": "cpe:2.3:a:kubernetes:kubelet:1.20.0:*:*:*:*:*:*:*", "lastModified": "2023-05-31T15:56:47.457", "cpeLastModified": "2023-05-31T15:55:06.603", "created": "2023-05-31T15:55:06.603", "status": "Inactive"}}

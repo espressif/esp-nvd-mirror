@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "685C217F-760A-47CE-8711-355178277282", "criteria": "cpe:2.3:a:neo4j:awesome_procedures_on_cypher:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.4.0.0", "versionEndExcluding": "4.4.0.8", "lastModified": "2022-08-15T16:55:19.957", "cpeLastModified": "2022-08-15T16:55:19.957", "created": "2022-08-15T16:55:19.957", "status": "Active"}}

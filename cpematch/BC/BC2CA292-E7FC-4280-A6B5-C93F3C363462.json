@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BC2CA292-E7FC-4280-A6B5-C93F3C363462", "criteria": "cpe:2.3:a:sophos:united_threat_management:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.700", "versionEndExcluding": "9.705", "lastModified": "2020-10-05T12:22:18.833", "cpeLastModified": "2021-12-10T15:04:15.727", "created": "2020-10-05T12:22:18.833", "status": "Inactive"}}

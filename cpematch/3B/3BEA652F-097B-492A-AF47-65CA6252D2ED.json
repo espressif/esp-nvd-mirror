@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3BEA652F-097B-492A-AF47-65CA6252D2ED", "criteria": "cpe:2.3:a:atlassian:saml_single_sign_on:*:*:*:*:*:confluence:*:*", "versionEndExcluding": "3.6.6", "lastModified": "2021-08-09T19:55:49.107", "cpeLastModified": "2021-08-09T19:56:38.847", "created": "2021-08-09T19:55:49.107", "status": "Inactive"}}

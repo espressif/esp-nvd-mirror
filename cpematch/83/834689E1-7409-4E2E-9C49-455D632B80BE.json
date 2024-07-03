@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "834689E1-7409-4E2E-9C49-455D632B80BE", "criteria": "cpe:2.3:a:emc:rsa_bsafe:*:*:*:*:micro_edition_suite:*:*:*", "versionStartIncluding": "4.1.0", "versionEndExcluding": "4.4.0", "lastModified": "2019-10-03T20:58:40.397", "cpeLastModified": "2021-11-30T17:24:45.897", "created": "2019-10-03T20:58:40.397", "status": "Inactive"}}

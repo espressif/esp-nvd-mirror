@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D30764F4-40F1-4515-9183-AA5DC4BF8986", "criteria": "cpe:2.3:o:siemens:cpu_1515f-2_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5", "versionEndExcluding": "2.9.2", "lastModified": "2021-08-19T18:18:24.120", "cpeLastModified": "2021-08-20T18:56:05.673", "created": "2021-08-19T18:18:24.120", "status": "Active"}}

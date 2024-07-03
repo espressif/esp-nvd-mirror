@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0108C7B4-6C7E-4035-A7E1-4BAE2EC2487E", "criteria": "cpe:2.3:a:typelevel:http4s:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0-m1", "versionEndIncluding": "1.0.0-m24", "lastModified": "2021-09-08T12:53:34.850", "created": "2021-09-08T12:53:34.850", "status": "Inactive"}}

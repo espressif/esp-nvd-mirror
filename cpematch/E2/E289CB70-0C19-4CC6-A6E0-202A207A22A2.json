@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E289CB70-0C19-4CC6-A6E0-202A207A22A2", "criteria": "cpe:2.3:o:arista:metamako_operating_system:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.20.0", "versionEndExcluding": "0.32.0", "lastModified": "2021-09-23T15:37:41.153", "cpeLastModified": "2021-09-23T15:37:48.260", "created": "2021-09-23T15:37:41.153", "status": "Active"}}

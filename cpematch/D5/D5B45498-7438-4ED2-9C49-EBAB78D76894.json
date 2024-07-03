@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D5B45498-7438-4ED2-9C49-EBAB78D76894", "criteria": "cpe:2.3:a:octopus:server:*:*:*:*:*:*:*:*", "versionStartIncluding": "2018.9.17", "versionEndExcluding": "2018.13.0", "lastModified": "2021-06-20T19:15:36.497", "cpeLastModified": "2022-07-27T17:20:11.180", "created": "2021-06-20T19:15:36.497", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "090C5448-F73D-41ED-8616-9FEE99CE5A7C", "criteria": "cpe:2.3:a:jenkins:ssh:*:*:*:*:*:jenkins:*:*", "versionEndIncluding": "1.23", "lastModified": "2022-01-18T15:20:27.980", "created": "2022-01-18T15:20:27.980", "status": "Inactive"}}

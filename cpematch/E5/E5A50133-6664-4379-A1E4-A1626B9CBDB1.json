@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E5A50133-6664-4379-A1E4-A1626B9CBDB1", "criteria": "cpe:2.3:o:nvidia:dgx_h100_firmware:*:*:*:*:bmc:*:*:*", "versionEndExcluding": "23.08.18", "lastModified": "2023-09-20T12:44:15.640", "cpeLastModified": "2023-09-20T12:44:15.640", "created": "2023-09-20T12:44:15.640", "status": "Active"}}

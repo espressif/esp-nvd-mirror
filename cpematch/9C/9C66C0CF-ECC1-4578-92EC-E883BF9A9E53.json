@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9C66C0CF-ECC1-4578-92EC-E883BF9A9E53", "criteria": "cpe:2.3:a:jupyter:jupyterlab:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.1.0", "versionEndExcluding": "3.1.4", "lastModified": "2022-04-07T18:09:52.023", "cpeLastModified": "2022-04-07T18:41:00.413", "created": "2022-04-07T18:09:52.023", "status": "Active"}}

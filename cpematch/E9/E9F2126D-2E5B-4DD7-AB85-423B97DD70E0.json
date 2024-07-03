@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E9F2126D-2E5B-4DD7-AB85-423B97DD70E0", "criteria": "cpe:2.3:a:kubernetes:aws-iam-authenticator:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.5.2", "versionEndExcluding": "0.5.9", "lastModified": "2022-07-19T16:56:57.213", "cpeLastModified": "2022-07-19T16:56:57.213", "created": "2022-07-19T16:56:57.213", "status": "Inactive"}}

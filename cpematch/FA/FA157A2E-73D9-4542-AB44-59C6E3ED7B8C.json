@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FA157A2E-73D9-4542-AB44-59C6E3ED7B8C", "criteria": "cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:arm64:*", "versionEndIncluding": "4.2.0", "lastModified": "2021-12-08T16:46:04.020", "cpeLastModified": "2021-12-10T19:56:37.720", "created": "2021-12-08T16:46:04.020", "status": "Active"}}

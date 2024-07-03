@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F3B934ED-E7FB-4CFF-A071-EA833796C916", "criteria": "cpe:2.3:o:siemens:ruggedcom_ros_rsg2300_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.3.4", "lastModified": "2021-07-28T18:25:17.163", "created": "2021-07-28T18:25:17.163", "status": "Active"}}

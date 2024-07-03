@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2079B71E-E75F-4742-ACAC-74E0500A3F0B", "criteria": "cpe:2.3:a:hashicorp:vault-action:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.2.0", "lastModified": "2021-05-11T17:33:43.080", "cpeLastModified": "2021-05-11T17:34:19.910", "created": "2021-05-11T17:33:43.080", "status": "Inactive"}}

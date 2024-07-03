@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A1636D39-C2F2-40F2-A9C9-D67B980FDF13", "criteria": "cpe:2.3:a:sonatype:nexus_repository_manager_3:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndIncluding": "3.33.1-01", "lastModified": "2021-09-13T13:12:01.060", "cpeLastModified": "2021-09-13T13:34:19.657", "created": "2021-09-13T13:12:01.060", "status": "Inactive"}}

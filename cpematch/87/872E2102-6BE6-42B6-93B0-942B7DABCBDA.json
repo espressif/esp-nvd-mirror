@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "872E2102-6BE6-42B6-93B0-942B7DABCBDA", "criteria": "cpe:2.3:o:ibm:flex_system_v7000_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.3.0.0", "versionEndExcluding": "7.3.0.7", "lastModified": "2024-07-19T15:18:25.927", "cpeLastModified": "2024-07-19T15:18:25.927", "created": "2024-07-19T15:18:25.927", "status": "Active"}}

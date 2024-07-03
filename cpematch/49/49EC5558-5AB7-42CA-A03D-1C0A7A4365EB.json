@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "49EC5558-5AB7-42CA-A03D-1C0A7A4365EB", "criteria": "cpe:2.3:a:file_project:file:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.39", "versionEndExcluding": "5.43", "lastModified": "2024-03-01T18:14:23.867", "cpeLastModified": "2024-03-01T17:50:55.707", "created": "2024-03-01T17:50:55.707", "status": "Inactive"}}

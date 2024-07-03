@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F5E34418-7FE1-49B8-B03B-D3DE7E977FAA", "criteria": "cpe:2.3:a:osu:ohio_supercomputer_center_open_ondemand:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.8.0", "versionEndExcluding": "1.8.18", "lastModified": "2022-03-14T06:10:56.393", "cpeLastModified": "2022-03-14T13:50:49.360", "created": "2022-03-14T06:10:56.393", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B50D499A-0BB9-4F9E-9AD4-154AB9CFD7EB", "criteria": "cpe:2.3:a:cyberark:endpoint_privilege_manager:*:*:*:*:*:macos:*:*", "versionStartIncluding": "11.5.3.328", "versionEndExcluding": "11.5.4.500", "lastModified": "2022-01-22T04:25:47.337", "cpeLastModified": "2022-01-24T13:56:11.017", "created": "2022-01-22T04:25:47.337", "status": "Active"}}

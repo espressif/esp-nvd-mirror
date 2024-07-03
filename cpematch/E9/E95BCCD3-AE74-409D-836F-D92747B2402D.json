@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E95BCCD3-AE74-409D-836F-D92747B2402D", "criteria": "cpe:2.3:o:cisco:roomos:*:*:*:*:*:*:*:*", "versionStartExcluding": "9.7.3", "versionEndExcluding": "9.8.0", "lastModified": "2019-08-28T22:05:14.683", "created": "2019-08-28T22:05:14.683", "status": "Active"}}

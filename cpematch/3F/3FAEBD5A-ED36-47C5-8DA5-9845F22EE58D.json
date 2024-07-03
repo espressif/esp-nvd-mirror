@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3FAEBD5A-ED36-47C5-8DA5-9845F22EE58D", "criteria": "cpe:2.3:o:siemens:simatic_rf166c_firmware:*:*:*:*:*:*:*:*", "versionStartExcluding": "1.1", "versionEndExcluding": "1.3.2", "lastModified": "2021-06-20T01:51:02.917", "cpeLastModified": "2022-04-12T09:15:11.093", "created": "2021-06-20T01:51:02.917", "status": "Active"}}

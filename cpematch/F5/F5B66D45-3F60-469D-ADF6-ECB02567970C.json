@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F5B66D45-3F60-469D-ADF6-ECB02567970C", "criteria": "cpe:2.3:o:siemens:desigo_pxc22.1-e.d_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.3.0", "versionEndExcluding": "6.00.327", "lastModified": "2023-05-09T14:46:10.240", "cpeLastModified": "2023-05-09T14:46:10.240", "created": "2023-05-09T14:46:10.240", "status": "Active"}}

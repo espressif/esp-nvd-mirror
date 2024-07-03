@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CB2C2977-0314-49C9-9D0D-B0447B42BDB3", "criteria": "cpe:2.3:a:jenkins:pipeline\\:_shared_groovy_libraries:*:*:*:*:*:jenkins:*:*", "versionStartIncluding": "544.vff04fa68714d", "versionEndExcluding": "564.ve62a_4eb_b_e039", "lastModified": "2022-04-19T16:04:34.947", "created": "2022-04-19T16:04:34.947", "status": "Inactive"}}

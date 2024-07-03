@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2780D368-76C8-4AB5-98F6-2DC37DB05B1A", "criteria": "cpe:2.3:a:ibm:emptoris_sourcing:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.1.1.0", "versionEndExcluding": "10.1.1.35", "lastModified": "2021-01-11T21:47:01.350", "created": "2021-01-11T21:47:01.350", "status": "Active"}}

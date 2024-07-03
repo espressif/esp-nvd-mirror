@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FD8A6392-6CB6-4400-BC43-28B8059F9CEB", "criteria": "cpe:2.3:a:vamware:pinniped:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.9.0", "versionEndExcluding": "0.17.0", "lastModified": "2022-05-17T18:22:22.473", "cpeLastModified": "2022-05-17T18:22:22.473", "created": "2022-05-17T18:22:22.473", "status": "Inactive"}}

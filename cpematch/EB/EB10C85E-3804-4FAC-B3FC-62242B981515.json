@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EB10C85E-3804-4FAC-B3FC-62242B981515", "criteria": "cpe:2.3:o:arubanetworks:5400r_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "16.10.0", "versionEndExcluding": "16.10.0020", "lastModified": "2022-05-18T12:29:36.090", "cpeLastModified": "2022-05-18T12:29:36.090", "created": "2022-05-18T12:29:36.090", "status": "Inactive"}}

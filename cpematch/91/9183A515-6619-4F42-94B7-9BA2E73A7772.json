@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9183A515-6619-4F42-94B7-9BA2E73A7772", "criteria": "cpe:2.3:a:fluxcd:kustomize-controller:*:*:*:*:*:*:*:*", "versionEndIncluding": "0.16.0", "lastModified": "2022-05-13T13:36:02.903", "cpeLastModified": "2022-05-13T13:36:02.903", "created": "2022-05-13T13:36:02.903", "status": "Inactive"}}

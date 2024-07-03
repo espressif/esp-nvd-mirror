@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D6D88783-5EB1-4E87-B4DE-5F609D48E7BC", "criteria": "cpe:2.3:a:libfuse_project:libfuse:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.2.5", "lastModified": "2021-06-09T17:29:59.340", "cpeLastModified": "2021-06-09T17:29:59.340", "created": "2021-06-09T17:29:59.340", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FE8E4B2B-DB2A-4D0F-96AA-651FB7BEE330", "criteria": "cpe:2.3:a:teclib-edition:fields:*:*:*:*:*:glpi:*:*", "versionStartIncluding": "1.20.0", "versionEndExcluding": "1.20.4", "lastModified": "2023-04-10T14:08:34.687", "cpeLastModified": "2023-04-10T14:08:34.687", "created": "2023-04-10T14:08:34.687", "status": "Active"}}

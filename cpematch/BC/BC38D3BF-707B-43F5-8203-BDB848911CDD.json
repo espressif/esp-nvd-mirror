@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BC38D3BF-707B-43F5-8203-BDB848911CDD", "criteria": "cpe:2.3:a:vaadin:flow-server:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.0", "versionEndIncluding": "1.4.0", "lastModified": "2021-06-29T16:00:48.697", "cpeLastModified": "2021-06-29T16:00:48.697", "created": "2021-06-29T16:00:48.697", "status": "Inactive"}}

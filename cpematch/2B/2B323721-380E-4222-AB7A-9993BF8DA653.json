@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2B323721-380E-4222-AB7A-9993BF8DA653", "criteria": "cpe:2.3:a:intel:converged_security_and_manageability_engine:*:*:*:*:*:*:*:*", "versionStartIncluding": "14.5.0", "versionEndExcluding": "14.5.25", "lastModified": "2020-11-24T17:16:17.553", "created": "2020-11-24T17:16:17.553", "status": "Active"}}

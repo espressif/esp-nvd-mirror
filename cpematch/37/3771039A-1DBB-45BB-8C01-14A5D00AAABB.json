@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3771039A-1DBB-45BB-8C01-14A5D00AAABB", "criteria": "cpe:2.3:a:sanic_project:sanic:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.0.0", "versionEndExcluding": "21.12.2", "lastModified": "2022-08-10T14:07:01.897", "cpeLastModified": "2022-08-10T14:07:01.897", "created": "2022-08-10T14:07:01.897", "status": "Active"}}

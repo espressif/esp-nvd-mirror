@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "63C927E5-FAB2-4F2E-8F28-EC3CC160837C", "criteria": "cpe:2.3:a:google:protobuf-javalite:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.16.0", "versionEndExcluding": "3.16.3", "lastModified": "2022-12-15T16:46:58.020", "cpeLastModified": "2022-12-15T16:46:58.020", "created": "2022-12-15T16:46:58.020", "status": "Active"}}

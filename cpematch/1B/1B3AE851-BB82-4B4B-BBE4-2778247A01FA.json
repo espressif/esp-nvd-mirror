@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1B3AE851-BB82-4B4B-BBE4-2778247A01FA", "criteria": "cpe:2.3:a:ibm:tivoli_storage_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.3.0.0", "versionEndIncluding": "6.3.2.5", "lastModified": "2022-11-09T03:00:12.597", "cpeLastModified": "2022-11-08T16:38:49.013", "created": "2022-11-08T16:38:49.013", "status": "Inactive"}}

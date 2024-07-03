@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "246CECCE-B018-43AD-ABC6-1D11941D1534", "criteria": "cpe:2.3:a:broadcom:emulex_hba_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.0.0", "versionEndExcluding": "12.8.542.31", "lastModified": "2021-11-15T19:57:29.910", "cpeLastModified": "2021-11-15T22:29:27.007", "created": "2021-11-15T19:57:29.910", "status": "Active"}}

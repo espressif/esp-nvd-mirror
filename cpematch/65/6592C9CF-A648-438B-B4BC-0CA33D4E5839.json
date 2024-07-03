@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6592C9CF-A648-438B-B4BC-0CA33D4E5839", "criteria": "cpe:2.3:o:ibm:storwize_v7000_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.0.0", "versionEndExcluding": "7.1.0.11", "lastModified": "2024-07-19T16:05:49.537", "cpeLastModified": "2024-07-19T15:18:25.927", "created": "2024-07-19T15:18:25.927", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "88D208BE-6401-489E-BBE7-1ABBEB14CF52", "criteria": "cpe:2.3:o:bender:icc15xx_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.13.0", "versionEndExcluding": "5.13.2", "lastModified": "2022-05-10T13:34:50.617", "cpeLastModified": "2022-05-10T13:34:50.617", "created": "2022-05-10T13:34:50.617", "status": "Active"}}

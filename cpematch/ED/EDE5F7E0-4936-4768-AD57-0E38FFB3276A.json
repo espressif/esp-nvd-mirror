@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EDE5F7E0-4936-4768-AD57-0E38FFB3276A", "criteria": "cpe:2.3:a:veeam:backup_\\&_replication:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.0.0.825", "versionEndExcluding": "11.0.1.1261_p20220302", "lastModified": "2022-03-24T13:05:12.540", "created": "2022-03-24T13:05:12.540", "status": "Inactive"}}

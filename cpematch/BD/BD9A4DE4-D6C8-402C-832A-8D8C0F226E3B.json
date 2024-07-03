@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BD9A4DE4-D6C8-402C-832A-8D8C0F226E3B", "criteria": "cpe:2.3:a:umbraco:forms:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.0.2", "lastModified": "2021-09-03T17:26:56.607", "cpeLastModified": "2021-09-07T16:50:32.203", "created": "2021-09-03T17:26:56.607", "status": "Active"}}

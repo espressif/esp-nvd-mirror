@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "36020D75-AAA0-4D88-A703-EFFF50FB803A", "criteria": "cpe:2.3:a:cybozu:cybozu_remote_service:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.1.8", "versionEndIncluding": "3.1.9", "lastModified": "2021-10-13T18:02:00.850", "created": "2021-10-13T18:02:00.850", "status": "Inactive"}}

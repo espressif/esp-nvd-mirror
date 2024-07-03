@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "54BD49C0-0D33-48FC-AAE9-CA4AB5C0DBE8", "criteria": "cpe:2.3:a:rubyonrails:active_record:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.1.0", "versionEndExcluding": "6.1.6.1", "lastModified": "2022-12-09T03:00:10.387", "cpeLastModified": "2022-12-07T16:57:27.320", "created": "2022-12-07T16:57:27.320", "status": "Inactive"}}

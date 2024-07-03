@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3D85B597-8AAC-45E6-ADB7-1DC91B67CB70", "criteria": "cpe:2.3:a:greenplum:greenplum:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.14.0", "lastModified": "2021-11-24T06:25:25.087", "cpeLastModified": "2021-11-24T15:58:04.693", "created": "2021-11-24T06:25:25.087", "status": "Active"}}

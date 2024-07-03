@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BDC2FBAD-91E2-4359-8C93-E6162D56B184", "criteria": "cpe:2.3:a:wire:wire_-_audio\\,_video\\,_and_signaling:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.3", "versionEndExcluding": "6.4", "lastModified": "2020-10-28T12:14:58.763", "created": "2020-10-28T12:14:58.763", "status": "Active"}}

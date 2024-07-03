@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "990E5873-0CB3-42D4-883D-3FD57FE55843", "criteria": "cpe:2.3:a:openzeppelin:openzeppelin:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.2.0", "versionEndIncluding": "4.4.0", "lastModified": "2022-02-08T22:42:27.967", "cpeLastModified": "2022-02-09T15:30:42.253", "created": "2022-02-08T22:42:27.967", "status": "Active"}}

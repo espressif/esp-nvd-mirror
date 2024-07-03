@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F835007B-61B5-4D3F-B13B-3AC65B686D7A", "criteria": "cpe:2.3:a:python-ldap:python-ldap:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.4.0", "lastModified": "2022-06-24T19:42:23.790", "cpeLastModified": "2022-06-24T19:42:23.790", "created": "2022-06-24T19:42:23.790", "status": "Active"}}

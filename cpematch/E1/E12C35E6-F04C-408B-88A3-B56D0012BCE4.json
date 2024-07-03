@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E12C35E6-F04C-408B-88A3-B56D0012BCE4", "criteria": "cpe:2.3:a:crossplane:crossplane-runtime:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.19.0", "versionEndExcluding": "0.19.2", "lastModified": "2023-03-17T00:21:34.260", "cpeLastModified": "2023-03-17T00:21:34.260", "created": "2023-03-17T00:21:34.260", "status": "Active"}}

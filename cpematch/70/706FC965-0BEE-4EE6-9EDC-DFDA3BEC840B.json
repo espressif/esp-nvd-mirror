@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "706FC965-0BEE-4EE6-9EDC-DFDA3BEC840B", "criteria": "cpe:2.3:a:gnu:zlib:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.0.6", "versionEndExcluding": "1.2.9", "lastModified": "2022-06-22T15:55:55.820", "cpeLastModified": "2022-06-22T16:40:44.440", "created": "2022-06-22T15:55:55.820", "status": "Inactive"}}

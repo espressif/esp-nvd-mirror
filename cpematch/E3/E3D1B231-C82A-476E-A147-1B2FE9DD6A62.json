@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E3D1B231-C82A-476E-A147-1B2FE9DD6A62", "criteria": "cpe:2.3:a:qnap:nas_proxy_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.4.0", "versionEndExcluding": "1.4.3", "lastModified": "2022-06-06T17:13:03.787", "cpeLastModified": "2022-06-06T17:13:03.787", "created": "2022-06-06T17:13:03.787", "status": "Active"}}

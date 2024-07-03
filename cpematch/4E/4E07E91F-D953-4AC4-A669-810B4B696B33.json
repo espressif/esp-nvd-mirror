@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4E07E91F-D953-4AC4-A669-810B4B696B33", "criteria": "cpe:2.3:a:jenkins:publish_over_cifs:*:*:*:*:*:jenkins:*:*", "versionEndIncluding": "1.22", "lastModified": "2022-01-18T18:33:12.297", "created": "2022-01-18T18:33:12.297", "status": "Inactive"}}

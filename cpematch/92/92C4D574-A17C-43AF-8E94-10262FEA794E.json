@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "92C4D574-A17C-43AF-8E94-10262FEA794E", "criteria": "cpe:2.3:a:moodle:moodle:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.9.0", "versionEndExcluding": "3.9.8", "lastModified": "2023-03-11T03:00:20.643", "cpeLastModified": "2023-03-10T12:45:11.533", "created": "2023-03-10T12:45:11.533", "status": "Inactive"}}

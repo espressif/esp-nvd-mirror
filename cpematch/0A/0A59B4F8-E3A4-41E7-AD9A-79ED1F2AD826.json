@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0A59B4F8-E3A4-41E7-AD9A-79ED1F2AD826", "criteria": "cpe:2.3:a:citrix:application_delivery_management:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.1", "versionEndExcluding": "13.1-21.53", "lastModified": "2022-06-16T21:05:37.697", "cpeLastModified": "2022-06-16T21:05:37.697", "created": "2022-06-16T21:05:37.697", "status": "Active"}}

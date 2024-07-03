@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "332E871D-0348-4D4E-91E1-CDF3E542BB22", "criteria": "cpe:2.3:a:emc:rsa_bsafe_crypto-c:*:*:*:*:micro:*:*:*", "versionStartIncluding": "4.1", "versionEndIncluding": "4.1.2", "lastModified": "2020-01-22T13:31:02.800", "cpeLastModified": "2021-11-30T18:51:54.017", "created": "2020-01-22T13:31:02.800", "status": "Inactive"}}

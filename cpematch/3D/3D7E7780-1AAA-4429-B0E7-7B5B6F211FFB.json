@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3D7E7780-1AAA-4429-B0E7-7B5B6F211FFB", "criteria": "cpe:2.3:a:pg_partition_manager_project:pg_partition_manager:*:*:*:*:*:postgresql:*:*", "versionEndExcluding": "4.5.1", "lastModified": "2021-05-25T16:16:27.180", "cpeLastModified": "2021-05-25T16:17:59.997", "created": "2021-05-25T16:16:27.180", "status": "Inactive"}}

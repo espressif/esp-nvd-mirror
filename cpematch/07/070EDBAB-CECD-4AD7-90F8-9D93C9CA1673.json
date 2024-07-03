@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "070EDBAB-CECD-4AD7-90F8-9D93C9CA1673", "criteria": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:*:*:*:*:-:*:*:*", "versionStartIncluding": "7.4", "versionEndExcluding": "7.8", "lastModified": "2022-05-19T19:27:35.507", "cpeLastModified": "2022-05-19T19:27:35.507", "created": "2022-05-19T19:27:35.507", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9A0CABE6-B18F-4C10-840F-FDAC2B664427", "criteria": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.1.5.3", "versionEndIncluding": "12.1.6", "lastModified": "2022-02-01T13:12:24.073", "cpeLastModified": "2022-02-01T17:40:52.097", "created": "2022-02-01T13:12:24.073", "status": "Active"}}

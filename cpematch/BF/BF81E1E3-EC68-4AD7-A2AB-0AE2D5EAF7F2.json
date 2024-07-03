@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BF81E1E3-EC68-4AD7-A2AB-0AE2D5EAF7F2", "criteria": "cpe:2.3:a:cisco:firepower_device_manager_on-box:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.5.0", "versionEndExcluding": "6.7.0.2", "lastModified": "2021-08-03T15:11:15.593", "created": "2021-08-03T15:11:15.593", "status": "Active"}}

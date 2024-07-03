@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2C4F8521-2BF3-4CFB-B28E-9A79207C31AA", "criteria": "cpe:2.3:o:hikvision:ds-7108ni-q1\\/m_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.30.300", "versionEndIncluding": "4.31.100", "lastModified": "2021-10-12T14:51:07.050", "cpeLastModified": "2021-10-15T17:12:55.180", "created": "2021-10-12T14:51:07.050", "status": "Active"}}

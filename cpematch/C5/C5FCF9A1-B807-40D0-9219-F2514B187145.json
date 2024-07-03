@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C5FCF9A1-B807-40D0-9219-F2514B187145", "criteria": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.00", "versionEndIncluding": "8.0.29", "lastModified": "2022-07-22T15:09:24.350", "cpeLastModified": "2022-07-22T15:09:24.350", "created": "2022-07-22T15:09:24.350", "status": "Inactive"}}

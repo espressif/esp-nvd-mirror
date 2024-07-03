@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A9138626-BF09-4A39-A34D-D528F5A76A1F", "criteria": "cpe:2.3:a:vmware:carbon_black_app_control:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.8.0", "versionEndExcluding": "8.8.2", "lastModified": "2022-03-29T17:42:08.487", "cpeLastModified": "2022-03-29T18:07:21.600", "created": "2022-03-29T17:42:08.487", "status": "Active"}}

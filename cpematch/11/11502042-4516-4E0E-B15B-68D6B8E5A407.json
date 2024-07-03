@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "11502042-4516-4E0E-B15B-68D6B8E5A407", "criteria": "cpe:2.3:o:zyxel:atp800_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.32", "versionEndExcluding": "5.32", "lastModified": "2023-02-14T03:00:25.100", "cpeLastModified": "2023-02-13T18:15:22.550", "created": "2023-02-13T18:15:22.550", "status": "Inactive"}}

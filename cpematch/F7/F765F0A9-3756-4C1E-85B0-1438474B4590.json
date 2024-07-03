@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F765F0A9-3756-4C1E-85B0-1438474B4590", "criteria": "cpe:2.3:a:microsoft:azure_storage_queue:*:*:*:*:*:python:*:*", "versionEndExcluding": "12.4.0", "lastModified": "2022-07-19T14:53:59.460", "cpeLastModified": "2022-07-19T14:53:59.460", "created": "2022-07-19T14:53:59.460", "status": "Active"}}

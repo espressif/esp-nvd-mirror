@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3C0F6F26-5CB2-4B41-8361-810C506D0AA4", "criteria": "cpe:2.3:a:cloudflare:warp:*:*:*:*:*:linux:*:*", "versionEndExcluding": "2022.5.346", "lastModified": "2022-08-01T14:30:14.050", "cpeLastModified": "2022-08-01T14:30:14.050", "created": "2022-08-01T14:30:14.050", "status": "Active"}}

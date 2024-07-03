@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "302E12CE-FD88-4D66-A407-616ED2185CA7", "criteria": "cpe:2.3:a:laravel:fortify:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.11.1", "lastModified": "2022-03-04T06:46:05.933", "cpeLastModified": "2022-03-08T14:32:07.777", "created": "2022-03-04T06:46:05.933", "status": "Active"}}

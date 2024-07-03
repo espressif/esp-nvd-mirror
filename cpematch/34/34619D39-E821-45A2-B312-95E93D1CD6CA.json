@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "34619D39-E821-45A2-B312-95E93D1CD6CA", "criteria": "cpe:2.3:a:f5:big-ip_policy_enforcement_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "14.1.0", "versionEndIncluding": "14.1.4.2", "lastModified": "2021-05-20T22:02:09.307", "cpeLastModified": "2021-05-20T22:02:09.307", "created": "2021-05-20T22:02:09.307", "status": "Inactive"}}

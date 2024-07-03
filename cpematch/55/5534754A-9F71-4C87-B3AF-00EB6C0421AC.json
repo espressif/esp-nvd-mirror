@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5534754A-9F71-4C87-B3AF-00EB6C0421AC", "criteria": "cpe:2.3:o:cisco:meraki_mx105_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "16.2.0", "versionEndExcluding": "16.16.6", "lastModified": "2022-10-31T13:54:25.610", "cpeLastModified": "2022-10-31T13:54:25.610", "created": "2022-10-31T13:54:25.610", "status": "Active"}}

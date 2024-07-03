@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1106CDD9-B67A-47E0-A646-A266E1D4DCB7", "criteria": "cpe:2.3:o:siemens:cpu_1515r-2_pn_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5", "versionEndExcluding": "2.9.2", "lastModified": "2021-08-19T18:18:24.857", "cpeLastModified": "2021-08-20T18:56:05.673", "created": "2021-08-19T18:18:24.857", "status": "Active"}}

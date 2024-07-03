@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "879A30A6-F81C-4556-A331-442B5EF5F25E", "criteria": "cpe:2.3:a:apache:xml_security_for_java:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.2.0", "versionEndExcluding": "2.2.3", "lastModified": "2021-10-01T13:25:13.600", "cpeLastModified": "2021-10-01T16:08:10.087", "created": "2021-10-01T13:25:13.600", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "298C961D-5E5F-4277-B192-A4C29243BECC", "criteria": "cpe:2.3:o:ibm:stn7800_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.8.0.0", "versionEndExcluding": "3.8.0.07", "lastModified": "2024-07-19T15:22:53.990", "cpeLastModified": "2024-07-19T15:22:53.990", "created": "2024-07-19T15:22:53.990", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "40BDAEF7-757B-44AB-A042-97CEA0798553", "criteria": "cpe:2.3:a:weave:gitops_tools:*:*:*:*:*:visual_studio_code:*:*", "versionStartIncluding": "0.5.0", "versionEndIncluding": "0.20.9", "lastModified": "2022-08-22T17:36:05.803", "cpeLastModified": "2022-08-22T17:36:05.803", "created": "2022-08-22T17:36:05.803", "status": "Active"}}

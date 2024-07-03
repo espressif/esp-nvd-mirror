@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DD7DE33E-138E-44D7-BC6B-9E66946A97AD", "criteria": "cpe:2.3:a:f5:big-ip_datasafe:*:*:*:*:*:*:*:*", "versionStartIncluding": "16.0.0", "versionEndIncluding": "16.0.1", "lastModified": "2021-09-24T18:58:27.203", "cpeLastModified": "2021-09-24T18:58:41.117", "created": "2021-09-24T18:58:27.203", "status": "Active"}}

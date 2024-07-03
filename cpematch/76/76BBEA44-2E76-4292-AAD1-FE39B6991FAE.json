@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "76BBEA44-2E76-4292-AAD1-FE39B6991FAE", "criteria": "cpe:2.3:a:abb:opc_server_for_ac_800m:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.1.0-0", "versionEndExcluding": "6.0.0-4", "lastModified": "2022-02-09T18:11:13.410", "cpeLastModified": "2022-02-09T18:11:18.013", "created": "2022-02-09T18:11:13.410", "status": "Active"}}

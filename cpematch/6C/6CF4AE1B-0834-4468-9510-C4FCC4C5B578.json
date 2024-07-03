@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6CF4AE1B-0834-4468-9510-C4FCC4C5B578", "criteria": "cpe:2.3:a:linux:kubevela:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.6.0", "versionEndExcluding": "1.6.2", "lastModified": "2022-11-19T03:00:13.250", "cpeLastModified": "2022-11-18T19:02:25.080", "created": "2022-11-18T18:52:39.630", "status": "Inactive"}}

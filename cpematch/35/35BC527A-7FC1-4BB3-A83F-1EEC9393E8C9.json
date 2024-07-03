@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "35BC527A-7FC1-4BB3-A83F-1EEC9393E8C9", "criteria": "cpe:2.3:o:siemens:ruggedcom_ros_rsg2488_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.5.4", "lastModified": "2021-07-28T18:25:19.187", "created": "2021-07-28T18:25:19.187", "status": "Active"}}

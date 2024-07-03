@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "89885F95-856F-47A6-8EEA-CBFF3D2D59A8", "criteria": "cpe:2.3:o:cisco:unified_computing_system:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.1", "versionEndExcluding": "4.1\\(3d\\)", "lastModified": "2021-09-03T13:17:23.297", "cpeLastModified": "2021-09-03T13:27:35.210", "created": "2021-09-03T13:17:23.297", "status": "Active"}}

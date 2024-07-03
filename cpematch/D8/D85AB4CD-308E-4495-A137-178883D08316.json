@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D85AB4CD-308E-4495-A137-178883D08316", "criteria": "cpe:2.3:o:fortinet:meru_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.6.0", "versionEndExcluding": "8.6.2", "lastModified": "2021-12-13T19:02:25.917", "cpeLastModified": "2021-12-13T20:00:44.500", "created": "2021-12-13T19:02:25.917", "status": "Active"}}

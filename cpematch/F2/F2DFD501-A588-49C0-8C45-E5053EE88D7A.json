@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F2DFD501-A588-49C0-8C45-E5053EE88D7A", "criteria": "cpe:2.3:a:apache:wicket:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.12.0", "lastModified": "2021-05-28T18:06:57.010", "cpeLastModified": "2021-05-28T18:06:57.010", "created": "2021-05-28T18:06:57.010", "status": "Inactive"}}

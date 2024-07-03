@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "43E0EE61-0097-4AC9-9F7F-1CFEFFA0F922", "criteria": "cpe:2.3:o:amazon:freertos:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.2.0", "versionEndExcluding": "10.4.6", "lastModified": "2021-11-23T12:28:55.810", "created": "2021-11-23T12:28:55.810", "status": "Inactive"}}

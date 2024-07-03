@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A2927A66-6520-4C3E-8C06-F2680D462024", "criteria": "cpe:2.3:a:citrix:netscaler_sd-wan:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.4", "versionEndExcluding": "11.4.0.a", "lastModified": "2021-08-13T12:25:41.167", "cpeLastModified": "2021-08-13T12:26:42.893", "created": "2021-08-13T12:25:41.167", "status": "Inactive"}}

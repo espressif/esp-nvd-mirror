@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3D764006-807F-4688-A2BA-DE3BBBF014F6", "criteria": "cpe:2.3:a:shescape_project:shescape:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "1.5.10", "versionEndExcluding": "1.6.1", "lastModified": "2022-10-27T14:07:02.390", "cpeLastModified": "2022-10-27T14:06:25.037", "created": "2022-10-27T14:06:25.037", "status": "Inactive"}}

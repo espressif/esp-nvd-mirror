@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E41D49EC-3B1B-49BC-8D59-50F1647E35F1", "criteria": "cpe:2.3:a:eset:endpoint_antivirus:*:*:*:*:*:linux_kernel:*:*", "versionStartIncluding": "7.1.6.0", "versionEndIncluding": "7.1.9.0", "lastModified": "2022-03-08T15:28:14.530", "cpeLastModified": "2022-03-08T15:28:23.190", "created": "2022-03-08T15:28:14.530", "status": "Active"}}

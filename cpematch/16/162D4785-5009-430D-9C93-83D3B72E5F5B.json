@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "162D4785-5009-430D-9C93-83D3B72E5F5B", "criteria": "cpe:2.3:a:citrix:sd-wan:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.4.0", "versionEndExcluding": "11.4.2", "lastModified": "2021-12-08T16:35:42.853", "created": "2021-12-08T16:35:42.853", "status": "Inactive"}}

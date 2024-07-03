@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F3C47308-4B3A-456E-903C-7C3544B5D7BC", "criteria": "cpe:2.3:a:symantec:proxysg:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.5", "versionEndExcluding": "6.5.10.15", "lastModified": "2019-09-04T13:37:24.510", "cpeLastModified": "2021-06-24T18:55:22.087", "created": "2019-09-04T13:37:24.510", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CECBF5A6-5B1F-4D91-98C1-4507F86A1ED5", "criteria": "cpe:2.3:a:wordpress:wordpress:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.7", "versionEndExcluding": "5.5.5", "lastModified": "2021-06-11T11:15:27.567", "cpeLastModified": "2021-06-14T14:08:14.823", "created": "2021-06-11T11:15:27.567", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1CE69F8D-5EEE-4BC7-939C-CE71BCD2E11D", "criteria": "cpe:2.3:o:ibm:stn6500_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.8.0.0", "versionEndExcluding": "3.8.0.07", "lastModified": "2024-07-19T15:22:53.990", "cpeLastModified": "2024-07-19T15:22:53.990", "created": "2024-07-19T15:22:53.990", "status": "Active"}}

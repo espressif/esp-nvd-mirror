@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DEFFCF19-33BF-4562-A6D2-2B5AACE8D618", "criteria": "cpe:2.3:a:arm:utgard_gpu_kernel_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "r11p0", "versionEndIncluding": "r12p0", "lastModified": "2022-11-25T19:27:46.763", "cpeLastModified": "2022-11-25T19:26:33.107", "created": "2022-11-25T19:26:33.107", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5C9FF448-B8FA-4A84-802C-370D5D902E2A", "criteria": "cpe:2.3:a:snowsoftware:snow_inventory_agent:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.14.0", "versionEndExcluding": "6.14.5", "lastModified": "2024-02-14T21:23:26.417", "cpeLastModified": "2024-02-14T21:23:26.417", "created": "2024-02-14T21:23:26.417", "status": "Active"}}

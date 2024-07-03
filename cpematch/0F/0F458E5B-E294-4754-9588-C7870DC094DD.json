@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0F458E5B-E294-4754-9588-C7870DC094DD", "criteria": "cpe:2.3:a:openstack:glance-store:*:*:*:*:*:*:*:*", "versionEndExcluding": "4.7.0", "lastModified": "2024-03-28T13:02:25.890", "cpeLastModified": "2024-03-28T13:02:25.890", "created": "2024-03-28T13:02:25.890", "status": "Active"}}

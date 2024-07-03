@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E8E9A015-A06D-40CA-BDD7-2FB811296C92", "criteria": "cpe:2.3:a:openstack:sushy-tools:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.21.1", "lastModified": "2022-11-02T02:00:12.310", "cpeLastModified": "2022-11-01T14:28:51.430", "created": "2022-11-01T13:51:45.403", "status": "Inactive"}}

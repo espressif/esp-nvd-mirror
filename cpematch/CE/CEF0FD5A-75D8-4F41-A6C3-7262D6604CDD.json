@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CEF0FD5A-75D8-4F41-A6C3-7262D6604CDD", "criteria": "cpe:2.3:o:hikvision:ds-7608ni-q2\\/8p_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.30.210", "versionEndIncluding": "4.31.000", "lastModified": "2021-10-12T14:50:58.450", "cpeLastModified": "2021-10-15T17:12:55.180", "created": "2021-10-12T14:50:58.450", "status": "Active"}}

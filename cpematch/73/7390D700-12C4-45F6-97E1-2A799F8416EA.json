@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7390D700-12C4-45F6-97E1-2A799F8416EA", "criteria": "cpe:2.3:a:arm:midguard_gpu_kernel_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "r28p0", "versionEndIncluding": "r29p0", "lastModified": "2022-05-24T16:45:13.770", "cpeLastModified": "2022-05-24T16:45:13.770", "created": "2022-05-24T16:45:13.770", "status": "Active"}}

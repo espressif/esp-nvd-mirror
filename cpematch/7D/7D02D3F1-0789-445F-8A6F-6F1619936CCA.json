@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7D02D3F1-0789-445F-8A6F-6F1619936CCA", "criteria": "cpe:2.3:o:cisco:vsmart_controller_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.3", "versionEndExcluding": "20.3.4", "lastModified": "2021-09-28T16:29:06.847", "created": "2021-09-28T16:29:06.847", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5AA06E68-4BA8-4953-9FDE-ECA6DE8D3893", "criteria": "cpe:2.3:a:automattic:woocommerce_payments:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.2.0", "versionEndExcluding": "5.2.2", "lastModified": "2023-04-18T14:57:41.300", "cpeLastModified": "2023-04-18T14:46:33.243", "created": "2023-04-18T14:46:33.243", "status": "Inactive"}}

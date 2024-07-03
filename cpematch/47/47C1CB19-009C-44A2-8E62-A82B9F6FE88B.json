@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "47C1CB19-009C-44A2-8E62-A82B9F6FE88B", "criteria": "cpe:2.3:a:siemens:medix:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "10.4.0", "lastModified": "2023-11-17T20:45:19.917", "cpeLastModified": "2023-11-27T15:34:07.757", "created": "2023-11-17T20:45:19.917", "status": "Active"}}

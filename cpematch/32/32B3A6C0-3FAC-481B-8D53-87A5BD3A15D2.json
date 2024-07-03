@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "32B3A6C0-3FAC-481B-8D53-87A5BD3A15D2", "criteria": "cpe:2.3:a:ibm:maximo_application_suite:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.4", "versionEndIncluding": "8.9", "lastModified": "2023-03-03T17:06:15.747", "cpeLastModified": "2023-03-02T18:12:53.380", "created": "2023-03-02T18:12:53.380", "status": "Inactive"}}

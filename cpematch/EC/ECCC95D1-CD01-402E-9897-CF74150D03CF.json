@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ECCC95D1-CD01-402E-9897-CF74150D03CF", "criteria": "cpe:2.3:a:graphql:graphiql:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "0.5.0", "versionEndExcluding": "1.4.7", "lastModified": "2021-11-05T14:13:31.670", "cpeLastModified": "2021-11-09T15:35:50.503", "created": "2021-11-05T14:13:31.670", "status": "Active"}}

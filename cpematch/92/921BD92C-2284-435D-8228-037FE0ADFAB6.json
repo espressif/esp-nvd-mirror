@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "921BD92C-2284-435D-8228-037FE0ADFAB6", "criteria": "cpe:2.3:a:algosec:fireflow:*:*:*:*:*:*:*:*", "versionStartIncluding": "a32.10", "versionEndExcluding": "a32.10.410-212", "lastModified": "2022-10-27T12:07:24.923", "cpeLastModified": "2022-10-27T12:07:24.923", "created": "2022-10-27T12:07:24.923", "status": "Active"}}

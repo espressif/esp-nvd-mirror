@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7575CD36-49C8-464F-8234-931A26067CE6", "criteria": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*", "versionStartIncluding": "15.0.0", "versionEndExcluding": "15.1.4.1", "lastModified": "2022-01-31T16:38:28.770", "created": "2022-01-31T16:38:28.770", "status": "Inactive"}}

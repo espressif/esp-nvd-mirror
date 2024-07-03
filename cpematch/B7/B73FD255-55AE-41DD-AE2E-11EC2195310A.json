@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B73FD255-55AE-41DD-AE2E-11EC2195310A", "criteria": "cpe:2.3:a:vmware:spring_data_rest:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.4.0", "versionEndIncluding": "3.4.13", "lastModified": "2021-10-29T13:22:24.537", "cpeLastModified": "2021-11-01T15:59:50.890", "created": "2021-10-29T13:22:24.537", "status": "Active"}}

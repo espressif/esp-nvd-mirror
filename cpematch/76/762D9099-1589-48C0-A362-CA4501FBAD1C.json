@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "762D9099-1589-48C0-A362-CA4501FBAD1C", "criteria": "cpe:2.3:a:gnu:cvs:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.11.0", "versionEndExcluding": "1.11.17", "lastModified": "2024-02-08T18:18:03.167", "cpeLastModified": "2024-02-08T18:18:03.167", "created": "2024-02-08T18:18:03.167", "status": "Active"}}

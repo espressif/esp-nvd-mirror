@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8AE9A733-0849-4587-8F47-A03E662F71B2", "criteria": "cpe:2.3:a:tendermint-light-client-js_project:tendermint-light-client-js:*:*:*:*:rust:*:*:*", "versionEndExcluding": "0.28.0", "lastModified": "2022-12-20T16:14:11.130", "cpeLastModified": "2022-12-20T16:14:11.130", "created": "2022-12-20T16:14:11.130", "status": "Active"}}

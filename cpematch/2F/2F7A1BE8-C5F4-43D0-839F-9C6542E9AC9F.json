@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2F7A1BE8-C5F4-43D0-839F-9C6542E9AC9F", "criteria": "cpe:2.3:a:centos-webpanel:centos_web_panel:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.9.8.856", "versionEndIncluding": "0.9.8.864", "lastModified": "2023-01-25T03:00:13.270", "cpeLastModified": "2023-01-24T18:57:10.577", "created": "2019-12-18T16:33:43.480", "status": "Inactive"}}

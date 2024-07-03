@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8CB3234A-3AA4-4675-8098-3F307B0EBA5C", "criteria": "cpe:2.3:o:lancom-systems:lcos:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.40", "versionEndExcluding": "10.42.0473", "lastModified": "2021-10-13T18:49:58.477", "cpeLastModified": "2021-10-15T12:28:06.247", "created": "2021-10-13T18:49:58.477", "status": "Active"}}

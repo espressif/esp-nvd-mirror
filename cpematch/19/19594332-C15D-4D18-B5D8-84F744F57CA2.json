@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "19594332-C15D-4D18-B5D8-84F744F57CA2", "criteria": "cpe:2.3:a:lighttpd:lighttpd:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.4.56", "versionEndIncluding": "1.4.58", "lastModified": "2022-06-14T13:38:02.170", "cpeLastModified": "2022-06-14T13:38:02.170", "created": "2022-06-14T13:38:02.170", "status": "Inactive"}}

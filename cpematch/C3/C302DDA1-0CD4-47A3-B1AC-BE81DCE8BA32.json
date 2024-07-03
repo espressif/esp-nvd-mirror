@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C302DDA1-0CD4-47A3-B1AC-BE81DCE8BA32", "criteria": "cpe:2.3:a:intel:active_management_technology:*:*:*:*:*:*:*:*", "versionStartIncluding": "16.1.0", "versionEndExcluding": "16.1.25", "lastModified": "2022-11-15T14:21:21.523", "cpeLastModified": "2022-11-15T14:21:21.523", "created": "2022-11-15T14:21:21.523", "status": "Active"}}

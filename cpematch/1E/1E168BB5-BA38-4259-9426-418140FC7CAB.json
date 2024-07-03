@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1E168BB5-BA38-4259-9426-418140FC7CAB", "criteria": "cpe:2.3:a:ibm:security_verify_password_synchronization:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "10.0.4", "lastModified": "2022-05-05T13:59:18.023", "cpeLastModified": "2022-05-05T13:59:18.023", "created": "2022-05-05T13:59:18.023", "status": "Active"}}

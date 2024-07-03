@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "11D274CC-EC33-4E38-9018-529C6A5F9552", "criteria": "cpe:2.3:a:mediawiki:campaignevents:*:*:*:*:*:mediawiki:*:*", "versionStartIncluding": "1.36.0", "versionEndExcluding": "1.39.6", "lastModified": "2024-01-17T20:12:06.820", "cpeLastModified": "2024-01-17T19:42:39.170", "created": "2024-01-17T19:42:39.170", "status": "Inactive"}}

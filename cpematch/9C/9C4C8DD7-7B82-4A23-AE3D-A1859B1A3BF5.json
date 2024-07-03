@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9C4C8DD7-7B82-4A23-AE3D-A1859B1A3BF5", "criteria": "cpe:2.3:h:dell:emc_idrac9:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.40.00.00", "versionEndExcluding": "4.40.10.00", "lastModified": "2021-08-03T12:40:19.230", "created": "2021-08-03T12:40:19.230", "status": "Inactive"}}

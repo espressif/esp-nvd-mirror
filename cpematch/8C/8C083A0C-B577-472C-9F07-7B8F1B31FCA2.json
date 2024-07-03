@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8C083A0C-B577-472C-9F07-7B8F1B31FCA2", "criteria": "cpe:2.3:a:redhat:xnio:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.8.3", "versionEndExcluding": "3.9.0", "lastModified": "2021-06-08T13:27:46.560", "cpeLastModified": "2021-06-08T13:30:43.037", "created": "2021-06-08T13:27:46.560", "status": "Inactive"}}

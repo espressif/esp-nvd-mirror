@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E2E43DCC-660E-4949-B671-F75844CA7995", "criteria": "cpe:2.3:a:1password:1password:*:*:*:*:*:android:*:*", "versionStartIncluding": "8.0", "versionEndExcluding": "8.8.0-104", "lastModified": "2022-06-24T14:03:10.453", "cpeLastModified": "2022-06-24T14:03:10.453", "created": "2022-06-24T14:03:10.453", "status": "Active"}}

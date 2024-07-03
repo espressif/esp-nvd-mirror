@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "99E5D6FB-5CEF-430C-81AC-928A9A01B9C6", "criteria": "cpe:2.3:a:linux:infiniband_hfi1_driver:*:*:*:*:*:*:*:*", "versionEndIncluding": "5.9", "lastModified": "2021-01-12T04:09:46.567", "created": "2021-01-12T04:09:46.567", "status": "Active"}}

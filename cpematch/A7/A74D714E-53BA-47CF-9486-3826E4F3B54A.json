@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A74D714E-53BA-47CF-9486-3826E4F3B54A", "criteria": "cpe:2.3:a:vmware:vrealize_network_insight:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0", "versionEndIncluding": "6.9", "lastModified": "2023-06-14T14:01:03.593", "cpeLastModified": "2023-06-14T13:32:40.143", "created": "2023-06-14T13:32:40.143", "status": "Inactive"}}

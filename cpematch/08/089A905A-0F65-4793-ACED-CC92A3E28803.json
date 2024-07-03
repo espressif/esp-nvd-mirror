@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "089A905A-0F65-4793-ACED-CC92A3E28803", "criteria": "cpe:2.3:a:ibm:transformation_extender_advanced:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.0.0", "versionEndExcluding": "9.0.2.5", "lastModified": "2021-10-26T02:11:55.903", "cpeLastModified": "2021-10-26T02:12:08.333", "created": "2021-10-26T02:11:55.903", "status": "Active"}}

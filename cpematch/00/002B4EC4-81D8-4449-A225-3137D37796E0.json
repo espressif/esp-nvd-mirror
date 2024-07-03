@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "002B4EC4-81D8-4449-A225-3137D37796E0", "criteria": "cpe:2.3:a:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.11.0", "versionEndExcluding": "9.11.1", "lastModified": "2024-02-05T14:24:15.350", "cpeLastModified": "2024-02-05T14:24:15.350", "created": "2024-02-05T14:24:15.350", "status": "Active"}}

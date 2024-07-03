@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FA073A7B-C1F0-4903-A339-13D380C9B2C2", "criteria": "cpe:2.3:a:eset:file_security:*:*:*:*:*:windows_server:*:*", "versionStartIncluding": "7.0.12014.0", "versionEndExcluding": "7.3.12008.0", "lastModified": "2022-02-11T13:14:26.220", "created": "2022-02-11T13:14:26.220", "status": "Inactive"}}

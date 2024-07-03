@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "664A2CB3-B739-40FE-9E39-2304886E562F", "criteria": "cpe:2.3:a:kaazing:kaazing_gateway:*:*:*:*:jms:*:*:*", "versionStartIncluding": "4.5.0", "versionEndExcluding": "4.5.3", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}

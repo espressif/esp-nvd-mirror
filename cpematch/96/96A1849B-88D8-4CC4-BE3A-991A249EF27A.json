@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "96A1849B-88D8-4CC4-BE3A-991A249EF27A", "criteria": "cpe:2.3:a:ltgplc:rustici_software_scorm_engine:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.1.0", "versionEndExcluding": "21.1.7.219", "lastModified": "2022-06-13T14:03:05.770", "cpeLastModified": "2022-06-13T14:03:05.770", "created": "2022-06-13T14:03:05.770", "status": "Inactive"}}

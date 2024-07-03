@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "635F41C5-83BA-424C-AFF8-7B80620D9131", "criteria": "cpe:2.3:a:ibm:powervm_virtual_i\\/o_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.1.0", "versionEndIncluding": "3.1.3", "lastModified": "2022-08-04T13:44:46.817", "cpeLastModified": "2022-08-04T13:44:46.817", "created": "2022-08-04T13:44:46.817", "status": "Inactive"}}

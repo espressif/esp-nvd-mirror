@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "328A0CC6-9ED6-4F93-9F67-A527AF5787ED", "criteria": "cpe:2.3:a:apache:cxf:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.3.0", "versionEndExcluding": "3.3.10", "lastModified": "2021-04-05T17:21:46.850", "cpeLastModified": "2021-04-05T17:26:10.417", "created": "2021-04-05T17:21:46.850", "status": "Inactive"}}

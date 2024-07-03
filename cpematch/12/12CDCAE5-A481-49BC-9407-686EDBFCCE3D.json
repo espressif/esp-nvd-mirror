@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "12CDCAE5-A481-49BC-9407-686EDBFCCE3D", "criteria": "cpe:2.3:a:apache:flume:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.4.0", "versionEndIncluding": "1.10.0", "lastModified": "2022-08-22T15:22:14.670", "cpeLastModified": "2022-08-22T15:22:14.670", "created": "2022-08-22T15:22:14.670", "status": "Inactive"}}

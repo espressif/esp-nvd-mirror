@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EF586D9F-FE52-4320-A68B-7F5445D64BB1", "criteria": "cpe:2.3:o:netapp:e-series_santricity_os_controller:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.0", "versionEndIncluding": "11.5", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-17T09:16:33.960", "status": "Active"}}

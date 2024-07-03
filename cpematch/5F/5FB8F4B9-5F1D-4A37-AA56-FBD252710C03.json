@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5FB8F4B9-5F1D-4A37-AA56-FBD252710C03", "criteria": "cpe:2.3:a:imagemagick:imagemagick:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.1.0-0", "versionEndExcluding": "7.1.0-4", "lastModified": "2022-03-30T14:20:31.740", "created": "2022-03-30T14:20:31.740", "status": "Inactive"}}

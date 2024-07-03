@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "35D1D5BC-B6BB-4D5C-85D6-561E12AD9C84", "criteria": "cpe:2.3:a:illumio:illumio_core_pce:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.2.0", "versionEndExcluding": "21.2.8", "lastModified": "2023-10-03T02:00:16.983", "cpeLastModified": "2023-10-02T18:46:04.417", "created": "2023-10-02T18:42:18.587", "status": "Inactive"}}

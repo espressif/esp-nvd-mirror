@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DB961D31-384B-419A-B5E1-22F290860ADE", "criteria": "cpe:2.3:o:cisco:unified_intelligence_center:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.0\\(1\\)", "versionEndExcluding": "12.0\\(1\\)es14", "lastModified": "2021-04-13T14:07:02.227", "created": "2021-04-13T14:07:02.227", "status": "Active"}}

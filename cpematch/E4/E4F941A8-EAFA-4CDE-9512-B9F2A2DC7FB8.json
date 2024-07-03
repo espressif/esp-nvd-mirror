@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E4F941A8-EAFA-4CDE-9512-B9F2A2DC7FB8", "criteria": "cpe:2.3:a:mendix:saml:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.3.1", "versionEndExcluding": "3.3.4", "lastModified": "2022-11-10T03:00:51.317", "cpeLastModified": "2022-11-08T16:14:47.803", "created": "2022-11-08T16:14:47.803", "status": "Inactive"}}

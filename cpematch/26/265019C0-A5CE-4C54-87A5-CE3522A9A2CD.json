@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "265019C0-A5CE-4C54-87A5-CE3522A9A2CD", "criteria": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.1", "versionEndExcluding": "20.1.2", "lastModified": "2024-06-11T02:00:59.403", "cpeLastModified": "2024-06-10T13:35:19.780", "created": "2024-06-10T13:35:19.780", "status": "Inactive"}}

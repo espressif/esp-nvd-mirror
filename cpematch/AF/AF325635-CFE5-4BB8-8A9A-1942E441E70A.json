@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AF325635-CFE5-4BB8-8A9A-1942E441E70A", "criteria": "cpe:2.3:a:ibm:spectrum_virtualize_software:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.5", "versionEndIncluding": "8.2", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-17T09:16:33.960", "status": "Active"}}

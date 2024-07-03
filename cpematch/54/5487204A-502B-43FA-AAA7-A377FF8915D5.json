@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5487204A-502B-43FA-AAA7-A377FF8915D5", "criteria": "cpe:2.3:a:amazon:apache_log4j_hotpatch:*:*:*:*:*:*:*:*", "versionEndExcluding": "log4j-cve-2021-44228-hotpatch-1.3-5", "lastModified": "2022-06-30T12:17:16.787", "cpeLastModified": "2022-06-30T12:17:16.787", "created": "2022-06-30T12:17:16.787", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "04C21CEF-979F-4AC0-AD4A-6F4650174279", "criteria": "cpe:2.3:a:redhat:apicast:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.13.0", "versionEndExcluding": "2.13.2", "lastModified": "2023-09-29T14:45:07.013", "cpeLastModified": "2023-09-29T14:45:07.013", "created": "2023-09-29T14:45:07.013", "status": "Active"}}

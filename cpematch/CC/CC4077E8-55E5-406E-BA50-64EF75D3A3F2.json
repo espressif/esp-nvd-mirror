@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CC4077E8-55E5-406E-BA50-64EF75D3A3F2", "criteria": "cpe:2.3:o:zyxel:usg_flex_100_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.50", "versionEndExcluding": "5.32", "lastModified": "2023-02-14T03:00:25.100", "cpeLastModified": "2023-02-13T18:20:28.150", "created": "2023-02-13T18:20:28.150", "status": "Inactive"}}

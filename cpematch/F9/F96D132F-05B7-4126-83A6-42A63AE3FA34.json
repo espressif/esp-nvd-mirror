@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F96D132F-05B7-4126-83A6-42A63AE3FA34", "criteria": "cpe:2.3:o:emc:data_domain_os:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.1", "versionEndExcluding": "6.1.0.21", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}

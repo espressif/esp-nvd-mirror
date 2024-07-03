@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4891586B-83F1-49B4-A1CF-AA5CC81B5040", "criteria": "cpe:2.3:a:apache:airflow:*:*:*:*:*:*:*:*", "versionEndIncluding": "2.3.0", "lastModified": "2022-09-22T02:00:11.940", "cpeLastModified": "2022-09-21T18:50:13.300", "created": "2022-09-21T18:50:13.300", "status": "Inactive"}}

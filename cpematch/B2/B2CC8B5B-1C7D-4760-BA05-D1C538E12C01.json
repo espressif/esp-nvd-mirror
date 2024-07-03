@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B2CC8B5B-1C7D-4760-BA05-D1C538E12C01", "criteria": "cpe:2.3:a:dell:idrac9:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.00.00.00", "versionEndExcluding": "5.10.10.00", "lastModified": "2022-06-06T18:40:14.113", "cpeLastModified": "2022-06-06T18:40:14.113", "created": "2022-06-06T18:40:14.113", "status": "Active"}}

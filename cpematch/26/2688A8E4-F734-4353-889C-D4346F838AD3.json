@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2688A8E4-F734-4353-889C-D4346F838AD3", "criteria": "cpe:2.3:o:cisco:aironet_access_point_software:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.10.0", "versionEndExcluding": "8.10.162.0", "lastModified": "2021-10-13T19:56:28.203", "cpeLastModified": "2021-10-14T14:14:22.230", "created": "2021-10-13T19:56:28.203", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8977559C-10CF-4898-AF5F-A27B15C87579", "criteria": "cpe:2.3:a:hcltech:bigfix_inventory:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0", "versionEndExcluding": "10.0.7.0", "lastModified": "2022-05-17T13:21:58.153", "cpeLastModified": "2022-05-17T13:21:58.153", "created": "2022-05-17T13:21:58.153", "status": "Active"}}

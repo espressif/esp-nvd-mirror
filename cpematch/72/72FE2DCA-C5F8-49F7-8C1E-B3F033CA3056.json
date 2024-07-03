@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "72FE2DCA-C5F8-49F7-8C1E-B3F033CA3056", "criteria": "cpe:2.3:a:apache:nifi_registry:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.6.0", "versionEndIncluding": "1.16.2", "lastModified": "2022-06-21T13:00:33.230", "cpeLastModified": "2022-06-21T13:00:33.230", "created": "2022-06-21T13:00:33.230", "status": "Active"}}

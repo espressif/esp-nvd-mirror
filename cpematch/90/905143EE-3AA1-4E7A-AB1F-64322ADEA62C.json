@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "905143EE-3AA1-4E7A-AB1F-64322ADEA62C", "criteria": "cpe:2.3:a:grafana:enterprise_metrics:*:*:*:*:*:*:amd64:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.7.1", "lastModified": "2022-12-30T03:00:17.220", "cpeLastModified": "2022-12-22T16:57:49.210", "created": "2022-12-22T16:57:49.210", "status": "Inactive"}}

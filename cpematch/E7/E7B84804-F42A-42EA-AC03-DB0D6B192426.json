@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E7B84804-F42A-42EA-AC03-DB0D6B192426", "criteria": "cpe:2.3:a:cybereason:endpoint_detection_and_response:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.1.0", "versionEndExcluding": "20.1.343", "lastModified": "2023-01-30T15:04:35.697", "cpeLastModified": "2023-01-30T15:04:35.697", "created": "2023-01-30T15:04:35.697", "status": "Active"}}

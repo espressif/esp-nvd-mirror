@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4DDFA600-BC00-4515-955B-362DA7C5BA46", "criteria": "cpe:2.3:a:isc:stock:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.15.0", "versionEndExcluding": "1.15.1", "lastModified": "2024-07-13T02:01:11.980", "cpeLastModified": "2024-07-12T17:03:21.720", "created": "2024-07-12T17:01:51.130", "status": "Inactive"}}

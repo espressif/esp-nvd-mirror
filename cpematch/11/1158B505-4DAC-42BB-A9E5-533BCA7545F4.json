@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1158B505-4DAC-42BB-A9E5-533BCA7545F4", "criteria": "cpe:2.3:o:cisco:vedge_100b_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.1", "versionEndExcluding": "20.1.1", "lastModified": "2021-05-18T17:13:14.750", "cpeLastModified": "2021-08-27T12:56:23.363", "created": "2021-05-18T17:13:14.750", "status": "Active"}}

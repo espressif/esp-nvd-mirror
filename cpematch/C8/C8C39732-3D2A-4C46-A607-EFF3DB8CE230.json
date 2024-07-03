@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C8C39732-3D2A-4C46-A607-EFF3DB8CE230", "criteria": "cpe:2.3:a:python:urllib3:*:*:*:*:*:*:*:*", "versionStartIncluding": "2", "versionEndIncluding": "2.0.6", "lastModified": "2023-10-21T02:00:16.887", "cpeLastModified": "2023-10-20T19:59:44.730", "created": "2023-10-20T19:59:44.730", "status": "Inactive"}}

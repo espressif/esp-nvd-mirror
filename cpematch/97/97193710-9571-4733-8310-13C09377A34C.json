@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "97193710-9571-4733-8310-13C09377A34C", "criteria": "cpe:2.3:a:cisco:web_security_appliance:*:*:*:*:*:*:*:*", "versionStartIncluding": "14.0", "versionEndExcluding": "14.0.2-012", "lastModified": "2022-11-08T03:00:12.663", "cpeLastModified": "2022-11-07T13:42:45.660", "created": "2022-11-07T13:42:45.660", "status": "Inactive"}}

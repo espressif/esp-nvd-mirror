@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A612DAC5-C20A-4AD9-AF2C-0FCAD59B7053", "criteria": "cpe:2.3:a:salesforce:mule:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.8.0", "versionEndExcluding": "4.3.0", "lastModified": "2021-08-12T11:42:30.187", "cpeLastModified": "2021-08-12T11:42:30.187", "created": "2021-08-12T11:42:30.187", "status": "Inactive"}}

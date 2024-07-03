@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F46BA126-9008-41B3-9486-E9DFF572C1B6", "criteria": "cpe:2.3:o:cisco:sg500x-24mpp_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5.5.0", "versionEndExcluding": "2.5.8.12", "lastModified": "2021-11-12T14:54:37.707", "cpeLastModified": "2021-11-15T15:27:48.713", "created": "2021-11-12T14:54:37.707", "status": "Active"}}

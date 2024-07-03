@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8F4D2386-AA24-4FEE-B7BA-FD0D0E5F97D5", "criteria": "cpe:2.3:o:windriver:vxworks:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.9", "versionEndIncluding": "6.9.4.12", "lastModified": "2021-05-17T21:03:09.563", "cpeLastModified": "2021-06-03T19:57:14.160", "created": "2021-05-17T21:03:09.563", "status": "Inactive"}}

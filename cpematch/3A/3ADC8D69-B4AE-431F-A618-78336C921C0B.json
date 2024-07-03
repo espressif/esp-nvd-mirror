@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3ADC8D69-B4AE-431F-A618-78336C921C0B", "criteria": "cpe:2.3:o:siemens:ruggedcom_ros_rsg920p_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.5.4", "lastModified": "2021-07-28T18:25:12.060", "created": "2021-07-28T18:25:12.060", "status": "Active"}}

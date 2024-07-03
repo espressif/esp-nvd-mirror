@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "030EEF71-94EC-4563-83C3-B8187C6C540F", "criteria": "cpe:2.3:a:genesys:intelligent_workload_distribution:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.013.11", "versionEndExcluding": "9.0.017.07", "lastModified": "2021-12-10T18:24:02.487", "created": "2021-12-10T18:24:02.487", "status": "Inactive"}}

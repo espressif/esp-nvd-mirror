@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9AA26D5E-14D9-43EA-88DA-7EE0CC4EC32F", "criteria": "cpe:2.3:o:cisco:cbs35024mgp-4x_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.4", "versionEndExcluding": "3.4.0.17", "lastModified": "2024-02-03T03:00:23.723", "cpeLastModified": "2024-02-02T15:03:40.657", "created": "2024-02-02T15:03:40.657", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E167158E-3547-40D4-A1FE-535F652EBDCB", "criteria": "cpe:2.3:a:ukg:vault-cli:*:*:*:*:*:python:*:*", "versionStartIncluding": "0.7.0", "versionEndExcluding": "3.0.0", "lastModified": "2021-12-22T14:49:26.557", "cpeLastModified": "2022-02-08T18:48:36.587", "created": "2021-12-22T14:49:26.557", "status": "Inactive"}}

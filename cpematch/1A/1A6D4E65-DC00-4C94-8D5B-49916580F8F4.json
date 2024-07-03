@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1A6D4E65-DC00-4C94-8D5B-49916580F8F4", "criteria": "cpe:2.3:a:dhis2:dhis_2:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.36.0", "versionEndExcluding": "2.36.10.1", "lastModified": "2022-06-07T18:42:16.037", "cpeLastModified": "2022-06-07T18:42:16.037", "created": "2022-06-07T18:42:16.037", "status": "Inactive"}}

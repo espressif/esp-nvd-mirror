@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "13FD7C98-C2AC-44DE-BD23-0AB067E2AB0B", "criteria": "cpe:2.3:a:payara:payara:*:*:*:*:community:*:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.2022.1", "lastModified": "2022-11-10T16:41:01.413", "cpeLastModified": "2022-11-10T16:41:01.413", "created": "2022-11-10T16:41:01.413", "status": "Active"}}

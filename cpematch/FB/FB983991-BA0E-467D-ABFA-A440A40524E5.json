@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FB983991-BA0E-467D-ABFA-A440A40524E5", "criteria": "cpe:2.3:a:apache:log4j:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.13.0", "versionEndExcluding": "2.13.1", "lastModified": "2022-03-24T15:49:04.400", "created": "2022-03-24T15:49:04.400", "status": "Inactive"}}

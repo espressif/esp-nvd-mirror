@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BEEAE91C-12C3-49D8-8844-92FC9C4FEABE", "criteria": "cpe:2.3:a:ibm:api_connect:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0.0", "versionEndIncluding": "10.0.5.1", "lastModified": "2023-05-23T02:00:12.143", "cpeLastModified": "2023-05-20T03:27:33.900", "created": "2023-05-20T03:27:33.900", "status": "Inactive"}}

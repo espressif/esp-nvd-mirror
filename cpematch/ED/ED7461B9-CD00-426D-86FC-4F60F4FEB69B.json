@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ED7461B9-CD00-426D-86FC-4F60F4FEB69B", "criteria": "cpe:2.3:a:neo4j:awesome_procedures:*:*:*:*:*:neo4j:*:*", "versionStartIncluding": "4.0.0", "versionEndIncluding": "4.3.6", "lastModified": "2022-03-07T18:25:17.580", "created": "2022-03-07T18:25:17.580", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "23F0ABA4-3137-44B4-84EF-5DF8DC2D2C78", "criteria": "cpe:2.3:a:zstack:*:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.1.0", "versionEndExcluding": "4.1.6", "lastModified": "2021-09-16T14:25:02.950", "cpeLastModified": "2021-09-16T16:29:33.203", "created": "2021-09-16T14:25:02.950", "status": "Inactive"}}

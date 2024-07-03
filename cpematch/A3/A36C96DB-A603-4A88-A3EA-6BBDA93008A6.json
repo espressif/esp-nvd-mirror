@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A36C96DB-A603-4A88-A3EA-6BBDA93008A6", "criteria": "cpe:2.3:a:zend:framework:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.3.0", "versionEndExcluding": "2.3.5", "lastModified": "2019-10-30T12:14:13.087", "created": "2019-10-30T12:14:13.087", "status": "Active"}}

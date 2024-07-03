@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E8D3F29B-E52E-4C7F-9D7A-A100CDC72276", "criteria": "cpe:2.3:a:grafana:google_sheets:*:*:*:*:*:grafana:*:*", "versionStartIncluding": "0.9.0", "versionEndExcluding": "1.2.2", "lastModified": "2023-10-20T17:01:12.960", "cpeLastModified": "2023-10-20T14:41:15.223", "created": "2023-10-20T14:41:15.223", "status": "Inactive"}}

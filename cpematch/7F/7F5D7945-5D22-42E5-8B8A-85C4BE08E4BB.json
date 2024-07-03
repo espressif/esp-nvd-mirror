@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7F5D7945-5D22-42E5-8B8A-85C4BE08E4BB", "criteria": "cpe:2.3:a:apache:http_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.4.1", "versionEndIncluding": "2.4.9", "lastModified": "2022-09-14T16:03:45.720", "cpeLastModified": "2022-09-14T16:03:45.720", "created": "2022-09-14T16:03:45.720", "status": "Inactive"}}

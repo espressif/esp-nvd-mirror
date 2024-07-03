@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6425FB98-BAF2-4076-9504-224B12AD7FF7", "criteria": "cpe:2.3:a:vmware:spring_boot_tools:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.40.0", "lastModified": "2022-11-07T14:44:02.757", "cpeLastModified": "2022-11-07T14:44:02.757", "created": "2022-11-07T14:44:02.757", "status": "Active"}}

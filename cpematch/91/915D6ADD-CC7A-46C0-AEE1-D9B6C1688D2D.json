@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "915D6ADD-CC7A-46C0-AEE1-D9B6C1688D2D", "criteria": "cpe:2.3:a:travis-ci:travis_ci:*:*:*:*:*:*:*:*", "versionStartIncluding": "2021-09-03", "versionEndIncluding": "2021-09-10", "lastModified": "2021-09-29T18:34:20.333", "cpeLastModified": "2021-09-29T18:37:53.703", "created": "2021-09-29T18:34:20.333", "status": "Active"}}

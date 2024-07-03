@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6A2F72A9-5874-4A60-83A2-521BA21EC095", "criteria": "cpe:2.3:a:nextcloud:end-to-end_encryption:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.6.0", "versionEndExcluding": "1.6.3", "lastModified": "2021-06-22T19:10:04.077", "created": "2021-06-22T19:10:04.077", "status": "Active"}}

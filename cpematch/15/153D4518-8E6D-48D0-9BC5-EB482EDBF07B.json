@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "153D4518-8E6D-48D0-9BC5-EB482EDBF07B", "criteria": "cpe:2.3:a:microsoft:azure_storage_blobs:*:*:*:*:*:java:*:*", "versionEndExcluding": "12.18.0", "lastModified": "2022-07-19T14:53:59.460", "cpeLastModified": "2022-07-19T14:53:59.460", "created": "2022-07-19T14:53:59.460", "status": "Active"}}

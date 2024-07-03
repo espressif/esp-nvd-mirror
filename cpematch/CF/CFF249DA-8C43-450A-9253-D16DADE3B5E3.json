@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CFF249DA-8C43-450A-9253-D16DADE3B5E3", "criteria": "cpe:2.3:o:bosch:cpp14_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.50", "versionEndIncluding": "8.72", "lastModified": "2023-07-06T02:00:14.553", "cpeLastModified": "2023-07-03T16:35:47.450", "created": "2023-07-03T16:35:47.450", "status": "Inactive"}}

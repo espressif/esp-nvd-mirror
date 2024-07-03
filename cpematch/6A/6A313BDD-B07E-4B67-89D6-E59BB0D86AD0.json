@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6A313BDD-B07E-4B67-89D6-E59BB0D86AD0", "criteria": "cpe:2.3:a:pivotal_software:spring_security:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.0.12", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-06-08T18:22:53.623", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

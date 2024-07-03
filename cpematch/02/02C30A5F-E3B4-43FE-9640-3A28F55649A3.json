@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "02C30A5F-E3B4-43FE-9640-3A28F55649A3", "criteria": "cpe:2.3:a:microfocus:netiq_self_service_password_reset:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.4.0.0", "versionEndExcluding": "4.4.0.3", "lastModified": "2019-08-22T16:49:59.717", "created": "2019-08-22T16:49:59.717", "status": "Active"}}

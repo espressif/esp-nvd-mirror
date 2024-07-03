@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A84C593D-7A8C-49F4-A490-4D330D8BCBD8", "criteria": "cpe:2.3:a:f5:big-ip_apm:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.0.0", "versionEndIncluding": "12.1.1", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-17T09:16:33.960", "status": "Active"}}

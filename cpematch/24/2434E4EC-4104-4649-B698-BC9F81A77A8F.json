@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2434E4EC-4104-4649-B698-BC9F81A77A8F", "criteria": "cpe:2.3:a:proofpoint:spam_engine:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.12.0-2104190000", "versionEndExcluding": "8.12.0-2106240000", "lastModified": "2021-10-19T16:23:51.037", "cpeLastModified": "2021-10-19T16:28:05.780", "created": "2021-10-19T16:23:51.037", "status": "Active"}}

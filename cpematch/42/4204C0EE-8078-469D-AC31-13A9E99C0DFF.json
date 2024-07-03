@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4204C0EE-8078-469D-AC31-13A9E99C0DFF", "criteria": "cpe:2.3:a:cyberark:endpoint_privilege_manager:*:*:*:*:*:windows:*:*", "versionStartIncluding": "11.5.3.328", "versionEndExcluding": "11.5.4.355", "lastModified": "2022-01-22T04:25:47.337", "cpeLastModified": "2022-01-24T13:56:11.017", "created": "2022-01-22T04:25:47.337", "status": "Active"}}

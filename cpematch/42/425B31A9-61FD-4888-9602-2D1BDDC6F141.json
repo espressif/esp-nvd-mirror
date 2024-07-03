@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "425B31A9-61FD-4888-9602-2D1BDDC6F141", "criteria": "cpe:2.3:o:siemens:symbia_t_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "vb22", "versionEndExcluding": "vb22a-ud03", "lastModified": "2022-06-10T17:28:56.230", "cpeLastModified": "2022-06-10T17:28:56.230", "created": "2022-06-10T17:28:56.230", "status": "Active"}}

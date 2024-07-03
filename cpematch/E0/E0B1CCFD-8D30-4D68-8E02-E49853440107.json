@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E0B1CCFD-8D30-4D68-8E02-E49853440107", "criteria": "cpe:2.3:a:jenkins:hashicorp_vault:*:*:*:*:*:wordpress:*:*", "versionEndIncluding": "360.v0a_1c04cf807d", "lastModified": "2023-05-22T18:59:50.160", "cpeLastModified": "2023-05-22T18:59:50.160", "created": "2023-05-22T18:59:50.160", "status": "Active"}}

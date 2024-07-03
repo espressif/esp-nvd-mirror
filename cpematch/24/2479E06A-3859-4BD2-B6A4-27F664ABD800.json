@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2479E06A-3859-4BD2-B6A4-27F664ABD800", "criteria": "cpe:2.3:a:splunk:universal_forwarder:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.1.0", "versionEndExcluding": "8.1.11", "lastModified": "2022-08-17T15:53:30.470", "cpeLastModified": "2022-08-17T15:53:30.470", "created": "2022-08-17T15:53:30.470", "status": "Active"}}

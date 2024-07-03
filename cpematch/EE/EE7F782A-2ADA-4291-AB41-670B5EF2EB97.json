@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EE7F782A-2ADA-4291-AB41-670B5EF2EB97", "criteria": "cpe:2.3:a:istio:istio:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.9.6", "lastModified": "2021-06-30T17:03:52.723", "cpeLastModified": "2021-06-30T17:09:41.263", "created": "2021-06-30T17:03:52.723", "status": "Inactive"}}

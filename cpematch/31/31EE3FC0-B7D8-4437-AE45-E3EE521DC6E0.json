@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "31EE3FC0-B7D8-4437-AE45-E3EE521DC6E0", "criteria": "cpe:2.3:a:authelia:authelia:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.29.3", "lastModified": "2021-06-04T17:45:25.407", "cpeLastModified": "2021-06-04T17:48:46.007", "created": "2021-06-04T17:45:25.407", "status": "Inactive"}}

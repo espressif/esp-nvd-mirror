@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "329F610C-F8CB-4009-B3A2-D0CB7FDDCB28", "criteria": "cpe:2.3:a:google:protobuf-kotlin:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.19.0", "versionEndExcluding": "3.19.2", "lastModified": "2022-01-13T19:11:07.770", "cpeLastModified": "2022-01-14T15:41:51.780", "created": "2022-01-13T19:11:07.770", "status": "Active"}}

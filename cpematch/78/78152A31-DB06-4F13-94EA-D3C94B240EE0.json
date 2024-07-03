@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "78152A31-DB06-4F13-94EA-D3C94B240EE0", "criteria": "cpe:2.3:o:fujitsu:m12-2_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "xcp3000", "versionEndExcluding": "xcp3070", "lastModified": "2023-12-28T15:30:49.117", "cpeLastModified": "2023-12-28T15:30:49.117", "created": "2023-12-28T15:30:49.117", "status": "Active"}}

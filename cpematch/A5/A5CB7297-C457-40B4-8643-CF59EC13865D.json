@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A5CB7297-C457-40B4-8643-CF59EC13865D", "criteria": "cpe:2.3:a:f5:nginx_app_protect:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndIncluding": "1.3.0", "lastModified": "2021-09-22T22:01:46.920", "cpeLastModified": "2021-09-27T16:59:42.113", "created": "2021-09-22T22:01:46.920", "status": "Active"}}

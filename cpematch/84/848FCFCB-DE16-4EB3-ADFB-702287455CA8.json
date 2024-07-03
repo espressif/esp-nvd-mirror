@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "848FCFCB-DE16-4EB3-ADFB-702287455CA8", "criteria": "cpe:2.3:a:zohocorp:manageengine_network_configuration_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.5.445", "versionEndExcluding": "12.5.455", "lastModified": "2021-11-15T16:58:58.693", "created": "2021-11-15T16:58:58.693", "status": "Inactive"}}

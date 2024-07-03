@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2B193D39-521C-441B-9097-BD0FD375B2F6", "criteria": "cpe:2.3:a:torproject:tor:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.4.7.0", "versionEndExcluding": "0.4.7.8", "lastModified": "2022-07-21T14:25:37.400", "cpeLastModified": "2022-07-21T14:25:37.400", "created": "2022-07-21T14:25:37.400", "status": "Inactive"}}

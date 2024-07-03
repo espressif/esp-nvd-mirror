@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3EA50FEE-229D-4C1C-903F-6716FC610B10", "criteria": "cpe:2.3:a:abb:asset_suite:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.4", "versionEndExcluding": "9.4.2.6", "lastModified": "2023-05-17T02:00:15.017", "cpeLastModified": "2022-01-01T19:54:50.343", "created": "2021-12-24T02:54:36.323", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5D625C4B-AC70-4979-B999-80EA62A77C4E", "criteria": "cpe:2.3:o:openatom:openeuler_kernel:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0", "versionEndIncluding": "5.10.0-60.67.0.92", "lastModified": "2023-03-14T16:19:58.487", "cpeLastModified": "2023-03-14T16:19:58.487", "created": "2023-03-14T16:19:58.487", "status": "Active"}}

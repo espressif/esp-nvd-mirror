@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6A923BEA-61C4-4A2E-A7DD-BB389FF661CB", "criteria": "cpe:2.3:o:cisco:vsmart_controller_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.6", "versionEndExcluding": "20.6.1", "lastModified": "2021-09-28T14:13:00.000", "cpeLastModified": "2021-09-30T13:22:21.607", "created": "2021-09-28T14:13:00.000", "status": "Active"}}

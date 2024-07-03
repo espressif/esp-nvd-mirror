@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1E21FAB3-095F-4578-B967-F9BC975A7D98", "criteria": "cpe:2.3:a:shibboleth:identify_provider:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.4.6", "lastModified": "2020-10-30T14:28:15.010", "cpeLastModified": "2022-02-08T15:39:13.290", "created": "2020-10-30T14:28:15.010", "status": "Inactive"}}

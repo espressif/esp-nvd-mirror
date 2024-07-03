@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5A622280-D90B-4C00-8F09-4095490867F8", "criteria": "cpe:2.3:a:hitachi:jp1\\/netm\\/remote_control_agent:*:*:*:*:*:*:*:*", "versionStartIncluding": "09-50", "versionEndIncluding": "09-50-20", "lastModified": "2021-10-14T19:38:21.000", "cpeLastModified": "2021-10-20T17:18:49.770", "created": "2021-10-14T19:38:21.000", "status": "Active"}}

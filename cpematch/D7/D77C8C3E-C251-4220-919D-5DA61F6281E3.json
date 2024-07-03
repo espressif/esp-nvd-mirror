@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D77C8C3E-C251-4220-919D-5DA61F6281E3", "criteria": "cpe:2.3:a:doctrine_project:doctrine_database_abstraction_layer:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.1.4", "lastModified": "2021-12-14T19:59:11.743", "created": "2021-12-14T19:59:11.743", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "42749CDF-0C1F-4D44-957A-19A8A7942F6C", "criteria": "cpe:2.3:a:freedesktop:dbus:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.12.0", "versionEndExcluding": "1.12.24", "lastModified": "2023-12-27T16:36:58.353", "cpeLastModified": "2023-12-27T16:36:58.353", "created": "2023-12-27T16:36:58.353", "status": "Inactive"}}

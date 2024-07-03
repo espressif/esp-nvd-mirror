@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0DA539D6-6578-4C33-8F19-81CA139CA206", "criteria": "cpe:2.3:a:kernel:connection_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.30", "versionEndIncluding": "1.39", "lastModified": "2021-06-16T16:18:25.163", "created": "2021-06-16T16:18:25.163", "status": "Inactive"}}

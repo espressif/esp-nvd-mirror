@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E876E095-566D-48BE-9FB7-8A8A76CB3F22", "criteria": "cpe:2.3:a:phpredisadmin_project:phpredisadmin:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.17.0", "versionEndExcluding": "1.18.0", "lastModified": "2022-12-28T03:00:11.260", "cpeLastModified": "2022-12-21T17:21:40.870", "created": "2022-12-21T17:21:40.870", "status": "Inactive"}}

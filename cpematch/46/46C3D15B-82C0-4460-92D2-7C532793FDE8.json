@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "46C3D15B-82C0-4460-92D2-7C532793FDE8", "criteria": "cpe:2.3:a:vmware:horizon_client:*:*:*:*:*:windows:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.5.2", "lastModified": "2021-05-28T17:16:10.420", "cpeLastModified": "2021-05-28T17:16:10.420", "created": "2021-05-28T17:16:10.420", "status": "Inactive"}}

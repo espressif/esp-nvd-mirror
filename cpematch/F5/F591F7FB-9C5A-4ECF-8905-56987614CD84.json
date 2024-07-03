@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F591F7FB-9C5A-4ECF-8905-56987614CD84", "criteria": "cpe:2.3:a:apache:struts:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.1.2.2", "lastModified": "2023-12-12T03:00:29.673", "cpeLastModified": "2023-12-08T15:48:49.937", "created": "2023-12-08T15:48:49.937", "status": "Inactive"}}

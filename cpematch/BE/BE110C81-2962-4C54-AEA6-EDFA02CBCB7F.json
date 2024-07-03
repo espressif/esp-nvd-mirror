@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BE110C81-2962-4C54-AEA6-EDFA02CBCB7F", "criteria": "cpe:2.3:a:leostream:connection_broker:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.10", "versionEndExcluding": "9.0.34.3", "lastModified": "2021-08-13T11:32:42.127", "cpeLastModified": "2021-08-19T17:00:41.427", "created": "2021-08-13T11:32:42.127", "status": "Inactive"}}

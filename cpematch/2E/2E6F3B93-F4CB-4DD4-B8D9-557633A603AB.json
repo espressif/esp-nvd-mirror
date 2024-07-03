@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2E6F3B93-F4CB-4DD4-B8D9-557633A603AB", "criteria": "cpe:2.3:a:paloaltonetworks:prisma_cloud:*:*:*:*:compute:*:*:*", "versionStartIncluding": "21.04", "versionEndExcluding": "21.04.439", "lastModified": "2021-07-19T13:20:33.790", "created": "2021-07-19T13:20:33.790", "status": "Active"}}

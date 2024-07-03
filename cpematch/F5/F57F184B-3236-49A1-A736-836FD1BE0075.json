@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F57F184B-3236-49A1-A736-836FD1BE0075", "criteria": "cpe:2.3:a:cloudflare:wrangler:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "3.9.0", "versionEndExcluding": "3.19.0", "lastModified": "2024-01-05T14:23:15.423", "cpeLastModified": "2024-01-05T14:23:15.423", "created": "2024-01-05T14:23:15.423", "status": "Active"}}

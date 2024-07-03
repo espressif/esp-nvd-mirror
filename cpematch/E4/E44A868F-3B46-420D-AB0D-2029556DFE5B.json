@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E44A868F-3B46-420D-AB0D-2029556DFE5B", "criteria": "cpe:2.3:a:cloud_foundry:bosh_system_metrics_server:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.1.0", "lastModified": "2020-10-06T01:39:25.490", "created": "2020-10-06T01:39:25.490", "status": "Active"}}

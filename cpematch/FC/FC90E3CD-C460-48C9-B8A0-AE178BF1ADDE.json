@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FC90E3CD-C460-48C9-B8A0-AE178BF1ADDE", "criteria": "cpe:2.3:a:jumpserver:jumpserver:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5.0", "versionEndExcluding": "2.5.4", "lastModified": "2021-08-04T12:03:32.210", "created": "2021-08-04T12:03:32.210", "status": "Active"}}

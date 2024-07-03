@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9F1F9438-0952-4B83-AA04-B3825D29438D", "criteria": "cpe:2.3:a:hitachi:jp1\\/netdm\\/dm_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "09-10", "versionEndIncluding": "09-10-15", "lastModified": "2021-10-15T13:40:30.763", "cpeLastModified": "2021-10-20T17:18:49.770", "created": "2021-10-15T13:40:30.763", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FEA94535-4B51-4A44-A95C-81183645051B", "criteria": "cpe:2.3:a:go-git_project:go-git:*:*:*:*:*:go:*:*", "versionEndExcluding": "5.11.0", "lastModified": "2024-01-22T03:00:21.143", "cpeLastModified": "2024-01-21T15:20:30.373", "created": "2024-01-21T15:20:30.373", "status": "Inactive"}}

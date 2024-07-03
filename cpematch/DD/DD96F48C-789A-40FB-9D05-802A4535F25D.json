@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DD96F48C-789A-40FB-9D05-802A4535F25D", "criteria": "cpe:2.3:a:akamai:enterprise_application_access:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5.0", "versionEndExcluding": "2.5.3", "lastModified": "2021-10-06T13:54:05.607", "cpeLastModified": "2021-10-12T22:05:04.647", "created": "2021-10-06T13:54:05.607", "status": "Active"}}

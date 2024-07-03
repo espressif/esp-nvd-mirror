@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DC16B350-EAA6-481E-BB57-B035711BC7E4", "criteria": "cpe:2.3:a:oracle:mysql_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.6.0", "versionEndIncluding": "7.6.20", "lastModified": "2022-01-20T19:57:10.117", "cpeLastModified": "2022-01-24T20:43:04.480", "created": "2022-01-20T19:57:10.117", "status": "Active"}}

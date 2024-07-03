@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F9339579-1F54-4065-B5A8-C51EA9D5CF6E", "criteria": "cpe:2.3:a:ibm:websphere_liberty_:*:*:*:*:*:pivotal_cloud_foundry:*:*", "versionEndExcluding": "3.11.0", "lastModified": "2019-08-12T18:07:01.290", "created": "2019-08-12T18:07:01.290", "status": "Active"}}

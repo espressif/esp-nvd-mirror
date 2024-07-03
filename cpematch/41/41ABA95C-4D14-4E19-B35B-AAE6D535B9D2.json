@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "41ABA95C-4D14-4E19-B35B-AAE6D535B9D2", "criteria": "cpe:2.3:a:f5:big-ip_local_traffic_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "14.0.0", "versionEndExcluding": "14.1.4.4", "lastModified": "2022-01-31T16:43:30.140", "created": "2022-01-31T16:43:30.140", "status": "Inactive"}}

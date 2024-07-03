@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "022F4E7E-F168-4658-AE21-A254CB3B4E04", "criteria": "cpe:2.3:a:npmjs:hosted-git-info:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.8.9", "lastModified": "2021-06-08T19:25:12.483", "cpeLastModified": "2022-03-10T17:41:49.287", "created": "2021-06-08T19:25:12.483", "status": "Active"}}

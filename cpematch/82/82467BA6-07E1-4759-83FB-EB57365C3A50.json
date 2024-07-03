@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "82467BA6-07E1-4759-83FB-EB57365C3A50", "criteria": "cpe:2.3:a:mcafee:data_loss_prevention_discover:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.7.0", "versionEndExcluding": "11.7.100", "lastModified": "2023-11-15T16:19:49.920", "cpeLastModified": "2023-11-15T16:19:49.920", "created": "2023-11-15T16:19:49.920", "status": "Active"}}

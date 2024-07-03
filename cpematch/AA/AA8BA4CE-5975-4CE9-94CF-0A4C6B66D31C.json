@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AA8BA4CE-5975-4CE9-94CF-0A4C6B66D31C", "criteria": "cpe:2.3:a:dremio:dremio:*:*:*:*:*:*:*:*", "versionStartIncluding": "22.0.0", "versionEndIncluding": "22.2.2", "lastModified": "2024-01-27T03:00:48.357", "cpeLastModified": "2024-01-26T18:22:48.123", "created": "2024-01-26T18:22:48.123", "status": "Inactive"}}

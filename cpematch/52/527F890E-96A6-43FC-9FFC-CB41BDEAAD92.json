@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "527F890E-96A6-43FC-9FFC-CB41BDEAAD92", "criteria": "cpe:2.3:a:apache:derby:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.5.1.1", "versionEndIncluding": "10.5.3.0", "lastModified": "2024-04-16T14:31:54.850", "cpeLastModified": "2024-04-16T14:17:15.833", "created": "2024-04-16T14:17:15.833", "status": "Inactive"}}

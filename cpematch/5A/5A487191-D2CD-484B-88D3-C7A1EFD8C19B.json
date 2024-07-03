@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5A487191-D2CD-484B-88D3-C7A1EFD8C19B", "criteria": "cpe:2.3:a:codesys:gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.5.15.10", "versionEndExcluding": "3.5.15.30", "lastModified": "2020-01-30T21:21:36.857", "created": "2020-01-30T21:21:36.857", "status": "Active"}}

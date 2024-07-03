@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "65ADE8D1-F8CC-42C2-9FBD-E89F3C48AA61", "criteria": "cpe:2.3:a:activerecord_project:activerecord:*:*:*:*:*:ruby:*:*", "versionEndExcluding": "6.0.6.1", "lastModified": "2023-02-16T03:00:15.950", "cpeLastModified": "2023-02-15T17:44:15.710", "created": "2023-02-15T17:44:15.710", "status": "Inactive"}}

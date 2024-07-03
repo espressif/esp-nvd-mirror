@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4AE4B575-5107-4826-9D05-DB968E6B615F", "criteria": "cpe:2.3:o:hikvision:ds-7616ni-q2\\/16p_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.30.210", "versionEndIncluding": "4.31.000", "lastModified": "2021-10-12T14:51:00.783", "cpeLastModified": "2021-10-15T17:12:55.180", "created": "2021-10-12T14:51:00.783", "status": "Active"}}

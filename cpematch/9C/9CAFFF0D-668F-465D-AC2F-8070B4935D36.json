@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9CAFFF0D-668F-465D-AC2F-8070B4935D36", "criteria": "cpe:2.3:a:apache:dubbo:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5.0", "versionEndExcluding": "2.5.10", "lastModified": "2021-06-10T13:54:44.130", "cpeLastModified": "2021-06-10T13:54:44.130", "created": "2021-06-10T13:54:44.130", "status": "Inactive"}}

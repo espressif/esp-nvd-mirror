@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C4E20528-67BC-4A50-9E9D-1A389BFFFAE9", "criteria": "cpe:2.3:a:redhat:subscription-manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.29.0", "versionEndExcluding": "1.29.37", "lastModified": "2023-08-30T15:03:46.417", "cpeLastModified": "2023-08-30T15:03:46.417", "created": "2023-08-30T15:03:46.417", "status": "Active"}}

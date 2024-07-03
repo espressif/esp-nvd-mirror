@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0DD8C10F-9554-44EE-8E5F-EC98EA7E9106", "criteria": "cpe:2.3:a:cisco:jabber:*:*:*:*:*:android:*:*", "versionStartIncluding": "12.1.0", "versionEndExcluding": "12.1.5", "lastModified": "2021-03-26T15:36:31.453", "created": "2021-03-26T15:36:31.453", "status": "Inactive"}}

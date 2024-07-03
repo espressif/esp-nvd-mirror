@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1B081CEE-9990-48CE-9ED2-06CBB6F977EA", "criteria": "cpe:2.3:a:sensiolabs:symfony:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.8.0", "versionEndIncluding": "3.8.30", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}

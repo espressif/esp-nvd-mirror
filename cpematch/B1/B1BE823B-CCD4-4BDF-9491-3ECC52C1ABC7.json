@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B1BE823B-CCD4-4BDF-9491-3ECC52C1ABC7", "criteria": "cpe:2.3:a:whisperfish:phonenumber:*:*:*:*:*:rust:*:*", "versionStartIncluding": "0.3.0", "versionEndExcluding": "0.3.3\\+8.13.9", "lastModified": "2023-09-22T16:05:09.080", "cpeLastModified": "2023-09-22T16:01:19.570", "created": "2023-09-22T16:01:19.570", "status": "Inactive"}}

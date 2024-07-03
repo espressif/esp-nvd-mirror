@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6CC4A2A4-8735-4E9B-BF3C-90F42E3CA1ED", "criteria": "cpe:2.3:a:pivotal:tc_runtimes:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.5.4.b", "versionEndExcluding": "8.5.47.a", "lastModified": "2020-02-04T16:57:52.903", "cpeLastModified": "2021-11-02T19:15:36.627", "created": "2020-02-04T16:57:52.903", "status": "Active"}}

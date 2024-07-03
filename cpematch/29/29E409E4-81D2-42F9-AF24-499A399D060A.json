@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "29E409E4-81D2-42F9-AF24-499A399D060A", "criteria": "cpe:2.3:a:kubernetes:dashboard:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.10.1", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}

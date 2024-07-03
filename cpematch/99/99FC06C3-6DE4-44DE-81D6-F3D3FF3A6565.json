@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "99FC06C3-6DE4-44DE-81D6-F3D3FF3A6565", "criteria": "cpe:2.3:a:ruby-lang:rexml:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.6.0", "versionEndIncluding": "2.6.7", "lastModified": "2021-04-26T13:47:55.670", "created": "2021-04-26T13:47:55.670", "status": "Inactive"}}

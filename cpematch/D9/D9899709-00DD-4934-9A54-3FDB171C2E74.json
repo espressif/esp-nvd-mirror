@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D9899709-00DD-4934-9A54-3FDB171C2E74", "criteria": "cpe:2.3:o:cisco:vedge_100wm_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.6", "versionEndExcluding": "20.6.1", "lastModified": "2021-09-28T14:43:34.560", "cpeLastModified": "2021-09-30T13:22:21.607", "created": "2021-09-28T14:43:34.560", "status": "Active"}}

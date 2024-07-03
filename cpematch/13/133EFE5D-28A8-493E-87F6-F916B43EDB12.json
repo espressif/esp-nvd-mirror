@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "133EFE5D-28A8-493E-87F6-F916B43EDB12", "criteria": "cpe:2.3:a:linux:mirage_firewall:*:*:*:*:*:qubesos:*:*", "versionStartIncluding": "0.8.0", "versionEndExcluding": "0.8.4", "lastModified": "2022-12-13T03:00:10.760", "cpeLastModified": "2022-12-12T14:42:24.950", "created": "2022-12-12T14:39:05.930", "status": "Inactive"}}

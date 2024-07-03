@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C87AE16D-D8D8-40F6-A89C-EEAC2B39D835", "criteria": "cpe:2.3:a:openstack:virtualbmc:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.0.0", "lastModified": "2022-11-02T02:00:12.310", "cpeLastModified": "2022-11-01T14:16:45.973", "created": "2022-11-01T14:16:45.973", "status": "Inactive"}}

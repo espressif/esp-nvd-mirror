@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AC74498C-E578-4ACF-8CF9-475A13D6966C", "criteria": "cpe:2.3:o:wago:762-4305\\/8000-002_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "fw16", "versionEndExcluding": "fw22", "lastModified": "2022-03-17T20:33:25.687", "cpeLastModified": "2022-03-18T13:49:54.283", "created": "2022-03-17T20:33:25.687", "status": "Active"}}

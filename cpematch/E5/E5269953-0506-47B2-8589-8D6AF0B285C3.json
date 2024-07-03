@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E5269953-0506-47B2-8589-8D6AF0B285C3", "criteria": "cpe:2.3:a:enterprisedb:postgres_advanced_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.0.0", "versionEndExcluding": "13.12.16", "lastModified": "2023-12-15T03:00:23.720", "cpeLastModified": "2023-12-13T18:00:38.680", "created": "2023-12-13T18:00:38.680", "status": "Inactive"}}

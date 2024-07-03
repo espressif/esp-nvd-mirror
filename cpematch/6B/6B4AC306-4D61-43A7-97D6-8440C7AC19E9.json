@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6B4AC306-4D61-43A7-97D6-8440C7AC19E9", "criteria": "cpe:2.3:a:eq_project:eq:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.5.31", "versionEndIncluding": "2.2.0", "lastModified": "2023-02-04T02:34:23.353", "cpeLastModified": "2023-02-04T02:34:23.353", "created": "2023-02-04T02:34:23.353", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8C3C04CF-D46C-4946-BB05-39A7EAF30333", "criteria": "cpe:2.3:a:cisco:secure_email_and_web_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.0", "versionEndExcluding": "13.0.0-277", "lastModified": "2022-06-27T17:14:02.573", "cpeLastModified": "2022-06-27T17:14:02.573", "created": "2022-06-27T17:14:02.573", "status": "Active"}}

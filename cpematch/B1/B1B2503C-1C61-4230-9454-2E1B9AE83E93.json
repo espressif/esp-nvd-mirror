@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B1B2503C-1C61-4230-9454-2E1B9AE83E93", "criteria": "cpe:2.3:a:proofpoint:insider_threat_management:*:*:*:*:*:macos:*:*", "versionStartIncluding": "7.10.0", "versionEndExcluding": "7.10.3", "lastModified": "2021-04-09T13:49:22.930", "created": "2021-04-09T13:49:22.930", "status": "Active"}}

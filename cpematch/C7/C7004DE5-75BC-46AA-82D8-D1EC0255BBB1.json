@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C7004DE5-75BC-46AA-82D8-D1EC0255BBB1", "criteria": "cpe:2.3:a:hitachienergy:asset_suite:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.4", "versionEndExcluding": "9.4.2.6", "lastModified": "2023-07-24T19:51:09.903", "cpeLastModified": "2023-05-16T20:06:09.550", "created": "2023-05-16T20:06:09.550", "status": "Active"}}

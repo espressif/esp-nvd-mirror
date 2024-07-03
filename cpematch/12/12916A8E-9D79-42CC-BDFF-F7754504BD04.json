@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "12916A8E-9D79-42CC-BDFF-F7754504BD04", "criteria": "cpe:2.3:a:atlassian:core_data_center:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.3.0", "versionEndExcluding": "8.5.16", "lastModified": "2021-08-11T16:50:30.437", "cpeLastModified": "2022-03-30T13:29:49.960", "created": "2021-08-11T16:50:30.437", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "37A73FF1-F87A-4F7F-8397-A0CDE0CC819E", "criteria": "cpe:2.3:a:infinispan:infinispan-server-rest:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.0.0", "versionEndExcluding": "12.1.4", "lastModified": "2022-01-11T16:09:56.560", "cpeLastModified": "2022-01-11T16:21:42.830", "created": "2022-01-11T16:09:56.560", "status": "Active"}}

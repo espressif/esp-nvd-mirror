@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "03DEA082-C42C-47E3-8C70-5421507041F7", "criteria": "cpe:2.3:a:cisco:application_services_engine:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1", "versionEndExcluding": "1.1\\(3e\\)", "lastModified": "2021-02-25T05:26:38.500", "created": "2021-02-25T05:26:38.500", "status": "Active"}}

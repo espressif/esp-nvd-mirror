@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "111F5389-BE1D-480F-8229-3EEDF8F6D82A", "criteria": "cpe:2.3:a:hitachi:vantara_pentaho:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.2.0.0", "versionEndExcluding": "9.2.0.2", "lastModified": "2022-11-03T16:35:10.900", "cpeLastModified": "2022-11-03T16:32:22.037", "created": "2022-11-03T16:32:22.037", "status": "Active"}}

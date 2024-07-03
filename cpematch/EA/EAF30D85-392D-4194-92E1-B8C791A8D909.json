@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EAF30D85-392D-4194-92E1-B8C791A8D909", "criteria": "cpe:2.3:a:ibm:db2_warehouse_on_cloud_pak_for_data:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.5", "versionEndExcluding": "4.6", "lastModified": "2022-12-06T16:47:45.863", "cpeLastModified": "2022-12-06T16:47:45.863", "created": "2022-12-06T16:47:45.863", "status": "Active"}}

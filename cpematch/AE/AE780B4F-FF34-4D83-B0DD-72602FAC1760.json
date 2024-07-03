@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AE780B4F-FF34-4D83-B0DD-72602FAC1760", "criteria": "cpe:2.3:a:wallix:bastion:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.0", "versionEndExcluding": "9.0.9", "lastModified": "2023-10-27T14:29:27.823", "cpeLastModified": "2023-10-27T14:27:02.307", "created": "2023-10-27T14:27:02.307", "status": "Inactive"}}

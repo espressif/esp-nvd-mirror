@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F28B3AA6-B355-444E-A4F6-0514514F9ECF", "criteria": "cpe:2.3:a:django-wiki_project:django-wiki:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.0.20", "versionEndIncluding": "0.7.8", "lastModified": "2021-11-29T15:56:50.807", "cpeLastModified": "2021-11-29T16:08:00.183", "created": "2021-11-29T15:56:50.807", "status": "Active"}}

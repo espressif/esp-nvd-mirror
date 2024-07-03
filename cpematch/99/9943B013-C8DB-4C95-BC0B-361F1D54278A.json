@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9943B013-C8DB-4C95-BC0B-361F1D54278A", "criteria": "cpe:2.3:a:arangodb:arangodb:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.7.0", "versionEndIncluding": "3.8.3", "lastModified": "2022-02-10T15:47:50.197", "created": "2022-02-10T15:47:50.197", "status": "Inactive"}}

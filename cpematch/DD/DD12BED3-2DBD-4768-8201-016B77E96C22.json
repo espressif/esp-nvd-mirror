@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DD12BED3-2DBD-4768-8201-016B77E96C22", "criteria": "cpe:2.3:a:redis:redisgraph:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.12.9", "lastModified": "2023-11-16T03:00:17.630", "cpeLastModified": "2023-11-15T21:02:51.077", "created": "2023-11-15T21:02:51.077", "status": "Inactive"}}

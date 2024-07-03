@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3C83EBB3-5E82-476B-B171-B0816C748A08", "criteria": "cpe:2.3:o:siemens:cpu_1516t-3_pn\\/dp_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5", "versionEndExcluding": "2.9.2", "lastModified": "2021-08-19T18:18:30.013", "cpeLastModified": "2021-08-20T18:56:05.673", "created": "2021-08-19T18:18:30.013", "status": "Active"}}

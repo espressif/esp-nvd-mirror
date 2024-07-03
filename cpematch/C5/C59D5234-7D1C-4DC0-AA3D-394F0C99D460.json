@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C59D5234-7D1C-4DC0-AA3D-394F0C99D460", "criteria": "cpe:2.3:a:varnish-software:varnich_cache:*:*:*:*:-:*:*:*", "versionStartIncluding": "7.0.0", "versionEndExcluding": "7.0.2", "lastModified": "2022-02-07T12:06:05.220", "cpeLastModified": "2022-08-02T19:21:44.360", "created": "2022-02-07T12:06:05.220", "status": "Inactive"}}

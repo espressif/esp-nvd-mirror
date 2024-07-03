@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0A860C36-DCAD-480B-84F4-E3B01089281F", "criteria": "cpe:2.3:o:nvidia:quadro_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "430", "versionEndExcluding": "432.28", "lastModified": "2020-03-06T19:51:17.637", "created": "2020-03-06T19:51:17.637", "status": "Active"}}

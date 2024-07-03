@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DF89B57B-ED7F-4FB4-A950-71F1E57AAAD4", "criteria": "cpe:2.3:a:linuxfoundation:kubewarden-controller:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.6.0", "lastModified": "2023-04-25T21:53:35.473", "cpeLastModified": "2023-04-25T21:53:35.473", "created": "2023-04-25T21:53:35.473", "status": "Active"}}

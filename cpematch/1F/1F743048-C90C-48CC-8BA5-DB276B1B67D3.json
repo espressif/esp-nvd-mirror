@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1F743048-C90C-48CC-8BA5-DB276B1B67D3", "criteria": "cpe:2.3:a:grpc:grpc:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.54.0", "versionEndExcluding": "1.54.3", "lastModified": "2023-09-20T02:00:44.520", "cpeLastModified": "2023-09-19T13:41:31.050", "created": "2023-09-19T13:41:31.050", "status": "Inactive"}}

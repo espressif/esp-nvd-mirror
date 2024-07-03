@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FF321CC7-F376-4CC0-BDF9-770EDBD18939", "criteria": "cpe:2.3:a:dell:vxrail_hyperconverged_infrastructure:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.0.0", "versionEndExcluding": "7.0.450", "lastModified": "2023-06-01T19:35:55.730", "cpeLastModified": "2023-06-01T19:35:55.730", "created": "2023-06-01T19:35:55.730", "status": "Active"}}

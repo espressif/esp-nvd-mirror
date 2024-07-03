@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8490D9ED-4136-4481-A083-61C3FA43ADDD", "criteria": "cpe:2.3:a:docker:composer:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.8.3", "lastModified": "2020-12-17T15:09:50.430", "cpeLastModified": "2021-07-08T14:25:30.380", "created": "2020-12-17T15:09:50.430", "status": "Inactive"}}

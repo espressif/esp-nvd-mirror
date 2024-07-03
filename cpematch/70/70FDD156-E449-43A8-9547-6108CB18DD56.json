@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "70FDD156-E449-43A8-9547-6108CB18DD56", "criteria": "cpe:2.3:a:ibm:cognos_analytics_mobile:*:*:*:*:*:android:*:*", "versionStartIncluding": "1.1.0", "versionEndExcluding": "1.1.14", "lastModified": "2022-02-23T01:13:41.317", "cpeLastModified": "2022-02-23T01:13:44.710", "created": "2022-02-23T01:13:41.317", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5EEFEADD-7AF6-4C03-8C8D-CBF07F72F8B4", "criteria": "cpe:2.3:a:tweedegolf:ntpd-rs:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.3.0", "versionEndExcluding": "0.3.3", "lastModified": "2023-06-02T13:35:11.573", "cpeLastModified": "2023-06-02T13:31:20.640", "created": "2023-06-02T13:31:20.640", "status": "Inactive"}}

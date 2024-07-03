@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6A4B8699-8A69-4B6C-9785-B1BED15E4BD7", "criteria": "cpe:2.3:a:aviatrix:controller:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.5", "versionEndExcluding": "6.5.1922", "lastModified": "2021-09-16T17:17:00.367", "cpeLastModified": "2021-09-23T18:11:46.177", "created": "2021-09-16T17:17:00.367", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DB16E4B3-4F3D-442E-9809-4354AB91CC02", "criteria": "cpe:2.3:o:arubanetworks:3810m_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "16.11.0", "versionEndExcluding": "16.11.0004", "lastModified": "2022-05-25T17:23:27.667", "cpeLastModified": "2022-05-25T17:23:27.667", "created": "2022-05-25T17:23:27.667", "status": "Active"}}

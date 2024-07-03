@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A01A975E-7898-4E21-AFCA-A786D546D959", "criteria": "cpe:2.3:a:siemens:opcenter_quality:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.2.0", "versionEndExcluding": "13.2.20220624", "lastModified": "2022-07-18T13:20:27.840", "cpeLastModified": "2022-07-18T13:20:27.840", "created": "2022-07-18T13:20:27.840", "status": "Active"}}

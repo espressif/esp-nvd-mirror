@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "26A55209-8EF2-4E7A-B2C5-8254096DB418", "criteria": "cpe:2.3:a:insyde:kernel:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.4", "versionEndExcluding": "5.4.05.44.21", "lastModified": "2022-11-15T20:40:29.280", "cpeLastModified": "2022-11-15T20:40:29.280", "created": "2022-11-15T20:40:29.280", "status": "Active"}}

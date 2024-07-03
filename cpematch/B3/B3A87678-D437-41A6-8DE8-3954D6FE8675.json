@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B3A87678-D437-41A6-8DE8-3954D6FE8675", "criteria": "cpe:2.3:a:cerberusftp:ftp_server:*:*:*:*:enterprise:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "10.0.19", "lastModified": "2021-06-16T13:12:49.937", "cpeLastModified": "2021-06-16T13:12:49.937", "created": "2021-06-16T13:12:49.937", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ED64B312-161F-4BDC-9EAA-FFD11350089F", "criteria": "cpe:2.3:a:python-requests:requests:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.20.0", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-18T13:20:20.490", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

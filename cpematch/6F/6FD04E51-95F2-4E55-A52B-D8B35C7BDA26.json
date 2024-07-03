@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6FD04E51-95F2-4E55-A52B-D8B35C7BDA26", "criteria": "cpe:2.3:a:cisco:cloud_network_controller:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.2\\(6\\)", "versionEndExcluding": "25.0\\(5\\)", "lastModified": "2023-03-03T16:05:50.757", "cpeLastModified": "2023-03-03T16:05:50.757", "created": "2023-03-03T16:05:50.757", "status": "Active"}}

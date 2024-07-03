@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C7585F8E-F42D-4EA2-8CBC-E157252868B9", "criteria": "cpe:2.3:a:cisco:sd-wan_vbond_orchestrator:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.7", "versionEndExcluding": "20.7.2", "lastModified": "2022-10-03T12:44:19.633", "cpeLastModified": "2022-10-03T12:44:19.633", "created": "2022-10-03T12:44:19.633", "status": "Active"}}

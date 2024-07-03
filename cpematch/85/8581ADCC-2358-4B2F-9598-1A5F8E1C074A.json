@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8581ADCC-2358-4B2F-9598-1A5F8E1C074A", "criteria": "cpe:2.3:a:burst-statistics:burst_statistics:*:*:*:*:pro:wordpress:*:*", "versionStartIncluding": "1.4.0", "versionEndExcluding": "1.5.1", "lastModified": "2023-12-12T15:45:40.357", "cpeLastModified": "2023-12-12T15:45:40.357", "created": "2023-12-12T15:45:40.357", "status": "Active"}}

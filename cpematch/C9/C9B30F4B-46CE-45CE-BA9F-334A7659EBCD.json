@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C9B30F4B-46CE-45CE-BA9F-334A7659EBCD", "criteria": "cpe:2.3:a:vercel:next.js:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "11.1.0", "versionEndExcluding": "12.0.5", "lastModified": "2021-12-15T02:18:25.037", "created": "2021-12-15T02:18:25.037", "status": "Inactive"}}

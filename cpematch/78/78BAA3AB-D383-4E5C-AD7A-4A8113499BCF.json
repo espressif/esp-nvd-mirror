@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "78BAA3AB-D383-4E5C-AD7A-4A8113499BCF", "criteria": "cpe:2.3:a:f5:big-ip_fraud_protection_service:*:*:*:*:*:*:*:*", "versionStartIncluding": "14.0.0", "versionEndExcluding": "14.1.4.4", "lastModified": "2022-01-31T16:38:28.770", "created": "2022-01-31T16:38:28.770", "status": "Inactive"}}

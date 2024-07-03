@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AA5BB956-2928-4955-8E77-A99FD375699E", "criteria": "cpe:2.3:a:pypi:rootinteractive:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.0.5", "versionEndExcluding": "0.0.19", "lastModified": "2022-07-02T01:11:18.737", "cpeLastModified": "2022-07-02T01:11:18.737", "created": "2022-07-02T01:11:18.737", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B952CD1C-CBDA-4AB3-8C14-E847A661A6C6", "criteria": "cpe:2.3:a:ibexa:ez_platform_kernel:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.3.0", "versionEndExcluding": "1.3.12", "lastModified": "2022-03-02T16:23:11.470", "cpeLastModified": "2022-03-03T17:05:47.673", "created": "2022-03-02T16:23:11.470", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1A278C4E-968F-4E42-A628-33CD42DF2CE4", "criteria": "cpe:2.3:a:vmware:cloudfoundry_manifest_yml_support:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.40.0", "lastModified": "2022-11-07T14:44:02.757", "cpeLastModified": "2022-11-07T14:44:02.757", "created": "2022-11-07T14:44:02.757", "status": "Active"}}

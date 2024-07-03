@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E51129A1-C75D-4542-AB8C-CBC392685513", "criteria": "cpe:2.3:a:vmware:bosh_editor:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.40.0", "lastModified": "2022-11-07T14:44:02.757", "cpeLastModified": "2022-11-07T14:44:02.757", "created": "2022-11-07T14:44:02.757", "status": "Active"}}

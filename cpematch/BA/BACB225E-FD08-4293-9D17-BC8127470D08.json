@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BACB225E-FD08-4293-9D17-BC8127470D08", "criteria": "cpe:2.3:a:proofpoint:insider_threat_management:*:*:*:*:*:linux:*:*", "versionStartIncluding": "7.10.0", "versionEndExcluding": "7.10.3", "lastModified": "2021-04-09T13:49:22.853", "created": "2021-04-09T13:49:22.853", "status": "Active"}}

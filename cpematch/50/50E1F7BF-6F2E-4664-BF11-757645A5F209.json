@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "50E1F7BF-6F2E-4664-BF11-757645A5F209", "criteria": "cpe:2.3:o:cisco:encs_5400_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.2", "versionEndExcluding": "3.2.15.1", "lastModified": "2023-08-31T10:10:25.610", "cpeLastModified": "2023-08-31T10:10:25.610", "created": "2023-08-31T10:10:25.610", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EDAA94DE-A71F-4FFA-8DE8-453B249D3F19", "criteria": "cpe:2.3:a:redhat:enterprise_virtualization_hypervisor:*:*:*:*:*:*:*:*", "versionStartIncluding": "7-7.0", "versionEndExcluding": "7-7.2-20151119.0", "lastModified": "2020-03-02T19:50:25.443", "created": "2020-03-02T19:50:25.443", "status": "Active"}}

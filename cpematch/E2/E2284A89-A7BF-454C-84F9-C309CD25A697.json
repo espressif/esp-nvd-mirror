@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E2284A89-A7BF-454C-84F9-C309CD25A697", "criteria": "cpe:2.3:a:nebulab:solidus_frontend:*:*:*:*:*:ruby:*:*", "versionStartIncluding": "3.1.0", "versionEndExcluding": "3.1.5", "lastModified": "2021-12-23T15:56:01.227", "created": "2021-12-23T15:56:01.227", "status": "Inactive"}}

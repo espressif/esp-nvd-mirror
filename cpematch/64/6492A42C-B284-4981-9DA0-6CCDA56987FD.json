@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6492A42C-B284-4981-9DA0-6CCDA56987FD", "criteria": "cpe:2.3:a:codesys:control_for_beckhoff_cx9020:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.4.0.0", "versionEndExcluding": "4.5.0.0", "lastModified": "2022-05-12T13:07:15.203", "cpeLastModified": "2022-05-12T13:07:15.203", "created": "2022-05-12T13:07:15.203", "status": "Active"}}

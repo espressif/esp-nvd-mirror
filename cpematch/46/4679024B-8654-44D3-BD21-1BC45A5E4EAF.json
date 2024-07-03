@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4679024B-8654-44D3-BD21-1BC45A5E4EAF", "criteria": "cpe:2.3:a:bluecoat:proxysg:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.7", "versionEndExcluding": "6.7.3.15", "lastModified": "2021-07-02T11:24:38.207", "cpeLastModified": "2021-07-02T11:25:14.243", "created": "2021-07-02T11:24:38.207", "status": "Inactive"}}

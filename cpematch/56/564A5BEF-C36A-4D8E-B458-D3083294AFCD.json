@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "564A5BEF-C36A-4D8E-B458-D3083294AFCD", "criteria": "cpe:2.3:a:intel:service_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.20", "versionEndExcluding": "11.22.77", "lastModified": "2020-06-18T18:19:35.647", "created": "2020-06-18T18:19:35.647", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3284B1C2-0446-41F2-BF8C-79490F8D3288", "criteria": "cpe:2.3:a:codesys:runtime_toolkit:*:*:*:*:*:vxworks:*:*", "versionStartIncluding": "3.5.8.0", "versionEndExcluding": "3.5.17.10", "lastModified": "2021-08-17T13:56:42.600", "created": "2021-08-17T13:56:42.600", "status": "Active"}}

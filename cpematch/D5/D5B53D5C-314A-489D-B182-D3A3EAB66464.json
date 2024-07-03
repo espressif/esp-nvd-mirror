@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D5B53D5C-314A-489D-B182-D3A3EAB66464", "criteria": "cpe:2.3:a:sap:simple_diagnostics_agent:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0", "versionEndExcluding": "1.58", "lastModified": "2022-03-14T14:19:40.580", "cpeLastModified": "2022-03-16T17:15:58.440", "created": "2022-03-14T14:19:40.580", "status": "Active"}}

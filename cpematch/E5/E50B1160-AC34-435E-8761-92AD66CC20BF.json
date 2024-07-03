@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E50B1160-AC34-435E-8761-92AD66CC20BF", "criteria": "cpe:2.3:a:codesys:control_for_linux_sl:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.4.0.0", "versionEndExcluding": "4.5.0.0", "lastModified": "2022-05-12T13:07:15.203", "cpeLastModified": "2022-05-12T13:07:15.203", "created": "2022-05-12T13:07:15.203", "status": "Active"}}

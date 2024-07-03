@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9DFC6353-26D9-48B7-B73E-541619A21E2A", "criteria": "cpe:2.3:o:zyxel:usg_20w-vpn_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.10", "versionEndIncluding": "5.35", "lastModified": "2023-05-01T17:20:25.313", "cpeLastModified": "2023-05-01T17:20:25.313", "created": "2023-05-01T17:20:25.313", "status": "Active"}}

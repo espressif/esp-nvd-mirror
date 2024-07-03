@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2E1A3EF8-344D-4D66-844D-72ECCAD52E06", "criteria": "cpe:2.3:a:amazon:aws-lambda:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.0.5", "lastModified": "2020-01-10T21:15:47.503", "cpeLastModified": "2021-05-10T16:28:39.477", "created": "2020-01-10T21:15:47.503", "status": "Inactive"}}

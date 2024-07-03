@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3BF97066-7AA3-450A-B05C-84A327841DF2", "criteria": "cpe:2.3:a:libsdl:simple_directmedia_layer:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.0.18", "lastModified": "2022-04-12T13:34:05.720", "created": "2022-04-12T13:34:05.720", "status": "Inactive"}}

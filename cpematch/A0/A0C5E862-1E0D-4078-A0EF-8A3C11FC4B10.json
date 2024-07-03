@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A0C5E862-1E0D-4078-A0EF-8A3C11FC4B10", "criteria": "cpe:2.3:a:pivotal_software:gemfire_for_pivotal_cloud_foundry:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.6.0", "versionEndExcluding": "1.6.5", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}

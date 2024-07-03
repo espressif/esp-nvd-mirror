@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A91FD107-3A52-4919-A000-B0D80A421825", "criteria": "cpe:2.3:a:node-opcua_project:mode-opcua:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "2.74.0", "lastModified": "2022-08-25T14:22:02.457", "cpeLastModified": "2022-08-26T12:52:33.817", "created": "2022-08-24T13:52:49.883", "status": "Inactive"}}

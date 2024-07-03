@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "12A27842-242C-4C76-BE76-ABBC143DD12D", "criteria": "cpe:2.3:a:arm:midguard:*:*:*:*:*:*:*:*", "versionStartIncluding": "r28p0", "versionEndIncluding": "r30p0", "lastModified": "2021-06-02T15:41:32.750", "cpeLastModified": "2022-03-22T15:00:39.830", "created": "2021-06-02T15:41:32.750", "status": "Inactive"}}

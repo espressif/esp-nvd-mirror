@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CABA7FED-CD75-44B1-9E85-CC663E10C55E", "criteria": "cpe:2.3:o:alpinelinux:apk-tools:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.12.0", "versionEndExcluding": "2.12.5", "lastModified": "2021-04-21T18:26:02.883", "created": "2021-04-21T18:26:02.883", "status": "Active"}}

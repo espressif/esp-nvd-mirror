@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C2C9DD0E-CA8F-4B5A-83CC-93EF1636D869", "criteria": "cpe:2.3:a:rusqlite_project:rusqlite:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.26.0", "versionEndExcluding": "0.26.2", "lastModified": "2022-01-03T14:44:20.757", "created": "2022-01-03T14:44:20.757", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C4862A76-4B04-4849-870E-D2101A9EB688", "criteria": "cpe:2.3:a:freedesktop:systemd:*:*:*:*:*:*:*:*", "versionStartIncluding": "247", "versionEndExcluding": "247.8", "lastModified": "2021-07-26T17:01:36.767", "cpeLastModified": "2022-01-28T19:09:42.747", "created": "2021-07-26T17:01:36.767", "status": "Inactive"}}

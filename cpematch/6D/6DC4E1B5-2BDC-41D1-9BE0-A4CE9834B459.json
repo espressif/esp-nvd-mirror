@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6DC4E1B5-2BDC-41D1-9BE0-A4CE9834B459", "criteria": "cpe:2.3:a:proxmox:mail_gateway:*:*:*:*:*:*:*:*", "versionEndIncluding": "3.1-5741", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}

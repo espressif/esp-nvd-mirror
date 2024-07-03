@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BFF34AAF-6EE9-44A4-92C8-54EABCCE0808", "criteria": "cpe:2.3:a:gallagher:command_centre_mobile_client:*:*:*:*:*:android:*:*", "versionStartIncluding": "8.60", "versionEndExcluding": "8.60.065", "lastModified": "2021-11-22T19:12:47.480", "cpeLastModified": "2021-11-23T17:26:24.843", "created": "2021-11-22T19:12:47.480", "status": "Active"}}

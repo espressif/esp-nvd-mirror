@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CFC4B50C-99CB-4578-8367-D42FBD1353CE", "criteria": "cpe:2.3:a:zimbra:zimbra:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "10.0.2", "lastModified": "2023-08-04T14:26:18.610", "cpeLastModified": "2023-08-04T14:23:21.773", "created": "2023-08-04T14:23:21.773", "status": "Inactive"}}

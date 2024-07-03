@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "55006DF7-0C24-468C-98B3-5D437963B490", "criteria": "cpe:2.3:a:hitachi:microscada_x_sys600:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0", "versionEndExcluding": "10.4", "lastModified": "2022-10-06T02:00:12.390", "cpeLastModified": "2022-10-05T13:45:55.850", "created": "2022-09-15T14:06:00.170", "status": "Inactive"}}

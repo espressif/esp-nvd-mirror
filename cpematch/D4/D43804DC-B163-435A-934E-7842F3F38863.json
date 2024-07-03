@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D43804DC-B163-435A-934E-7842F3F38863", "criteria": "cpe:2.3:a:tokio_project:tokio:*:*:*:*:*:rust:*:*", "versionStartIncluding": "1.7.0", "versionEndExcluding": "1.7.2", "lastModified": "2022-11-02T02:00:12.310", "cpeLastModified": "2022-11-01T16:06:39.293", "created": "2021-08-14T01:57:30.940", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "816A16AF-1F5E-483A-AA89-3022818FAE43", "criteria": "cpe:2.3:o:arista:eos:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.14.0", "versionEndExcluding": "4.14.4f", "lastModified": "2024-07-19T14:49:45.183", "cpeLastModified": "2024-07-19T14:49:45.183", "created": "2024-07-19T14:49:45.183", "status": "Active"}}

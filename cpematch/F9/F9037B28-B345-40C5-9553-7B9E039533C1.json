@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F9037B28-B345-40C5-9553-7B9E039533C1", "criteria": "cpe:2.3:a:nextcloud:nextcloud_talk:*:*:*:*:*:android:*:*", "versionStartIncluding": "13.0.0", "versionEndExcluding": "13.0.10", "lastModified": "2022-12-02T18:10:09.697", "cpeLastModified": "2022-12-02T18:10:09.697", "created": "2022-12-02T18:10:09.697", "status": "Active"}}

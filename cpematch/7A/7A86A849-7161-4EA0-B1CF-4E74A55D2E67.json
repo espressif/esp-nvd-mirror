@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7A86A849-7161-4EA0-B1CF-4E74A55D2E67", "criteria": "cpe:2.3:o:intel:converged_security_management_engine_firmware:*:*:*:*:*:*:*:undefined", "versionStartIncluding": "12.0", "versionEndExcluding": "12.0.64", "lastModified": "2020-06-18T12:45:25.323", "created": "2020-06-18T12:45:25.323", "status": "Active"}}

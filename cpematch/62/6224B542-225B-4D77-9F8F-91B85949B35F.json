@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6224B542-225B-4D77-9F8F-91B85949B35F", "criteria": "cpe:2.3:a:citrix:application_delivery_controller:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.0-fips", "versionEndIncluding": "12.1-55.247", "lastModified": "2021-08-13T12:25:41.167", "cpeLastModified": "2021-08-19T13:57:18.017", "created": "2021-08-13T12:25:41.167", "status": "Inactive"}}

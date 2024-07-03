@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6B468A6E-AF66-41E3-9C8B-D7B76316AFC4", "criteria": "cpe:2.3:a:amazon:hotpatch:*:*:*:*:*:log4j:*:*", "versionEndExcluding": "1.1-12", "lastModified": "2022-04-29T17:26:20.230", "created": "2022-04-29T17:26:20.230", "status": "Inactive"}}

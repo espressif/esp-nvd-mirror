@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BAD9C9BA-8A83-4B0E-B2C7-51FF6A0A3742", "criteria": "cpe:2.3:a:solidus:solidus_auth_devise:*:*:*:*:*:ruby:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "2.5.4", "lastModified": "2021-11-22T20:51:36.927", "created": "2021-11-22T20:51:36.927", "status": "Inactive"}}

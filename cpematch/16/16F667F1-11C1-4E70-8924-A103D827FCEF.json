@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "16F667F1-11C1-4E70-8924-A103D827FCEF", "criteria": "cpe:2.3:a:skyhighsecurity:secure_web_gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.0", "versionEndExcluding": "9.2.23", "lastModified": "2022-08-02T17:13:28.440", "cpeLastModified": "2022-08-02T17:13:28.440", "created": "2022-08-02T17:13:28.440", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E57C2C0E-22CC-463D-938F-78E8F5E35991", "criteria": "cpe:2.3:a:datadoghq:guarddog:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.1.8", "lastModified": "2022-12-20T18:23:14.897", "cpeLastModified": "2022-12-20T18:20:36.467", "created": "2022-12-20T18:20:36.467", "status": "Inactive"}}

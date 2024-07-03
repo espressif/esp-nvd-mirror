@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5348E7D4-2948-4C3F-B57C-8ACADCDBF337", "criteria": "cpe:2.3:a:liferay:liferay_portal:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.3.5", "versionEndExcluding": "7.4.3.28", "lastModified": "2022-10-18T02:00:09.847", "cpeLastModified": "2022-10-14T17:25:36.123", "created": "2022-10-14T17:25:36.123", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FFAD3A27-5617-45F9-A870-D96A9193BA01", "criteria": "cpe:2.3:a:fortinet:fortinac:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.4.0", "versionEndExcluding": "9.4.4", "lastModified": "2024-03-02T03:00:41.653", "cpeLastModified": "2024-03-01T15:20:19.797", "created": "2024-03-01T15:20:19.797", "status": "Inactive"}}

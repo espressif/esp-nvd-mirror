@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C612D33D-0BB6-45AE-876E-DBCBD5DDA98F", "criteria": "cpe:2.3:a:cncf:tremor:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.7.2", "versionEndExcluding": "0.11.6", "lastModified": "2021-09-30T12:46:43.170", "created": "2021-09-30T12:46:43.170", "status": "Inactive"}}

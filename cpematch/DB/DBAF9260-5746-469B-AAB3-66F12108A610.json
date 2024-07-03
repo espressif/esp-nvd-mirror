@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DBAF9260-5746-469B-AAB3-66F12108A610", "criteria": "cpe:2.3:o:siemens:simatic_s7-1200_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "3.0.0", "lastModified": "2022-02-01T14:53:40.397", "cpeLastModified": "2022-02-01T14:59:00.750", "created": "2022-02-01T14:53:40.397", "status": "Active"}}

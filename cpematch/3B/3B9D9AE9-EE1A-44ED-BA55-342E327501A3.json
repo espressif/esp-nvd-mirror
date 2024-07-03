@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3B9D9AE9-EE1A-44ED-BA55-342E327501A3", "criteria": "cpe:2.3:a:matrix:synapse:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.17.0", "versionEndExcluding": "1.28.0", "lastModified": "2021-04-19T11:53:28.170", "cpeLastModified": "2021-07-23T15:02:01.647", "created": "2021-04-19T11:53:28.170", "status": "Inactive"}}

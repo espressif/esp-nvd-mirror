@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A9232270-AA1A-46B6-839B-D73945411325", "criteria": "cpe:2.3:a:redhat:wildfly_elytron:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.10.12", "lastModified": "2021-08-13T17:24:14.770", "cpeLastModified": "2021-08-13T17:24:14.770", "created": "2021-08-13T17:24:14.770", "status": "Inactive"}}

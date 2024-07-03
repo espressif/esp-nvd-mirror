@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D5EF36A2-7F7B-4D70-9038-8A223C1ABB63", "criteria": "cpe:2.3:a:redhat:satellite:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0", "versionEndIncluding": "6.7", "lastModified": "2022-08-29T14:30:26.983", "cpeLastModified": "2022-08-29T14:30:26.983", "created": "2022-08-29T14:30:26.983", "status": "Inactive"}}

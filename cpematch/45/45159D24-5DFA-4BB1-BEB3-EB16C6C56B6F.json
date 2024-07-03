@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "45159D24-5DFA-4BB1-BEB3-EB16C6C56B6F", "criteria": "cpe:2.3:a:arubanetworks:edgeconnect_enterprise:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.3.0.0", "versionEndIncluding": "8.3.7.1", "lastModified": "2022-12-14T03:00:11.957", "cpeLastModified": "2022-12-13T13:07:33.147", "created": "2022-12-13T13:07:33.147", "status": "Inactive"}}

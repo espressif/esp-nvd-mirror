@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7BB81C51-C2BB-4BBC-92A2-2E6ED0936925", "criteria": "cpe:2.3:a:tensorflow:tensorflow:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.1.0", "versionEndExcluding": "2.1.3", "lastModified": "2020-12-14T13:35:03.697", "cpeLastModified": "2021-08-17T13:19:31.927", "created": "2020-12-14T13:35:03.697", "status": "Inactive"}}

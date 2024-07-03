@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1DAABE63-63A3-4146-B803-BB13F5CC93D2", "criteria": "cpe:2.3:a:kubevela:kubevela:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.5.0", "versionEndExcluding": "1.5.3", "lastModified": "2022-09-14T16:16:17.733", "cpeLastModified": "2022-09-14T16:16:17.733", "created": "2022-09-14T16:16:17.733", "status": "Active"}}

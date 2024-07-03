@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C5DAF4A4-247E-4738-AD3E-9C941142031B", "criteria": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "14.1.0", "versionEndIncluding": "14.1.3", "lastModified": "2021-09-21T15:05:23.403", "created": "2021-09-21T15:05:23.403", "status": "Inactive"}}

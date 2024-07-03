@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "26B19CB3-C1B5-45C7-AC7F-18379E126A47", "criteria": "cpe:2.3:a:microsoft:azure_monitor_agent:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.26.0", "lastModified": "2024-06-18T13:15:35.487", "cpeLastModified": "2024-06-18T13:15:35.487", "created": "2024-06-18T13:15:35.487", "status": "Active"}}

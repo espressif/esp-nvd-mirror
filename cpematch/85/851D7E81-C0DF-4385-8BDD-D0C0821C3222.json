@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "851D7E81-C0DF-4385-8BDD-D0C0821C3222", "criteria": "cpe:2.3:a:ibm:storage_protect_for_virtual_environments:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.1.0.0", "versionEndExcluding": "8.1.23.0", "lastModified": "2024-07-16T19:23:45.063", "cpeLastModified": "2024-07-16T19:23:45.063", "created": "2024-07-16T19:23:45.063", "status": "Active"}}

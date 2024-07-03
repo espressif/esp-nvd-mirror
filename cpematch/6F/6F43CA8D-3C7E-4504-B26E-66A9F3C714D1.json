@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6F43CA8D-3C7E-4504-B26E-66A9F3C714D1", "criteria": "cpe:2.3:a:mcafee:data_loss_prevention:*:*:*:*:*:epolicy_orchestrator:*:*", "versionStartIncluding": "11.8.0", "versionEndExcluding": "11.8.100", "lastModified": "2022-01-31T06:46:55.123", "cpeLastModified": "2022-01-31T13:27:20.107", "created": "2022-01-31T06:46:55.123", "status": "Active"}}

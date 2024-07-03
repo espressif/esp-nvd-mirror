@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C2125091-2392-4A73-8D86-CBD6A2A212CA", "criteria": "cpe:2.3:a:vmware:vcloud_director:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.2.0", "versionEndExcluding": "10.2.2.3", "lastModified": "2022-04-21T18:19:16.737", "cpeLastModified": "2022-04-22T15:54:23.177", "created": "2022-04-21T18:19:16.737", "status": "Active"}}

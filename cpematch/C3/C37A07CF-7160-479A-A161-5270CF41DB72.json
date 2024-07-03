@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C37A07CF-7160-479A-A161-5270CF41DB72", "criteria": "cpe:2.3:o:arubanetworks:3810_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "16.10.0", "versionEndExcluding": "16.10.0020", "lastModified": "2022-05-20T10:23:57.817", "cpeLastModified": "2022-05-20T10:23:57.817", "created": "2022-05-18T12:29:36.090", "status": "Inactive"}}

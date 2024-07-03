@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B3F7E5B6-E847-4F0B-B38F-59674C4380CE", "criteria": "cpe:2.3:a:snyk:cli:*:*:*:*:*:sbt:*:*", "versionEndExcluding": "2.16.2", "lastModified": "2022-12-02T03:00:12.867", "cpeLastModified": "2022-12-01T15:48:11.493", "created": "2022-12-01T15:48:11.493", "status": "Inactive"}}

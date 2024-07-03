@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3E3B9494-7DE3-4934-A615-E66305058C41", "criteria": "cpe:2.3:a:vmware:identity_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0", "versionEndExcluding": "2.7", "lastModified": "2022-04-08T10:04:03.107", "cpeLastModified": "2022-04-08T13:26:51.590", "created": "2022-04-08T10:04:03.107", "status": "Active"}}

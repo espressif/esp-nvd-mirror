@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "797C9FA3-70EF-492A-ACA3-CE21422D5AAA", "criteria": "cpe:2.3:o:sonicwall:sonicos:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.1.1-7040", "versionEndExcluding": "7.1.1-7058", "lastModified": "2024-07-18T19:04:15.727", "cpeLastModified": "2024-07-18T19:04:15.727", "created": "2024-07-18T19:04:15.727", "status": "Active"}}

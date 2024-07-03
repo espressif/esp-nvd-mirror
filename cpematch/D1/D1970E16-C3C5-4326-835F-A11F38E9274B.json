@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D1970E16-C3C5-4326-835F-A11F38E9274B", "criteria": "cpe:2.3:a:atlassian:bamboo_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "9.2.3", "lastModified": "2023-07-31T14:37:20.403", "cpeLastModified": "2023-07-31T14:37:20.403", "created": "2023-07-31T14:37:20.403", "status": "Active"}}

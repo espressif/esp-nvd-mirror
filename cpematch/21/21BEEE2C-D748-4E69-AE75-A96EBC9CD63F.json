@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "21BEEE2C-D748-4E69-AE75-A96EBC9CD63F", "criteria": "cpe:2.3:a:fming:pdm:*:*:*:*:*:python:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.10.0", "lastModified": "2023-10-28T02:00:21.410", "cpeLastModified": "2023-10-27T18:22:30.500", "created": "2023-10-27T18:22:30.500", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DDF9974C-D6DB-4784-B13D-B17A5F4B4075", "criteria": "cpe:2.3:a:vmware:spring_cloud_openfeign:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndIncluding": "3.0.4", "lastModified": "2021-10-29T13:16:46.480", "cpeLastModified": "2021-11-01T20:11:37.297", "created": "2021-10-29T13:16:46.480", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "39AC6F7F-5ED0-427E-B3FB-39DA76ABB944", "criteria": "cpe:2.3:a:kubernetes:continuous_deploy:*:*:*:*:*:jenkins:*:*", "versionEndIncluding": "2.3.1", "lastModified": "2022-03-21T15:04:37.627", "cpeLastModified": "2022-03-24T20:31:20.370", "created": "2022-03-21T15:04:37.627", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DF29872C-4C3F-4DD4-ABEB-64246074752A", "criteria": "cpe:2.3:a:npmjs:npm:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndIncluding": "8.1.3", "lastModified": "2021-11-16T17:51:29.813", "cpeLastModified": "2021-11-17T19:56:47.807", "created": "2021-11-16T17:51:29.813", "status": "Active"}}

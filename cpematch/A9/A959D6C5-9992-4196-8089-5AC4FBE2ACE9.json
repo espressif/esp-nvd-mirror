@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A959D6C5-9992-4196-8089-5AC4FBE2ACE9", "criteria": "cpe:2.3:a:ibm:soar:*:*:*:*:*:*:*:*", "versionStartIncluding": "42.0.7058", "versionEndExcluding": "43.1.49", "lastModified": "2022-01-26T19:41:11.913", "cpeLastModified": "2022-01-26T19:41:17.017", "created": "2022-01-26T19:41:11.913", "status": "Active"}}

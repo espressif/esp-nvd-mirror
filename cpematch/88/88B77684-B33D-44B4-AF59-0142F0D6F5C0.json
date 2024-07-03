@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "88B77684-B33D-44B4-AF59-0142F0D6F5C0", "criteria": "cpe:2.3:a:mit:kerberos_5:*:*:*:*:*:*:*:*", "versionStartIncluding": "5-1.6", "versionEndExcluding": "5-1.21.2", "lastModified": "2024-05-09T19:55:35.683", "cpeLastModified": "2024-05-09T19:55:35.683", "created": "2024-05-09T19:55:35.683", "status": "Active"}}

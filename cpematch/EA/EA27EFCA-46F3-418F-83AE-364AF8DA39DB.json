@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EA27EFCA-46F3-418F-83AE-364AF8DA39DB", "criteria": "cpe:2.3:a:hibernate:validator:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.1.2", "versionEndExcluding": "6.1.5", "lastModified": "2021-03-01T13:36:42.353", "cpeLastModified": "2021-03-01T13:51:36.950", "created": "2021-03-01T13:36:42.353", "status": "Inactive"}}

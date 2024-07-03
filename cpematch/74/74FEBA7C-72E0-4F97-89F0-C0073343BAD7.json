@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "74FEBA7C-72E0-4F97-89F0-C0073343BAD7", "criteria": "cpe:2.3:a:snyk:cli:*:*:*:*:*:cocoapods:*:*", "versionEndExcluding": "2.5.3", "lastModified": "2022-12-02T03:00:12.867", "cpeLastModified": "2022-12-01T15:48:11.493", "created": "2022-12-01T15:48:11.493", "status": "Inactive"}}

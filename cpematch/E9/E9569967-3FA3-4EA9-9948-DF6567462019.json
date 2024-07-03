@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E9569967-3FA3-4EA9-9948-DF6567462019", "criteria": "cpe:2.3:a:cisco:unified_communications_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.1", "versionEndExcluding": "5.1\\(3g\\)", "lastModified": "2021-10-06T14:38:50.987", "created": "2021-10-06T14:38:50.987", "status": "Inactive"}}

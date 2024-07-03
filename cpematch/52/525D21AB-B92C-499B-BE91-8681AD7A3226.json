@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "525D21AB-B92C-499B-BE91-8681AD7A3226", "criteria": "cpe:2.3:a:gnu:grub:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0", "versionEndExcluding": "2.12", "lastModified": "2022-07-13T14:21:03.957", "cpeLastModified": "2022-07-13T14:21:03.957", "created": "2022-07-13T14:21:03.957", "status": "Active"}}

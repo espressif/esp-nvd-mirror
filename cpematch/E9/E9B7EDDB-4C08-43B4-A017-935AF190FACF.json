@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E9B7EDDB-4C08-43B4-A017-935AF190FACF", "criteria": "cpe:2.3:a:deno:deno:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.18.2", "versionEndExcluding": "1.20.3", "lastModified": "2022-03-30T17:24:44.457", "created": "2022-03-30T17:24:44.457", "status": "Inactive"}}

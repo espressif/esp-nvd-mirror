@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "193D58C5-2266-4A8A-87F3-C9D2C5F3890E", "criteria": "cpe:2.3:a:elastic:elastic_apm_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndIncluding": "8.9.2", "lastModified": "2024-02-16T03:00:24.997", "cpeLastModified": "2024-02-15T19:39:21.393", "created": "2023-11-02T20:28:49.797", "status": "Inactive"}}

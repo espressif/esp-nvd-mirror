@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F6B60190-BDCA-48B2-BCA6-7BCB8AEFDF91", "criteria": "cpe:2.3:a:tpm2_software_stack_project:tpm2_software_stack:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.4.4", "versionEndExcluding": "3.0.1", "lastModified": "2021-02-26T14:02:46.693", "cpeLastModified": "2021-02-26T14:03:45.523", "created": "2021-02-26T14:02:46.693", "status": "Inactive"}}

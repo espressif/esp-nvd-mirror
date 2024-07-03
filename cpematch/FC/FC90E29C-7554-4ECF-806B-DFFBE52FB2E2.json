@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FC90E29C-7554-4ECF-806B-DFFBE52FB2E2", "criteria": "cpe:2.3:o:cisco:cbs35024p-4x_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5", "versionEndExcluding": "2.5.9.54", "lastModified": "2024-02-03T03:00:23.723", "cpeLastModified": "2024-02-02T15:19:06.583", "created": "2024-02-02T15:19:06.583", "status": "Inactive"}}

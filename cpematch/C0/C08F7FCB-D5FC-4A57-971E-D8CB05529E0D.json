@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C08F7FCB-D5FC-4A57-971E-D8CB05529E0D", "criteria": "cpe:2.3:a:cncf:knative_func:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.8.1", "lastModified": "2023-03-15T02:00:17.627", "cpeLastModified": "2023-03-14T15:35:34.180", "created": "2022-11-25T15:46:57.980", "status": "Inactive"}}

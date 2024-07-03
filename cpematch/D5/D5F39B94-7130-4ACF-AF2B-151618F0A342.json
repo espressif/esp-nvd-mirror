@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D5F39B94-7130-4ACF-AF2B-151618F0A342", "criteria": "cpe:2.3:o:siemens:cpu_1516pro_f-2_pn_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5", "versionEndExcluding": "2.9.2", "lastModified": "2021-08-19T18:18:27.090", "cpeLastModified": "2021-08-20T18:56:05.673", "created": "2021-08-19T18:18:27.090", "status": "Active"}}

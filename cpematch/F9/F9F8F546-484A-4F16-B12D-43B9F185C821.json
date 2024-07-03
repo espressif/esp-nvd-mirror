@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F9F8F546-484A-4F16-B12D-43B9F185C821", "criteria": "cpe:2.3:a:pivotal_software:rabbitmq:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.8.16", "lastModified": "2021-06-14T17:44:15.793", "cpeLastModified": "2022-03-17T14:09:59.740", "created": "2021-06-14T17:44:15.793", "status": "Inactive"}}

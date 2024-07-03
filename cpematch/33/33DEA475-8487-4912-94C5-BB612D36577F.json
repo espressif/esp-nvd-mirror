@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "33DEA475-8487-4912-94C5-BB612D36577F", "criteria": "cpe:2.3:a:nextcloud:circles:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.21.0", "versionEndIncluding": "0.21.3", "lastModified": "2021-09-08T13:32:02.430", "cpeLastModified": "2021-09-08T13:39:50.457", "created": "2021-09-08T13:32:02.430", "status": "Inactive"}}

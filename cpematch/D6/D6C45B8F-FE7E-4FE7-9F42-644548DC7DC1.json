@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D6C45B8F-FE7E-4FE7-9F42-644548DC7DC1", "criteria": "cpe:2.3:a:cloudfoundry:routing_release:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.273.0", "versionEndIncluding": "0.297.0", "lastModified": "2024-06-11T11:25:03.167", "cpeLastModified": "2024-06-11T11:25:03.167", "created": "2024-06-11T11:25:03.167", "status": "Active"}}

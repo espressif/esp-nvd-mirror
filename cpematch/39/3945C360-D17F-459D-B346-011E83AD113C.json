@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3945C360-D17F-459D-B346-011E83AD113C", "criteria": "cpe:2.3:a:atlassian:jira:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.6.0", "versionEndExcluding": "8.13.5", "lastModified": "2021-04-02T14:23:49.900", "cpeLastModified": "2022-03-25T18:10:52.853", "created": "2021-04-02T14:23:49.900", "status": "Inactive"}}

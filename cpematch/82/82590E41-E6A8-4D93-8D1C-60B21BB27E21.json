@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "82590E41-E6A8-4D93-8D1C-60B21BB27E21", "criteria": "cpe:2.3:h:ibm:flashsystem_v9100:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.8.0.0", "versionEndExcluding": "8.4.0.0", "lastModified": "2021-10-22T17:35:36.993", "created": "2021-10-22T17:35:36.993", "status": "Inactive"}}

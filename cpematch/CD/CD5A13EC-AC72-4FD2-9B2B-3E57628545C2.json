@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CD5A13EC-AC72-4FD2-9B2B-3E57628545C2", "criteria": "cpe:2.3:a:rubyonrails:active_storage:*:*:*:*:*:ruby:*:*", "versionStartIncluding": "7.0.0", "versionEndExcluding": "7.0.2.3", "lastModified": "2022-06-07T14:56:59.163", "cpeLastModified": "2022-06-07T14:56:59.163", "created": "2022-06-07T14:56:59.163", "status": "Active"}}

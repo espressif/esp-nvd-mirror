@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1C8F2377-4DEE-4154-A5CB-AA7BF36CB23A", "criteria": "cpe:2.3:a:arubanetworks:airwave_network_management:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.2.0.0", "lastModified": "2020-02-04T14:11:34.003", "created": "2020-02-04T14:11:34.003", "status": "Inactive"}}

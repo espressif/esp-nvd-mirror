@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "06F28F3F-83C8-4384-A4DC-91A86F7474AB", "criteria": "cpe:2.3:o:zyel:p-661h_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.40\\(agd.2\\)", "versionEndIncluding": "3.40\\(ahq.3\\)", "lastModified": "2024-02-07T03:00:41.937", "cpeLastModified": "2024-02-06T12:09:20.557", "created": "2024-02-06T12:04:19.790", "status": "Inactive"}}

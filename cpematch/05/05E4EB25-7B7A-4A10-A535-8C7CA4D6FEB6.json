@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "05E4EB25-7B7A-4A10-A535-8C7CA4D6FEB6", "criteria": "cpe:2.3:a:oracle:banking_enterprise_default_managment:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.3.0", "versionEndIncluding": "2.4.0", "lastModified": "2022-02-11T20:23:39.050", "cpeLastModified": "2022-02-20T06:22:53.880", "created": "2022-02-11T20:23:39.050", "status": "Active"}}

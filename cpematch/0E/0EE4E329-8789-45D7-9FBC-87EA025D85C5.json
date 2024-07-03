@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0EE4E329-8789-45D7-9FBC-87EA025D85C5", "criteria": "cpe:2.3:a:mozilla:thunderbird:*:*:*:*:*:*:*:*", "versionStartExcluding": "91.11", "versionEndExcluding": "102.0", "lastModified": "2023-01-05T03:00:11.633", "cpeLastModified": "2022-12-27T23:40:34.117", "created": "2022-12-27T16:21:52.573", "status": "Inactive"}}

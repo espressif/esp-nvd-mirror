@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2B0D29CE-1BCD-4051-80E5-21B4A169379D", "criteria": "cpe:2.3:a:cometbft:cometbft:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.34.28", "versionEndExcluding": "0.34.29", "lastModified": "2023-07-17T13:49:49.200", "cpeLastModified": "2023-07-17T13:49:49.200", "created": "2023-07-17T13:49:49.200", "status": "Active"}}

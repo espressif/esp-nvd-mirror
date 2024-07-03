@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2B4B85B9-D357-4EF5-8841-2EB06A8B948F", "criteria": "cpe:2.3:a:ibm:vios:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.1.3", "versionEndExcluding": "3.1.3.20", "lastModified": "2022-03-16T16:37:39.253", "cpeLastModified": "2022-03-18T13:19:27.523", "created": "2022-03-16T16:37:39.253", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CDE02047-FACA-4A00-B767-3BBD661AF713", "criteria": "cpe:2.3:a:weave:gitops_tools:*:*:*:*:*:visual_studio_code:*:*", "versionStartIncluding": "0.7.0", "versionEndIncluding": "0.20.2", "lastModified": "2022-08-22T17:37:06.343", "cpeLastModified": "2022-08-22T17:37:06.343", "created": "2022-08-22T17:37:06.343", "status": "Active"}}

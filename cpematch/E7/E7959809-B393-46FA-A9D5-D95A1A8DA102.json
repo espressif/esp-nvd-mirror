@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E7959809-B393-46FA-A9D5-D95A1A8DA102", "criteria": "cpe:2.3:a:symantec:advanced_secure_gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.3", "versionEndExcluding": "7.3.3.3", "lastModified": "2021-07-02T11:24:37.623", "cpeLastModified": "2021-07-08T16:37:53.197", "created": "2021-07-02T11:24:37.623", "status": "Inactive"}}

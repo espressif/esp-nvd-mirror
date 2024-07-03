@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F079D0FE-5B08-40C0-A8BA-E48BE42F7D1E", "criteria": "cpe:2.3:o:arubanetworks:arubaos:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.6.0.0", "versionEndExcluding": "8.6.0.17", "lastModified": "2022-12-15T03:00:11.390", "cpeLastModified": "2022-12-13T13:53:48.523", "created": "2022-12-13T13:53:48.523", "status": "Inactive"}}

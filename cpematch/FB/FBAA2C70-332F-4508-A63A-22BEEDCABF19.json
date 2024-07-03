@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FBAA2C70-332F-4508-A63A-22BEEDCABF19", "criteria": "cpe:2.3:a:torchbox:wagtail:*:*:*:*:lts:*:*:*", "versionStartIncluding": "2.7", "versionEndExcluding": "2.7.3", "lastModified": "2020-05-08T15:56:16.533", "created": "2020-05-08T15:56:16.533", "status": "Active"}}

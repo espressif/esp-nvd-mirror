@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F7C63AFB-7B70-45A6-A9F2-83B413A83951", "criteria": "cpe:2.3:a:microsoft:authentication_library:*:*:*:*:*:node.js:*:*", "versionEndIncluding": "2.9.2", "lastModified": "2024-06-17T18:30:26.510", "cpeLastModified": "2024-06-17T18:30:26.510", "created": "2024-06-17T18:30:26.510", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "346C5AE9-CF86-4160-A570-DF172A73233E", "criteria": "cpe:2.3:o:brocade:fabric_os:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.4.2", "versionEndExcluding": "7.4.2d", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-06-22T15:20:40.133", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

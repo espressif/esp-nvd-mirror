@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EC2D5883-B6E1-48CA-ACD5-25AEE8BDEC2D", "criteria": "cpe:2.3:o:ibm:flashsystem_9000_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.8.0.0", "versionEndExcluding": "8.4.0.0", "lastModified": "2021-10-26T02:03:41.310", "cpeLastModified": "2021-10-26T02:03:51.073", "created": "2021-10-26T02:03:41.310", "status": "Active"}}

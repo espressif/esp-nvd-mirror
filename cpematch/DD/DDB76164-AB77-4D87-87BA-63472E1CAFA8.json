@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DDB76164-AB77-4D87-87BA-63472E1CAFA8", "criteria": "cpe:2.3:o:intel:trusted_execution_engine:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0", "versionEndExcluding": "4.0.25", "lastModified": "2020-06-22T16:56:06.440", "created": "2020-06-22T16:56:06.440", "status": "Active"}}

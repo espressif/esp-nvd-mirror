@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "02A5FF4A-6AE5-4C47-89A5-505268D67CBA", "criteria": "cpe:2.3:o:broadcom:symantec_advanced_secure_gateway_s400-40_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.7", "versionEndExcluding": "6.7.5.12", "lastModified": "2021-07-06T15:07:06.500", "created": "2021-07-06T15:07:06.500", "status": "Inactive"}}

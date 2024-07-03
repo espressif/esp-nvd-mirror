@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E3A6C41B-575B-486E-AC21-429F507E1447", "criteria": "cpe:2.3:a:redhat:openshift:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.2.0", "versionEndExcluding": "4.2.21", "lastModified": "2020-04-03T21:01:08.227", "created": "2020-04-03T21:01:08.227", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D8107656-119B-4C4F-8365-CB1B79CE3233", "criteria": "cpe:2.3:a:bareos:bareos:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.0.0", "versionEndExcluding": "21.1.0", "lastModified": "2022-03-22T16:48:08.350", "cpeLastModified": "2022-03-24T02:58:08.643", "created": "2022-03-22T16:48:08.350", "status": "Active"}}

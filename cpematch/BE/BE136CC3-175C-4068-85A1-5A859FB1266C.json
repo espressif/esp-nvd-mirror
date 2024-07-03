@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BE136CC3-175C-4068-85A1-5A859FB1266C", "criteria": "cpe:2.3:a:cisco:broadworks_application_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "24.0", "versionEndExcluding": "24.0.2023.08", "lastModified": "2023-08-08T14:22:20.030", "cpeLastModified": "2023-08-08T14:17:36.967", "created": "2023-08-08T14:17:36.967", "status": "Inactive"}}

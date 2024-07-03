@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "971C1268-59CA-4A49-8726-81E0205595A8", "criteria": "cpe:2.3:a:apache:airflow_sqoop_provider:*:*:*:*:*:*:*:*", "versionEndExcluding": "4.0.0", "lastModified": "2023-09-01T15:16:40.643", "cpeLastModified": "2023-09-01T15:16:40.643", "created": "2023-09-01T15:16:40.643", "status": "Active"}}

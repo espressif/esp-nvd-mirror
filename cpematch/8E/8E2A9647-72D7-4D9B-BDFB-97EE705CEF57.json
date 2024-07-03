@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8E2A9647-72D7-4D9B-BDFB-97EE705CEF57", "criteria": "cpe:2.3:a:puppet:puppet:*:*:*:*:enterprise:*:*:*", "versionStartIncluding": "3.8.0", "versionEndExcluding": "3.8.6", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2022-01-24T16:43:54.417", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

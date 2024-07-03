@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9EAB5CE6-755C-4B04-AD92-FDB2B7F5280A", "criteria": "cpe:2.3:o:mimosa:c5c_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5.0.0", "versionEndExcluding": "2.5.4.0", "lastModified": "2021-07-26T12:27:06.977", "cpeLastModified": "2021-08-27T18:31:29.120", "created": "2021-07-26T12:27:06.977", "status": "Inactive"}}

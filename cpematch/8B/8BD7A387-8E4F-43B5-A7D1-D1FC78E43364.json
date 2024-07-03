@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8BD7A387-8E4F-43B5-A7D1-D1FC78E43364", "criteria": "cpe:2.3:a:google:go:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.17.0", "versionEndExcluding": "1.17.5", "lastModified": "2022-01-11T21:33:23.793", "created": "2022-01-11T21:33:23.793", "status": "Inactive"}}

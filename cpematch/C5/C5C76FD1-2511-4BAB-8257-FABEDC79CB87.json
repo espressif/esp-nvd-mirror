@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C5C76FD1-2511-4BAB-8257-FABEDC79CB87", "criteria": "cpe:2.3:o:abb:opc_server_for_ac_800m_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.1.0-0", "versionEndExcluding": "6.0.0-4", "lastModified": "2022-02-09T13:54:26.237", "created": "2022-02-09T13:54:26.237", "status": "Inactive"}}

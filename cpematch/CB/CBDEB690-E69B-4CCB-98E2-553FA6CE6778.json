@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CBDEB690-E69B-4CCB-98E2-553FA6CE6778", "criteria": "cpe:2.3:a:pivotal_software:cloud_foundry_uaa_bosh:*:*:*:*:*:*:*:*", "versionEndIncluding": "15.0", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-08-06T13:08:07.337", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

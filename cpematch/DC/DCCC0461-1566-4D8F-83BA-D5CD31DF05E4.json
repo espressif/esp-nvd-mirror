@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DCCC0461-1566-4D8F-83BA-D5CD31DF05E4", "criteria": "cpe:2.3:a:hapijs:hoek:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "9.0", "versionEndExcluding": "9.0.3", "lastModified": "2022-09-23T13:38:13.447", "cpeLastModified": "2022-09-23T13:38:13.447", "created": "2022-09-23T13:38:13.447", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "782554C5-0459-4D91-81B0-4CADA5D37D46", "criteria": "cpe:2.3:a:realvnc:vnc_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.6", "versionEndExcluding": "6.9.0", "lastModified": "2022-06-14T14:36:16.117", "cpeLastModified": "2022-06-14T14:36:16.117", "created": "2022-06-14T14:36:16.117", "status": "Inactive"}}

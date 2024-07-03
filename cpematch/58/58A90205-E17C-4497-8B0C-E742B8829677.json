@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "58A90205-E17C-4497-8B0C-E742B8829677", "criteria": "cpe:2.3:a:jenkins:credentials:*:*:*:*:*:jenkins:*:*", "versionStartIncluding": "1087.v16065d268466", "versionEndExcluding": "1111.v35a_307992395", "lastModified": "2022-04-19T15:38:08.023", "created": "2022-04-19T15:38:08.023", "status": "Inactive"}}

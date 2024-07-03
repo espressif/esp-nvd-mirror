@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FF3D7B2B-4346-4400-B000-CD6300F1014E", "criteria": "cpe:2.3:a:digium:asterisk:*:*:*:*:*:*:*:*", "versionStartIncluding": "15.0.0", "versionEndExcluding": "16.16.1", "lastModified": "2021-02-24T17:01:28.300", "cpeLastModified": "2021-03-03T00:14:13.110", "created": "2021-02-24T17:01:28.300", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0CD9E095-2771-4013-B1EB-B00CE7C9CB89", "criteria": "cpe:2.3:a:docker:docker_registry:*:*:*:*:*:*:*:*", "versionEndIncluding": "2.6.1", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T22:21:48.897", "created": "2019-06-17T09:16:33.960", "status": "Active"}}

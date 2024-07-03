@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "37FAE424-D918-4082-BF02-A7F4E0EF826B", "criteria": "cpe:2.3:a:linuxfoundation:ceph:*:*:*:*:*:*:*:*", "versionStartIncluding": "17.0.0", "versionEndExcluding": "17.2.2", "lastModified": "2022-08-15T14:43:28.777", "cpeLastModified": "2022-08-15T14:43:28.777", "created": "2022-08-15T14:43:28.777", "status": "Active"}}

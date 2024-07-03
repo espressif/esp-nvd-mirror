@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3AA4A729-AC3A-4BC0-BBC1-9E9C21B917E7", "criteria": "cpe:2.3:a:ffmpeg:ffmpeg:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.0.5", "lastModified": "2021-04-07T16:39:30.890", "cpeLastModified": "2021-04-07T16:39:30.890", "created": "2021-04-07T16:39:30.890", "status": "Inactive"}}

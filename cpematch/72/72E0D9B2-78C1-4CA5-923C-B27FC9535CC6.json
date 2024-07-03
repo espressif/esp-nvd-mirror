@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "72E0D9B2-78C1-4CA5-923C-B27FC9535CC6", "criteria": "cpe:2.3:a:mariadb:mariadb:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndIncluding": "10.0.27", "lastModified": "2022-07-18T16:37:01.290", "cpeLastModified": "2022-07-18T16:37:01.290", "created": "2022-07-18T16:07:58.247", "status": "Inactive"}}

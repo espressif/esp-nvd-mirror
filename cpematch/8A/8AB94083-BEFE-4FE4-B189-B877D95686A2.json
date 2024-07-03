@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8AB94083-BEFE-4FE4-B189-B877D95686A2", "criteria": "cpe:2.3:a:google:tensorflow:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5.0", "versionEndExcluding": "2.5.1", "lastModified": "2021-08-17T19:45:44.190", "cpeLastModified": "2021-08-17T19:45:44.190", "created": "2021-08-17T19:45:44.190", "status": "Inactive"}}

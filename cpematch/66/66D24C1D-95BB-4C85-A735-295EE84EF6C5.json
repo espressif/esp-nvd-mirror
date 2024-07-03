@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "66D24C1D-95BB-4C85-A735-295EE84EF6C5", "criteria": "cpe:2.3:a:ca:privileged_access_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.1", "versionEndIncluding": "3.0.3", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-04-12T13:41:49.933", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

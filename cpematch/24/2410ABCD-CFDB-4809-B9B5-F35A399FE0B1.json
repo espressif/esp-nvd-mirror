@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2410ABCD-CFDB-4809-B9B5-F35A399FE0B1", "criteria": "cpe:2.3:a:open-xchange:open-xchange_appsuite_backend:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.11", "lastModified": "2023-07-04T02:00:15.917", "cpeLastModified": "2023-07-03T14:19:56.653", "created": "2023-07-03T14:19:56.653", "status": "Inactive"}}

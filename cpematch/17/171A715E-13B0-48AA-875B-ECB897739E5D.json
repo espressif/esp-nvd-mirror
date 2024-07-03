@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "171A715E-13B0-48AA-875B-ECB897739E5D", "criteria": "cpe:2.3:a:docker:haproxy:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.8.18-alpine", "lastModified": "2020-12-17T19:30:37.870", "created": "2020-12-17T19:30:37.870", "status": "Active"}}

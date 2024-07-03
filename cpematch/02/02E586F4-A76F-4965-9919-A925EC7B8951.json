@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "02E586F4-A76F-4965-9919-A925EC7B8951", "criteria": "cpe:2.3:a:forgerock:ldap_connector:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.5.20.9", "lastModified": "2022-09-20T16:47:38.410", "cpeLastModified": "2022-09-20T16:47:38.410", "created": "2022-09-20T16:47:38.410", "status": "Active"}}

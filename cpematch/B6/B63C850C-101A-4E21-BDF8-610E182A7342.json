@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B63C850C-101A-4E21-BDF8-610E182A7342", "criteria": "cpe:2.3:a:pivotal_software:cloud_foundry_cf-deployment:*:*:*:*:*:*:*:*", "versionEndExcluding": "12.2.0", "lastModified": "2019-10-30T22:18:54.820", "cpeLastModified": "2021-08-17T14:30:08.960", "created": "2019-10-30T22:18:54.820", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C1D5399C-89ED-4F0F-97D9-B23932217A73", "criteria": "cpe:2.3:a:microsoft:visual_studio_2019:*:*:*:*:*:*:*:*", "versionStartIncluding": "16.0", "versionEndExcluding": "16.11.14", "lastModified": "2022-05-16T17:17:23.980", "cpeLastModified": "2022-05-16T17:17:23.980", "created": "2022-05-16T17:17:23.980", "status": "Inactive"}}

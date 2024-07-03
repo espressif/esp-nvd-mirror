@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CA1DDD64-8D94-4CDF-8EEA-0BF9520C7A10", "criteria": "cpe:2.3:a:modbustools:modbus_poll:*:*:*:*:*:*:*:*", "versionEndIncluding": "9.10.0", "lastModified": "2023-01-05T15:51:36.137", "cpeLastModified": "2023-01-05T15:51:36.137", "created": "2023-01-05T15:51:36.137", "status": "Active"}}

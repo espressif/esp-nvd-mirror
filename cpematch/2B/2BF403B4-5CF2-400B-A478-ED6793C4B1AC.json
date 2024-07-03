@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2BF403B4-5CF2-400B-A478-ED6793C4B1AC", "criteria": "cpe:2.3:o:siemens:simatic_reader_rf610r_cmiit_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0", "versionEndExcluding": "4.0", "lastModified": "2022-04-28T14:48:16.347", "cpeLastModified": "2022-05-13T17:29:17.453", "created": "2022-04-28T14:48:16.347", "status": "Active"}}

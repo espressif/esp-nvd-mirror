@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "80186DC8-99BD-49DD-9940-3CA80857028D", "criteria": "cpe:2.3:a:vmware:spring_tools:*:*:*:*:*:eclipse:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.16.1", "lastModified": "2022-11-07T14:44:02.757", "cpeLastModified": "2022-11-07T14:44:02.757", "created": "2022-11-07T14:44:02.757", "status": "Active"}}

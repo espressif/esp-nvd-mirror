@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3466070E-1377-4272-AC73-717B9DEC144C", "criteria": "cpe:2.3:a:codesys:control_win:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.5.13.0", "versionEndExcluding": "3.5.14.10", "lastModified": "2019-09-16T18:04:15.573", "cpeLastModified": "2021-03-22T20:02:38.157", "created": "2019-09-16T18:04:15.573", "status": "Active"}}

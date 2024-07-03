@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AD5EBA47-5EB5-4BEF-A3BD-7665A2A08E15", "criteria": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.2", "versionEndIncluding": "6.0.2.98623", "lastModified": "2021-03-11T22:14:15.220", "cpeLastModified": "2021-04-12T15:25:11.707", "created": "2021-03-11T22:14:15.220", "status": "Inactive"}}

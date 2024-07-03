@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E775D889-AB7A-44DB-82DC-3370309C147F", "criteria": "cpe:2.3:a:mcafee:data_loss_prevention_endpoint:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.7.0", "versionEndExcluding": "11.7.100", "lastModified": "2021-11-02T19:52:18.543", "cpeLastModified": "2021-11-03T14:52:33.080", "created": "2021-11-02T19:52:18.543", "status": "Active"}}

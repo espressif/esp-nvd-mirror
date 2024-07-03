@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8D6FAAD5-085A-4463-9B8E-1B181C4D2633", "criteria": "cpe:2.3:a:f5:big-ip_analytics:*:*:*:*:*:*:*:*", "versionStartIncluding": "15.0.0", "versionEndExcluding": "15.1.4.1", "lastModified": "2022-01-31T16:22:13.120", "created": "2022-01-31T16:22:13.120", "status": "Inactive"}}

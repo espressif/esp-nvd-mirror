@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "234208FB-5CBD-4D46-8DF4-1C375181C9C5", "criteria": "cpe:2.3:a:rails:action_view:*:*:*:*:*:ruby:*:*", "versionStartIncluding": "6.0.0.0", "versionEndExcluding": "6.0.3.3", "lastModified": "2020-09-12T01:02:08.463", "created": "2020-09-12T01:02:08.463", "status": "Active"}}

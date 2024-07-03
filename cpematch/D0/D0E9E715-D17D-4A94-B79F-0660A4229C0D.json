@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D0E9E715-D17D-4A94-B79F-0660A4229C0D", "criteria": "cpe:2.3:a:puppetlabs:mcollective-puppet-agent:*:*:*:*:*:puppet:*:*", "versionEndIncluding": "1.11.0", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T22:21:48.897", "created": "2019-06-17T09:16:33.960", "status": "Active"}}

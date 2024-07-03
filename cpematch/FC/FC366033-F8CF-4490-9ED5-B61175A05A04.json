@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FC366033-F8CF-4490-9ED5-B61175A05A04", "criteria": "cpe:2.3:a:dotcms:dotcms:*:*:*:*:lts:*:*:*", "versionStartIncluding": "21.06", "versionEndExcluding": "21.06.9", "lastModified": "2022-11-14T15:04:24.910", "cpeLastModified": "2022-11-14T15:04:24.910", "created": "2022-11-14T15:04:24.910", "status": "Active"}}

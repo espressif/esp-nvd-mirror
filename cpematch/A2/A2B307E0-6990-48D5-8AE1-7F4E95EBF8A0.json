@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A2B307E0-6990-48D5-8AE1-7F4E95EBF8A0", "criteria": "cpe:2.3:a:prometheus:exporter_toolkit:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.8.0", "versionEndExcluding": "0.8.2", "lastModified": "2022-12-01T14:14:49.940", "cpeLastModified": "2022-12-01T14:14:49.940", "created": "2022-12-01T14:14:49.940", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5E7E24E4-AA8C-4708-98D2-C991863DBB12", "criteria": "cpe:2.3:a:kubeview_project:kubeview:*:*:*:*:*:*:*:*", "versionEndIncluding": "0.1.31", "lastModified": "2022-11-27T06:11:33.167", "cpeLastModified": "2022-11-27T06:11:33.167", "created": "2022-11-27T06:11:33.167", "status": "Active"}}

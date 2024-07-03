@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E3A66061-3F6C-4933-A962-D8C704E68760", "criteria": "cpe:2.3:a:palantir:foundry_issues:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.244.0", "versionEndExcluding": "2.249.1", "lastModified": "2022-05-03T16:00:58.490", "cpeLastModified": "2022-05-05T18:38:21.470", "created": "2022-05-03T16:00:58.490", "status": "Active"}}

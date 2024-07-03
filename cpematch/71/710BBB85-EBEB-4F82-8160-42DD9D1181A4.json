@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "710BBB85-EBEB-4F82-8160-42DD9D1181A4", "criteria": "cpe:2.3:o:abb:rtu500_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.4.1.0", "versionEndExcluding": "12.4.12.0", "lastModified": "2023-05-17T02:00:15.017", "cpeLastModified": "2023-04-19T15:32:23.947", "created": "2022-05-10T11:20:46.220", "status": "Inactive"}}

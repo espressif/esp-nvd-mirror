@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5619F822-DC78-434C-A4F3-670E86F7D423", "criteria": "cpe:2.3:a:azure-iot-cli-extension:-:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.10.2", "versionEndIncluding": "0.10.6", "lastModified": "2021-03-04T15:30:09.750", "created": "2021-03-04T15:30:09.750", "status": "Active"}}

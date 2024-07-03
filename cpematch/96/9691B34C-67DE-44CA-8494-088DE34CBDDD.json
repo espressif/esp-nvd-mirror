@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9691B34C-67DE-44CA-8494-088DE34CBDDD", "criteria": "cpe:2.3:a:netapp:ontap_system_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0", "versionEndExcluding": "9.7", "lastModified": "2021-11-02T21:36:01.617", "cpeLastModified": "2021-11-02T21:36:56.300", "created": "2021-11-02T21:36:01.617", "status": "Active"}}

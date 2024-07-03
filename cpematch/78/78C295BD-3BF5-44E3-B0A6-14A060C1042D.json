@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "78C295BD-3BF5-44E3-B0A6-14A060C1042D", "criteria": "cpe:2.3:a:apache:qpid_broker-j:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.18", "versionEndIncluding": "0.32", "lastModified": "2023-05-22T14:42:33.423", "cpeLastModified": "2023-05-22T14:42:33.423", "created": "2023-05-22T14:42:33.423", "status": "Active"}}

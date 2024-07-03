@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "194F937B-8C81-46CB-A783-9A381F02E9E8", "criteria": "cpe:2.3:a:f5:big-ip_application_acceleration_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "16.0.0", "versionEndIncluding": "16.0.1.2", "lastModified": "2021-09-20T19:02:19.583", "created": "2021-09-20T19:02:19.583", "status": "Inactive"}}

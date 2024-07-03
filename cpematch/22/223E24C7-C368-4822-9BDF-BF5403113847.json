@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "223E24C7-C368-4822-9BDF-BF5403113847", "criteria": "cpe:2.3:a:otrs:survey:*:*:*:*:-:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.0.13", "lastModified": "2023-08-04T18:08:25.460", "cpeLastModified": "2023-08-04T18:08:25.460", "created": "2023-08-04T18:08:25.460", "status": "Active"}}

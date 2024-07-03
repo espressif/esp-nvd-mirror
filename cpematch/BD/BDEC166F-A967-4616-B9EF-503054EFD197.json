@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BDEC166F-A967-4616-B9EF-503054EFD197", "criteria": "cpe:2.3:o:ibm:stn6500_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.9.1.0", "versionEndExcluding": "3.9.1.08", "lastModified": "2024-07-19T15:22:53.990", "cpeLastModified": "2024-07-19T15:22:53.990", "created": "2024-07-19T15:22:53.990", "status": "Active"}}

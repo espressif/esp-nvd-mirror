@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E26E7679-8BEF-4E54-9908-CD46A514E6CB", "criteria": "cpe:2.3:a:scala-sbt:io:*:*:*:*:*:sbt:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.9.7", "lastModified": "2023-10-30T11:51:16.453", "cpeLastModified": "2023-10-30T11:51:16.453", "created": "2023-10-30T11:51:16.453", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2782D304-DA10-4AAE-A3EE-7755DF4C469E", "criteria": "cpe:2.3:a:debian:shadow:*:*:*:*:*:*:*:*", "versionStartIncluding": "1\\:4.4-2", "versionEndExcluding": "1\\:4.5-1", "lastModified": "2021-06-07T12:45:36.697", "created": "2021-06-07T12:45:36.697", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5B921F25-9042-4FBD-B739-1EA2FE65DC94", "criteria": "cpe:2.3:a:pivotal:application_service:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.4.0", "versionEndExcluding": "2.4.10", "lastModified": "2019-08-12T17:35:37.220", "created": "2019-08-12T17:35:37.220", "status": "Active"}}

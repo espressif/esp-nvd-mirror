@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DBE2687E-FE4F-4FD6-AA27-8F7412EF4EDB", "criteria": "cpe:2.3:a:jenkins:chef_identity:*:*:*:*:*:jenkins:*:*", "versionEndIncluding": "2.0.3", "lastModified": "2023-07-29T17:10:41.223", "cpeLastModified": "2023-07-29T17:10:41.223", "created": "2023-07-29T17:10:41.223", "status": "Active"}}

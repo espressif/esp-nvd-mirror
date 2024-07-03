@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "12933927-9C55-4CA9-A5E5-67848F4CAD32", "criteria": "cpe:2.3:a:python:ujson:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.2", "versionEndIncluding": "5.0.0", "lastModified": "2022-01-11T15:06:38.600", "created": "2022-01-11T15:06:38.600", "status": "Inactive"}}

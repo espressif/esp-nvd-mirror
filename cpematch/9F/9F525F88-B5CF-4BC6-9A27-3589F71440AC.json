@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9F525F88-B5CF-4BC6-9A27-3589F71440AC", "criteria": "cpe:2.3:a:se:enterprise_server_installer:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.9", "versionEndIncluding": "3.1", "lastModified": "2020-11-26T04:18:25.287", "cpeLastModified": "2022-01-31T19:32:59.153", "created": "2020-11-26T04:18:25.287", "status": "Inactive"}}

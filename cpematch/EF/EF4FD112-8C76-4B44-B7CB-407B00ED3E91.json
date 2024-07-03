@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EF4FD112-8C76-4B44-B7CB-407B00ED3E91", "criteria": "cpe:2.3:a:atlassian:bitbucket:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.17.0", "versionEndExcluding": "7.17.10", "lastModified": "2022-08-29T14:23:58.293", "cpeLastModified": "2022-08-29T14:23:58.293", "created": "2022-08-29T14:23:58.293", "status": "Inactive"}}

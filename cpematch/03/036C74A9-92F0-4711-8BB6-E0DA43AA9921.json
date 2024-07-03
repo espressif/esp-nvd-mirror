@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "036C74A9-92F0-4711-8BB6-E0DA43AA9921", "criteria": "cpe:2.3:a:microsoft:azure_identity_sdk:*:*:*:*:*:javascript:*:*", "versionEndExcluding": "3.3.1", "lastModified": "2023-10-12T16:01:22.030", "cpeLastModified": "2023-10-12T16:01:22.030", "created": "2023-10-12T16:01:22.030", "status": "Active"}}

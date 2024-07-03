@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "03CEF5EC-35BC-4B0E-A417-62E2D7C2F940", "criteria": "cpe:2.3:a:openzeppelin:contracts-upgradeable:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "4.1.0", "versionEndExcluding": "4.7.3", "lastModified": "2022-12-07T03:00:11.757", "cpeLastModified": "2022-12-06T19:51:44.077", "created": "2022-08-16T12:11:23.630", "status": "Inactive"}}

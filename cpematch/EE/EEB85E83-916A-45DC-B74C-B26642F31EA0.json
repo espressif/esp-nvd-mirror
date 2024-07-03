@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EEB85E83-916A-45DC-B74C-B26642F31EA0", "criteria": "cpe:2.3:a:neo4j-contrib:neo4j-apoc-procedures:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.4.0.0", "versionEndExcluding": "4.4.0.12", "lastModified": "2023-01-23T15:04:50.603", "cpeLastModified": "2023-01-23T14:58:49.550", "created": "2023-01-20T18:27:16.943", "status": "Inactive"}}

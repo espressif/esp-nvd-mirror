@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4730FD89-CBE6-46AF-ACDA-6F987264BDA5", "criteria": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1517tf-3_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.9.2", "versionEndExcluding": "2.9.4", "lastModified": "2022-02-11T14:45:19.707", "cpeLastModified": "2022-02-14T15:23:31.563", "created": "2022-02-11T14:45:19.707", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "35DAAC2C-A0B3-468C-9453-9F89463F101B", "criteria": "cpe:2.3:o:siemens:ruggedcom_ros_rs900_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.5.4", "lastModified": "2021-07-28T18:24:49.313", "created": "2021-07-28T18:24:49.313", "status": "Active"}}

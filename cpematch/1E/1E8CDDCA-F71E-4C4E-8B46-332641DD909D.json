@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1E8CDDCA-F71E-4C4E-8B46-332641DD909D", "criteria": "cpe:2.3:a:redhat:openstack-selinux:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.8.24", "lastModified": "2021-06-14T18:19:08.503", "cpeLastModified": "2022-07-25T11:43:11.450", "created": "2021-06-14T18:19:08.503", "status": "Active"}}

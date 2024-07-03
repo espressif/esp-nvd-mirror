@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "12A34A0C-B516-4970-8BE3-D0415C525D4D", "criteria": "cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:windows:*:*", "versionStartIncluding": "5.2", "versionEndExcluding": "5.2.9", "lastModified": "2022-02-15T15:07:06.420", "created": "2022-02-15T15:07:06.420", "status": "Inactive"}}

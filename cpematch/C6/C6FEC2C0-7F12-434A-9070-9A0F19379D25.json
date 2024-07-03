@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C6FEC2C0-7F12-434A-9070-9A0F19379D25", "criteria": "cpe:2.3:o:bender:cc612_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.13.0", "versionEndExcluding": "5.13.2", "lastModified": "2022-05-04T16:09:53.660", "cpeLastModified": "2022-05-04T16:09:53.660", "created": "2022-05-04T16:09:53.660", "status": "Active"}}

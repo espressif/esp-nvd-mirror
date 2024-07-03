@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "17C4A601-7A7B-4A28-BBE3-046B35CDD1EF", "criteria": "cpe:2.3:a:linecorp:central_dogma:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.17.0", "versionEndExcluding": "0.51.1", "lastModified": "2021-09-14T14:52:38.423", "cpeLastModified": "2021-09-14T15:11:05.580", "created": "2021-09-14T14:52:38.423", "status": "Inactive"}}

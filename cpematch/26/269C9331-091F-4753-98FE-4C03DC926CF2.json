@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "269C9331-091F-4753-98FE-4C03DC926CF2", "criteria": "cpe:2.3:a:pivotal_software:bosh:*:*:*:*:*:*:*:*", "versionStartIncluding": "270.0.0", "versionEndExcluding": "270.1.1", "lastModified": "2019-06-20T16:18:16.947", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-20T16:18:16.947", "status": "Active"}}

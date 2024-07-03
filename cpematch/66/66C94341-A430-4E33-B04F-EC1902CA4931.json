@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "66C94341-A430-4E33-B04F-EC1902CA4931", "criteria": "cpe:2.3:o:siemens:simatic_reader_rf615r_etsi_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0", "versionEndExcluding": "4.0", "lastModified": "2022-04-28T14:48:19.967", "cpeLastModified": "2022-05-13T17:29:17.453", "created": "2022-04-28T14:48:19.967", "status": "Active"}}

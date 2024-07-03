@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A3BCBA4C-862E-4DB7-ABEB-5E5005F035AA", "criteria": "cpe:2.3:a:nextcloud:mail:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.5.5", "versionEndExcluding": "1.8.2", "lastModified": "2021-06-08T15:37:53.247", "cpeLastModified": "2021-06-08T15:43:22.717", "created": "2021-06-08T15:37:53.247", "status": "Inactive"}}

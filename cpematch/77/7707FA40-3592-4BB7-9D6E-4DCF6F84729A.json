@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7707FA40-3592-4BB7-9D6E-4DCF6F84729A", "criteria": "cpe:2.3:a:oracle:essbase_administration_services:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.0", "versionEndExcluding": "21.3", "lastModified": "2022-03-02T18:50:45.990", "cpeLastModified": "2022-03-31T17:00:46.063", "created": "2022-03-02T18:50:45.990", "status": "Active"}}

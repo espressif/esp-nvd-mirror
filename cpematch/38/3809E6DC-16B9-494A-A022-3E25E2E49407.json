@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3809E6DC-16B9-494A-A022-3E25E2E49407", "criteria": "cpe:2.3:a:perfsonar:perfsonar:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.4.0", "versionEndExcluding": "4.4.5", "lastModified": "2022-12-03T03:00:19.943", "cpeLastModified": "2022-12-02T14:45:00.440", "created": "2022-12-02T14:45:00.440", "status": "Inactive"}}

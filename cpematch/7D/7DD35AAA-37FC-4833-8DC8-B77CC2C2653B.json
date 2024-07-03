@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7DD35AAA-37FC-4833-8DC8-B77CC2C2653B", "criteria": "cpe:2.3:a:sap:ui:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.79.0", "versionEndExcluding": "1.84.5", "lastModified": "2021-03-16T11:54:46.807", "cpeLastModified": "2021-03-16T11:56:18.137", "created": "2021-03-16T11:54:46.807", "status": "Inactive"}}

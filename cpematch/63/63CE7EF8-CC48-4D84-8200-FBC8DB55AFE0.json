@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "63CE7EF8-CC48-4D84-8200-FBC8DB55AFE0", "criteria": "cpe:2.3:a:sigstore:gitsign:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.6.0", "versionEndExcluding": "0.8.0", "lastModified": "2023-11-16T16:41:53.537", "cpeLastModified": "2023-11-16T16:24:53.993", "created": "2023-11-16T16:24:53.993", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FC37FEAD-CAE3-48CB-90BB-A7EDEB865F8C", "criteria": "cpe:2.3:a:ca:strong_authentication:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0", "versionEndIncluding": "8.2.1", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-17T09:16:33.960", "status": "Active"}}

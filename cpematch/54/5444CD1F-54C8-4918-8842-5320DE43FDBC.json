@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5444CD1F-54C8-4918-8842-5320DE43FDBC", "criteria": "cpe:2.3:a:microsoft:azure_storage_queue:*:*:*:*:*:.net:*:*", "versionEndExcluding": "12.11.0", "lastModified": "2022-07-19T14:53:59.460", "cpeLastModified": "2022-07-19T14:53:59.460", "created": "2022-07-19T14:53:59.460", "status": "Active"}}

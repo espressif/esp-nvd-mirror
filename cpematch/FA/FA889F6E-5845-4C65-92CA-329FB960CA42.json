@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FA889F6E-5845-4C65-92CA-329FB960CA42", "criteria": "cpe:2.3:a:vmware:tanzu_gemfire_for_virtual_machines:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.9.0", "versionEndExcluding": "1.9.2", "lastModified": "2020-08-01T01:35:26.897", "created": "2020-08-01T01:35:26.897", "status": "Active"}}

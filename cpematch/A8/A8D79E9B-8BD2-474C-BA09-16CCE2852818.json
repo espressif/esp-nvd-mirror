@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A8D79E9B-8BD2-474C-BA09-16CCE2852818", "criteria": "cpe:2.3:a:proxmox:pve_http_server:*:*:*:*:*:*:*:*", "versionEndExcluding": "4.1-3", "lastModified": "2022-12-06T20:20:32.630", "cpeLastModified": "2022-12-06T20:20:32.630", "created": "2022-12-06T20:20:32.630", "status": "Active"}}

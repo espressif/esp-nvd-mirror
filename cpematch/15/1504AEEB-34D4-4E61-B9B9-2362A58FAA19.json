@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1504AEEB-34D4-4E61-B9B9-2362A58FAA19", "criteria": "cpe:2.3:a:vmware:workspace_one_sdk_\\(objective-c\\):*:*:*:*:iphone_os:*:*:*", "versionStartIncluding": "5.9.9.7", "versionEndExcluding": "5.9.9.8", "lastModified": "2020-01-27T16:30:33.200", "created": "2020-01-27T16:30:33.200", "status": "Active"}}

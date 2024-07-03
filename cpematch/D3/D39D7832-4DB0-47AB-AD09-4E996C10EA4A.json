@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D39D7832-4DB0-47AB-AD09-4E996C10EA4A", "criteria": "cpe:2.3:a:apache:airflow_drill_provider:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.3.2", "lastModified": "2023-04-12T15:05:02.583", "cpeLastModified": "2023-04-12T15:05:02.583", "created": "2023-04-12T15:05:02.583", "status": "Active"}}

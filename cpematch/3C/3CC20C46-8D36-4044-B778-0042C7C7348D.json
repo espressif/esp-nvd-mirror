@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3CC20C46-8D36-4044-B778-0042C7C7348D", "criteria": "cpe:2.3:a:kubernetes-nmstate_project:kubernetes-nmstate:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.3.0", "lastModified": "2021-06-16T20:50:25.897", "created": "2021-06-16T20:50:25.897", "status": "Inactive"}}

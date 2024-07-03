@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EE080A06-CA52-4F3A-AB07-7265FA8E60C6", "criteria": "cpe:2.3:a:cisco:sd-wan_vedge_cloud_router:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.6", "versionEndExcluding": "20.6.1", "lastModified": "2021-09-27T19:49:58.950", "created": "2021-09-27T19:49:58.950", "status": "Inactive"}}

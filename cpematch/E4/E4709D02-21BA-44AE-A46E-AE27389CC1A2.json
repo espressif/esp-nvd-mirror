@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E4709D02-21BA-44AE-A46E-AE27389CC1A2", "criteria": "cpe:2.3:a:intel:sgx_platform:*:*:*:*:*:windows:*:*", "versionEndExcluding": "2.10.100.2", "lastModified": "2021-02-18T18:19:51.793", "created": "2021-02-18T18:19:51.793", "status": "Active"}}

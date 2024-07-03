@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AE07B617-A489-4CD5-8ABE-32A814A4ACA9", "criteria": "cpe:2.3:a:redhat:community_network_collection:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.0.1", "lastModified": "2021-06-01T15:28:30.070", "cpeLastModified": "2021-06-02T17:19:30.713", "created": "2021-06-01T15:28:30.070", "status": "Inactive"}}

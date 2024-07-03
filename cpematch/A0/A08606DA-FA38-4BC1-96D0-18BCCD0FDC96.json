@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A08606DA-FA38-4BC1-96D0-18BCCD0FDC96", "criteria": "cpe:2.3:a:apache:ranger:*:*:*:*:*:hive:*:*", "versionStartIncluding": "2.0.0", "versionEndIncluding": "2.3.0", "lastModified": "2023-05-10T13:02:59.663", "cpeLastModified": "2023-05-10T13:02:59.663", "created": "2023-05-10T13:02:59.663", "status": "Active"}}

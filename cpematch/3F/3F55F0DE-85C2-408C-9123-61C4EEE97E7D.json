@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3F55F0DE-85C2-408C-9123-61C4EEE97E7D", "criteria": "cpe:2.3:a:cisco:jabber:*:*:*:*:*:iphone_os:*:*", "versionStartIncluding": "12.9.0", "versionEndExcluding": "12.9.5", "lastModified": "2021-03-26T15:36:31.453", "cpeLastModified": "2021-03-26T15:36:31.453", "created": "2021-03-26T15:36:31.453", "status": "Inactive"}}

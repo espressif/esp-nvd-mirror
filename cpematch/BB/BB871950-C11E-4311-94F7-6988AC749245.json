@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BB871950-C11E-4311-94F7-6988AC749245", "criteria": "cpe:2.3:a:isc:dhcp:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0", "versionEndIncluding": "4.4.3", "lastModified": "2022-10-12T02:00:11.477", "cpeLastModified": "2022-10-11T15:49:36.000", "created": "2022-10-11T15:49:36.000", "status": "Inactive"}}

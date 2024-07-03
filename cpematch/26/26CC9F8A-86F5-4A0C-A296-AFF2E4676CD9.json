@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "26CC9F8A-86F5-4A0C-A296-AFF2E4676CD9", "criteria": "cpe:2.3:a:crypto:ethermint:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.8.0", "versionEndIncluding": "0.9.0", "lastModified": "2022-01-05T14:14:46.037", "cpeLastModified": "2022-01-05T15:10:02.170", "created": "2022-01-05T14:14:46.037", "status": "Active"}}

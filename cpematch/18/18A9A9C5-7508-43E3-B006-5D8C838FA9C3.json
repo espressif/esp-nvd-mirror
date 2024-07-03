@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "18A9A9C5-7508-43E3-B006-5D8C838FA9C3", "criteria": "cpe:2.3:a:arubanetworks:clearpass:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.7.0", "versionEndExcluding": "6.7.14-hf1", "lastModified": "2021-05-05T10:37:54.463", "cpeLastModified": "2021-05-06T12:40:53.347", "created": "2021-05-05T10:37:54.463", "status": "Inactive"}}

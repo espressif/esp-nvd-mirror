@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FD0E9143-62F4-43D6-B9C8-F5CA99273577", "criteria": "cpe:2.3:a:northern.tech:cfengine:*:*:*:*:enterprise:*:*:*", "versionStartIncluding": "3.16.0", "versionEndExcluding": "3.18.0", "lastModified": "2022-03-14T17:30:11.670", "created": "2022-03-14T17:30:11.670", "status": "Inactive"}}

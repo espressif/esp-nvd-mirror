@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "315BF803-3576-41B9-8FEE-FFD80C0712E4", "criteria": "cpe:2.3:a:samba:samba:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.14.0", "versionEndExcluding": "4.14.14", "lastModified": "2022-08-29T11:31:11.010", "cpeLastModified": "2022-08-29T11:31:11.010", "created": "2022-08-29T11:31:11.010", "status": "Inactive"}}

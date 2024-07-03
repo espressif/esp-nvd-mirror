@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E8FF052D-ED7E-4607-9E8F-9BA28004B646", "criteria": "cpe:2.3:a:broadcom:proxysg:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.5", "versionEndExcluding": "6.5.10.16", "lastModified": "2021-07-02T11:27:53.170", "cpeLastModified": "2021-07-02T11:28:30.903", "created": "2021-07-02T11:27:53.170", "status": "Inactive"}}

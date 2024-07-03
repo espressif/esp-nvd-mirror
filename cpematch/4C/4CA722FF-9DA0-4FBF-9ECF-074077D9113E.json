@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4CA722FF-9DA0-4FBF-9ECF-074077D9113E", "criteria": "cpe:2.3:a:oracle:goldengate:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.0", "versionEndExcluding": "21.7.0.0.0", "lastModified": "2022-10-08T02:00:11.263", "cpeLastModified": "2022-10-06T02:12:32.580", "created": "2022-10-06T02:12:32.580", "status": "Inactive"}}

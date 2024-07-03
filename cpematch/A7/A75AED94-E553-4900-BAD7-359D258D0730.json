@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A75AED94-E553-4900-BAD7-359D258D0730", "criteria": "cpe:2.3:a:progress:moveit_transfer:*:*:*:*:*:*:*:*", "versionStartIncluding": "2023.0.0", "versionEndIncluding": "2023.0.7", "lastModified": "2023-12-04T15:16:29.540", "cpeLastModified": "2023-12-04T15:05:18.863", "created": "2023-12-04T15:05:18.863", "status": "Inactive"}}

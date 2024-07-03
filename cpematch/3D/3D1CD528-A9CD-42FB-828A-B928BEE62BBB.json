@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3D1CD528-A9CD-42FB-828A-B928BEE62BBB", "criteria": "cpe:2.3:a:siemens:teamcenter_visualization:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.3.0.7", "versionEndExcluding": "14.0", "lastModified": "2022-11-09T03:00:12.597", "cpeLastModified": "2022-11-08T13:59:01.413", "created": "2022-11-08T13:59:01.413", "status": "Inactive"}}

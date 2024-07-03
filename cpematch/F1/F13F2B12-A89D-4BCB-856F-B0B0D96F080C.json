@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F13F2B12-A89D-4BCB-856F-B0B0D96F080C", "criteria": "cpe:2.3:a:rand_core_project:rand_core:*:*:*:*:*:rust:*:*", "versionEndExcluding": "0.6.2", "lastModified": "2021-02-20T01:58:38.170", "cpeLastModified": "2021-02-22T17:15:05.267", "created": "2021-02-20T01:58:38.170", "status": "Inactive"}}

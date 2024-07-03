@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8E57BA9E-9150-4309-8596-359F3EDEFEE1", "criteria": "cpe:2.3:a:apache:mina_sshd:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.9.2", "lastModified": "2022-11-19T03:00:13.250", "cpeLastModified": "2022-11-18T17:43:08.197", "created": "2022-11-18T17:43:08.197", "status": "Inactive"}}

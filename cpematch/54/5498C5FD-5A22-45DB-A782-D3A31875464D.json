@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5498C5FD-5A22-45DB-A782-D3A31875464D", "criteria": "cpe:2.3:a:schneider_electric:modbus_serial_driver:*:*:*:*:*:*:x86:*", "versionEndExcluding": "2.20_ie_30", "lastModified": "2020-09-01T12:38:44.533", "cpeLastModified": "2021-06-04T14:16:04.343", "created": "2020-09-01T12:38:44.533", "status": "Inactive"}}

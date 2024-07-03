@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "920666CD-F874-4640-A155-666D68910632", "criteria": "cpe:2.3:a:redislabs:redis:*:*:*:*:*:*:x84:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.0.14", "lastModified": "2021-06-09T20:07:44.227", "cpeLastModified": "2022-07-02T20:07:12.773", "created": "2021-06-09T20:07:44.227", "status": "Active"}}
