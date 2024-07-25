@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3410BE8D-F828-4372-8436-835E308BEA77", "criteria": "cpe:2.3:a:broadcom:spring_cloud_skipper:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.11.0", "versionEndExcluding": "2.11.4", "lastModified": "2024-07-25T19:59:47.770", "cpeLastModified": "2024-07-25T19:13:39.570", "created": "2024-07-25T19:13:39.570", "status": "Inactive"}}
