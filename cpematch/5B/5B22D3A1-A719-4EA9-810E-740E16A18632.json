@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5B22D3A1-A719-4EA9-810E-740E16A18632", "criteria": "cpe:2.3:a:haxx:libcurl:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.8.0", "versionEndExcluding": "8.9.0", "lastModified": "2024-07-24T14:36:44.000", "cpeLastModified": "2024-07-24T14:36:44.000", "created": "2024-07-24T14:36:44.000", "status": "Active"}}
