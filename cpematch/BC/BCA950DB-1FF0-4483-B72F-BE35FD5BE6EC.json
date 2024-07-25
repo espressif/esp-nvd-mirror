@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BCA950DB-1FF0-4483-B72F-BE35FD5BE6EC", "criteria": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.4.0", "versionEndIncluding": "9.4.1", "lastModified": "2024-07-25T13:44:47.877", "cpeLastModified": "2024-07-25T13:44:47.877", "created": "2024-07-25T12:25:40.443", "status": "Active"}}
