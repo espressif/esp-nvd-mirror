@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "056D6A40-95C6-4FEA-91C9-B5C41AE254C4", "criteria": "cpe:2.3:a:opentext:vertica:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0-0", "versionEndIncluding": "10.1.1-26", "lastModified": "2024-07-25T14:34:26.360", "cpeLastModified": "2024-07-25T14:34:26.360", "created": "2024-07-25T14:34:26.360", "status": "Active"}}

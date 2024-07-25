@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C15386AE-A142-4A50-9B64-276C2FC3E959", "criteria": "cpe:2.3:a:opentext:vertica:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.0.0-0", "versionEndExcluding": "11.1.1-25", "lastModified": "2024-07-25T14:34:26.360", "cpeLastModified": "2024-07-25T14:34:26.360", "created": "2024-07-25T14:34:26.360", "status": "Active"}}
