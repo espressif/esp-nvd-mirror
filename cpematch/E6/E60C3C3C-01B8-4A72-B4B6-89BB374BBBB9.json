@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E60C3C3C-01B8-4A72-B4B6-89BB374BBBB9", "criteria": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:*:*:*:*:*:windows:*:*", "versionStartIncluding": "8.2", "versionEndExcluding": "8.2.1", "lastModified": "2024-07-26T15:25:19.560", "cpeLastModified": "2024-07-26T15:25:19.560", "created": "2024-07-26T15:25:19.560", "status": "Active"}}
