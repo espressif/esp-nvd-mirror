@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1151660E-EA3E-4CED-8AFE-CACD8280CD68", "criteria": "cpe:2.3:a:sonarsource:sonarqube:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0.68432", "versionEndExcluding": "10.4", "lastModified": "2024-07-26T18:11:12.187", "cpeLastModified": "2024-07-26T18:11:12.187", "created": "2024-07-26T18:11:12.187", "status": "Active"}}
