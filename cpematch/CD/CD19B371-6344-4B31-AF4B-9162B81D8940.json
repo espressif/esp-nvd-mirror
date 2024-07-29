@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CD19B371-6344-4B31-AF4B-9162B81D8940", "criteria": "cpe:2.3:o:dell:networking_os10:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.5.6.0", "versionEndExcluding": "10.5.6.1", "lastModified": "2024-07-29T15:35:18.320", "cpeLastModified": "2024-07-29T15:35:18.320", "created": "2024-07-29T15:35:18.320", "status": "Active"}}
