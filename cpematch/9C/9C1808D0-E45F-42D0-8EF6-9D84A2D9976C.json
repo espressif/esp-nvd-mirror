@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9C1808D0-E45F-42D0-8EF6-9D84A2D9976C", "criteria": "cpe:2.3:a:ibm:storage_defender_resiliency_service:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndIncluding": "2.0.4", "lastModified": "2024-07-30T20:29:46.280", "cpeLastModified": "2024-07-30T20:29:46.280", "created": "2024-07-30T20:29:46.280", "status": "Active"}}
