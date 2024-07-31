@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DF3C8827-4FA1-4579-87EE-6D78E83DE0A6", "criteria": "cpe:2.3:a:ibm:security_access_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0.0", "versionEndIncluding": "10.0.7.1", "lastModified": "2024-07-31T19:39:12.167", "cpeLastModified": "2024-07-31T19:39:12.167", "created": "2024-07-31T19:39:12.167", "status": "Active"}}
