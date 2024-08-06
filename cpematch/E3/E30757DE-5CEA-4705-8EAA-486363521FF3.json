@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E30757DE-5CEA-4705-8EAA-486363521FF3", "criteria": "cpe:2.3:o:ibm:openbmc:*:*:*:*:*:*:*:*", "versionStartIncluding": "fw1050.00", "versionEndIncluding": "fw1050.10", "lastModified": "2024-08-06T16:24:46.730", "cpeLastModified": "2024-08-06T16:24:46.730", "created": "2024-08-06T16:24:46.730", "status": "Active"}}
