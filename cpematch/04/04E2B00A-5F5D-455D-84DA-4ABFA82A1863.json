@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "04E2B00A-5F5D-455D-84DA-4ABFA82A1863", "criteria": "cpe:2.3:o:hms-networks:ewon_cosy\\+_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.0s0", "versionEndExcluding": "21.2s10", "lastModified": "2024-08-06T19:45:22.770", "cpeLastModified": "2024-08-06T19:45:22.770", "created": "2024-08-06T19:45:22.770", "status": "Active"}}
