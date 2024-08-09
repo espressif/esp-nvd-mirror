@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "24D950AF-5F1E-4C64-AE31-C0974D2D0593", "criteria": "cpe:2.3:o:nvidia:mlnx-os:*:*:*:*:lts:*:*:*", "versionEndExcluding": "3.11.2202", "lastModified": "2024-08-09T14:54:01.063", "cpeLastModified": "2024-08-09T14:54:01.063", "created": "2024-08-09T14:54:01.063", "status": "Active"}}
