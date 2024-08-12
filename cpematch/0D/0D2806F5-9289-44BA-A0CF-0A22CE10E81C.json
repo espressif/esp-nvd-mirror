@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0D2806F5-9289-44BA-A0CF-0A22CE10E81C", "criteria": "cpe:2.3:a:ssh:privx:*:*:*:*:*:*:*:*", "versionStartIncluding": "32.0", "versionEndExcluding": "32.3", "lastModified": "2024-08-12T12:39:51.623", "cpeLastModified": "2024-08-12T12:39:51.623", "created": "2024-08-12T12:39:51.623", "status": "Active"}}
