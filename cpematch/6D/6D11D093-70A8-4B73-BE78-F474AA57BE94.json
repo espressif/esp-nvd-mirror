@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6D11D093-70A8-4B73-BE78-F474AA57BE94", "criteria": "cpe:2.3:a:opentext:directory_services:*:*:*:*:*:*:*:*", "versionStartIncluding": "16.4.2", "versionEndExcluding": "24.1", "lastModified": "2024-08-13T16:24:54.460", "cpeLastModified": "2024-08-13T16:24:54.460", "created": "2024-08-13T16:24:54.460", "status": "Active"}}
