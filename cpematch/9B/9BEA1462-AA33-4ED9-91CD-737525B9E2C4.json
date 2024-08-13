@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9BEA1462-AA33-4ED9-91CD-737525B9E2C4", "criteria": "cpe:2.3:a:nvidia:gpu_display_driver:*:*:*:*:*:linux:*:*", "versionStartIncluding": "550", "versionEndExcluding": "550.90.07", "lastModified": "2024-08-13T20:16:28.363", "cpeLastModified": "2024-08-13T20:16:28.363", "created": "2024-08-13T20:16:28.363", "status": "Active"}}
