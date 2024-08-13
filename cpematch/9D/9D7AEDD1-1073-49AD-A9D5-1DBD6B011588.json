@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "9D7AEDD1-1073-49AD-A9D5-1DBD6B011588", "criteria": "cpe:2.3:a:janobe:paypal_payment:1.0:*:*:*:*:*:*:*", "lastModified": "2024-08-09T02:00:57.180", "cpeLastModified": "2024-08-08T17:24:33.880", "created": "2024-08-08T17:24:33.880", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "9D7AEDD1-1073-49AD-A9D5-1DBD6B011588", "criteria": "cpe:2.3:a:janobe:paypal_payment:1.0:*:*:*:*:*:*:*", "lastModified": "2024-08-13T15:42:12.677", "cpeLastModified": "2024-08-13T15:42:12.677", "created": "2024-08-08T17:24:33.880", "status": "Active"}}
