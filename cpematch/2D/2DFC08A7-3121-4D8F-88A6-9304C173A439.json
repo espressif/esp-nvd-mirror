@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2DFC08A7-3121-4D8F-88A6-9304C173A439", "criteria": "cpe:2.3:a:nvidia:virtual_gpu:*:*:*:*:*:*:*:*", "versionStartIncluding": "17.0", "versionEndExcluding": "17.2", "lastModified": "2024-08-13T19:55:13.053", "cpeLastModified": "2024-08-13T19:55:13.053", "created": "2024-08-13T19:55:13.053", "status": "Active"}}

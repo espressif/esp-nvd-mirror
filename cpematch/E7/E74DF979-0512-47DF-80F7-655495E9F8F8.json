@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E74DF979-0512-47DF-80F7-655495E9F8F8", "criteria": "cpe:2.3:a:enphase:iq_gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "4", "versionEndExcluding": "8.2.4225", "lastModified": "2024-08-13T18:48:12.067", "cpeLastModified": "2024-08-13T18:52:16.463", "created": "2024-08-13T18:48:12.067", "status": "Active"}}
