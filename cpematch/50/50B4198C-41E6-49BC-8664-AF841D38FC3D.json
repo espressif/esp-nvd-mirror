@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "50B4198C-41E6-49BC-8664-AF841D38FC3D", "criteria": "cpe:2.3:o:hpe:cray_parallel_application_launch_service:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.2.14", "lastModified": "2024-08-16T17:19:20.900", "cpeLastModified": "2024-08-16T17:19:20.900", "created": "2024-08-16T17:19:20.900", "status": "Active"}}
