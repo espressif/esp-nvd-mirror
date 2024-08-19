@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "275E22C9-F66B-45BA-960C-257D49FA0221", "criteria": "cpe:2.3:a:f5:big-ip_next_central_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.1.0", "versionEndExcluding": "20.2.1", "lastModified": "2024-08-19T12:08:30.430", "cpeLastModified": "2024-08-19T12:08:30.430", "created": "2024-08-19T12:08:30.430", "status": "Active"}}
