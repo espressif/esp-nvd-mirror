@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "38D1DC42-30AD-423B-91FA-8EC7929F936D", "criteria": "cpe:2.3:a:nvidia:cv-cuda:*:*:*:*:*:ubuntu_20.04:*:*", "versionStartIncluding": "0.1.0", "versionEndIncluding": "0.10.0", "lastModified": "2024-08-19T18:34:22.370", "cpeLastModified": "2024-08-19T18:34:22.370", "created": "2024-08-19T18:34:22.370", "status": "Active"}}
