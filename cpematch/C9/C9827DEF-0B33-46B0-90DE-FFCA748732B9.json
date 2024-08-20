@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C9827DEF-0B33-46B0-90DE-FFCA748732B9", "criteria": "cpe:2.3:a:rust-bitcoin:miniscript:*:*:*:*:*:rust:*:*", "versionEndExcluding": "12.2.0", "lastModified": "2024-08-20T10:49:19.303", "cpeLastModified": "2024-08-20T10:50:27.540", "created": "2024-08-20T10:49:19.303", "status": "Active"}}
