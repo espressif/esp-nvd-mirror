@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "74DF1ECF-5DC0-4810-9377-F7324B4F15E5", "criteria": "cpe:2.3:a:zowe:zowe_cli:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.1.0", "versionEndExcluding": "5.22.6", "lastModified": "2024-08-22T17:50:16.863", "cpeLastModified": "2024-08-22T17:38:29.780", "created": "2024-08-22T17:38:29.780", "status": "Inactive"}}
