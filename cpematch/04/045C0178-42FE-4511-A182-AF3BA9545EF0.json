@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "045C0178-42FE-4511-A182-AF3BA9545EF0", "criteria": "cpe:2.3:o:enphase:iq_gateway_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0", "versionEndExcluding": "8.2.4225", "lastModified": "2024-08-23T17:48:42.367", "cpeLastModified": "2024-08-23T17:48:42.367", "created": "2024-08-23T17:48:42.367", "status": "Active"}}
