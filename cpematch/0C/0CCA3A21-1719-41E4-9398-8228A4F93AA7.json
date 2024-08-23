@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0CCA3A21-1719-41E4-9398-8228A4F93AA7", "criteria": "cpe:2.3:a:ibm:db2:*:*:*:*:*:hp-ux:*:*", "versionStartIncluding": "11.1.4", "versionEndIncluding": "11.1.4.7", "lastModified": "2024-08-23T19:06:38.873", "cpeLastModified": "2024-08-23T19:06:38.873", "created": "2024-08-23T19:06:38.873", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "19102F56-7E0F-4D9D-A77D-72262D455D3E", "criteria": "cpe:2.3:a:ibm:db2:*:*:*:*:*:aix:*:*", "versionStartIncluding": "10.5.0", "versionEndIncluding": "10.5.11", "lastModified": "2024-08-23T19:06:38.873", "cpeLastModified": "2024-08-23T19:06:38.873", "created": "2024-08-23T19:06:38.873", "status": "Active"}}
