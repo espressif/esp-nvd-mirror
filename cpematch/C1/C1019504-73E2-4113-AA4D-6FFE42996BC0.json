@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C1019504-73E2-4113-AA4D-6FFE42996BC0", "criteria": "cpe:2.3:a:naga_project:naga:0.14.0:*:*:*:*:*:*:*", "lastModified": "2024-08-23T15:29:28.703", "cpeLastModified": "2024-08-23T15:29:28.703", "created": "2024-08-23T15:29:28.703", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "C1019504-73E2-4113-AA4D-6FFE42996BC0", "criteria": "cpe:2.3:a:naga_project:naga:0.14.0:*:*:*:*:*:*:*", "lastModified": "2024-08-24T02:00:29.860", "cpeLastModified": "2024-08-23T15:29:28.703", "created": "2024-08-23T15:29:28.703", "status": "Inactive"}}

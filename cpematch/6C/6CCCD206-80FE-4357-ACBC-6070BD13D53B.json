@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "6CCCD206-80FE-4357-ACBC-6070BD13D53B", "criteria": "cpe:2.3:a:ibm:db2:11.5:*:*:*:*:aix:*:*", "lastModified": "2024-08-19T16:26:03.563", "cpeLastModified": "2024-08-19T16:26:03.563", "created": "2024-08-19T16:26:03.563", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "6CCCD206-80FE-4357-ACBC-6070BD13D53B", "criteria": "cpe:2.3:a:ibm:db2:11.5:*:*:*:*:aix:*:*", "lastModified": "2024-08-24T02:00:29.860", "cpeLastModified": "2024-08-19T16:26:03.563", "created": "2024-08-19T16:26:03.563", "status": "Inactive"}}
