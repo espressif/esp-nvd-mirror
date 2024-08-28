@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5CB6563E-EAC9-41D9-A809-930BC0A40DF7", "criteria": "cpe:2.3:a:microsoft:azure_data_science_virtual_machine:*:*:*:*:*:linux:*:*", "versionEndExcluding": "24.05.24", "lastModified": "2024-08-28T21:14:29.070", "cpeLastModified": "2024-08-28T21:14:29.070", "created": "2024-08-28T21:14:29.070", "status": "Active"}}
