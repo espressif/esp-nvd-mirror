@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "40EC047B-CBF2-4BE6-9361-101C55B7ED32", "criteria": "cpe:2.3:a:microfocus:netiq_access_manager:*:*:*:*:*:*:*:*", "versionStartExcluding": "5.0.4.1", "versionEndExcluding": "5.1", "lastModified": "2024-08-28T15:18:27.750", "cpeLastModified": "2024-08-28T15:07:58.663", "created": "2024-08-28T15:07:58.663", "status": "Inactive"}}
