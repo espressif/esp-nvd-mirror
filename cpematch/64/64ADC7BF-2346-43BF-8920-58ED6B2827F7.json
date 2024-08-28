@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "64ADC7BF-2346-43BF-8920-58ED6B2827F7", "criteria": "cpe:2.3:a:rubrik:cloud_data_management:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.1.0", "versionEndExcluding": "9.1.2", "lastModified": "2024-08-28T17:20:28.293", "cpeLastModified": "2024-08-28T17:20:28.293", "created": "2024-08-28T17:20:28.293", "status": "Active"}}
