@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A0231E1E-F9F9-4C81-9161-16443D79280A", "criteria": "cpe:2.3:a:apollographql:apollo_query-planner:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.8.5", "lastModified": "2024-08-28T18:17:07.830", "cpeLastModified": "2024-08-28T18:19:54.470", "created": "2024-08-28T18:17:07.830", "status": "Active"}}
