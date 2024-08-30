@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "45B74421-A9CA-4C0F-86ED-A6AAB5FCF7F7", "criteria": "cpe:2.3:a:decidim:decidim:0.28.1:*:*:*:*:ruby:*:*", "lastModified": "2024-08-23T19:32:49.957", "cpeLastModified": "2024-08-23T19:32:49.957", "created": "2024-08-23T19:32:49.957", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "45B74421-A9CA-4C0F-86ED-A6AAB5FCF7F7", "criteria": "cpe:2.3:a:decidim:decidim:0.28.1:*:*:*:*:ruby:*:*", "lastModified": "2024-08-30T19:35:34.410", "cpeLastModified": "2024-08-30T19:35:34.410", "created": "2024-08-23T19:32:49.957", "status": "Inactive"}}
