@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6CDAAF1B-D610-4238-8372-8A6DD3C2FC57", "criteria": "cpe:2.3:a:fortra:filecatalyst_workflow:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.4", "versionEndExcluding": "5.1.7", "lastModified": "2024-08-30T14:07:07.197", "cpeLastModified": "2024-08-30T14:20:24.463", "created": "2024-08-30T14:07:07.197", "status": "Active"}}
