@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "88E20775-E328-4A4C-AA68-7AC7BF303C43", "criteria": "cpe:2.3:a:serilog-contrib:serilog-enrichers-clientinfo:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.1.0", "lastModified": "2024-09-03T18:39:43.987", "cpeLastModified": "2024-09-03T18:39:43.987", "created": "2024-09-03T18:39:43.987", "status": "Active"}}
