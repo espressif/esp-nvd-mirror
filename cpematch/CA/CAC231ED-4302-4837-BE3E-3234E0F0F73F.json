@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CAC231ED-4302-4837-BE3E-3234E0F0F73F", "criteria": "cpe:2.3:o:zyxel:zld_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.32", "versionEndIncluding": "5.38", "lastModified": "2024-09-04T19:35:30.617", "cpeLastModified": "2024-09-04T19:14:19.247", "created": "2024-09-04T19:14:19.247", "status": "Inactive"}}

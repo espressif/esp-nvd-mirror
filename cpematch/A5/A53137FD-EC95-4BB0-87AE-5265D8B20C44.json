@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A53137FD-EC95-4BB0-87AE-5265D8B20C44", "criteria": "cpe:2.3:a:canonical:juju:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.9", "versionEndExcluding": "2.9.50", "lastModified": "2024-09-04T19:02:33.203", "cpeLastModified": "2024-09-04T19:02:33.203", "created": "2024-09-04T19:02:33.203", "status": "Active"}}
