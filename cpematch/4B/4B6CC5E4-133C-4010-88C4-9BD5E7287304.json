@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "4B6CC5E4-133C-4010-88C4-9BD5E7287304", "criteria": "cpe:2.3:h:mediatek:mt6765:mt8789:*:*:*:*:*:*:*", "lastModified": "2024-09-04T14:29:45.840", "cpeLastModified": "2024-09-04T14:29:45.840", "created": "2024-09-04T14:29:45.840", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "4B6CC5E4-133C-4010-88C4-9BD5E7287304", "criteria": "cpe:2.3:h:mediatek:mt6765:mt8789:*:*:*:*:*:*:*", "lastModified": "2024-09-05T02:01:07.517", "cpeLastModified": "2024-09-04T14:29:45.840", "created": "2024-09-04T14:29:45.840", "status": "Inactive"}}

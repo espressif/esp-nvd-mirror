@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D3CA9ADB-8BFE-4FA9-836E-77E30ECAF71B", "criteria": "cpe:2.3:a:seacms:seacms:13:*:*:*:*:*:*:*", "lastModified": "2024-09-03T21:00:42.900", "cpeLastModified": "2024-09-03T21:00:42.900", "created": "2024-09-03T21:00:42.900", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D3CA9ADB-8BFE-4FA9-836E-77E30ECAF71B", "criteria": "cpe:2.3:a:seacms:seacms:13:*:*:*:*:*:*:*", "lastModified": "2024-09-05T02:01:07.517", "cpeLastModified": "2024-09-03T21:00:42.900", "created": "2024-09-03T21:00:42.900", "status": "Inactive"}}
