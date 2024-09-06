@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DD0EA13B-FFC9-4385-8691-38A90DCE774F", "criteria": "cpe:2.3:a:clamav:clamav:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.0", "versionEndExcluding": "1.3.2", "lastModified": "2024-09-06T19:19:25.550", "cpeLastModified": "2024-09-06T19:19:25.550", "created": "2024-09-06T19:19:25.550", "status": "Active"}}
