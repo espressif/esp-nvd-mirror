@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F43365D4-FD7D-470A-9948-88FC4B3DE261", "criteria": "cpe:2.3:a:stripe:stripe-cli:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.11.1", "versionEndExcluding": "1.21.3", "lastModified": "2024-09-06T16:19:41.197", "cpeLastModified": "2024-09-06T16:19:41.197", "created": "2024-09-06T16:19:41.197", "status": "Active"}}
