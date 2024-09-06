@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "16D9FF52-C135-4C0E-B182-65D575879BEA", "criteria": "cpe:2.3:a:journyx:journyx:11.5.4:*:*:*:*:linux:*:*", "lastModified": "2024-08-08T14:32:49.370", "cpeLastModified": "2024-08-08T14:32:49.370", "created": "2024-08-08T14:32:49.370", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "16D9FF52-C135-4C0E-B182-65D575879BEA", "criteria": "cpe:2.3:a:journyx:journyx:11.5.4:*:*:*:*:linux:*:*", "lastModified": "2024-08-08T14:32:49.370", "cpeLastModified": "2024-09-06T15:15:47.797", "created": "2024-08-08T14:32:49.370", "status": "Active"}}
