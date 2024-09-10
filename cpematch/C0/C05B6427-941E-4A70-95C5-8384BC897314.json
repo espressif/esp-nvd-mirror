@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C05B6427-941E-4A70-95C5-8384BC897314", "criteria": "cpe:2.3:a:fit2cloud:1panel:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.10.10-lts", "versionEndExcluding": "1.10.12-lts", "lastModified": "2024-09-10T19:12:25.570", "cpeLastModified": "2024-09-10T19:12:25.570", "created": "2024-09-10T19:12:25.570", "status": "Active"}}
