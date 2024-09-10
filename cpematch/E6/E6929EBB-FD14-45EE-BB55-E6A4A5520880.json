@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E6929EBB-FD14-45EE-BB55-E6A4A5520880", "criteria": "cpe:2.3:a:sap:webcuif:746:*:*:*:*:*:*:*", "lastModified": "2024-07-11T23:45:46.663", "cpeLastModified": "2024-07-11T23:45:46.663", "created": "2024-07-11T23:45:46.663", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E6929EBB-FD14-45EE-BB55-E6A4A5520880", "criteria": "cpe:2.3:a:sap:webcuif:746:*:*:*:*:*:*:*", "lastModified": "2024-09-10T02:00:23.997", "cpeLastModified": "2024-07-11T23:45:46.663", "created": "2024-07-11T23:45:46.663", "status": "Inactive"}}
