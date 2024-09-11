@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1D2A73B2-9BFE-4731-8F6E-07CADD1A1AFC", "criteria": "cpe:2.3:a:sigstore:sigstore-go:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.6.1", "lastModified": "2024-09-11T17:25:10.610", "cpeLastModified": "2024-09-11T17:25:10.610", "created": "2024-09-11T17:25:10.610", "status": "Active"}}

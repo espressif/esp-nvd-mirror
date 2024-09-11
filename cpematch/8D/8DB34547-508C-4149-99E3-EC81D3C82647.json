@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8DB34547-508C-4149-99E3-EC81D3C82647", "criteria": "cpe:2.3:a:dfinity:rust_canister_development_kit:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.12.0", "versionEndExcluding": "0.12.2", "lastModified": "2024-09-11T17:01:10.763", "cpeLastModified": "2024-09-11T17:01:10.763", "created": "2024-09-11T17:01:10.763", "status": "Active"}}
