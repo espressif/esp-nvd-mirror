@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CCA8BBBF-13E5-41D0-9718-8119435434FF", "criteria": "cpe:2.3:a:microsoft:azure_network_watcher_agent:*:*:*:*:*:windows:*:*", "versionEndExcluding": "1.4.3422.1", "lastModified": "2024-09-11T18:19:14.050", "cpeLastModified": "2024-09-11T18:13:20.623", "created": "2024-09-11T18:13:20.623", "status": "Inactive"}}

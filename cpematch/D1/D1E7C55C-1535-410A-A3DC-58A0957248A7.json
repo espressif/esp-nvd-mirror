@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D1E7C55C-1535-410A-A3DC-58A0957248A7", "criteria": "cpe:2.3:a:hitachi:business_analytics_server:*:*:*:*:*:*:*:*", "versionStartExcluding": "9.3.1.0", "versionEndExcluding": "10.1.0.0", "lastModified": "2024-09-11T19:15:55.203", "cpeLastModified": "2024-09-11T19:15:55.203", "created": "2024-09-11T19:15:55.203", "status": "Active"}}
