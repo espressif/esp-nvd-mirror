@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B5F76DAD-338E-435D-B945-969B14A059BF", "criteria": "cpe:2.3:a:ibm:planning_analytics_workspace:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.1", "versionEndExcluding": "2.1.4", "lastModified": "2024-09-11T14:32:03.160", "cpeLastModified": "2024-09-11T14:32:03.160", "created": "2024-09-11T14:32:03.160", "status": "Active"}}
