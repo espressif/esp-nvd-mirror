@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5149B144-1E46-48C4-A0E4-D52A6FCBCF06", "criteria": "cpe:2.3:a:microsoft:power_automate:*:*:*:*:*:windows:*:*", "versionStartIncluding": "2.43", "versionEndExcluding": "2.43.249.24249", "lastModified": "2024-09-12T18:21:33.207", "cpeLastModified": "2024-09-12T18:21:33.207", "created": "2024-09-12T18:21:33.207", "status": "Active"}}
