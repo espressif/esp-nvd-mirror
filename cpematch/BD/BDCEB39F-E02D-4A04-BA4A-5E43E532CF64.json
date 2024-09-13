@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BDCEB39F-E02D-4A04-BA4A-5E43E532CF64", "criteria": "cpe:2.3:a:cisco:meraki_systems_manager:*:*:*:*:*:windows:*:*", "versionStartIncluding": "1.0.98", "versionEndExcluding": "4.2.0", "lastModified": "2024-09-13T19:01:17.787", "cpeLastModified": "2024-09-13T19:01:17.787", "created": "2024-09-13T19:01:17.787", "status": "Active"}}

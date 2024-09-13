@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "81907BF1-98E2-43F2-AE33-FE03A0E92B7C", "criteria": "cpe:2.3:a:oracle:java_se:17.0.11:*:*:*:*:*:*:*", "lastModified": "2024-08-26T20:58:30.423", "cpeLastModified": "2024-08-26T20:58:30.423", "created": "2024-08-26T20:58:30.423", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "81907BF1-98E2-43F2-AE33-FE03A0E92B7C", "criteria": "cpe:2.3:a:oracle:java_se:17.0.11:*:*:*:*:*:*:*", "lastModified": "2024-08-26T20:58:30.423", "cpeLastModified": "2024-09-13T18:14:17.250", "created": "2024-08-26T20:58:30.423", "status": "Active"}}
