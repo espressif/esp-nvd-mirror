@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4DE24461-6156-483D-957A-8DDD84D801B3", "criteria": "cpe:2.3:a:ibm:sterling_connect_direct_web_services:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.2.0", "versionEndExcluding": "6.2.0.24", "lastModified": "2024-09-16T17:11:28.803", "cpeLastModified": "2024-09-16T17:11:28.803", "created": "2024-09-16T17:11:28.803", "status": "Active"}}

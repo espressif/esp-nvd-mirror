@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E037DCFA-551B-45AF-87D1-2A8682430E81", "criteria": "cpe:2.3:a:github:actions\\/artifact:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.1.7", "lastModified": "2024-09-16T16:10:25.077", "cpeLastModified": "2024-09-16T16:10:25.077", "created": "2024-09-16T16:10:25.077", "status": "Active"}}
