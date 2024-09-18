@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "82110807-A1A8-4DD1-BAB2-0E1951D4B577", "criteria": "cpe:2.3:a:dell:powerprotect_data_domain:*:*:*:*:lts:*:*:*", "versionStartIncluding": "7.14.0", "versionEndExcluding": "8.0", "lastModified": "2024-09-18T14:39:48.073", "cpeLastModified": "2024-09-18T14:39:48.073", "created": "2024-09-18T14:39:48.073", "status": "Active"}}

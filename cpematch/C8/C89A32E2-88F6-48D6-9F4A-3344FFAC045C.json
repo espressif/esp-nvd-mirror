@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C89A32E2-88F6-48D6-9F4A-3344FFAC045C", "criteria": "cpe:2.3:a:hitachi:pentaho_business_analytics_server:*:*:*:*:*:*:*:*", "versionStartExcluding": "9.3.1.0", "versionEndExcluding": "10.1.0.0", "lastModified": "2024-09-18T14:25:27.430", "cpeLastModified": "2024-09-18T14:25:27.430", "created": "2024-09-18T14:25:27.430", "status": "Active"}}

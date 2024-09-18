@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1A52C757-4A3A-46DF-863D-F55797781AA6", "criteria": "cpe:2.3:a:mfasoft:secure_authentication_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.8.0", "versionEndExcluding": "1.9.040924", "lastModified": "2024-09-18T14:48:44.207", "cpeLastModified": "2024-09-18T14:48:44.207", "created": "2024-09-18T14:48:44.207", "status": "Active"}}
