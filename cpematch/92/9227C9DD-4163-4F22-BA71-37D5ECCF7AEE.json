@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "9227C9DD-4163-4F22-BA71-37D5ECCF7AEE", "criteria": "cpe:2.3:o:avtech:avm1203_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-08-06T21:59:02.223", "cpeLastModified": "2024-08-06T21:59:02.223", "created": "2024-08-06T21:59:02.223", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "9227C9DD-4163-4F22-BA71-37D5ECCF7AEE", "criteria": "cpe:2.3:o:avtech:avm1203_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-09-18T02:00:29.497", "cpeLastModified": "2024-08-06T21:59:02.223", "created": "2024-08-06T21:59:02.223", "status": "Inactive"}}
