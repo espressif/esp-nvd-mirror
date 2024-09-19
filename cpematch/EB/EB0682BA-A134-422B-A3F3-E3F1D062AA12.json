@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EB0682BA-A134-422B-A3F3-E3F1D062AA12", "criteria": "cpe:2.3:a:secreto31126:whatsapp-api-js:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.0.3", "lastModified": "2024-09-19T02:04:46.243", "cpeLastModified": "2024-09-19T02:04:46.243", "created": "2024-09-19T02:04:46.243", "status": "Active"}}
