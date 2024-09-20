@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3E8BC59A-8DE8-42DE-9904-0327A2101635", "criteria": "cpe:2.3:a:openjsf:serve-static:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.1.0", "lastModified": "2024-09-20T13:39:13.983", "cpeLastModified": "2024-09-20T13:40:42.743", "created": "2024-09-20T13:39:13.983", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D55CFC12-7AC0-42DA-83E0-67105284351C", "criteria": "cpe:2.3:a:fortinet:fortiedrmanager:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.2.0", "versionEndExcluding": "6.2.2", "lastModified": "2024-09-20T13:48:37.843", "cpeLastModified": "2024-09-20T13:48:37.843", "created": "2024-09-20T13:48:37.843", "status": "Active"}}
