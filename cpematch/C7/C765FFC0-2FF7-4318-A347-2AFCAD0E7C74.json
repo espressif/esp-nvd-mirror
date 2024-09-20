@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C765FFC0-2FF7-4318-A347-2AFCAD0E7C74", "criteria": "cpe:2.3:a:envoyproxy:envoy:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.31.0", "versionEndExcluding": "1.31.2", "lastModified": "2024-09-20T17:36:55.850", "cpeLastModified": "2024-09-20T17:36:55.850", "created": "2024-09-20T17:36:55.850", "status": "Active"}}
