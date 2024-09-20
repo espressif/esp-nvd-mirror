@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ADBA67BE-BC31-48C0-A36F-9431814178C0", "criteria": "cpe:2.3:a:onelogin:ruby-saml:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.13.0", "versionEndExcluding": "1.17.0", "lastModified": "2024-09-20T14:11:18.980", "cpeLastModified": "2024-09-20T14:11:18.980", "created": "2024-09-20T14:11:18.980", "status": "Active"}}
