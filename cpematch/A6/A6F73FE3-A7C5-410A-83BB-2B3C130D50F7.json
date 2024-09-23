@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A6F73FE3-A7C5-410A-83BB-2B3C130D50F7", "criteria": "cpe:2.3:a:couchbase:couchbase_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.2.0", "versionEndExcluding": "7.2.6", "lastModified": "2024-09-23T15:44:17.840", "cpeLastModified": "2024-09-23T15:43:33.787", "created": "2024-09-23T15:43:33.787", "status": "Inactive"}}
