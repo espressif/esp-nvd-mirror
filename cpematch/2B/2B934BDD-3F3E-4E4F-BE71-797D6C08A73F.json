@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2B934BDD-3F3E-4E4F-BE71-797D6C08A73F", "criteria": "cpe:2.3:a:podman_project:podman:*:*:*:*:*:*:*:*", "versionEndExcluding": "5.2.0", "lastModified": "2024-09-23T17:19:11.480", "cpeLastModified": "2024-09-23T17:15:03.413", "created": "2024-09-23T17:15:03.413", "status": "Inactive"}}
