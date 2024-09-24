@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2FE2C304-D6DD-4CD5-92BD-43022B0811E2", "criteria": "cpe:2.3:a:canonical:anbox_cloud:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.17.0", "versionEndExcluding": "1.23.1", "lastModified": "2024-09-24T15:11:57.013", "cpeLastModified": "2024-09-24T15:11:57.013", "created": "2024-09-24T15:11:57.013", "status": "Active"}}
