@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4CE97B00-1C8A-4B71-9FB3-76AAD0B3EACC", "criteria": "cpe:2.3:a:fortinet:forticlient_endpoint_management_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.2.0", "versionEndIncluding": "7.2.4", "lastModified": "2024-09-25T17:39:43.843", "cpeLastModified": "2024-09-25T17:39:43.843", "created": "2024-09-25T17:39:43.843", "status": "Active"}}
