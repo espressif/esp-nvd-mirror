@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "201735FB-50E8-4FE6-8F64-E656FEDA730D", "criteria": "cpe:2.3:a:gnu:nano:1.9.99pre1:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "201735FB-50E8-4FE6-8F64-E656FEDA730D", "criteria": "cpe:2.3:a:gnu:nano:1.9.99pre1:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2024-09-25T22:08:33.857", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
