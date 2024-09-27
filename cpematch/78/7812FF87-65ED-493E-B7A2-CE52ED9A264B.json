@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7812FF87-65ED-493E-B7A2-CE52ED9A264B", "criteria": "cpe:2.3:a:rollupjs:rollup:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "0.59.0", "versionEndExcluding": "2.79.2", "lastModified": "2024-09-27T02:16:15.063", "cpeLastModified": "2024-09-27T02:16:15.063", "created": "2024-09-27T02:16:15.063", "status": "Active"}}
