@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D7879052-4014-434A-8F0B-682EB2521005", "criteria": "cpe:2.3:o:zyxel:dx5401-b1_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-09-27T16:25:51.610", "cpeLastModified": "2024-09-27T16:25:51.610", "created": "2024-09-27T16:25:51.610", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D7879052-4014-434A-8F0B-682EB2521005", "criteria": "cpe:2.3:o:zyxel:dx5401-b1_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-09-27T18:19:22.947", "cpeLastModified": "2024-09-27T16:25:51.610", "created": "2024-09-27T16:25:51.610", "status": "Inactive"}}

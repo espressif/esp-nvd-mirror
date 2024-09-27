@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "6FAA5145-D28D-4573-9562-451E28B518A6", "criteria": "cpe:2.3:o:zyxel:px3321-t1_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-09-27T16:25:51.610", "cpeLastModified": "2024-09-27T16:25:51.610", "created": "2024-09-27T16:25:51.610", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "6FAA5145-D28D-4573-9562-451E28B518A6", "criteria": "cpe:2.3:o:zyxel:px3321-t1_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-09-27T18:08:36.477", "cpeLastModified": "2024-09-27T16:25:51.610", "created": "2024-09-27T16:25:51.610", "status": "Inactive"}}

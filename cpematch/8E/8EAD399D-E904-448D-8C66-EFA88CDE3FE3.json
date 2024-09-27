@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "8EAD399D-E904-448D-8C66-EFA88CDE3FE3", "criteria": "cpe:2.3:o:zyxel:ex3510-b1_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-09-27T16:25:51.610", "cpeLastModified": "2024-09-27T16:25:51.610", "created": "2024-09-27T16:25:51.610", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "8EAD399D-E904-448D-8C66-EFA88CDE3FE3", "criteria": "cpe:2.3:o:zyxel:ex3510-b1_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-09-27T18:19:22.947", "cpeLastModified": "2024-09-27T16:25:51.610", "created": "2024-09-27T16:25:51.610", "status": "Inactive"}}

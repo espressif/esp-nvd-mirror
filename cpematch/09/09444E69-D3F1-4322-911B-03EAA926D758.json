@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "09444E69-D3F1-4322-911B-03EAA926D758", "criteria": "cpe:2.3:o:zyxel:ax7501-b1_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-09-27T16:25:51.610", "cpeLastModified": "2024-09-27T16:25:51.610", "created": "2024-09-27T16:25:51.610", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "09444E69-D3F1-4322-911B-03EAA926D758", "criteria": "cpe:2.3:o:zyxel:ax7501-b1_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-09-27T18:08:36.477", "cpeLastModified": "2024-09-27T16:25:51.610", "created": "2024-09-27T16:25:51.610", "status": "Inactive"}}
