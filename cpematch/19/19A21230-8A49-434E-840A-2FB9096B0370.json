@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "19A21230-8A49-434E-840A-2FB9096B0370", "criteria": "cpe:2.3:a:zoom:vdi_windows_meeting_clients:*:*:*:*:*:windows:*:*", "versionStartExcluding": "5.16.12", "versionEndExcluding": "5.17.0", "lastModified": "2024-10-03T20:16:55.600", "cpeLastModified": "2024-10-03T20:16:55.600", "created": "2024-10-03T20:16:55.600", "status": "Active"}}
