@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "4CB1E469-A8B0-4F4B-8F05-4164131C29C2", "criteria": "cpe:2.3:h:amd:ryzen_embedded_3000:-:*:*:*:*:*:*:*", "lastModified": "2024-08-28T18:57:00.390", "cpeLastModified": "2024-08-28T18:57:00.390", "created": "2024-08-28T18:57:00.390", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "4CB1E469-A8B0-4F4B-8F05-4164131C29C2", "criteria": "cpe:2.3:h:amd:ryzen_embedded_3000:-:*:*:*:*:*:*:*", "lastModified": "2024-10-03T02:00:28.640", "cpeLastModified": "2024-08-28T18:57:00.390", "created": "2024-08-28T18:57:00.390", "status": "Inactive"}}

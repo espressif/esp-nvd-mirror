@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "AC15E583-B263-4C4B-BA0B-0FAC61F13FDA", "criteria": "cpe:2.3:o:amd:ryzen_7035_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-08-28T18:57:00.390", "cpeLastModified": "2024-08-28T18:57:00.390", "created": "2024-08-28T18:57:00.390", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "AC15E583-B263-4C4B-BA0B-0FAC61F13FDA", "criteria": "cpe:2.3:o:amd:ryzen_7035_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-10-03T02:00:28.640", "cpeLastModified": "2024-08-28T18:57:00.390", "created": "2024-08-28T18:57:00.390", "status": "Inactive"}}

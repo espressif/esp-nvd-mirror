@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "5714ADF3-ACC5-4002-832F-81F0BA169DFA", "criteria": "cpe:2.3:h:amd:epyc_embedded_9003:*:*:*:*:*:*:*:*", "lastModified": "2024-08-28T18:57:00.390", "cpeLastModified": "2024-08-28T18:57:00.390", "created": "2024-08-28T18:57:00.390", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "5714ADF3-ACC5-4002-832F-81F0BA169DFA", "criteria": "cpe:2.3:h:amd:epyc_embedded_9003:*:*:*:*:*:*:*:*", "lastModified": "2024-10-03T02:00:28.640", "cpeLastModified": "2024-08-28T18:57:00.390", "created": "2024-08-28T18:57:00.390", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "A15C13C5-78F3-420F-A435-89A7606247A8", "criteria": "cpe:2.3:o:planex:cs-qr220_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-09-30T20:09:43.353", "cpeLastModified": "2024-09-30T20:09:43.353", "created": "2024-09-30T20:09:43.353", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "A15C13C5-78F3-420F-A435-89A7606247A8", "criteria": "cpe:2.3:o:planex:cs-qr220_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-10-03T02:00:28.640", "cpeLastModified": "2024-09-30T20:09:43.353", "created": "2024-09-30T20:09:43.353", "status": "Inactive"}}

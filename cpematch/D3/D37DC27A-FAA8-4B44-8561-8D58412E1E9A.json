@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D37DC27A-FAA8-4B44-8561-8D58412E1E9A", "criteria": "cpe:2.3:o:planex:cs-qr300_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-09-30T20:09:43.353", "cpeLastModified": "2024-09-30T20:09:43.353", "created": "2024-09-30T20:09:43.353", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D37DC27A-FAA8-4B44-8561-8D58412E1E9A", "criteria": "cpe:2.3:o:planex:cs-qr300_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-10-03T02:00:28.640", "cpeLastModified": "2024-09-30T20:09:43.353", "created": "2024-09-30T20:09:43.353", "status": "Inactive"}}

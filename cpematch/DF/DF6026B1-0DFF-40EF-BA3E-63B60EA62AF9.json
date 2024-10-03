@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "DF6026B1-0DFF-40EF-BA3E-63B60EA62AF9", "criteria": "cpe:2.3:o:amd:epyc_9004_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-08-28T18:57:00.390", "cpeLastModified": "2024-08-28T18:57:00.390", "created": "2024-08-28T18:57:00.390", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "DF6026B1-0DFF-40EF-BA3E-63B60EA62AF9", "criteria": "cpe:2.3:o:amd:epyc_9004_firmware:-:*:*:*:*:*:*:*", "lastModified": "2024-10-03T02:00:28.640", "cpeLastModified": "2024-08-28T18:57:00.390", "created": "2024-08-28T18:57:00.390", "status": "Inactive"}}

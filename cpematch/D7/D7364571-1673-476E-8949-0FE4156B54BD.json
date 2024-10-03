@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D7364571-1673-476E-8949-0FE4156B54BD", "criteria": "cpe:2.3:h:amd:ryzen_7035:*:*:*:*:*:*:*:*", "lastModified": "2024-08-28T18:57:00.390", "cpeLastModified": "2024-08-28T18:57:00.390", "created": "2024-08-28T18:57:00.390", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D7364571-1673-476E-8949-0FE4156B54BD", "criteria": "cpe:2.3:h:amd:ryzen_7035:*:*:*:*:*:*:*:*", "lastModified": "2024-10-03T02:00:28.640", "cpeLastModified": "2024-08-28T18:57:00.390", "created": "2024-08-28T18:57:00.390", "status": "Inactive"}}
