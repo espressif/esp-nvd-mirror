@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D501F5A6-4E23-4A9F-A550-37BB94691687", "criteria": "cpe:2.3:o:cisco:ios_xr:7.4.16:*:*:*:*:*:*:*", "lastModified": "2024-10-02T21:48:50.643", "cpeLastModified": "2024-10-02T21:48:50.643", "created": "2024-10-02T21:48:50.643", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D501F5A6-4E23-4A9F-A550-37BB94691687", "criteria": "cpe:2.3:o:cisco:ios_xr:7.4.16:*:*:*:*:*:*:*", "lastModified": "2024-10-02T21:48:50.643", "cpeLastModified": "2024-10-07T17:35:44.570", "created": "2024-10-02T21:48:50.643", "status": "Active"}}
