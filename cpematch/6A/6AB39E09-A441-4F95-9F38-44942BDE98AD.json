@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6AB39E09-A441-4F95-9F38-44942BDE98AD", "criteria": "cpe:2.3:o:cisco:meraki_mx67c_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "16.2", "versionEndExcluding": "18.211.2", "lastModified": "2024-10-08T18:10:17.723", "cpeLastModified": "2024-10-08T18:10:17.723", "created": "2024-10-08T18:10:17.723", "status": "Active"}}

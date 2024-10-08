@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5A4FD3B4-FD1F-4340-B4AC-D76C11DAD4D5", "criteria": "cpe:2.3:o:cisco:meraki_z3_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "16.2", "versionEndExcluding": "18.211.2", "lastModified": "2024-10-08T18:10:17.723", "cpeLastModified": "2024-10-08T18:10:17.723", "created": "2024-10-08T18:10:17.723", "status": "Active"}}
