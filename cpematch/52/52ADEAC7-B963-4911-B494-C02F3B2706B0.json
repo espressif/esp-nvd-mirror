@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "52ADEAC7-B963-4911-B494-C02F3B2706B0", "criteria": "cpe:2.3:o:microsoft:windows_server_2012_r2:*:*:*:*:*:*:x64:*", "versionStartIncluding": "6.3.0", "versionEndExcluding": "6.3.9600.22221", "lastModified": "2024-10-09T16:40:47.297", "cpeLastModified": "2024-10-09T16:40:47.297", "created": "2024-10-09T16:40:47.297", "status": "Active"}}

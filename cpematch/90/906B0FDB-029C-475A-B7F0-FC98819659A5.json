@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "906B0FDB-029C-475A-B7F0-FC98819659A5", "criteria": "cpe:2.3:o:microsoft:windows_server_2008_sp2:*:*:*:*:*:*:x64:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.0.6003.22918", "lastModified": "2024-10-09T16:59:23.707", "cpeLastModified": "2024-10-09T16:59:23.707", "created": "2024-10-09T16:59:23.707", "status": "Active"}}

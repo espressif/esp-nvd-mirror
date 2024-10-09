@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FD1B5865-7895-4281-B76D-99FD1A9C49F7", "criteria": "cpe:2.3:o:microsoft:windows_server_2022:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "10.0.20348..2762", "lastModified": "2024-10-09T16:33:59.307", "cpeLastModified": "2024-10-09T16:33:59.307", "created": "2024-10-09T16:33:59.307", "status": "Active"}}
