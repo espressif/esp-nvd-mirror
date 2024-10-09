@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "9489A88B-79B0-45C6-822C-702F230804EB", "criteria": "cpe:2.3:a:veertu:anka_build:1.42.0:*:*:*:*:*:*:*", "lastModified": "2024-10-04T21:23:46.303", "cpeLastModified": "2024-10-04T21:23:46.303", "created": "2024-10-04T21:23:46.303", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "9489A88B-79B0-45C6-822C-702F230804EB", "criteria": "cpe:2.3:a:veertu:anka_build:1.42.0:*:*:*:*:*:*:*", "lastModified": "2024-10-09T02:01:13.363", "cpeLastModified": "2024-10-04T21:23:46.303", "created": "2024-10-04T21:23:46.303", "status": "Inactive"}}
