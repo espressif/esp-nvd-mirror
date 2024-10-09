@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "952D9DAA-B262-4930-A317-D4C7E23E8D29", "criteria": "cpe:2.3:a:lightningai:pytorch_lightning:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.6.0", "lastModified": "2024-10-09T11:56:42.770", "cpeLastModified": "2024-10-09T11:56:42.770", "created": "2024-10-09T11:56:42.770", "status": "Inactive"}}
