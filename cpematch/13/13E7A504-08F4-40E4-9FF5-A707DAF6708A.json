@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "13E7A504-08F4-40E4-9FF5-A707DAF6708A", "criteria": "cpe:2.3:a:paloaltonetworks:expedition:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.0", "versionEndExcluding": "1.2.96", "lastModified": "2024-10-10T16:38:33.467", "cpeLastModified": "2024-10-10T16:38:33.467", "created": "2024-10-10T16:38:33.467", "status": "Active"}}
