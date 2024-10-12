@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8A0E8617-B37D-4911-A22A-7E89655CF26F", "criteria": "cpe:2.3:a:wikimedia:apex:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.42.0", "versionEndExcluding": "1.42.2", "lastModified": "2024-10-11T22:24:44.490", "cpeLastModified": "2024-10-11T22:24:44.490", "created": "2024-10-11T22:24:44.490", "status": "Active"}}
