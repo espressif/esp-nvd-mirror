@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "45182C14-B120-4194-B7C0-EA5D298DD8FF", "criteria": "cpe:2.3:a:splunk:splunk_cloud_platform:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.2.2403.102", "versionEndExcluding": "9.2.2403.108", "lastModified": "2024-10-15T19:12:20.083", "cpeLastModified": "2024-10-15T19:12:20.083", "created": "2024-10-15T19:12:20.083", "status": "Active"}}
