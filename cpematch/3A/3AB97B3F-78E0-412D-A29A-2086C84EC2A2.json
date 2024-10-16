@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3AB97B3F-78E0-412D-A29A-2086C84EC2A2", "criteria": "cpe:2.3:a:php-fpm:php-fpm:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.1.0", "versionEndExcluding": "8.1.30", "lastModified": "2024-10-16T18:35:57.983", "cpeLastModified": "2024-10-16T18:28:19.710", "created": "2024-10-16T18:28:19.710", "status": "Active"}}
