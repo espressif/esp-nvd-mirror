@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "50E0A7D8-19C6-49FA-B2CE-C0634CB857B1", "criteria": "cpe:2.3:a:esri:arcgis:10.9.1:*:*:*:*:*:*:*", "lastModified": "2024-10-09T17:51:02.037", "cpeLastModified": "2024-10-09T17:51:02.037", "created": "2024-10-09T17:51:02.037", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "50E0A7D8-19C6-49FA-B2CE-C0634CB857B1", "criteria": "cpe:2.3:a:esri:arcgis:10.9.1:*:*:*:*:*:*:*", "lastModified": "2024-10-16T02:01:02.450", "cpeLastModified": "2024-10-09T17:51:02.037", "created": "2024-10-09T17:51:02.037", "status": "Inactive"}}

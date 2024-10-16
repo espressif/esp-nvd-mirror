@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "7ED2248E-53FC-4383-BFC5-8FCBA2AD1793", "criteria": "cpe:2.3:h:vde:f30_03x_\\(cpu\\)_yy:-:*:*:*:*:*:*:*", "lastModified": "2024-10-15T13:31:22.880", "cpeLastModified": "2024-10-15T13:31:22.880", "created": "2024-10-15T13:31:22.880", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "7ED2248E-53FC-4383-BFC5-8FCBA2AD1793", "criteria": "cpe:2.3:h:vde:f30_03x_\\(cpu\\)_yy:-:*:*:*:*:*:*:*", "lastModified": "2024-10-16T02:01:02.450", "cpeLastModified": "2024-10-15T13:31:22.880", "created": "2024-10-15T13:31:22.880", "status": "Inactive"}}
