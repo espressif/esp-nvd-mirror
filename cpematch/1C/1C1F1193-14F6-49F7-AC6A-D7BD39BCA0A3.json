@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "1C1F1193-14F6-49F7-AC6A-D7BD39BCA0A3", "criteria": "cpe:2.3:h:cisco:c9300l-48pf-4g:-:*:*:*:*:*:*:*", "lastModified": "2024-10-17T13:48:50.050", "cpeLastModified": "2024-10-17T13:48:50.050", "created": "2024-10-17T13:48:50.050", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "1C1F1193-14F6-49F7-AC6A-D7BD39BCA0A3", "criteria": "cpe:2.3:h:cisco:c9300l-48pf-4g:-:*:*:*:*:*:*:*", "lastModified": "2024-10-17T14:16:22.163", "cpeLastModified": "2024-10-17T13:48:50.050", "created": "2024-10-17T13:48:50.050", "status": "Inactive"}}

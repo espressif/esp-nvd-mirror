@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6B6D587F-89CC-4F88-B787-B7BDB295E121", "criteria": "cpe:2.3:a:oracle:vm_virtualbox:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.1.0", "versionEndIncluding": "7.1.2", "lastModified": "2024-10-17T15:47:46.103", "cpeLastModified": "2024-10-17T15:47:46.103", "created": "2024-10-17T15:47:46.103", "status": "Active"}}
