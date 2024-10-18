@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4C0CCB33-06E6-4FC9-9569-F49471A2A3A2", "criteria": "cpe:2.3:a:oracle:xml_database:*:*:*:*:*:*:*:*", "versionStartExcluding": "19.3", "versionEndIncluding": "19.24", "lastModified": "2024-10-18T17:18:43.053", "cpeLastModified": "2024-10-18T17:18:43.053", "created": "2024-10-18T17:18:43.053", "status": "Active"}}
