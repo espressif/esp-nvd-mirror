@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "22DACA4A-5302-45A1-883A-F299ED49844D", "criteria": "cpe:2.3:a:plack\\:\\:middleware\\:\\:xsrfblock_project:plack\\:\\:middleware\\:\\:xsrfblock:*:*:*:*:*:perl:*:*", "versionEndExcluding": "0.0.19", "lastModified": "2024-10-18T14:31:26.480", "cpeLastModified": "2024-10-18T14:31:26.480", "created": "2024-10-18T14:31:26.480", "status": "Active"}}
