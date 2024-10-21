@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7DBB07C1-116E-4C35-9614-C8495BFCF894", "criteria": "cpe:2.3:a:vmware:vmware_hcx:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.9.0", "versionEndIncluding": "4.9.1", "lastModified": "2024-10-21T15:27:39.690", "cpeLastModified": "2024-10-21T15:27:39.690", "created": "2024-10-21T15:27:39.690", "status": "Active"}}

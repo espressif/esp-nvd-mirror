@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "15F4C6D8-CF9F-4341-8315-0E4B38E641A8", "criteria": "cpe:2.3:a:vmware:vmware_hcx:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.8.0", "versionEndIncluding": "4.8.2", "lastModified": "2024-10-21T15:27:39.690", "cpeLastModified": "2024-10-21T15:27:39.690", "created": "2024-10-21T15:27:39.690", "status": "Active"}}
