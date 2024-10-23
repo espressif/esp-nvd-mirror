@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1EF64A27-6BA8-4DBB-9E1C-7D82499AB470", "criteria": "cpe:2.3:a:intel:implicit_spmd_program_compiler:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.21.0", "lastModified": "2024-10-23T17:32:57.160", "cpeLastModified": "2024-10-23T17:32:57.160", "created": "2024-10-23T17:32:57.160", "status": "Active"}}
