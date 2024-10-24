@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5BB52FA5-7811-4123-8989-59369583F82F", "criteria": "cpe:2.3:a:fortinet:fortimanager_cloud:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.4.1", "versionEndIncluding": "6.4.7", "lastModified": "2024-10-24T14:24:53.847", "cpeLastModified": "2024-10-24T14:24:53.847", "created": "2024-10-24T14:24:53.847", "status": "Active"}}
