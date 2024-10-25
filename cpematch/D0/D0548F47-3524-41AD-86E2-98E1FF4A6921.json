@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D0548F47-3524-41AD-86E2-98E1FF4A6921", "criteria": "cpe:2.3:a:intel:ethernet_connections_boot_utility\\,_preboot_images\\,_and_efi_drivers:*:*:*:*:*:*:*:*", "versionEndExcluding": "28.2", "lastModified": "2024-10-25T13:50:29.343", "cpeLastModified": "2024-10-25T13:50:29.343", "created": "2024-10-25T13:50:29.343", "status": "Active"}}
