@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E4E9C155-897E-4E2A-B68B-E5BABE11F235", "criteria": "cpe:2.3:a:cvat:computer_vision_annotation_tool:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.4.7", "versionEndExcluding": "2.19.0", "lastModified": "2024-10-30T18:24:15.710", "cpeLastModified": "2024-10-30T18:24:15.710", "created": "2024-10-30T18:24:15.710", "status": "Active"}}
