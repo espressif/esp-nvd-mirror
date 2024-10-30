@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A277FDEC-1405-4ED3-8D9B-4EB5EDAF5BED", "criteria": "cpe:2.3:a:lakesidesoftware:systrack_lsiagent:*:*:*:*:*:windows:*:*", "versionStartIncluding": "10.7.8", "versionEndExcluding": "11.0", "lastModified": "2024-10-30T20:11:19.620", "cpeLastModified": "2024-10-30T20:11:19.620", "created": "2024-10-30T20:11:19.620", "status": "Active"}}
