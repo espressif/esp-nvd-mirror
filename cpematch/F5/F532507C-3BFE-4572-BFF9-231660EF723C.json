@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F532507C-3BFE-4572-BFF9-231660EF723C", "criteria": "cpe:2.3:a:mongodb:mongo_crypt_v1.so:*:*:*:*:*:mongodb:*:*", "versionStartIncluding": "7.3.0", "versionEndExcluding": "7.3.4", "lastModified": "2024-10-30T14:01:48.613", "cpeLastModified": "2024-10-30T14:01:48.613", "created": "2024-10-30T14:01:48.613", "status": "Active"}}
