@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "8320F55F-B16D-4EE5-A112-E3D9A81DC026", "criteria": "cpe:2.3:a:aa-team:wzone:*:*:*:*:*:wordpress:*:*", "lastModified": "2024-10-31T21:06:53.133", "cpeLastModified": "2024-10-31T21:06:53.133", "created": "2024-10-31T21:06:53.133", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "8320F55F-B16D-4EE5-A112-E3D9A81DC026", "criteria": "cpe:2.3:a:aa-team:wzone:*:*:*:*:*:wordpress:*:*", "lastModified": "2024-11-02T02:00:29.507", "cpeLastModified": "2024-10-31T21:06:53.133", "created": "2024-10-31T21:06:53.133", "status": "Inactive"}}
