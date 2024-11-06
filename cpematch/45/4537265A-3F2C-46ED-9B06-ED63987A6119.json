@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4537265A-3F2C-46ED-9B06-ED63987A6119", "criteria": "cpe:2.3:a:hashicorp:vagrant_vmware_utility:*:*:*:*:*:windows:*:*", "versionEndExcluding": "1.0.23", "lastModified": "2024-11-06T16:32:28.437", "cpeLastModified": "2024-11-06T16:32:28.437", "created": "2024-11-06T16:32:28.437", "status": "Active"}}
