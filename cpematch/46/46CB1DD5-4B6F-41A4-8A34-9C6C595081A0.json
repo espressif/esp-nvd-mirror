@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "46CB1DD5-4B6F-41A4-8A34-9C6C595081A0", "criteria": "cpe:2.3:a:f5:nginx_ingress_controller:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.7.1", "lastModified": "2024-11-07T15:53:05.133", "cpeLastModified": "2024-11-07T15:53:05.133", "created": "2024-11-07T15:53:05.133", "status": "Active"}}
