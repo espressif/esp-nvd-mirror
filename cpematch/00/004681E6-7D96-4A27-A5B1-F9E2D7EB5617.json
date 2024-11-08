@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "004681E6-7D96-4A27-A5B1-F9E2D7EB5617", "criteria": "cpe:2.3:a:nvidia:nvidia_container_toolkit:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.17", "lastModified": "2024-11-08T15:53:21.143", "cpeLastModified": "2024-11-08T15:53:21.143", "created": "2024-11-08T15:53:21.143", "status": "Active"}}

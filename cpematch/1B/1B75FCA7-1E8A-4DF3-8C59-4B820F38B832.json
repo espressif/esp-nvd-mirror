@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1B75FCA7-1E8A-4DF3-8C59-4B820F38B832", "criteria": "cpe:2.3:a:veritas:data_insight:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0", "versionEndExcluding": "7.1", "lastModified": "2024-11-08T15:52:51.360", "cpeLastModified": "2024-11-08T15:52:51.360", "created": "2024-11-08T15:52:51.360", "status": "Active"}}
