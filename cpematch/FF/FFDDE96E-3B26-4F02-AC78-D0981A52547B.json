@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "FFDDE96E-3B26-4F02-AC78-D0981A52547B", "criteria": "cpe:2.3:h:tp-link:tapo_h100:v1:*:*:*:*:*:*:*", "lastModified": "2024-11-07T19:24:22.840", "cpeLastModified": "2024-11-08T15:14:08.910", "created": "2024-11-07T19:24:22.840", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "FFDDE96E-3B26-4F02-AC78-D0981A52547B", "criteria": "cpe:2.3:h:tp-link:tapo_h100:v1:*:*:*:*:*:*:*", "lastModified": "2024-11-09T03:00:26.707", "cpeLastModified": "2024-11-08T15:14:08.910", "created": "2024-11-07T19:24:22.840", "status": "Inactive"}}

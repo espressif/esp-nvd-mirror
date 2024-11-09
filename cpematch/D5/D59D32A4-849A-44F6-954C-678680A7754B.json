@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D59D32A4-849A-44F6-954C-678680A7754B", "criteria": "cpe:2.3:a:microsoft:power_platform:*:*:*:*:*:*:*:*", "lastModified": "2024-11-06T21:11:23.707", "cpeLastModified": "2024-11-06T21:11:23.707", "created": "2024-11-06T21:11:23.707", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D59D32A4-849A-44F6-954C-678680A7754B", "criteria": "cpe:2.3:a:microsoft:power_platform:*:*:*:*:*:*:*:*", "lastModified": "2024-11-09T03:00:26.707", "cpeLastModified": "2024-11-06T21:11:23.707", "created": "2024-11-06T21:11:23.707", "status": "Inactive"}}
