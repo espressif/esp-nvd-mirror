@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "062610CC-696D-4014-AB7A-BA99EA7E0A24", "criteria": "cpe:2.3:o:dell:enterprise_sonic_distribution:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.2.0", "versionEndExcluding": "4.2.2", "lastModified": "2024-11-12T13:48:47.790", "cpeLastModified": "2024-11-12T13:48:47.790", "created": "2024-11-12T13:48:47.790", "status": "Active"}}
