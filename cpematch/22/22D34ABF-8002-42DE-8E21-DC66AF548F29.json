@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "22D34ABF-8002-42DE-8E21-DC66AF548F29", "criteria": "cpe:2.3:o:dell:smartfabric_os10:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.5.5.0", "versionEndExcluding": "10.5.5.12", "lastModified": "2024-11-13T16:49:12.460", "cpeLastModified": "2024-11-13T16:49:12.460", "created": "2024-11-13T16:49:12.460", "status": "Active"}}
