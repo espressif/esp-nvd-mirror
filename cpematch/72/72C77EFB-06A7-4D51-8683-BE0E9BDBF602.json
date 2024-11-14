@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "72C77EFB-06A7-4D51-8683-BE0E9BDBF602", "criteria": "cpe:2.3:a:sap:hana-client:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "2.0", "versionEndExcluding": "2.21.31", "lastModified": "2024-11-14T17:54:28.857", "cpeLastModified": "2024-11-14T17:41:09.650", "created": "2024-11-14T17:41:09.650", "status": "Inactive"}}
