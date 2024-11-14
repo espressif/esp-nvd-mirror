@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "135A2426-EA59-4DF8-B83E-D86B8BBD77D4", "criteria": "cpe:2.3:a:microsoft:sql_server_2022:*:*:*:*:*:*:x64:*", "versionStartIncluding": "16.0.1000.6", "versionEndIncluding": "16.0.1130.5", "lastModified": "2024-11-14T15:01:08.600", "cpeLastModified": "2024-11-14T15:01:08.600", "created": "2024-11-14T15:01:08.600", "status": "Active"}}
