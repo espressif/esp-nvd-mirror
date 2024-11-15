@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1B643770-6018-4D81-B386-91011E437F0D", "criteria": "cpe:2.3:a:linuxfoundation:harbor:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5.0", "versionEndExcluding": "2.5.2", "lastModified": "2024-11-15T16:32:07.357", "cpeLastModified": "2024-11-15T16:32:07.357", "created": "2024-11-15T16:32:07.357", "status": "Active"}}
