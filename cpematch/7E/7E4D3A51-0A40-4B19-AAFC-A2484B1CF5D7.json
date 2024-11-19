@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7E4D3A51-0A40-4B19-AAFC-A2484B1CF5D7", "criteria": "cpe:2.3:o:paloaltonetworks:pan-os:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.2.0", "versionEndExcluding": "11.2.4", "lastModified": "2024-11-19T12:15:10.030", "cpeLastModified": "2024-11-19T12:15:10.030", "created": "2024-11-19T12:15:10.030", "status": "Active"}}
