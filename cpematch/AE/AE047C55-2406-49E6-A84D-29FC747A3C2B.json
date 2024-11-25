@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AE047C55-2406-49E6-A84D-29FC747A3C2B", "criteria": "cpe:2.3:a:linuxfoundation:api_mediation_layer:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.18.0", "lastModified": "2024-11-25T18:00:46.000", "cpeLastModified": "2024-11-25T18:00:46.000", "created": "2024-11-25T18:00:46.000", "status": "Active"}}
