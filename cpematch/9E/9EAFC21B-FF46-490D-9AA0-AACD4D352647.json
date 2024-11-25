@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9EAFC21B-FF46-490D-9AA0-AACD4D352647", "criteria": "cpe:2.3:a:linuxfoundation:zowe:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.11.0", "versionEndExcluding": "2.17.0", "lastModified": "2024-11-25T11:25:26.030", "cpeLastModified": "2024-11-25T11:25:26.030", "created": "2024-11-25T11:25:26.030", "status": "Active"}}
