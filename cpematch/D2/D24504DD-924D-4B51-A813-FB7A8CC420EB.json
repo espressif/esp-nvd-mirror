@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D24504DD-924D-4B51-A813-FB7A8CC420EB", "criteria": "cpe:2.3:a:cisco:secure_firewall_management_center:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.1", "versionEndExcluding": "7.1.0.1", "lastModified": "2024-11-26T16:09:02.407", "cpeLastModified": "2024-11-26T16:09:02.407", "created": "2024-11-26T16:09:02.407", "status": "Inactive"}}
