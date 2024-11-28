@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "584AB907-6E04-4E7C-BBA7-BB8D3A7D6133", "criteria": "cpe:2.3:o:dell:thinos:9.5.1079:*:*:*:*:*:*:*", "lastModified": "2024-11-27T14:41:53.720", "cpeLastModified": "2024-11-27T14:41:53.720", "created": "2024-11-27T14:41:53.720", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "584AB907-6E04-4E7C-BBA7-BB8D3A7D6133", "criteria": "cpe:2.3:o:dell:thinos:9.5.1079:*:*:*:*:*:*:*", "lastModified": "2024-11-28T03:00:27.677", "cpeLastModified": "2024-11-27T14:41:53.720", "created": "2024-11-27T14:41:53.720", "status": "Inactive"}}
