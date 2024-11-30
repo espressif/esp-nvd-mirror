@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "240C2429-3BC0-4F70-AB08-AC29E4637BF2", "criteria": "cpe:2.3:a:irfanview:irfanview:4.66:*:*:*:*:*:x86:*", "lastModified": "2024-11-27T17:17:54.570", "cpeLastModified": "2024-11-27T17:08:27.830", "created": "2024-11-27T17:08:27.830", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "240C2429-3BC0-4F70-AB08-AC29E4637BF2", "criteria": "cpe:2.3:a:irfanview:irfanview:4.66:*:*:*:*:*:x86:*", "lastModified": "2024-11-30T03:00:26.547", "cpeLastModified": "2024-11-27T17:08:27.830", "created": "2024-11-27T17:08:27.830", "status": "Inactive"}}
