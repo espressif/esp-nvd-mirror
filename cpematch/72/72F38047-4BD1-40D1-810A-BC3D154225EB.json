@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "72F38047-4BD1-40D1-810A-BC3D154225EB", "criteria": "cpe:2.3:a:oracle:java_virtual_machine:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.3", "versionEndIncluding": "21.13", "lastModified": "2024-12-06T15:29:52.970", "cpeLastModified": "2024-12-06T15:29:52.970", "created": "2024-12-06T15:29:52.970", "status": "Active"}}
