@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1FA8C922-7305-4789-A37D-B03A0940142C", "criteria": "cpe:2.3:o:zyxel:firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.60", "versionEndExcluding": "5.39", "lastModified": "2024-12-12T17:25:33.167", "cpeLastModified": "2024-12-12T16:43:16.940", "created": "2024-12-12T16:43:16.940", "status": "Inactive"}}
