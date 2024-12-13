@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E1DDE59E-0BF6-4787-BCC9-F7195056FD20", "criteria": "cpe:2.3:a:ivanti:workspace_control:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.18.30.0", "versionEndExcluding": "10.18.40.0", "lastModified": "2024-12-13T19:42:35.047", "cpeLastModified": "2024-12-13T19:42:35.047", "created": "2024-12-13T19:42:35.047", "status": "Active"}}
