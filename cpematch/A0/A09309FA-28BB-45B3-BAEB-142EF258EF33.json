@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "A09309FA-28BB-45B3-BAEB-142EF258EF33", "criteria": "cpe:2.3:o:jlink:ax1800_firmware:1.0:*:*:*:*:*:*:*", "lastModified": "2024-08-23T17:23:50.527", "cpeLastModified": "2024-08-23T17:23:50.527", "created": "2024-08-23T17:23:50.527", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "A09309FA-28BB-45B3-BAEB-142EF258EF33", "criteria": "cpe:2.3:o:jlink:ax1800_firmware:1.0:*:*:*:*:*:*:*", "lastModified": "2024-08-26T14:09:01.233", "cpeLastModified": "2024-08-23T17:23:50.527", "created": "2024-08-23T17:23:50.527", "status": "Inactive"}}

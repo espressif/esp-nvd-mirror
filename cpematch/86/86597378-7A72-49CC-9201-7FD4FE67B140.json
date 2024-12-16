@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "86597378-7A72-49CC-9201-7FD4FE67B140", "criteria": "cpe:2.3:a:redhat:libvirt:10.4.0:*:*:*:*:*:*:*", "lastModified": "2024-09-05T19:34:41.310", "cpeLastModified": "2024-09-05T19:34:41.310", "created": "2024-09-05T19:34:41.310", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "86597378-7A72-49CC-9201-7FD4FE67B140", "criteria": "cpe:2.3:a:redhat:libvirt:10.4.0:*:*:*:*:*:*:*", "lastModified": "2024-09-25T18:58:41.463", "cpeLastModified": "2024-09-05T19:34:41.310", "created": "2024-09-05T19:34:41.310", "status": "Inactive"}}

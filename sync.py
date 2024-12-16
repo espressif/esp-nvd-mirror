@@ -9,12 +9,16 @@ import urllib.request
 from pathlib import Path
 
 
-def nvd_request(endpoint: str, params: dict, key: str) -> list:
+def nvd_request(endpoint: str, syncdate: dict, key: str) -> list:
     res = []
     start_idx = 0
     retry = 0
     retry_max = 100
 
+    now = datetime.datetime.now(tz=datetime.timezone.utc).isoformat()
+    syncdate[key]['lastModStartDate'] = syncdate[key]['lastModEndDate']
+    syncdate[key]['lastModEndDate'] = now
+    params = syncdate[key].copy()
     while True:
         params['startIndex'] = str(start_idx)
         params_enc = urllib.parse.urlencode(params)
@@ -30,10 +34,12 @@ def nvd_request(endpoint: str, params: dict, key: str) -> list:
             retry += 1
             if retry > retry_max:
                 raise
-            print(f'Failed to receive a response from NVD ({e}). Trying again ({retry}) in 10 seconds...')
+            print((f'Failed to receive a response from NVD ({e}). '
+                   f'Trying again ({retry}) in 10 seconds...'))
             time.sleep(10)
             continue
 
+        syncdate[key]['lastModEndDate'] = data['timestamp']
         res += data[key]
 
         start_idx += int(data['resultsPerPage'])
@@ -43,8 +49,8 @@ def nvd_request(endpoint: str, params: dict, key: str) -> list:
     return res
 
 
-def sync_cves(repo_path: Path, params: dict) -> None:
-    data = nvd_request('rest/json/cves/2.0', params, 'vulnerabilities')
+def sync_cves(repo_path: Path, syncdate: dict) -> None:
+    data = nvd_request('rest/json/cves/2.0', syncdate, 'vulnerabilities')
 
     for cve in data:
         cve_id = cve['cve']['id']
@@ -59,8 +65,8 @@ def sync_cves(repo_path: Path, params: dict) -> None:
     print(f'{len(data)} CVEs synced')
 
 
-def sync_cpematch(repo_path: Path, params: dict) -> None:
-    data = nvd_request('rest/json/cpematch/2.0', params, 'matchStrings')
+def sync_cpematch(repo_path: Path, syncdate: dict) -> None:
+    data = nvd_request('rest/json/cpematch/2.0', syncdate, 'matchStrings')
 
     for ms in data:
         ms_id = ms['matchString']['matchCriteriaId']
@@ -84,12 +90,8 @@ if __name__ == '__main__':
     with open(syncdate_path, 'r') as f:
         syncdate = json.loads(f.read())
 
-    syncdate['lastModStartDate'] = syncdate['lastModEndDate']
-    syncdate['lastModEndDate'] = datetime.datetime.now(tz=datetime.timezone.utc).isoformat()
-
-    params = syncdate.copy()
-    sync_cpematch(repo_path, params)
-    sync_cves(repo_path, params)
+    sync_cpematch(repo_path, syncdate)
+    sync_cves(repo_path, syncdate)
 
     with open(syncdate_path, 'w') as f:
-        json.dump(syncdate, f)
+        json.dump(syncdate, f, indent=4)
