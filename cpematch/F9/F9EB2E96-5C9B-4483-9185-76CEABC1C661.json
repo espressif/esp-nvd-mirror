@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F9EB2E96-5C9B-4483-9185-76CEABC1C661", "criteria": "cpe:2.3:a:scambra:devise_invitable:*:*:*:*:*:ruby:*:*", "versionStartIncluding": "0.4.1", "versionEndExcluding": "2.0.9", "lastModified": "2024-12-16T18:38:44.757", "cpeLastModified": "2024-12-16T18:38:44.757", "created": "2024-12-16T18:38:44.757", "status": "Active"}}
