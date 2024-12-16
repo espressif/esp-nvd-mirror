@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E5CDF1E1-2349-4AC1-B582-0D36D42F420A", "criteria": "cpe:2.3:a:sparkshop:sparkshop:1.16:*:*:*:*:*:*:*", "lastModified": "2024-10-11T17:42:40.343", "cpeLastModified": "2024-10-11T17:42:40.343", "created": "2024-10-11T17:42:40.343", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E5CDF1E1-2349-4AC1-B582-0D36D42F420A", "criteria": "cpe:2.3:a:sparkshop:sparkshop:1.16:*:*:*:*:*:*:*", "lastModified": "2024-10-15T14:49:24.777", "cpeLastModified": "2024-10-11T17:42:40.343", "created": "2024-10-11T17:42:40.343", "status": "Inactive"}}

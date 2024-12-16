@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C2049D5D-21F9-48EA-A801-071A80211DB7", "criteria": "cpe:2.3:a:sap:crm_webclient_ui:747:*:*:*:*:*:*:*", "lastModified": "2024-07-30T20:08:06.093", "cpeLastModified": "2024-07-30T20:08:06.093", "created": "2024-07-30T20:08:06.093", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "C2049D5D-21F9-48EA-A801-071A80211DB7", "criteria": "cpe:2.3:a:sap:crm_webclient_ui:747:*:*:*:*:*:*:*", "lastModified": "2024-08-07T13:50:15.040", "cpeLastModified": "2024-07-30T20:08:06.093", "created": "2024-07-30T20:08:06.093", "status": "Inactive"}}
