@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "67398DA3-A94F-41F7-AEF0-096A7B18E899", "criteria": "cpe:2.3:a:nlnetlabs:unbound:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.18.0", "versionEndIncluding": "1.19.1", "lastModified": "2024-12-17T15:21:05.713", "cpeLastModified": "2024-12-17T15:19:53.303", "created": "2024-12-17T15:19:53.303", "status": "Inactive"}}
