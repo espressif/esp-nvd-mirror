@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "80068574-74E5-4A47-B442-7457F42AA879", "criteria": "cpe:2.3:a:linuxfoundation:zowe_api_mediation_layer:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.18.0", "lastModified": "2024-12-19T16:27:21.907", "cpeLastModified": "2024-12-19T16:27:21.907", "created": "2024-12-19T16:27:21.907", "status": "Active"}}
