@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "4334BF92-4882-4813-A015-88658DE24A9B", "criteria": "cpe:2.3:o:dell:smartfabric_os10:-:*:*:*:*:*:*:*", "lastModified": "2024-12-20T19:09:36.727", "cpeLastModified": "2024-12-20T19:09:36.823", "created": "2024-12-20T19:09:36.727", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "4334BF92-4882-4813-A015-88658DE24A9B", "criteria": "cpe:2.3:o:dell:smartfabric_os10:-:*:*:*:*:*:*:*", "lastModified": "2024-12-21T03:00:27.020", "cpeLastModified": "2024-12-20T19:09:36.823", "created": "2024-12-20T19:09:36.727", "status": "Inactive"}}
