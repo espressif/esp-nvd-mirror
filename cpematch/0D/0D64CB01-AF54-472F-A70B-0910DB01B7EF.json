@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0D64CB01-AF54-472F-A70B-0910DB01B7EF", "criteria": "cpe:2.3:a:nextcloud:nextcloud_server:*:*:*:*:enterprise:*:*:*", "versionStartIncluding": "28.0.0", "versionEndExcluding": "28.0.12", "lastModified": "2024-12-23T17:26:08.693", "cpeLastModified": "2024-12-23T17:26:08.693", "created": "2024-12-23T17:26:08.693", "status": "Active"}}
