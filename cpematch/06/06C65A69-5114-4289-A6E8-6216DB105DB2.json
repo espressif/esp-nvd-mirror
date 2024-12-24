@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "06C65A69-5114-4289-A6E8-6216DB105DB2", "criteria": "cpe:2.3:a:microsoft:azure_software_development_kit:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.29.5", "lastModified": "2024-12-24T12:11:50.583", "cpeLastModified": "2024-12-24T12:11:50.583", "created": "2024-12-24T12:11:50.583", "status": "Active"}}
