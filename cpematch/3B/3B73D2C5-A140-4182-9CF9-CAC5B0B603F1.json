@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3B73D2C5-A140-4182-9CF9-CAC5B0B603F1", "criteria": "cpe:2.3:a:nvidia:cv-cuda:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.1.0", "versionEndIncluding": "0.10.0", "lastModified": "2024-12-26T17:32:49.500", "cpeLastModified": "2024-12-26T17:23:38.440", "created": "2024-12-26T17:23:38.440", "status": "Inactive"}}
