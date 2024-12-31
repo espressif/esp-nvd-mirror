@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A6F7F8AF-62CC-4A63-B7EA-02BA4067B97D", "criteria": "cpe:2.3:a:microsoft:azure_kubernetes_service_confidential_containers:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.3.4", "lastModified": "2024-12-31T16:33:47.363", "cpeLastModified": "2024-12-31T16:33:47.363", "created": "2024-12-31T16:33:47.363", "status": "Active"}}

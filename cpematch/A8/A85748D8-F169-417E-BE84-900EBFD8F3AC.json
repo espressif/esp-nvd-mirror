@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A85748D8-F169-417E-BE84-900EBFD8F3AC", "criteria": "cpe:2.3:a:microsoft:azure_identity_library_for_.net:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.11.0", "lastModified": "2024-12-31T16:36:28.883", "cpeLastModified": "2024-12-31T16:36:28.883", "created": "2024-12-31T16:36:28.883", "status": "Active"}}
