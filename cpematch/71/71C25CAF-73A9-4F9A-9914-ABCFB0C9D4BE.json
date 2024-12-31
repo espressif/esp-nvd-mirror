@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "71C25CAF-73A9-4F9A-9914-ABCFB0C9D4BE", "criteria": "cpe:2.3:a:progress:loadmaster:*:*:*:*:ltsf:*:*:*", "versionStartIncluding": "7.2.49.0", "versionEndExcluding": "7.2.54.10", "lastModified": "2024-12-31T19:09:01.117", "cpeLastModified": "2024-12-31T19:09:01.117", "created": "2024-12-31T19:09:01.117", "status": "Active"}}
