@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "29EB593C-8078-4174-9947-A3590CF93D51", "criteria": "cpe:2.3:a:agronholm:cbor2:*:*:*:*:*:python:*:*", "versionStartIncluding": "5.5.1", "versionEndExcluding": "5.6.2", "lastModified": "2025-01-02T14:10:41.030", "cpeLastModified": "2025-01-02T14:10:41.030", "created": "2025-01-02T14:10:41.030", "status": "Active"}}
