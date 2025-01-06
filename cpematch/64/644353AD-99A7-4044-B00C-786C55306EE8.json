@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "644353AD-99A7-4044-B00C-786C55306EE8", "criteria": "cpe:2.3:a:microsoft:edge_chromium:*:*:*:*:*:*:*:*", "versionStartIncluding": "123.0.2420.53", "versionEndExcluding": "123.0.2420.81", "lastModified": "2025-01-06T18:37:53.573", "cpeLastModified": "2025-01-06T18:35:31.397", "created": "2025-01-06T18:35:31.397", "status": "Active"}}
