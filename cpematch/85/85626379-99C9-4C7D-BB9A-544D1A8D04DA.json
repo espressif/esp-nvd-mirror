@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "85626379-99C9-4C7D-BB9A-544D1A8D04DA", "criteria": "cpe:2.3:a:cilium:cilium:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.13.9", "versionEndExcluding": "1.13.13", "lastModified": "2025-01-08T16:14:43.673", "cpeLastModified": "2025-01-08T16:14:43.673", "created": "2025-01-08T16:14:43.673", "status": "Active"}}
