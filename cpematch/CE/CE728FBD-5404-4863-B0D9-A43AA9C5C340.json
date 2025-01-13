@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CE728FBD-5404-4863-B0D9-A43AA9C5C340", "criteria": "cpe:2.3:a:12dsynergy:file_replication_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.1.1.58", "versionEndExcluding": "5.1.5.221", "lastModified": "2025-01-13T17:07:02.573", "cpeLastModified": "2025-01-13T17:07:02.573", "created": "2025-01-13T17:07:02.573", "status": "Active"}}
