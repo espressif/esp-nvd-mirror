@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4EC77FDF-1E1A-4638-9C9F-DA4205FDD69B", "criteria": "cpe:2.3:a:zscaler:client_connector:*:*:*:*:*:linux:*:*", "versionStartIncluding": "3.7", "versionEndExcluding": "3.7.0.134", "lastModified": "2025-01-15T16:02:39.050", "cpeLastModified": "2025-01-15T16:02:39.050", "created": "2025-01-15T16:02:39.050", "status": "Active"}}
