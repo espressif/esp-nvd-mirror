@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7EEB001F-B60C-4143-BCB8-B2323F2817E6", "criteria": "cpe:2.3:a:dell:elastic_cloud_storage:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.7.0.0", "versionEndExcluding": "3.7.0.7", "lastModified": "2025-01-17T21:37:28.050", "cpeLastModified": "2025-01-17T21:37:28.050", "created": "2025-01-17T21:37:28.050", "status": "Active"}}
