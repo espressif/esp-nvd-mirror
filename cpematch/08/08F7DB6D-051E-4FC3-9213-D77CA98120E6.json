@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "08F7DB6D-051E-4FC3-9213-D77CA98120E6", "criteria": "cpe:2.3:a:eclipse:edc_connector:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.2.1", "versionEndExcluding": "0.6.3", "lastModified": "2025-01-23T15:16:36.393", "cpeLastModified": "2025-01-23T15:16:36.393", "created": "2025-01-23T15:16:36.393", "status": "Active"}}
