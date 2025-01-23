@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "732DD0AC-2D36-41E5-9005-3BA04D2BC920", "criteria": "cpe:2.3:a:eset:security:*:*:*:*:*:sharepoint_server:*:*", "versionStartIncluding": "8.0", "versionEndExcluding": "8.0.15012.0", "lastModified": "2025-01-22T22:40:39.597", "cpeLastModified": "2025-01-22T22:40:39.597", "created": "2025-01-22T22:40:39.597", "status": "Active"}}

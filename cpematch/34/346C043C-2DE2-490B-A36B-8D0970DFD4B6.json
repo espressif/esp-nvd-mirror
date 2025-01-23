@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "346C043C-2DE2-490B-A36B-8D0970DFD4B6", "criteria": "cpe:2.3:a:eset:endpoint_security:*:*:*:*:*:windows:*:*", "versionStartIncluding": "10.0", "versionEndExcluding": "10.0.2052.0", "lastModified": "2025-01-22T22:40:39.597", "cpeLastModified": "2025-01-22T22:40:39.597", "created": "2025-01-22T22:40:39.597", "status": "Active"}}

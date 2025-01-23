@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EDB3A57E-7B60-4FAC-BE08-DF10CE47C8E2", "criteria": "cpe:2.3:a:eset:mail_security:*:*:*:*:*:domino:*:*", "versionStartIncluding": "9.0", "versionEndExcluding": "9.0.14008.0", "lastModified": "2025-01-22T22:40:39.597", "cpeLastModified": "2025-01-22T22:40:39.597", "created": "2025-01-22T22:40:39.597", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BA373E8F-2D94-4EF4-96C4-0306D969EB37", "criteria": "cpe:2.3:a:eset:server_security:*:*:*:*:*:windows_server:*:*", "versionStartIncluding": "9.0", "versionEndExcluding": "9.0.12019.0", "lastModified": "2025-01-22T22:40:39.597", "cpeLastModified": "2025-01-22T22:40:39.597", "created": "2025-01-22T22:40:39.597", "status": "Active"}}
