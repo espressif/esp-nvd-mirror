@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "606BE978-AF58-43F8-896B-758F9496B14B", "criteria": "cpe:2.3:a:dell:openmanage_enterprise_update_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.4.0", "versionEndExcluding": "1.5.1", "lastModified": "2025-01-24T20:26:02.740", "cpeLastModified": "2025-01-24T20:26:02.740", "created": "2025-01-24T20:26:02.740", "status": "Active"}}
