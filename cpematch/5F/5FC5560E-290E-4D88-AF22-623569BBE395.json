@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "5FC5560E-290E-4D88-AF22-623569BBE395", "criteria": "cpe:2.3:h:zte:zxhn_h388x:10.1:*:*:*:*:*:*:*", "lastModified": "2025-01-16T19:06:41.450", "cpeLastModified": "2025-01-28T16:22:23.947", "created": "2025-01-16T19:06:41.450", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "5FC5560E-290E-4D88-AF22-623569BBE395", "criteria": "cpe:2.3:h:zte:zxhn_h388x:10.1:*:*:*:*:*:*:*", "lastModified": "2025-01-29T03:00:26.887", "cpeLastModified": "2025-01-28T16:22:23.947", "created": "2025-01-16T19:06:41.450", "status": "Inactive"}}
