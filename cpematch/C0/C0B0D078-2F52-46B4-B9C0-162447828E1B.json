@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C0B0D078-2F52-46B4-B9C0-162447828E1B", "criteria": "cpe:2.3:a:fortinet:fortirecorder:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.2.0", "versionEndExcluding": "7.2.2", "lastModified": "2025-01-31T15:21:32.683", "cpeLastModified": "2025-01-31T15:21:32.683", "created": "2025-01-31T15:21:32.683", "status": "Active"}}

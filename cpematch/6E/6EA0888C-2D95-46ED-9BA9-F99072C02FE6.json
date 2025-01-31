@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6EA0888C-2D95-46ED-9BA9-F99072C02FE6", "criteria": "cpe:2.3:a:fortinet:fortianalyzer_cloud:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.4.1", "versionEndExcluding": "7.4.4", "lastModified": "2025-01-31T14:47:06.587", "cpeLastModified": "2025-01-31T14:47:06.587", "created": "2025-01-31T14:47:06.587", "status": "Active"}}

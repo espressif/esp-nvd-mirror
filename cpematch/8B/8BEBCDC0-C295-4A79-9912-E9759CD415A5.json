@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8BEBCDC0-C295-4A79-9912-E9759CD415A5", "criteria": "cpe:2.3:a:fortinet:forticlientems_cloud:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.4.0", "versionEndExcluding": "7.2.5", "lastModified": "2025-01-31T15:02:40.127", "cpeLastModified": "2025-01-31T15:02:40.127", "created": "2025-01-31T15:02:40.127", "status": "Active"}}
