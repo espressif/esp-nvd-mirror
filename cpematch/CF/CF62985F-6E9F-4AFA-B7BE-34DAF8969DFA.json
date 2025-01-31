@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CF62985F-6E9F-4AFA-B7BE-34DAF8969DFA", "criteria": "cpe:2.3:o:fortinet:fortiswitch:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.2.0", "versionEndExcluding": "7.2.6", "lastModified": "2025-01-31T12:54:12.430", "cpeLastModified": "2025-01-31T12:54:12.430", "created": "2025-01-31T12:54:12.430", "status": "Active"}}
