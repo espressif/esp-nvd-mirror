@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E7264BCB-6CE6-4DDB-9170-A65AAE83FC5D", "criteria": "cpe:2.3:a:xylok:security_suite:-:*:*:*:*:*:*:*", "lastModified": "2025-01-30T20:23:12.040", "cpeLastModified": "2025-01-30T20:23:12.067", "created": "2025-01-30T20:23:12.040", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E7264BCB-6CE6-4DDB-9170-A65AAE83FC5D", "criteria": "cpe:2.3:a:xylok:security_suite:-:*:*:*:*:*:*:*", "lastModified": "2025-01-31T03:00:27.540", "cpeLastModified": "2025-01-30T20:23:12.067", "created": "2025-01-30T20:23:12.040", "status": "Inactive"}}
