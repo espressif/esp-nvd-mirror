@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AD6E430B-7C3A-4B79-987A-302A27CEBFCC", "criteria": "cpe:2.3:a:broadcom:brocade_sannav:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.2.2", "versionEndExcluding": "2.3.0a", "lastModified": "2025-02-03T20:15:52.257", "cpeLastModified": "2025-02-03T20:15:52.257", "created": "2025-02-03T20:15:52.257", "status": "Active"}}
