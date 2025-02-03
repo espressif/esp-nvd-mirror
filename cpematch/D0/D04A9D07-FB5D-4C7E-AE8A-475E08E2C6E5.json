@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D04A9D07-FB5D-4C7E-AE8A-475E08E2C6E5", "criteria": "cpe:2.3:a:linuxfoundation:yocto_project:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.2", "versionEndExcluding": "4.0.16", "lastModified": "2025-02-03T17:49:52.017", "cpeLastModified": "2025-02-03T17:49:52.017", "created": "2025-02-03T17:49:52.017", "status": "Active"}}
