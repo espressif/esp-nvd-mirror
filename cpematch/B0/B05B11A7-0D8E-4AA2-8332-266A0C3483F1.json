@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B05B11A7-0D8E-4AA2-8332-266A0C3483F1", "criteria": "cpe:2.3:a:medikoo:es5-ext:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "0.10.0", "versionEndExcluding": "0.10.63", "lastModified": "2025-02-04T19:23:36.060", "cpeLastModified": "2025-02-04T19:23:36.060", "created": "2025-02-04T19:23:36.060", "status": "Active"}}
