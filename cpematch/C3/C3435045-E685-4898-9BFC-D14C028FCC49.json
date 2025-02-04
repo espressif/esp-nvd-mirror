@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C3435045-E685-4898-9BFC-D14C028FCC49", "criteria": "cpe:2.3:a:eventstore:eventstoredb:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.10.0", "versionEndExcluding": "20.10.6", "lastModified": "2025-02-04T13:41:20.430", "cpeLastModified": "2025-02-04T13:42:57.023", "created": "2025-02-04T13:41:20.430", "status": "Active"}}
