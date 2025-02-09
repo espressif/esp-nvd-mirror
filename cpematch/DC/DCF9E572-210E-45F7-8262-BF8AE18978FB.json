@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DCF9E572-210E-45F7-8262-BF8AE18978FB", "criteria": "cpe:2.3:a:redhat:resteasy:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.2.3", "lastModified": "2025-02-09T19:55:21.157", "cpeLastModified": "2025-02-09T19:55:21.157", "created": "2025-02-09T19:55:21.157", "status": "Active"}}
