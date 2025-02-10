@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E6AE68C0-8A9B-48D1-8CE5-F10D4D9A6D55", "criteria": "cpe:2.3:a:apache:traffic_control:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.0.2", "lastModified": "2025-02-10T15:56:41.380", "cpeLastModified": "2025-02-10T15:57:00.690", "created": "2025-02-10T15:56:41.380", "status": "Active"}}
