@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "38ADCD39-6C9A-4904-93E2-F5E798F6CB80", "criteria": "cpe:2.3:a:apache:superset:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.0.1", "lastModified": "2025-02-10T13:40:04.210", "cpeLastModified": "2025-02-10T13:40:04.210", "created": "2025-02-10T13:40:04.210", "status": "Active"}}
