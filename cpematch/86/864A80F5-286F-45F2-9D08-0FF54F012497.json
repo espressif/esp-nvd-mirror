@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "864A80F5-286F-45F2-9D08-0FF54F012497", "criteria": "cpe:2.3:a:eprosima:fast_dds:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.1.0", "versionEndExcluding": "3.1.2", "lastModified": "2025-02-12T14:10:43.040", "cpeLastModified": "2025-02-12T14:10:43.040", "created": "2025-02-12T14:10:43.040", "status": "Active"}}
