@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "2BB8FD75-868E-45D9-9078-503623CD001F", "criteria": "cpe:2.3:a:ibm:applinx:11.1:*:*:*:*:*:*:*", "lastModified": "2025-02-11T15:47:09.253", "cpeLastModified": "2025-02-11T15:49:57.153", "created": "2025-02-11T15:47:09.253", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "2BB8FD75-868E-45D9-9078-503623CD001F", "criteria": "cpe:2.3:a:ibm:applinx:11.1:*:*:*:*:*:*:*", "lastModified": "2025-02-12T03:00:26.767", "cpeLastModified": "2025-02-11T15:49:57.153", "created": "2025-02-11T15:47:09.253", "status": "Inactive"}}
