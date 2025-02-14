@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "11CA0695-4DAC-42AE-A7FA-E237E198490B", "criteria": "cpe:2.3:a:dell:update_manager_plugin:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.5.0", "versionEndExcluding": "1.7.0", "lastModified": "2025-02-14T21:10:38.380", "cpeLastModified": "2025-02-14T21:10:38.380", "created": "2025-02-14T21:10:38.380", "status": "Active"}}
