@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "08BE1B9D-24B5-4645-807D-3A23D91AC88D", "criteria": "cpe:2.3:a:botan_project:botan:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.19.0", "versionEndExcluding": "2.19.5", "lastModified": "2025-02-14T16:58:27.473", "cpeLastModified": "2025-02-14T16:58:27.473", "created": "2025-02-14T16:58:27.473", "status": "Active"}}
