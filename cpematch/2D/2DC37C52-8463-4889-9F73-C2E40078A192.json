@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2DC37C52-8463-4889-9F73-C2E40078A192", "criteria": "cpe:2.3:a:jupyter:jupyter_server_proxy:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.2.0", "lastModified": "2025-02-19T15:51:45.540", "cpeLastModified": "2025-02-19T15:51:45.540", "created": "2025-02-19T15:51:45.540", "status": "Active"}}
