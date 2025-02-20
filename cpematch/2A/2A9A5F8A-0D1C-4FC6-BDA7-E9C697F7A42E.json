@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "2A9A5F8A-0D1C-4FC6-BDA7-E9C697F7A42E", "criteria": "cpe:2.3:a:paulgreenberg:caddy:*:*:*:*:*:*:*:*", "lastModified": "2025-02-19T14:26:47.440", "cpeLastModified": "2025-02-19T15:45:12.773", "created": "2025-02-19T14:26:47.440", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "2A9A5F8A-0D1C-4FC6-BDA7-E9C697F7A42E", "criteria": "cpe:2.3:a:paulgreenberg:caddy:*:*:*:*:*:*:*:*", "lastModified": "2025-02-20T03:00:31.433", "cpeLastModified": "2025-02-19T15:45:12.773", "created": "2025-02-19T14:26:47.440", "status": "Inactive"}}
