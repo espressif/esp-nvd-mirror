@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5679320B-C018-403C-8A45-0FB951B767D6", "criteria": "cpe:2.3:a:vmware:spring_security:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.3.0", "versionEndExcluding": "6.3.2", "lastModified": "2025-02-20T16:08:28.007", "cpeLastModified": "2025-02-20T16:09:13.030", "created": "2025-02-20T16:08:28.007", "status": "Active"}}
