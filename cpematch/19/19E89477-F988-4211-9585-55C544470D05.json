@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "19E89477-F988-4211-9585-55C544470D05", "criteria": "cpe:2.3:a:yaycommerce:yaysmtp:*:*:*:*:*:wordpress:*:*", "versionStartIncluding": "2.4.9", "versionEndExcluding": "2.6.3", "lastModified": "2025-02-25T17:52:37.573", "cpeLastModified": "2025-02-25T17:52:37.573", "created": "2025-02-25T17:52:37.573", "status": "Active"}}
