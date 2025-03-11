@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "1AEBB6D2-687F-4CA0-8750-4282D0769530", "criteria": "cpe:2.3:a:riverbed:netprofiler:-:*:*:*:*:*:*:*", "lastModified": "2024-01-04T03:00:23.940", "cpeLastModified": "2023-02-16T13:51:22.030", "created": "2023-02-16T13:51:22.030", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "1AEBB6D2-687F-4CA0-8750-4282D0769530", "criteria": "cpe:2.3:a:riverbed:netprofiler:-:*:*:*:*:*:*:*", "lastModified": "2025-03-11T17:17:08.580", "cpeLastModified": "2023-02-16T13:51:22.030", "created": "2023-02-16T13:51:22.030", "status": "Active"}}

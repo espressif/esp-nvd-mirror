@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "14F9EC71-3B04-4765-8437-4BEFBDEA8673", "criteria": "cpe:2.3:a:phpoffice:phpspreadsheet:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.3.0", "versionEndExcluding": "3.4.0", "lastModified": "2025-03-05T20:41:35.040", "cpeLastModified": "2025-03-11T17:17:08.580", "created": "2025-03-05T20:41:35.040", "status": "Active"}}

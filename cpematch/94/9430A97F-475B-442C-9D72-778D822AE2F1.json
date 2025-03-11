@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "9430A97F-475B-442C-9D72-778D822AE2F1", "criteria": "cpe:2.3:a:ibm:zsecure_suite:-:*:*:*:*:*:*:*", "lastModified": "2024-02-06T03:00:48.523", "cpeLastModified": "2024-02-05T14:53:26.307", "created": "2024-02-05T14:53:26.307", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "9430A97F-475B-442C-9D72-778D822AE2F1", "criteria": "cpe:2.3:a:ibm:zsecure_suite:-:*:*:*:*:*:*:*", "lastModified": "2025-03-11T17:17:08.580", "cpeLastModified": "2024-02-05T14:53:26.307", "created": "2024-02-05T14:53:26.307", "status": "Active"}}

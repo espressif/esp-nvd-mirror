@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3C3A751B-5156-415F-8244-1BA92B116270", "criteria": "cpe:2.3:a:kaspersky:security:*:*:*:*:*:linux_mail_server:*:*", "versionStartIncluding": "8.0", "versionEndIncluding": "8.0.3.30", "lastModified": "2025-03-03T14:49:08.247", "cpeLastModified": "2025-03-11T17:17:08.580", "created": "2025-03-03T14:49:08.247", "status": "Active"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B6BC2E8B-C295-4FED-BC19-283E79D0DD6A", "criteria": "cpe:2.3:o:rim:blackberry_os:5.0:*:*:*:*:*:*:*", "lastModified": "2024-01-04T03:00:23.940", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "B6BC2E8B-C295-4FED-BC19-283E79D0DD6A", "criteria": "cpe:2.3:o:rim:blackberry_os:5.0:*:*:*:*:*:*:*", "lastModified": "2025-03-11T17:17:08.580", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}

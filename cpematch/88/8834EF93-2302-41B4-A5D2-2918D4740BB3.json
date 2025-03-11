@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8834EF93-2302-41B4-A5D2-2918D4740BB3", "criteria": "cpe:2.3:a:laravel:livewire:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.5.2", "lastModified": "2025-03-06T18:06:50.280", "cpeLastModified": "2025-03-11T17:17:08.580", "created": "2025-03-06T18:06:50.280", "status": "Active"}}

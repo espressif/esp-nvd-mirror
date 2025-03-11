@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "0CBC0333-2A3D-4E31-A206-A256A0757CAE", "criteria": "cpe:2.3:a:postgresql:postgresql:11:*:*:*:*:*:*:*", "lastModified": "2024-01-04T03:00:23.940", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-07-01T15:17:13.060", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "0CBC0333-2A3D-4E31-A206-A256A0757CAE", "criteria": "cpe:2.3:a:postgresql:postgresql:11:*:*:*:*:*:*:*", "lastModified": "2025-03-11T17:17:08.580", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-07-01T15:17:13.060", "status": "Active"}}
