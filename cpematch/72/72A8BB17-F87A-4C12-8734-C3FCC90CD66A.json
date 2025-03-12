@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "72A8BB17-F87A-4C12-8734-C3FCC90CD66A", "criteria": "cpe:2.3:a:microsoft:intune:-:*:*:*:*:*:*:*", "lastModified": "2025-03-11T17:17:08.580", "cpeLastModified": "2025-03-11T17:17:08.580", "created": "2024-12-19T22:40:52.377", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "72A8BB17-F87A-4C12-8734-C3FCC90CD66A", "criteria": "cpe:2.3:a:microsoft:intune:-:*:*:*:*:*:*:*", "lastModified": "2025-03-12T02:00:53.237", "cpeLastModified": "2025-03-11T17:17:08.580", "created": "2024-12-19T22:40:52.377", "status": "Inactive"}}
