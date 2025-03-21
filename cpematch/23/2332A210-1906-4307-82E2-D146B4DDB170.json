@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2332A210-1906-4307-82E2-D146B4DDB170", "criteria": "cpe:2.3:a:cisco:network_services_orchestrator:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0", "versionEndExcluding": "5.0.5", "lastModified": "2025-03-21T13:46:58.920", "cpeLastModified": "2025-03-21T13:46:58.920", "created": "2025-03-21T13:46:58.920", "status": "Active"}}
