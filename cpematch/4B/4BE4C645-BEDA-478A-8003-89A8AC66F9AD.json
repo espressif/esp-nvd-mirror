@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4BE4C645-BEDA-478A-8003-89A8AC66F9AD", "criteria": "cpe:2.3:a:arubanetworks:fabric_composer:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.0.0", "versionEndExcluding": "7.1.1", "lastModified": "2025-03-25T17:44:07.670", "cpeLastModified": "2025-03-25T17:44:07.670", "created": "2025-03-25T17:44:07.670", "status": "Active"}}
