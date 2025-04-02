@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F4189304-451D-44CE-881D-B603E6241729", "criteria": "cpe:2.3:a:openvpn:connect:*:*:*:*:*:windows:*:*", "versionStartIncluding": "3.0.0", "versionEndIncluding": "3.4.3", "lastModified": "2025-04-02T15:09:59.850", "cpeLastModified": "2025-04-02T14:44:06.233", "created": "2025-04-02T14:44:06.233", "status": "Inactive"}}
