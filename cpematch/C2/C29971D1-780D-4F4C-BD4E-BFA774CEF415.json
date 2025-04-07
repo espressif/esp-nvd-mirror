@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C29971D1-780D-4F4C-BD4E-BFA774CEF415", "criteria": "cpe:2.3:a:hcltechsw:hcl_devops_deploy:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0.0", "versionEndExcluding": "8.0.1.4", "lastModified": "2025-04-07T20:46:34.233", "cpeLastModified": "2025-04-07T20:46:34.233", "created": "2025-04-07T20:46:34.233", "status": "Active"}}
