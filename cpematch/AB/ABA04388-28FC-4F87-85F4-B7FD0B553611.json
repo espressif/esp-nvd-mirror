@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ABA04388-28FC-4F87-85F4-B7FD0B553611", "criteria": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "r6p0", "versionEndIncluding": "r32p0", "lastModified": "2025-04-07T12:47:11.043", "cpeLastModified": "2025-04-07T12:47:11.043", "created": "2025-04-07T12:47:11.043", "status": "Inactive"}}
