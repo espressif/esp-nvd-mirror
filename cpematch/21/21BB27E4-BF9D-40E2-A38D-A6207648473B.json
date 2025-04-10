@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "21BB27E4-BF9D-40E2-A38D-A6207648473B", "criteria": "cpe:2.3:o:infoblox:nios:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.6.0", "versionEndExcluding": "8.6.4", "lastModified": "2025-04-10T16:45:14.653", "cpeLastModified": "2025-04-10T16:45:14.653", "created": "2025-04-10T16:45:14.653", "status": "Active"}}
