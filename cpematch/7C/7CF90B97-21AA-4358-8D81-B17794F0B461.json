@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7CF90B97-21AA-4358-8D81-B17794F0B461", "criteria": "cpe:2.3:a:logpoint:siem:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.1.0", "versionEndExcluding": "7.1.2", "lastModified": "2025-04-14T19:23:45.967", "cpeLastModified": "2025-04-14T19:23:45.967", "created": "2025-04-14T19:23:45.967", "status": "Active"}}
