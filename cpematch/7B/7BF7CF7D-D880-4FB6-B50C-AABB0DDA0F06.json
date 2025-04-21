@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7BF7CF7D-D880-4FB6-B50C-AABB0DDA0F06", "criteria": "cpe:2.3:a:apache:traffic_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "10.0.4", "lastModified": "2025-04-21T13:56:48.117", "cpeLastModified": "2025-04-21T13:56:48.117", "created": "2025-04-21T13:56:48.117", "status": "Active"}}
