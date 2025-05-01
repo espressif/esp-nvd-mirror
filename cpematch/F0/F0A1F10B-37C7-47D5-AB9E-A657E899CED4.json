@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F0A1F10B-37C7-47D5-AB9E-A657E899CED4", "criteria": "cpe:2.3:a:snowflake:connector_for_c\\/c\\+\\+:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.5.0", "versionEndExcluding": "2.2.0", "lastModified": "2025-05-01T18:36:02.510", "cpeLastModified": "2025-05-01T18:36:02.510", "created": "2025-05-01T18:36:02.510", "status": "Active"}}
