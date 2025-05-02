@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3BE2576D-BF6C-46B0-9786-7A92CEF92F10", "criteria": "cpe:2.3:a:canonical:apparmor:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.1.0", "versionEndExcluding": "3.1.6", "lastModified": "2025-05-02T13:57:14.533", "cpeLastModified": "2025-05-02T14:02:38.800", "created": "2025-05-02T13:57:14.533", "status": "Active"}}
