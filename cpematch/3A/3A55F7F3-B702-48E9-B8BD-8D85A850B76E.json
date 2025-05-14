@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3A55F7F3-B702-48E9-B8BD-8D85A850B76E", "criteria": "cpe:2.3:a:citrix:netscaler_sdx:*:*:*:*:*:*:*:*", "versionStartIncluding": "14.1-4.42", "versionEndExcluding": "14.1-25.53", "lastModified": "2025-05-14T20:33:12.150", "cpeLastModified": "2025-05-14T20:33:12.150", "created": "2025-05-14T20:33:12.150", "status": "Active"}}

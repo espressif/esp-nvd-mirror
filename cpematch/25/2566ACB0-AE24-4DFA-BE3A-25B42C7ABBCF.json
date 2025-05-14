@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2566ACB0-AE24-4DFA-BE3A-25B42C7ABBCF", "criteria": "cpe:2.3:a:citrix:netscaler_agent:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.0-58.30", "versionEndIncluding": "13.0-92.31", "lastModified": "2025-05-14T20:33:12.150", "cpeLastModified": "2025-05-14T20:33:12.150", "created": "2025-05-14T20:33:12.150", "status": "Active"}}
