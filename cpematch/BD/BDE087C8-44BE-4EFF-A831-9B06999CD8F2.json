@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BDE087C8-44BE-4EFF-A831-9B06999CD8F2", "criteria": "cpe:2.3:a:citeum:opencti:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.4.8", "versionEndExcluding": "6.4.11", "lastModified": "2025-05-15T21:08:31.940", "cpeLastModified": "2025-05-15T21:08:31.940", "created": "2025-05-15T21:08:31.940", "status": "Active"}}
