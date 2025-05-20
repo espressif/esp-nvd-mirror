@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ADFA500B-991B-462F-B3D7-43B7E94507F4", "criteria": "cpe:2.3:a:dell:secure_connect_gateway:*:*:*:*:application:*:*:*", "versionStartIncluding": "5.18.00.20", "versionEndExcluding": "5.24.00.14", "lastModified": "2025-05-20T17:50:18.060", "cpeLastModified": "2025-05-20T17:50:18.060", "created": "2025-05-20T17:50:18.060", "status": "Active"}}
