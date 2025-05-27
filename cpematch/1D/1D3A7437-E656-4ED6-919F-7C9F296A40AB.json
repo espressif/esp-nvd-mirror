@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1D3A7437-E656-4ED6-919F-7C9F296A40AB", "criteria": "cpe:2.3:a:linuxfoundation:pytorch:*:-:*:*:*:python:*:*", "versionEndExcluding": "2.6.0", "lastModified": "2025-05-27T17:51:44.257", "cpeLastModified": "2025-05-27T17:51:44.257", "created": "2025-05-27T17:51:44.257", "status": "Active"}}
