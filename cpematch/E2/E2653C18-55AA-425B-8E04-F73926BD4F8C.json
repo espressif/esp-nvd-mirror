@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E2653C18-55AA-425B-8E04-F73926BD4F8C", "criteria": "cpe:2.3:a:google_tag_project:google_tag:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.0.8", "lastModified": "2025-06-02T17:06:57.040", "cpeLastModified": "2025-06-02T17:59:44.057", "created": "2025-06-02T17:06:57.040", "status": "Active"}}
