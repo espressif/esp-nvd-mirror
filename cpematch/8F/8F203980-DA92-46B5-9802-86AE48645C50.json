@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8F203980-DA92-46B5-9802-86AE48645C50", "criteria": "cpe:2.3:a:matomo_analytics_project:matomo_analytics:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "5.x-1.0", "versionEndExcluding": "8.x-1.24", "lastModified": "2025-06-02T18:28:42.720", "cpeLastModified": "2025-06-02T18:28:42.720", "created": "2025-06-02T18:28:42.720", "status": "Active"}}
