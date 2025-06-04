@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4A340A6D-396B-40E1-82BD-5C720297BE0B", "criteria": "cpe:2.3:a:migrate_tools_project:migrate_tools:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "8.x-1.0", "versionEndIncluding": "8.x-5.2", "lastModified": "2025-06-04T16:54:43.977", "cpeLastModified": "2025-06-04T16:54:43.977", "created": "2025-06-04T16:54:43.977", "status": "Active"}}
