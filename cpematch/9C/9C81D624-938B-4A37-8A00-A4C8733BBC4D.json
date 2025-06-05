@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9C81D624-938B-4A37-8A00-A4C8733BBC4D", "criteria": "cpe:2.3:a:ibm:tivoli_monitoring:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.3.0.7", "versionEndExcluding": "6.3.0.7.20", "lastModified": "2025-06-05T18:16:10.017", "cpeLastModified": "2025-06-05T18:14:41.670", "created": "2025-06-05T18:14:41.670", "status": "Inactive"}}
