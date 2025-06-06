@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E603BD7A-730E-410C-BBE1-3E5A8DD2A72F", "criteria": "cpe:2.3:a:synacor:zimbra_collaboration_suite:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "10.0.12", "lastModified": "2025-06-06T19:29:17.130", "cpeLastModified": "2025-06-06T19:29:17.130", "created": "2025-06-06T19:29:17.130", "status": "Active"}}
