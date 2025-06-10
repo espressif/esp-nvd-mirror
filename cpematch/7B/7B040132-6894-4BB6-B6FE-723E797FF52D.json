@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7B040132-6894-4BB6-B6FE-723E797FF52D", "criteria": "cpe:2.3:a:events_log_track_project:events_log_track:*:*:*:*:*:wordpress:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.0.2", "lastModified": "2025-06-09T16:53:53.017", "cpeLastModified": "2025-06-10T11:39:35.407", "created": "2025-06-09T16:53:53.017", "status": "Active"}}
