@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8EE065DA-973F-44D4-BFF5-E3A90B619330", "criteria": "cpe:2.3:a:miniorange:miniorange_2fa:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "7.x-2.16", "versionEndExcluding": "8.x-4.7", "lastModified": "2025-06-10T15:20:43.757", "cpeLastModified": "2025-06-10T15:20:43.757", "created": "2025-06-10T15:20:43.757", "status": "Active"}}
