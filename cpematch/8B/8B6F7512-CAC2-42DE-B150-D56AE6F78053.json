@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8B6F7512-CAC2-42DE-B150-D56AE6F78053", "criteria": "cpe:2.3:a:cisco:confd_basic:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.18", "versionEndExcluding": "8.1.16.2", "lastModified": "2025-06-11T22:01:37.490", "cpeLastModified": "2025-06-11T22:01:37.490", "created": "2025-06-11T22:01:37.490", "status": "Active"}}
