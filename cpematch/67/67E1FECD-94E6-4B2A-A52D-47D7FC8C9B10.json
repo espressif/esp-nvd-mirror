@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "67E1FECD-94E6-4B2A-A52D-47D7FC8C9B10", "criteria": "cpe:2.3:a:apache:cloudstack:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.20.0.0", "versionEndExcluding": "4.20.1.0", "lastModified": "2025-06-24T14:52:18.770", "cpeLastModified": "2025-06-24T14:52:18.770", "created": "2025-06-24T14:52:18.770", "status": "Active"}}
