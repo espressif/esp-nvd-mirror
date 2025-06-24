@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0963B7A4-5951-4445-AAE2-B350D1FD9898", "criteria": "cpe:2.3:a:apache:hugegraph-hubble:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.3.0", "lastModified": "2025-06-24T13:22:33.117", "cpeLastModified": "2025-06-24T13:22:33.117", "created": "2025-06-24T13:22:33.117", "status": "Active"}}
