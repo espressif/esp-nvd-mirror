@@ -1,10 +1,10 @@
 {
     "vulnerabilities": {
-        "lastModStartDate": "2025-06-24T02:33:58.013",
-        "lastModEndDate": "2025-06-24T04:08:48.983"
+        "lastModStartDate": "2025-06-24T04:08:48.983",
+        "lastModEndDate": "2025-06-24T06:03:18.440"
     },
     "matchStrings": {
-        "lastModStartDate": "2025-06-24T02:33:57.753",
-        "lastModEndDate": "2025-06-24T04:08:48.780"
+        "lastModStartDate": "2025-06-24T04:08:48.780",
+        "lastModEndDate": "2025-06-24T06:03:18.390"
     }
 }
