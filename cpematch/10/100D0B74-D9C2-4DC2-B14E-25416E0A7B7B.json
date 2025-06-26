@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "100D0B74-D9C2-4DC2-B14E-25416E0A7B7B", "criteria": "cpe:2.3:a:apache:pekko_management:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndIncluding": "1.1.1", "lastModified": "2025-06-26T13:43:55.827", "cpeLastModified": "2025-06-26T13:45:18.880", "created": "2025-06-26T13:43:55.827", "status": "Active"}}
