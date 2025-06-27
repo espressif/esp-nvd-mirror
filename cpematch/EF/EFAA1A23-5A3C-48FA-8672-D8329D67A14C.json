@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EFAA1A23-5A3C-48FA-8672-D8329D67A14C", "criteria": "cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:macos:*:*", "versionStartIncluding": "6.3.0", "versionEndExcluding": "6.3.3", "lastModified": "2025-06-27T16:34:12.000", "cpeLastModified": "2025-06-27T16:34:12.000", "created": "2025-06-27T16:34:12.000", "status": "Active"}}
