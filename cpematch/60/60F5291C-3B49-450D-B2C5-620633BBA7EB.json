@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "60F5291C-3B49-450D-B2C5-620633BBA7EB", "criteria": "cpe:2.3:a:owasp:modsecurity:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.9.10", "lastModified": "2025-07-02T18:11:24.080", "cpeLastModified": "2025-07-02T18:11:24.080", "created": "2025-07-02T18:11:24.080", "status": "Active"}}
