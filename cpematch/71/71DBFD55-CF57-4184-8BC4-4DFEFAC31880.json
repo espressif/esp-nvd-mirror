@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "71DBFD55-CF57-4184-8BC4-4DFEFAC31880", "criteria": "cpe:2.3:a:veeam:veeam_agent_for_windows:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.0.959", "versionEndExcluding": "6.3.0.177", "lastModified": "2025-07-02T20:29:46.650", "cpeLastModified": "2025-07-02T20:29:46.650", "created": "2025-07-02T20:29:46.650", "status": "Active"}}
