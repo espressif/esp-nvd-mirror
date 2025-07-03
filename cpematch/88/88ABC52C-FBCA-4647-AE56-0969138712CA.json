@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "88ABC52C-FBCA-4647-AE56-0969138712CA", "criteria": "cpe:2.3:a:ibm:mq_appliance:*:*:*:*:lts:*:*:*", "versionStartIncluding": "9.4.0.0", "versionEndIncluding": "9.4.0.10", "lastModified": "2025-07-03T20:25:18.157", "cpeLastModified": "2025-07-03T20:25:18.157", "created": "2025-07-03T20:25:18.157", "status": "Active"}}
