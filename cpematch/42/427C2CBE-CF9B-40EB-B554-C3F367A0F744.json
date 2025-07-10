@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "427C2CBE-CF9B-40EB-B554-C3F367A0F744", "criteria": "cpe:2.3:a:apache:airflow_ftp_provider:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.7.0", "lastModified": "2025-07-10T14:02:42.333", "cpeLastModified": "2025-07-10T14:07:37.190", "created": "2025-07-10T14:02:42.333", "status": "Active"}}
