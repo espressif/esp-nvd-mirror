@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DB4A09CB-F75E-42DE-9030-E5103DBBDE21", "criteria": "cpe:2.3:a:meddream:pacs_server:*:*:*:*:premium:*:*:*", "versionStartIncluding": "7.3.3.840", "versionEndExcluding": "7.3.5.860", "lastModified": "2025-07-03T14:24:27.213", "cpeLastModified": "2025-07-11T14:39:51.450", "created": "2025-07-03T14:24:27.213", "status": "Active"}}

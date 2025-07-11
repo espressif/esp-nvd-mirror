@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "49CF8FA9-FB48-4441-926C-AE34121FE4F1", "criteria": "cpe:2.3:a:vmware:telco_cloud_platform:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0", "versionEndExcluding": "8.18.1", "lastModified": "2025-07-11T14:28:49.347", "cpeLastModified": "2025-07-11T14:13:51.877", "created": "2025-07-11T14:13:51.877", "status": "Inactive"}}
