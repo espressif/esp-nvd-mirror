@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B2EC5BDD-B101-47E3-BABD-81543F6405D3", "criteria": "cpe:2.3:a:apache:orc:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.1.0", "versionEndExcluding": "2.1.2", "lastModified": "2025-07-11T18:18:39.300", "cpeLastModified": "2025-07-11T18:22:51.720", "created": "2025-07-11T18:18:39.300", "status": "Active"}}

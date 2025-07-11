@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "463A880A-5E0D-4053-A5B2-CA8A4D017884", "criteria": "cpe:2.3:a:apache:orc:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.9.0", "versionEndExcluding": "1.9.6", "lastModified": "2025-07-11T18:18:39.300", "cpeLastModified": "2025-07-11T18:22:51.720", "created": "2025-07-11T18:18:39.300", "status": "Active"}}
