@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "872BFADA-0745-4B29-9619-2731B81FC900", "criteria": "cpe:2.3:h:tp-link:wr841n:14:*:*:*:*:*:*:*", "lastModified": "2022-03-03T18:26:48.820", "created": "2022-03-03T18:26:48.820", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "872BFADA-0745-4B29-9619-2731B81FC900", "criteria": "cpe:2.3:h:tp-link:wr841n:14:*:*:*:*:*:*:*", "lastModified": "2025-07-14T14:38:37.543", "cpeLastModified": "2025-07-14T14:38:37.543", "created": "2022-03-03T18:26:48.820", "status": "Active"}}

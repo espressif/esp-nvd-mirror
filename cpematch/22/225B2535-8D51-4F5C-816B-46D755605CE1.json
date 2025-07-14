@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "225B2535-8D51-4F5C-816B-46D755605CE1", "criteria": "cpe:2.3:a:lollms:lollms_web_ui:9.9:*:*:*:*:*:*:*", "lastModified": "2024-11-16T03:00:36.603", "cpeLastModified": "2024-11-01T11:44:12.667", "created": "2024-11-01T11:44:12.667", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "225B2535-8D51-4F5C-816B-46D755605CE1", "criteria": "cpe:2.3:a:lollms:lollms_web_ui:9.9:*:*:*:*:*:*:*", "lastModified": "2025-07-14T14:38:37.543", "cpeLastModified": "2025-07-14T14:38:37.543", "created": "2024-11-01T11:44:12.667", "status": "Active"}}
