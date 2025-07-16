@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F78EA072-5F44-4BB7-9BF4-937C159C19B1", "criteria": "cpe:2.3:a:apche:felix_http_webconsole:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.2.2", "lastModified": "2025-07-11T16:03:32.490", "cpeLastModified": "2025-07-16T17:35:48.450", "created": "2025-07-11T16:03:32.490", "status": "Active"}}

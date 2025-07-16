@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "06ACC16D-957C-4911-A6C8-AB2FB70B10BE", "criteria": "cpe:2.3:a:ibm:concert:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.1.0", "lastModified": "2025-07-16T16:55:14.660", "cpeLastModified": "2025-07-16T16:55:14.660", "created": "2025-07-16T16:55:14.660", "status": "Active"}}
