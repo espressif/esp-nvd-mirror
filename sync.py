@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import argparse
 import datetime
 import json
 import sys
@@ -7,30 +8,42 @@ import time
 import urllib.parse
 import urllib.request
 from pathlib import Path
+from typing import Optional
 
 
-def nvd_request(endpoint: str, syncdate: dict, key: str) -> list:
+def nvd_request(endpoint: str,
+                key: str,
+                parameters: Optional[dict] = None,
+                syncdate: Optional[dict] = None) -> list:
     res = []
     start_idx = 0
     retry = 0
     retry_max = 100
+    params = {}
+    if parameters:
+        params.update(parameters)
 
-    now = datetime.datetime.now(tz=datetime.timezone.utc).isoformat()
-    syncdate[key]['lastModStartDate'] = syncdate[key]['lastModEndDate']
-    syncdate[key]['lastModEndDate'] = now
-    params = syncdate[key].copy()
+    if syncdate:
+        now = datetime.datetime.now(tz=datetime.timezone.utc).isoformat()
+        syncdate[key]['lastModStartDate'] = syncdate[key]['lastModEndDate']
+        syncdate[key]['lastModEndDate'] = now
+        params.update(syncdate[key])
+
     while True:
         params['startIndex'] = str(start_idx)
         params_enc = urllib.parse.urlencode(params)
         url = (f'https://services.nvd.nist.gov/{endpoint}?{params_enc}')
-        print(url)
+        print('PARAMS:', params)
+        print('URL:', url)
         req = urllib.request.Request(url)
 
         try:
             with urllib.request.urlopen(req, timeout=60) as resp:
                 data = json.loads(resp.read().decode())
 
-        except (urllib.error.HTTPError, Exception) as e:
+        except urllib.error.HTTPError as e:
+            if e.code == 404:
+                raise
             retry += 1
             if retry > retry_max:
                 raise
@@ -39,7 +52,8 @@ def nvd_request(endpoint: str, syncdate: dict, key: str) -> list:
             time.sleep(10)
             continue
 
-        syncdate[key]['lastModEndDate'] = data['timestamp']
+        if syncdate:
+            syncdate[key]['lastModEndDate'] = data['timestamp']
         res += data[key]
 
         start_idx += int(data['resultsPerPage'])
@@ -49,8 +63,14 @@ def nvd_request(endpoint: str, syncdate: dict, key: str) -> list:
     return res
 
 
-def sync_cves(repo_path: Path, syncdate: dict) -> None:
-    data = nvd_request('rest/json/cves/2.0', syncdate, 'vulnerabilities')
+def sync_cves(repo_path: Path,
+              cveid: Optional[str] = None,
+              syncdate: Optional[dict] = None) -> None:
+    params = {'cveID': cveid} if cveid else None
+    data = nvd_request('rest/json/cves/2.0',
+                       'vulnerabilities',
+                       parameters=params,
+                       syncdate=syncdate)
 
     for cve in data:
         cve_id = cve['cve']['id']
@@ -65,8 +85,14 @@ def sync_cves(repo_path: Path, syncdate: dict) -> None:
     print(f'{len(data)} CVEs synced')
 
 
-def sync_cpematch(repo_path: Path, syncdate: dict) -> None:
-    data = nvd_request('rest/json/cpematch/2.0', syncdate, 'matchStrings')
+def sync_cpematch(repo_path: Path,
+                  matchid: Optional[str] = None,
+                  syncdate: Optional[dict] = None) -> None:
+    params = {'matchCriteriaId': matchid} if matchid else None
+    data = nvd_request('rest/json/cpematch/2.0',
+                       'matchStrings',
+                       parameters=params,
+                       syncdate=syncdate)
 
     for ms in data:
         ms_id = ms['matchString']['matchCriteriaId']
@@ -81,17 +107,54 @@ def sync_cpematch(repo_path: Path, syncdate: dict) -> None:
 
 
 if __name__ == '__main__':
-    if len(sys.argv) != 2:
-        sys.exit(f'usage: {sys.argv[0]} <repository>')
+    parser = argparse.ArgumentParser(
+        prog='sync',
+        description=(
+            'Synchronize NVD data in the repository specified by the PATH '
+            'argument. If only PATH is provided, the synchronization will '
+            'be based on the dates listed in the repository\'s syncdata.json '
+            'file, which will be updated once the synchronization is complete.'
+            )
+    )
 
-    repo_path = Path(sys.argv[1])
+    parser.add_argument(
+        'repo',
+        metavar='PATH',
+        help='PATH to the NVD data repository.'
+    )
+
+    parser.add_argument(
+        '--cveid', '-c',
+        metavar='CVEID',
+        help=(
+            'Synchronize only CVE specified by CVEID.'
+        )
+    )
+
+    parser.add_argument(
+        '--matchid', '-m',
+        metavar='MATCHCRITERIAID',
+        help=(
+            'Synchronize only CPE Match Criteria specified '
+            'by MATCHCRITERIAID.'
+        )
+    )
+
+    args = parser.parse_args()
+
+    repo_path = Path(args.repo)
     syncdate_path = repo_path / 'syncdate.json'
 
-    with open(syncdate_path, 'r') as f:
-        syncdate = json.loads(f.read())
+    if args.cveid:
+        sync_cves(repo_path, cveid=args.cveid)
+    elif args.matchid:
+        sync_cpematch(repo_path, matchid=args.matchid)
+    else:
+        with open(syncdate_path, 'r') as f:
+            syncdate = json.loads(f.read())
 
-    sync_cpematch(repo_path, syncdate)
-    sync_cves(repo_path, syncdate)
+        sync_cpematch(repo_path, syncdate=syncdate)
+        sync_cves(repo_path, syncdate=syncdate)
 
-    with open(syncdate_path, 'w') as f:
-        json.dump(syncdate, f, indent=4)
+        with open(syncdate_path, 'w') as f:
+            json.dump(syncdate, f, indent=4)
