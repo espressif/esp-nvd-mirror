@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D4D93641-C6B4-4DA6-84A2-0676E69EEFFB", "criteria": "cpe:2.3:a:llamaindex:llamaindex:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.12.27", "versionEndExcluding": "0.12.41", "lastModified": "2025-07-21T14:45:14.790", "cpeLastModified": "2025-07-21T14:45:14.790", "created": "2025-07-21T14:45:14.790", "status": "Active"}}
