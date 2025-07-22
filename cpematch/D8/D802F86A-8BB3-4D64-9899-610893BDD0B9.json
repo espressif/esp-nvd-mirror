@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D802F86A-8BB3-4D64-9899-610893BDD0B9", "criteria": "cpe:2.3:a:google:cloud_looker:*:*:*:*:*:*:*:*", "versionStartIncluding": "24.10", "versionEndExcluding": "24.10.78", "lastModified": "2025-07-22T18:15:13.057", "cpeLastModified": "2025-07-22T18:15:13.057", "created": "2025-07-22T18:15:13.057", "status": "Active"}}
