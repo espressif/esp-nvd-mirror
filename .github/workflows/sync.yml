@@ -31,7 +31,7 @@ jobs:
         run: |
           git status
           git add .
-          git commit -m "NVD Sync $(date -u '+%Y-%m-%d %H:%M')"
+          git diff --cached --quiet && exit 0 || git commit -m "NVD Sync $(date -u '+%Y-%m-%d %H:%M')"
 
       - name: Push changes
         env:
