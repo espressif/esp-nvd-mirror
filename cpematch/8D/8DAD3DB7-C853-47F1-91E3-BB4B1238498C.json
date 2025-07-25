@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8DAD3DB7-C853-47F1-91E3-BB4B1238498C", "criteria": "cpe:2.3:a:cloudflare:quiche:*:*:*:*:*:rust:*:*", "versionEndExcluding": "0.24.4", "lastModified": "2025-07-25T18:28:00.710", "cpeLastModified": "2025-07-25T18:28:00.710", "created": "2025-07-25T18:28:00.710", "status": "Active"}}
