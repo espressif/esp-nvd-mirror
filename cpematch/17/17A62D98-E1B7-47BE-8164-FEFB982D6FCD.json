@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "17A62D98-E1B7-47BE-8164-FEFB982D6FCD", "criteria": "cpe:2.3:a:the-guild:graphql_mesh_cli:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "0.78.0", "versionEndExcluding": "0.82.22", "lastModified": "2025-02-27T18:51:46.880", "created": "2025-02-27T18:51:46.880", "status": "Active"}}

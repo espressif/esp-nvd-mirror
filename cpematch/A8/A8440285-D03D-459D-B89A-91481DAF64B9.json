@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A8440285-D03D-459D-B89A-91481DAF64B9", "criteria": "cpe:2.3:a:flutter:image_picker_android:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.8.5\\+6", "versionEndExcluding": "0.8.12\\+18", "lastModified": "2025-07-23T16:19:17.137", "created": "2025-07-23T16:19:17.137", "status": "Active"}}

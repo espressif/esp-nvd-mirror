@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "4585CCC5-D435-4978-86BA-6BE70BF425B5", "criteria": "cpe:2.3:a:go.uuid_project:go.uuid:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.2", "lastModified": "2021-06-09T13:12:41.610", "created": "2021-06-09T13:12:41.610", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "4585CCC5-D435-4978-86BA-6BE70BF425B5", "criteria": "cpe:2.3:a:go.uuid_project:go.uuid:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.2", "lastModified": "2024-10-23T11:42:30.480", "created": "2021-06-09T13:12:41.610", "status": "Active"}}

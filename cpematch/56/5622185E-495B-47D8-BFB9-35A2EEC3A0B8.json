@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5622185E-495B-47D8-BFB9-35A2EEC3A0B8", "criteria": "cpe:2.3:a:lollms:lollms_web_ui:10:*:*:*:*:*:*:*", "lastModified": "2025-07-24T17:32:00.030", "created": "2025-07-08T16:10:44.490", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:lollms:lollms_web_ui:10:*:*:*:*:*:*:*", "cpeNameId": "F2FAA533-C000-4712-BD1D-6BDE289DA1A4"}]}}

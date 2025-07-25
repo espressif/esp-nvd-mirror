@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A47A4110-F323-45BE-B0C8-8AA03041E82F", "criteria": "cpe:2.3:a:flutter:file_selector_android:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.5.1", "versionEndExcluding": "0.5.1\\+12", "lastModified": "2025-07-23T16:00:51.100", "created": "2025-07-23T16:00:51.100", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "88920CB3-55BC-4381-BCDA-CE45783FC8AF", "criteria": "cpe:2.3:o:google:fuchsia:*:*:*:*:*:*:*:*", "versionStartIncluding": "f17", "versionEndExcluding": "f20", "lastModified": "2025-07-23T17:02:03.707", "created": "2025-07-23T17:02:03.707", "status": "Active"}}

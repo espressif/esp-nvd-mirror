@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9C6002F6-F2C5-4D39-881D-58DCE727B0DC", "criteria": "cpe:2.3:a:oracle:database_materialized_view:*:*:*:*:*:*:*:*", "versionStartIncluding": "23.4", "versionEndIncluding": "23.8", "lastModified": "2025-07-24T14:43:19.013", "created": "2025-07-24T14:43:19.013", "status": "Active"}}

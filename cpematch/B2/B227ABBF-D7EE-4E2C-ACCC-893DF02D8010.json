@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B227ABBF-D7EE-4E2C-ACCC-893DF02D8010", "criteria": "cpe:2.3:a:broadcom:bitnami:*:*:*:*:*:postgresql:*:*", "versionEndExcluding": "16.0.0", "lastModified": "2025-07-08T13:55:04.817", "created": "2025-07-08T13:55:04.817", "status": "Active"}}

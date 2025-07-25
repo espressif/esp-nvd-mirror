@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "079F8134-2560-49AC-90D8-A61479F43CBC", "criteria": "cpe:2.3:a:cloudfoundry:uaa_release:*:*:*:*:*:*:*:*", "versionStartIncluding": "77.21.0", "versionEndExcluding": "77.32.0", "lastModified": "2025-07-08T13:05:43.780", "created": "2025-07-08T13:05:43.780", "status": "Active"}}

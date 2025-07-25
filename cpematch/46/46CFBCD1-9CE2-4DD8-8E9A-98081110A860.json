@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "46CFBCD1-9CE2-4DD8-8E9A-98081110A860", "criteria": "cpe:2.3:a:drupal:email_tfa:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "0.0.0", "versionEndExcluding": "2.0.3", "lastModified": "2025-05-28T19:41:23.320", "created": "2025-05-28T19:41:23.320", "status": "Active"}}

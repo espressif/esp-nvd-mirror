@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7FAA9015-6EEE-4B01-8869-E2E149B441A7", "criteria": "cpe:2.3:a:drupal:drupal_symfony_mailer:*:*:*:*:lite:drupal:*:*", "versionStartIncluding": "0.0.0", "versionEndExcluding": "1.0.6", "lastModified": "2025-05-29T18:29:10.667", "created": "2025-05-29T18:29:10.667", "status": "Active"}}

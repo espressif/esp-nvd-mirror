@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "76B92E46-26FB-4C46-968E-C0E4CD86CF02", "criteria": "cpe:2.3:a:cassandra-rs_project:cassandra-rs:*:*:*:*:*:rust:*:*", "versionEndExcluding": "3.0.0", "lastModified": "2025-03-19T19:28:31.580", "created": "2025-03-19T19:28:31.580", "status": "Active"}}

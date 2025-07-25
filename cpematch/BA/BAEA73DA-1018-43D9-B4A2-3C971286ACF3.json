@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BAEA73DA-1018-43D9-B4A2-3C971286ACF3", "criteria": "cpe:2.3:a:ibm:security_verify_bridge_directory_sync:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.1", "versionEndIncluding": "1.0.12", "lastModified": "2025-06-18T13:40:24.840", "created": "2025-06-18T13:40:24.840", "status": "Active"}}

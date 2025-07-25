@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "59E1CC0F-79D1-4C58-BDBB-77FB8E057C6F", "criteria": "cpe:2.3:a:google:migrate_to_containers:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.0", "versionEndExcluding": "1.2.3", "lastModified": "2025-07-23T12:11:10.967", "created": "2025-07-23T12:11:10.967", "status": "Active"}}

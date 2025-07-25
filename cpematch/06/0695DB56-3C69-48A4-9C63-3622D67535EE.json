@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0695DB56-3C69-48A4-9C63-3622D67535EE", "criteria": "cpe:2.3:a:ibm:common_cryptographic_architecture:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.0.0", "versionEndExcluding": "7.5.52", "lastModified": "2025-07-24T18:17:53.030", "cpeLastModified": "2025-07-24T18:17:53.030", "created": "2025-07-24T18:17:53.030", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5870563D-82CF-4D78-8020-7FD45C747385", "criteria": "cpe:2.3:a:microsoft:azure_network_watcher:*:*:*:*:*:azure_virtual_machine:*:*", "versionEndExcluding": "1.4.3563.1", "lastModified": "2025-02-28T16:37:29.107", "created": "2025-02-28T16:37:29.107", "status": "Active"}}

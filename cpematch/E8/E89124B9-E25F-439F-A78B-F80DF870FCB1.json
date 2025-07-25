@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E89124B9-E25F-439F-A78B-F80DF870FCB1", "criteria": "cpe:2.3:a:ietf:ipv6:6:*:*:*:*:*:*:*", "lastModified": "2025-01-28T20:54:22.260", "cpeLastModified": "2025-01-28T20:54:22.260", "created": "2025-01-28T20:54:22.260", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E89124B9-E25F-439F-A78B-F80DF870FCB1", "criteria": "cpe:2.3:a:ietf:ipv6:6:*:*:*:*:*:*:*", "lastModified": "2025-01-28T20:54:22.260", "cpeLastModified": "2025-01-28T20:54:22.260", "created": "2025-01-28T20:54:22.260", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3149CC05-C1B4-4A9D-952F-6A8933C8975D", "criteria": "cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.15", "versionEndExcluding": "5.4.290", "lastModified": "2025-02-28T03:00:31.310", "created": "2025-02-27T22:19:57.980", "status": "Inactive"}}

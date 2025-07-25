@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A6E056A0-A51A-4BB3-8911-025F45151A65", "criteria": "cpe:2.3:a:drupal:migrate_queue_importer:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "0.0.0", "versionEndExcluding": "2.1.1", "lastModified": "2025-05-29T13:13:37.847", "created": "2025-05-29T13:13:37.847", "status": "Active"}}

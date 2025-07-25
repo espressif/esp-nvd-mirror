@@ -1,1 +1,1 @@
-{"matchString":{"matchCriteriaId":"255DB07C-B6C8-4993-A54E-4E0E3D242814","criteria":"cpe:2.3:a:espressif:esp-idf:5.3.0:*:*:*:*:*:*:*","lastModified":"2025-04-03T12:06:35.890","created":"2025-04-03T12:06:35.890","status":"Active"}}
+{"matchString": {"matchCriteriaId": "255DB07C-B6C8-4993-A54E-4E0E3D242814", "criteria": "cpe:2.3:a:espressif:esp-idf:5.3.0:*:*:*:*:*:*:*", "lastModified": "2025-04-03T12:06:35.890", "created": "2025-04-03T12:06:35.890", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "55D2BA23-1729-451A-8F2D-77BF6288AE22", "criteria": "cpe:2.3:a:apache:httpclient:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.4", "versionEndExcluding": "5.4.3", "lastModified": "2025-07-11T17:45:43.893", "created": "2025-07-11T17:45:43.893", "status": "Active"}}

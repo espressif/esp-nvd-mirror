@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "10D89EC1-B7FA-4DFB-B1F8-E2117B70B6EA", "criteria": "cpe:2.3:a:ibm:storage_scale:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.1.9.0", "versionEndExcluding": "5.1.9.7", "lastModified": "2025-07-24T19:06:07.140", "created": "2025-07-24T19:06:07.140", "status": "Active"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "8138BB72-FFBA-41ED-872B-45F12C1F7E80", "criteria": "cpe:2.3:a:zohocorp:application_control_plus:*:*:*:*:*:*:*:*", "versionEndExcluding": "10.0.511", "lastModified": "2020-10-03T00:49:20.813", "created": "2020-10-03T00:49:20.813", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "8138BB72-FFBA-41ED-872B-45F12C1F7E80", "criteria": "cpe:2.3:a:zohocorp:application_control_plus:*:*:*:*:*:*:*:*", "versionEndExcluding": "10.0.511", "lastModified": "2024-12-19T03:00:27.553", "created": "2020-10-03T00:49:20.813", "status": "Inactive"}}

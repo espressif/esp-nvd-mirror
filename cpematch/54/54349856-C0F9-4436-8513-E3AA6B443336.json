@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "54349856-C0F9-4436-8513-E3AA6B443336", "criteria": "cpe:2.3:a:google:osv-scalibr:*:*:*:*:*:go:*:*", "versionStartIncluding": "0.1.3", "versionEndExcluding": "0.2.1", "lastModified": "2025-07-24T11:30:01.863", "created": "2025-07-24T11:30:01.863", "status": "Active"}}

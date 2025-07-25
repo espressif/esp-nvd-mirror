@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EF3DE80D-47A0-4720-9A2B-92C02BB5E17A", "criteria": "cpe:2.3:a:broadcom:bitnami_pgpool:*:*:*:*:*:docker:*:*", "versionEndExcluding": "4.6.0-1", "lastModified": "2025-07-17T16:59:55.203", "created": "2025-07-17T16:59:55.203", "status": "Active"}}

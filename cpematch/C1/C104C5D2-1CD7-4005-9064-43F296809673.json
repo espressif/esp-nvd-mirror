@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C104C5D2-1CD7-4005-9064-43F296809673", "criteria": "cpe:2.3:a:ibm:security_verify_gateway_for_radius:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.1", "versionEndIncluding": "1.0.11", "lastModified": "2025-06-18T13:40:24.840", "created": "2025-06-18T13:40:24.840", "status": "Active"}}

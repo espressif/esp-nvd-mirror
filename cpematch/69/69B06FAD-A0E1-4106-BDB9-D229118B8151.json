@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "69B06FAD-A0E1-4106-BDB9-D229118B8151", "criteria": "cpe:2.3:a:veeam:recovery_orchestrator:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.1", "versionEndExcluding": "7.1.0.230", "lastModified": "2025-06-26T20:41:35.597", "created": "2025-06-26T20:41:35.597", "status": "Active"}}

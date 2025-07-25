@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "48A20C32-A044-4EFB-AEF5-1B1EDB2F309B", "criteria": "cpe:2.3:a:oracle:database:*:*:*:*:*:*:*:*", "versionStartIncluding": "19.3", "versionEndIncluding": "19.27", "lastModified": "2025-07-24T13:43:44.710", "created": "2025-07-24T13:43:44.710", "status": "Active"}}

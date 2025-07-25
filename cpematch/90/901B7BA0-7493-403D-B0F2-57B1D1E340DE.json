@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "901B7BA0-7493-403D-B0F2-57B1D1E340DE", "criteria": "cpe:2.3:a:ibm:security_verify_gateway_for_windows_login:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.1", "versionEndIncluding": "1.0.10", "lastModified": "2025-06-18T13:40:24.840", "created": "2025-06-18T13:40:24.840", "status": "Active"}}

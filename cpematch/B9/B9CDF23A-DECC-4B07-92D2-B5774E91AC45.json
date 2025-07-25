@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B9CDF23A-DECC-4B07-92D2-B5774E91AC45", "criteria": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:*:*:*:*:ndcpp:*:*:*", "versionStartIncluding": "13.1", "versionEndIncluding": "13.1-37.236", "lastModified": "2025-07-01T12:42:18.683", "created": "2025-07-01T12:37:58.690", "status": "Inactive"}}

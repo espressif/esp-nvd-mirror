@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "935B468B-4656-4208-A1DD-3A8710F4E617", "criteria": "cpe:2.3:a:veeam:veeam_service_provider_console:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0", "versionEndExcluding": "8.0.0.19552", "lastModified": "2025-06-26T20:51:39.850", "created": "2025-06-26T20:51:39.850", "status": "Active"}}

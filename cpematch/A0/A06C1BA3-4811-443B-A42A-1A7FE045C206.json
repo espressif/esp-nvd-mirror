@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A06C1BA3-4811-443B-A42A-1A7FE045C206", "criteria": "cpe:2.3:a:apache:guacamole:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.5.5", "versionEndExcluding": "1.6.0", "lastModified": "2025-07-07T17:26:25.470", "created": "2025-07-07T17:21:55.070", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C9742371-D40C-41C4-B2BF-549DFD744D25", "criteria": "cpe:2.3:a:linkerd:buoyant:*:*:*:*:enterprise:linkerd:*:*", "versionStartIncluding": "2.13.0", "versionEndIncluding": "2.13.7", "lastModified": "2025-06-13T16:01:45.040", "created": "2025-06-13T16:01:45.040", "status": "Active"}}

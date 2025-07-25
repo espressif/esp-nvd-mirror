@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CCBDCE77-39FB-47AA-ACEE-B0C8B239EC50", "criteria": "cpe:2.3:a:broadcom:bitnami_popool:*:*:*:*:*:docker:*:*", "versionEndExcluding": "4.6.0-debian-12-r8", "lastModified": "2025-07-08T13:55:04.817", "created": "2025-07-08T13:55:04.817", "status": "Active"}}

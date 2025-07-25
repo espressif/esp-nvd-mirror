@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "20474033-4FDF-44A7-89C6-CCCD12344175", "criteria": "cpe:2.3:a:restful_project:restful:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "7.x-2.0", "versionEndExcluding": "7.x-2.10", "lastModified": "2025-06-02T19:46:20.127", "created": "2025-06-02T19:46:20.127", "status": "Active"}}

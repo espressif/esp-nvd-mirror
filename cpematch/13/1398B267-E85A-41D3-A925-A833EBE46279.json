@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1398B267-E85A-41D3-A925-A833EBE46279", "criteria": "cpe:2.3:a:authenticator_login_project:authenticator_login:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "0.0.0", "versionEndExcluding": "2.0.6", "lastModified": "2025-06-02T17:53:30.573", "created": "2025-06-02T17:48:39.743", "status": "Inactive"}}

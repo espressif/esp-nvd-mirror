@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A5AC598C-1727-46BD-BF94-8688241C21BD", "criteria": "cpe:2.3:a:fastcgi:fcgi:*:*:*:*:*:perl:*:*", "versionStartIncluding": "0.44", "versionEndExcluding": "0.82", "lastModified": "2025-06-11T17:04:35.463", "created": "2025-06-11T17:04:35.463", "status": "Active"}}

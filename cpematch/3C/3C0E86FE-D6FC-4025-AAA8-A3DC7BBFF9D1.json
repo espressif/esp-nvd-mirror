@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3C0E86FE-D6FC-4025-AAA8-A3DC7BBFF9D1", "criteria": "cpe:2.3:a:oracle:unified_audit:*:*:*:*:*:*:*:*", "versionStartIncluding": "19.3", "versionEndIncluding": "19.27", "lastModified": "2025-07-24T13:35:33.487", "created": "2025-07-24T13:35:33.487", "status": "Active"}}

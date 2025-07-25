@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F4394DDD-78C2-4AAF-9B44-25AE341011F4", "criteria": "cpe:2.3:a:ibm:cognos_analytics_mobile:*:*:*:*:*:iphone_os:*:*", "versionStartIncluding": "1.1.0", "versionEndExcluding": "1.1.21", "lastModified": "2025-07-24T19:28:28.520", "created": "2025-07-24T19:28:28.520", "status": "Active"}}

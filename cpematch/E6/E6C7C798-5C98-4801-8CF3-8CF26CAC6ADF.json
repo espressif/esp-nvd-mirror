@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E6C7C798-5C98-4801-8CF3-8CF26CAC6ADF", "criteria": "cpe:2.3:a:gfx-rs:wgpu:*:*:*:*:*:rust:*:*", "versionEndExcluding": "25.0.0", "lastModified": "2025-05-22T21:30:36.413", "created": "2025-05-22T21:30:36.413", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CCC1380C-1D73-4D7C-8810-E88F4F65E559", "criteria": "cpe:2.3:a:ruby:uri:*:*:*:*:*:ruby:*:*", "versionStartIncluding": "0.12.0", "versionEndExcluding": "0.12.4", "lastModified": "2025-04-07T14:26:50.817", "created": "2025-04-07T14:26:50.817", "status": "Active"}}

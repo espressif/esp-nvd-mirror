@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "91788BA7-CD0E-45E8-9827-722042367EFF", "criteria": "cpe:2.3:a:wasmi-labs:webassembly_interpreter:*:*:*:*:*:rust:*:*", "versionEndIncluding": "0.31.1", "lastModified": "2025-05-09T02:00:35.053", "created": "2025-05-08T16:37:13.500", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9551EBA1-2B49-4420-867D-2B20C76C41C4", "criteria": "cpe:2.3:a:atlassian:confluence_data_center:*:*:*:*:lts:*:*:*", "versionStartIncluding": "8.5.0", "versionEndExcluding": "8.5.11", "lastModified": "2025-04-09T20:39:25.767", "created": "2025-04-09T20:39:25.767", "status": "Active"}}

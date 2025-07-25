@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C9669844-02D9-4BCD-80AE-722750D85F91", "criteria": "cpe:2.3:a:kubeflow:pipelines:*:*:*:*:*:*:*:*", "versionEndExcluding": "2023-12-13", "lastModified": "2025-07-23T13:53:31.520", "created": "2025-07-23T13:53:31.520", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "26D7A05C-0CEB-40B9-9E81-AB86F484315B", "criteria": "cpe:2.3:a:drupal:rest_\\&_json_api_authentication:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "0.0.0", "versionEndExcluding": "2.0.13", "lastModified": "2025-05-29T13:25:28.873", "created": "2025-05-29T13:25:28.873", "status": "Active"}}

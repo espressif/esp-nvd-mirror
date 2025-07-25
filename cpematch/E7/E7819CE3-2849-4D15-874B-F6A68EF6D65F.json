@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E7819CE3-2849-4D15-874B-F6A68EF6D65F", "criteria": "cpe:2.3:a:ssh:ssh:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.12", "versionEndExcluding": "4.13.2.4", "lastModified": "2025-05-22T20:20:46.433", "created": "2025-05-22T20:20:46.433", "status": "Active"}}

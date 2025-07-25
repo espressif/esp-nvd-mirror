@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3B5BF877-52D3-4CA7-A7C6-CA45026A45C9", "criteria": "cpe:2.3:a:drupal:node_access_rebuild_progressive:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "7.x-1.0", "versionEndExcluding": "7.x-1.2", "lastModified": "2025-07-17T13:53:10.593", "created": "2025-05-29T18:33:41.050", "status": "Active"}}

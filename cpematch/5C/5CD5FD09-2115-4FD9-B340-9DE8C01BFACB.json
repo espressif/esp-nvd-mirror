@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5CD5FD09-2115-4FD9-B340-9DE8C01BFACB", "criteria": "cpe:2.3:a:snowplow:collector:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.3.0", "lastModified": "2025-04-15T11:54:05.077", "created": "2025-04-15T11:54:05.077", "status": "Active"}}

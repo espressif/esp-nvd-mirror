@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A4347A7F-E070-4CBA-ADD2-0EDEBA137298", "criteria": "cpe:2.3:a:ibm:app_connect_operator:*:*:*:*:continuous_delivery:*:*:*", "versionStartIncluding": "7.2", "versionEndIncluding": "11.6.0", "lastModified": "2025-03-14T15:07:52.313", "created": "2025-03-14T15:07:52.313", "status": "Active"}}

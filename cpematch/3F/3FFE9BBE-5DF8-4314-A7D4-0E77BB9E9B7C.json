@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3FFE9BBE-5DF8-4314-A7D4-0E77BB9E9B7C", "criteria": "cpe:2.3:a:dell:secure_connect_gateway:*:*:*:appliance:*:*:*:*", "versionStartIncluding": "5.26.00.20", "versionEndExcluding": "5.28.00.14", "lastModified": "2025-05-06T15:56:54.297", "created": "2025-05-06T15:56:54.297", "status": "Inactive"}}

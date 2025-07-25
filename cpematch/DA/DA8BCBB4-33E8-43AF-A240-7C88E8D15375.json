@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DA8BCBB4-33E8-43AF-A240-7C88E8D15375", "criteria": "cpe:2.3:a:cloudfoundry:cf-deployment:*:*:*:*:*:*:*:*", "versionStartIncluding": "45.1.0", "versionEndExcluding": "49.0.0", "lastModified": "2025-07-08T13:05:43.780", "created": "2025-07-08T13:05:43.780", "status": "Active"}}

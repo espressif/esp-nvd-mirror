@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6DD62957-0C8B-49FC-BC63-2E0CDC041021", "criteria": "cpe:2.3:a:splunk:splunk_secure_gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.8.0", "versionEndExcluding": "3.8.38", "lastModified": "2025-07-21T17:10:49.863", "created": "2025-07-21T17:10:49.863", "status": "Active"}}

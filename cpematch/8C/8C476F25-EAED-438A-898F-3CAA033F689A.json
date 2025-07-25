@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8C476F25-EAED-438A-898F-3CAA033F689A", "criteria": "cpe:2.3:o:dell:powerscale_onefs:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.8.0.0", "versionEndExcluding": "9.10.1.2", "lastModified": "2025-05-16T13:47:24.873", "created": "2025-05-16T13:47:24.873", "status": "Active"}}

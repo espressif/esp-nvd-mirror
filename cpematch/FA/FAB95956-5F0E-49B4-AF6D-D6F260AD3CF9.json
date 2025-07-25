@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FAB95956-5F0E-49B4-AF6D-D6F260AD3CF9", "criteria": "cpe:2.3:a:atlassian:data_center:*:*:*:*:lts:*:*:*", "versionStartIncluding": "7.19.0", "versionEndExcluding": "7.19.24", "lastModified": "2025-04-10T02:00:39.390", "created": "2025-04-09T20:31:18.940", "status": "Inactive"}}

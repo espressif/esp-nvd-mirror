@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E1F79731-545B-4878-AA72-B685EADA801E", "criteria": "cpe:2.3:a:phusion:passenger:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.21", "versionEndExcluding": "6.0.26", "lastModified": "2025-02-26T19:49:44.893", "created": "2025-02-26T19:49:44.893", "status": "Active"}}

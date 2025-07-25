@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "51A03F9E-C16B-4045-B72A-68D238B1ECC4", "criteria": "cpe:2.3:a:ruby-lang:javascript_object_notation:*:*:*:*:*:ruby:*:*", "versionStartIncluding": "2.10.0 ", "versionEndExcluding": "2.10.2", "lastModified": "2025-03-14T13:06:55.800", "created": "2025-03-14T13:06:55.800", "status": "Active"}}

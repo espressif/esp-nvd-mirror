@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8C3A81A7-33F6-491A-992C-FBD944597D42", "criteria": "cpe:2.3:a:fastify:fastify:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.3.2", "lastModified": "2025-06-24T17:45:42.673", "created": "2025-06-24T17:45:42.673", "status": "Active"}}

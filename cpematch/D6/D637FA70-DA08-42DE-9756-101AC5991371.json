@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D637FA70-DA08-42DE-9756-101AC5991371", "criteria": "cpe:2.3:a:cisco:crosswork_network_controller:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.0.3", "lastModified": "2025-07-21T20:23:16.820", "created": "2025-07-21T20:23:16.820", "status": "Active"}}

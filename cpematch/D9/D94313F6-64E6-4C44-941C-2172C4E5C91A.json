@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D94313F6-64E6-4C44-941C-2172C4E5C91A", "criteria": "cpe:2.3:a:cisco:crosswork_network_services_orchestrator:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.5.3", "versionEndExcluding": "5.5.10.1", "lastModified": "2025-07-24T21:17:54.690", "created": "2025-07-24T21:17:54.690", "status": "Active"}}

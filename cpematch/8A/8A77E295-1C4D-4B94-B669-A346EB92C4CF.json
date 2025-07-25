@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8A77E295-1C4D-4B94-B669-A346EB92C4CF", "criteria": "cpe:2.3:a:cisco:confd_basic:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.1.7", "versionEndExcluding": "7.5.10.2", "lastModified": "2025-07-21T14:18:29.767", "created": "2025-07-21T14:12:26.320", "status": "Inactive"}}

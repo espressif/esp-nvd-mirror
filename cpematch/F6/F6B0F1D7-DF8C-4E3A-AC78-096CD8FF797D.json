@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F6B0F1D7-DF8C-4E3A-AC78-096CD8FF797D", "criteria": "cpe:2.3:a:bootstrap_site_alert_project:bootstrap_site_alert:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "8.x-1.0", "versionEndExcluding": "8.x-1.13", "lastModified": "2025-06-18T20:51:39.567", "created": "2025-06-18T20:51:39.567", "status": "Active"}}

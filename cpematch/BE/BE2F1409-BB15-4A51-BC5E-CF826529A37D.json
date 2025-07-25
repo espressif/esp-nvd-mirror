@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BE2F1409-BB15-4A51-BC5E-CF826529A37D", "criteria": "cpe:2.3:a:corydolphin:flask-cors:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.0.1", "lastModified": "2025-07-18T20:14:25.297", "created": "2025-07-18T20:14:25.297", "status": "Active"}}
