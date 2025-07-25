@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AB1A993B-2819-45C8-A62D-B725EB30E421", "criteria": "cpe:2.3:a:ibm:controller:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.1.0", "versionEndExcluding": "11.1.0.1", "lastModified": "2025-07-25T14:23:42.930", "cpeLastModified": "2025-07-25T14:23:42.930", "created": "2025-07-25T14:23:42.930", "status": "Active"}}
