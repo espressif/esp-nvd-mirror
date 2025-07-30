@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3D86FED2-EADD-4D73-A6C9-78BE2CFF3945", "criteria": "cpe:2.3:a:psu:haxcms-php:*:*:*:*:*:php:*:*", "versionStartIncluding": "9.0.0", "versionEndExcluding": "10.0.3", "lastModified": "2025-07-30T17:16:05.580", "cpeLastModified": "2025-07-30T17:16:05.580", "created": "2025-07-30T17:16:05.580", "status": "Active"}}
