@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "58EF1411-6945-4233-AAA3-66B887B8E6F1", "criteria": "cpe:2.3:a:sequoia-pgp:sequoia-openpgp:*:*:*:*:*:rust:*:*", "versionStartIncluding": "1.13.0", "versionEndExcluding": "1.21.0", "lastModified": "2025-07-31T19:05:32.810", "cpeLastModified": "2025-07-31T19:05:32.810", "created": "2025-07-31T19:05:32.810", "status": "Active"}}

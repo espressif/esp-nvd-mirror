@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E629BC1A-0AD9-418B-ABFF-6A0BA5C9D269", "criteria": "cpe:2.3:a:cosmwasm:serde-json-wasm:*:*:*:*:*:rust:*:*", "versionEndExcluding": "0.5.2", "lastModified": "2025-07-31T19:28:02.240", "cpeLastModified": "2025-07-31T19:28:02.240", "created": "2025-07-31T19:28:02.240", "status": "Active"}}

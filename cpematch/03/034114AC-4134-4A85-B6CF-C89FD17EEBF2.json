@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "034114AC-4134-4A85-B6CF-C89FD17EEBF2", "criteria": "cpe:2.3:o:cisco:ios_xr:*:*:*:*:*:*:x64:*", "versionStartIncluding": "24.3", "versionEndExcluding": "24.4", "lastModified": "2025-07-31T18:10:45.540", "cpeLastModified": "2025-07-31T18:10:45.540", "created": "2025-07-31T18:10:45.540", "status": "Active"}}
