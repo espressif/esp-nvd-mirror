@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D340D10D-0A48-408A-B0F2-B432EF76F5A5", "criteria": "cpe:2.3:a:yhirose:cpp-httplib:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.17.3", "versionEndExcluding": "0.18.4", "lastModified": "2025-08-04T14:31:43.270", "cpeLastModified": "2025-08-04T14:31:43.270", "created": "2025-08-04T14:31:43.270", "status": "Active"}}

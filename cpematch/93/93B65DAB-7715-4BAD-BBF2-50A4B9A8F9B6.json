@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "93B65DAB-7715-4BAD-BBF2-50A4B9A8F9B6", "criteria": "cpe:2.3:a:huggingface:transformers:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.49.0", "versionEndExcluding": "4.52.1", "lastModified": "2025-08-04T15:05:18.423", "cpeLastModified": "2025-08-04T15:05:18.423", "created": "2025-08-04T15:05:18.423", "status": "Active"}}
