@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FCF3EE4F-A4CC-4FC9-93D8-0EA70F2751C9", "criteria": "cpe:2.3:a:gstreamer_project:gstreamer:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.26.0", "versionEndExcluding": "1.26.3", "lastModified": "2025-08-12T12:55:21.303", "cpeLastModified": "2025-08-12T12:55:21.303", "created": "2025-08-12T12:55:21.303", "status": "Active"}}
