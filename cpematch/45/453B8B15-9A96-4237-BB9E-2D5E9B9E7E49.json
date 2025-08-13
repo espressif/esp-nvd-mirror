@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "453B8B15-9A96-4237-BB9E-2D5E9B9E7E49", "criteria": "cpe:2.3:a:microsoft:azure_file_sync:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.0.0.0", "versionEndExcluding": "20.1.0.0", "lastModified": "2025-08-13T20:47:15.077", "cpeLastModified": "2025-08-13T20:47:15.077", "created": "2025-08-13T20:47:15.077", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "288F9C53-DD62-4927-80B0-C1A0583F3F11", "criteria": "cpe:2.3:a:microsoft:azure_stack_hub:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2406.0.8", "versionEndExcluding": "1.2406.1.23", "lastModified": "2025-08-13T21:12:04.880", "cpeLastModified": "2025-08-13T21:12:04.880", "created": "2025-08-13T21:12:04.880", "status": "Active"}}
