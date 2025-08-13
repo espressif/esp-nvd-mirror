@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7D09CD18-E4B5-4D40-A725-5A31292E26A6", "criteria": "cpe:2.3:a:broadcom:vmware_nsx-t_data_center:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.2.4.1", "lastModified": "2025-08-13T12:52:10.387", "cpeLastModified": "2025-08-13T12:52:10.387", "created": "2025-08-13T12:52:10.387", "status": "Inactive"}}
