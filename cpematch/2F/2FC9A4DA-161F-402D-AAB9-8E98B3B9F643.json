@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2FC9A4DA-161F-402D-AAB9-8E98B3B9F643", "criteria": "cpe:2.3:a:ibm:java_sdk:*:*:*:*:java_technology:*:*:*", "versionStartIncluding": "7.1.0.0", "versionEndExcluding": "7.1.5.22", "lastModified": "2025-08-14T18:14:38.090", "cpeLastModified": "2025-08-14T18:14:38.090", "created": "2025-08-14T18:14:38.090", "status": "Active"}}
