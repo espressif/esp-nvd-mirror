@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "77272CBE-353F-401B-BE68-8089B6D82925", "criteria": "cpe:2.3:a:ibm:mq_appliance:*:*:*:*:continuous_delivery:*:*:*", "versionStartIncluding": "9.4.0.0", "versionEndExcluding": "9.4.0.7", "lastModified": "2025-08-15T14:07:31.787", "cpeLastModified": "2025-08-15T14:07:31.787", "created": "2025-08-15T14:07:31.787", "status": "Active"}}
