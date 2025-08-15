@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "DD0A8451-C0CB-4FC9-AB32-30871693259B", "criteria": "cpe:2.3:a:splashtop:streamer:-:*:*:*:-:windows:*:*", "lastModified": "2025-08-14T14:47:05.533", "cpeLastModified": "2025-08-14T14:47:05.533", "created": "2025-08-14T14:47:05.533", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "DD0A8451-C0CB-4FC9-AB32-30871693259B", "criteria": "cpe:2.3:a:splashtop:streamer:-:*:*:*:-:windows:*:*", "lastModified": "2025-08-15T02:00:00.107", "cpeLastModified": "2025-08-14T14:47:05.533", "created": "2025-08-14T14:47:05.533", "status": "Inactive"}}
