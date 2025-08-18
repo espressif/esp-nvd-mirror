@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "57A89606-A01A-423E-872D-92052609B957", "criteria": "cpe:2.3:o:ibm:powervm_hypervisor:*:*:*:*:*:*:*:*", "versionStartIncluding": "fw1060.00", "versionEndIncluding": "fw1060.20", "lastModified": "2025-08-18T18:11:11.560", "cpeLastModified": "2025-08-18T18:11:11.560", "created": "2025-08-18T18:11:11.560", "status": "Active"}}
