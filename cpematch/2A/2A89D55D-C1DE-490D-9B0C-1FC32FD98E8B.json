@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2A89D55D-C1DE-490D-9B0C-1FC32FD98E8B", "criteria": "cpe:2.3:a:ibm:app_connect_operator:*:*:*:*:lts:*:*:*", "versionStartIncluding": "12.0.0", "versionEndIncluding": "12.10.0", "lastModified": "2025-08-19T12:31:21.647", "cpeLastModified": "2025-08-19T12:31:21.647", "created": "2025-08-19T12:31:21.647", "status": "Active"}}

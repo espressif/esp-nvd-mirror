@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "183163B3-F03C-4B2D-B58F-8CF29F241899", "criteria": "cpe:2.3:a:ibm:app_connect_operator:*:*:*:*:continuous_delivery:*:*:*", "versionStartIncluding": "8.1.0", "versionEndIncluding": "11.6.0", "lastModified": "2025-08-19T12:31:21.647", "cpeLastModified": "2025-08-19T12:31:21.647", "created": "2025-08-19T12:31:21.647", "status": "Active"}}
