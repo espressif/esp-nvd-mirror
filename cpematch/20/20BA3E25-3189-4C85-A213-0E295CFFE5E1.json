@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "20BA3E25-3189-4C85-A213-0E295CFFE5E1", "criteria": "cpe:2.3:a:kjd:internationalized_domain_names_in_applications:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.2", "versionEndExcluding": "3.7", "lastModified": "2025-08-19T19:37:26.723", "cpeLastModified": "2025-08-19T19:37:26.723", "created": "2025-08-19T19:37:26.723", "status": "Active"}}

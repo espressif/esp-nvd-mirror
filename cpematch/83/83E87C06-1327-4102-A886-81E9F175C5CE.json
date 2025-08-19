@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "83E87C06-1327-4102-A886-81E9F175C5CE", "criteria": "cpe:2.3:a:ibm:storage_virtualize:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.7.0.0", "versionEndExcluding": "8.7.0.6", "lastModified": "2025-08-19T18:10:08.350", "cpeLastModified": "2025-08-19T18:10:08.350", "created": "2025-08-19T18:10:08.350", "status": "Active"}}
