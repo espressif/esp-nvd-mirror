@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "754475E5-89D1-4E26-9A78-A8767A8BA8C7", "criteria": "cpe:2.3:a:ibm:mq_operator:*:*:*:*:cd:*:*:*", "versionStartIncluding": "3.5.1", "versionEndIncluding": "3.6.0", "lastModified": "2025-08-19T17:03:32.863", "cpeLastModified": "2025-08-19T17:03:32.863", "created": "2025-08-19T17:03:32.863", "status": "Active"}}
