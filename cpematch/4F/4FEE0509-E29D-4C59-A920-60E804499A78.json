@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4FEE0509-E29D-4C59-A920-60E804499A78", "criteria": "cpe:2.3:a:mozilla:firefox:*:*:*:*:esr:*:*:*", "versionStartIncluding": "140.0", "versionEndExcluding": "140.2.0", "lastModified": "2025-08-20T17:18:07.373", "cpeLastModified": "2025-08-20T17:18:07.373", "created": "2025-08-20T17:18:07.373", "status": "Active"}}
