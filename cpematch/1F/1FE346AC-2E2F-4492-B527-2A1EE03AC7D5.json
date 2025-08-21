@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1FE346AC-2E2F-4492-B527-2A1EE03AC7D5", "criteria": "cpe:2.3:a:xgenecloud:nocodb:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.202.6", "versionEndExcluding": "0.202.10", "lastModified": "2025-08-21T14:55:06.250", "cpeLastModified": "2025-08-21T14:55:06.250", "created": "2025-08-21T14:55:06.250", "status": "Active"}}
