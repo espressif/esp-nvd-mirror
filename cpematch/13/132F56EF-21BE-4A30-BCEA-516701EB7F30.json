@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "132F56EF-21BE-4A30-BCEA-516701EB7F30", "criteria": "cpe:2.3:a:goauthentik:authentik:*:*:*:*:*:*:*:*", "versionStartIncluding": "2024.10.0", "versionEndExcluding": "2024.10.3", "lastModified": "2025-08-21T16:14:51.380", "cpeLastModified": "2025-08-21T16:14:51.380", "created": "2025-08-21T16:14:51.380", "status": "Active"}}
