@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "72B34DF6-4739-47A2-A8D0-9E63879F0858", "criteria": "cpe:2.3:a:osgeo:geoserver:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.25.0", "versionEndExcluding": "2.25.2", "lastModified": "2025-08-25T21:51:13.527", "cpeLastModified": "2025-08-25T21:51:13.527", "created": "2025-08-25T21:51:13.527", "status": "Active"}}
