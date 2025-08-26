@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A623E8EA-97FD-4A02-86D3-43337B9C6788", "criteria": "cpe:2.3:a:file_download_project:file_download:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "8.x-1.0", "versionEndExcluding": "8.x-1.9", "lastModified": "2025-08-26T19:31:39.657", "cpeLastModified": "2025-08-26T19:31:39.657", "created": "2025-08-26T19:31:39.657", "status": "Active"}}
