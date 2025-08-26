@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0DD21A83-8D62-4EE4-914B-B5ACA19A84A2", "criteria": "cpe:2.3:a:git-scm:git:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.48.0", "versionEndExcluding": "2.48.2", "lastModified": "2025-08-26T12:43:50.530", "cpeLastModified": "2025-08-26T12:43:50.530", "created": "2025-08-26T12:43:50.530", "status": "Active"}}
