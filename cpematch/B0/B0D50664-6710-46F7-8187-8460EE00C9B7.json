@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B0D50664-6710-46F7-8187-8460EE00C9B7", "criteria": "cpe:2.3:a:login_disable_project:login_disable:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.1.1", "lastModified": "2025-08-28T11:26:33.707", "cpeLastModified": "2025-08-28T11:26:33.707", "created": "2025-08-28T11:26:33.707", "status": "Active"}}
