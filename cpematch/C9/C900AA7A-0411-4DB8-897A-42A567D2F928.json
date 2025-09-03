@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C900AA7A-0411-4DB8-897A-42A567D2F928", "criteria": "cpe:2.3:a:mobyproject:moby:*:*:*:*:*:*:*:*", "versionStartIncluding": "28.2.0", "versionEndExcluding": "28.3.3", "lastModified": "2025-09-03T20:14:19.340", "cpeLastModified": "2025-09-03T20:14:19.340", "created": "2025-09-03T20:14:19.340", "status": "Active"}}
