@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6E8A76EE-3B5B-420D-B9D9-60F5048D2643", "criteria": "cpe:2.3:a:cyberark:conjur:*:*:*:*:open_source:*:*:*", "versionStartIncluding": "1.19.5", "versionEndExcluding": "1.22.1", "lastModified": "2025-09-03T14:53:13.197", "cpeLastModified": "2025-09-03T14:53:13.197", "created": "2025-09-03T14:53:13.197", "status": "Active"}}

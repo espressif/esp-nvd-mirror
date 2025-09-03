@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "92E4820D-20FC-4369-85BD-7C1CD58E027B", "criteria": "cpe:2.3:a:ibm:watson_query_with_cloud_pak_for_data:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.8", "versionEndIncluding": "4.8.7", "lastModified": "2025-09-03T16:01:50.627", "cpeLastModified": "2025-09-03T16:01:50.627", "created": "2025-09-03T16:01:50.627", "status": "Active"}}
