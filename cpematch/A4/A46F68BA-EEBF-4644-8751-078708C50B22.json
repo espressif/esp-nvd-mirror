@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A46F68BA-EEBF-4644-8751-078708C50B22", "criteria": "cpe:2.3:a:vitejs:vite:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.1.6", "lastModified": "2025-09-09T19:20:56.630", "cpeLastModified": "2025-09-09T19:20:56.630", "created": "2025-09-09T19:20:56.630", "status": "Active"}}
