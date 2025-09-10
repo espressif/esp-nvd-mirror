@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8AC883CE-A219-48D1-9541-9D2A5156B02B", "criteria": "cpe:2.3:a:vercel:vercel:*:*:*:*:*:*:*:*", "versionStartIncluding": "41.4.1", "versionEndExcluding": "42.2.0", "lastModified": "2025-09-10T19:12:18.050", "cpeLastModified": "2025-09-10T19:12:18.050", "created": "2025-09-10T19:12:18.050", "status": "Active"}}
