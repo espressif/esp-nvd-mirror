@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "168F9572-2109-460B-B422-D0DCBF85A144", "criteria": "cpe:2.3:a:webmin:webmin:2.104:*:*:*:*:*:*:*", "lastModified": "2025-09-16T20:56:19.620", "created": "2025-08-13T18:01:49.583", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:webmin:webmin:2.104:*:*:*:*:*:*:*", "cpeNameId": "EE1EFCB9-FBDD-4939-9A06-60C23B5C4AF4"}]}}
