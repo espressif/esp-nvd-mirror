@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FC194752-D788-4CCC-A4D2-01EB74232EE9", "criteria": "cpe:2.3:a:nvidia:nvidia_gpu_operator:*:*:*:*:*:*:*:*", "versionEndExcluding": "24.9.2", "lastModified": "2025-09-17T17:00:22.440", "cpeLastModified": "2025-09-17T17:00:22.440", "created": "2025-09-17T17:00:22.440", "status": "Active"}}

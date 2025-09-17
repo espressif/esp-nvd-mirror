@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "83AF701D-0125-4F2A-B2DC-BEC08B74F49F", "criteria": "cpe:2.3:a:nvidia:triton_inference_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.10", "versionEndExcluding": "24.04", "lastModified": "2025-09-17T17:25:31.617", "cpeLastModified": "2025-09-17T17:25:31.617", "created": "2025-09-17T17:25:31.617", "status": "Active"}}
