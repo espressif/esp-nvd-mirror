@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "668E36C2-18CA-4584-BED9-5E0F7073FF0E", "criteria": "cpe:2.3:a:siemens:simatic_pcs_neo:5.0:-:*:*:*:*:*:*", "lastModified": "2025-09-17T21:02:32.377", "created": "2025-08-20T19:51:25.977", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:siemens:simatic_pcs_neo:5.0:-:*:*:*:*:*:*", "cpeNameId": "7346A979-72B0-4CF8-814B-03D0E88B78BA"}]}}
