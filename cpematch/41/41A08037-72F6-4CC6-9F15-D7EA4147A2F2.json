@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "41A08037-72F6-4CC6-9F15-D7EA4147A2F2", "criteria": "cpe:2.3:a:hono:hono:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "4.8.0", "versionEndExcluding": "4.9.6", "lastModified": "2025-09-17T13:39:18.863", "cpeLastModified": "2025-09-17T13:39:18.863", "created": "2025-09-17T13:39:18.863", "status": "Active"}}
