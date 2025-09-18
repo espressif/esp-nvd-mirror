@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "14EE168F-747A-43EE-84B8-14C332A7F1CB", "criteria": "cpe:2.3:a:redis:redis:7.4.0:rc1:*:*:*:*:*:*", "lastModified": "2025-09-18T21:14:08.937", "created": "2025-09-04T19:03:18.793", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:redis:redis:7.4.0:rc1:*:*:*:*:*:*", "cpeNameId": "8AFCF8B1-0016-45F9-9CCD-A719B9ECB5CB"}]}}

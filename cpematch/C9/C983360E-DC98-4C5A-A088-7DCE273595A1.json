@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C983360E-DC98-4C5A-A088-7DCE273595A1", "criteria": "cpe:2.3:a:redis:redis:7.4.0:rc2:*:*:*:*:*:*", "lastModified": "2025-09-18T21:14:08.937", "created": "2025-09-04T19:03:18.793", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:redis:redis:7.4.0:rc2:*:*:*:*:*:*", "cpeNameId": "657C12F1-23C0-4489-9B88-3C101B1AA29C"}]}}
