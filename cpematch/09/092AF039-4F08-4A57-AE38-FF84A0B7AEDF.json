@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "092AF039-4F08-4A57-AE38-FF84A0B7AEDF", "criteria": "cpe:2.3:a:mongodb:mongodb:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.0.5", "lastModified": "2025-09-19T17:50:56.990", "cpeLastModified": "2025-09-19T17:50:56.990", "created": "2025-09-19T17:50:56.990", "status": "Active"}}
