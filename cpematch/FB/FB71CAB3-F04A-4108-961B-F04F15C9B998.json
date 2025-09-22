@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "FB71CAB3-F04A-4108-961B-F04F15C9B998", "criteria": "cpe:2.3:h:tenda:g3:3.0:*:*:*:*:*:*:*", "lastModified": "2024-12-14T03:00:27.210", "cpeLastModified": "2024-12-13T14:42:39.437", "created": "2024-12-13T14:42:39.437", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "FB71CAB3-F04A-4108-961B-F04F15C9B998", "criteria": "cpe:2.3:h:tenda:g3:3.0:*:*:*:*:*:*:*", "lastModified": "2025-09-22T17:03:20.970", "cpeLastModified": "2024-12-13T14:42:39.437", "created": "2024-12-13T14:42:39.437", "status": "Active"}}

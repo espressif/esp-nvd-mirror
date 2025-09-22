@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C13290D6-7F1A-4761-9C44-984F3E280201", "criteria": "cpe:2.3:a:apache:solr:8.4.1:*:*:*:*:*:*:*", "lastModified": "2022-03-10T14:39:09.157", "created": "2022-03-10T14:39:09.157", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "C13290D6-7F1A-4761-9C44-984F3E280201", "criteria": "cpe:2.3:a:apache:solr:8.4.1:*:*:*:*:*:*:*", "lastModified": "2025-09-22T17:03:20.970", "created": "2022-03-10T14:39:09.157", "status": "Active"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E346B162-D566-4E62-ABDE-ECBFB21B8BFD", "criteria": "cpe:2.3:o:linux:linux_kernel:6.6:-:*:*:*:*:*:*", "lastModified": "2024-01-24T16:58:58.020", "cpeLastModified": "2024-01-24T16:58:52.700", "created": "2024-01-24T16:58:52.700", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "E346B162-D566-4E62-ABDE-ECBFB21B8BFD", "criteria": "cpe:2.3:o:linux:linux_kernel:6.6:-:*:*:*:*:*:*", "lastModified": "2025-09-22T17:03:20.970", "cpeLastModified": "2024-01-24T16:58:52.700", "created": "2024-01-24T16:58:52.700", "status": "Active"}}
