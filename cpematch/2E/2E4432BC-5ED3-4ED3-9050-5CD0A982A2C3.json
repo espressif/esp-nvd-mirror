@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2E4432BC-5ED3-4ED3-9050-5CD0A982A2C3", "criteria": "cpe:2.3:a:npmjs:semver:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "7.0.0", "versionEndIncluding": "7.5.3", "lastModified": "2025-09-23T14:32:09.257", "cpeLastModified": "2025-09-23T14:30:39.240", "created": "2025-09-23T14:30:39.240", "status": "Inactive"}}
