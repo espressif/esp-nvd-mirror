@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "58D1F5DC-97B1-4842-B046-C49119745E8B", "criteria": "cpe:2.3:a:ibm:sterling_connect\\:express:*:*:*:*:*:windows:*:*", "versionStartIncluding": "3.1.0.0", "versionEndExcluding": "3.1.0.23", "lastModified": "2025-09-24T16:03:50.450", "created": "2025-09-24T16:03:50.450", "status": "Active"}}
