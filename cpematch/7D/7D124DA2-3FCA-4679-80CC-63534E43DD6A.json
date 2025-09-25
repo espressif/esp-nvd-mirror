@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7D124DA2-3FCA-4679-80CC-63534E43DD6A", "criteria": "cpe:2.3:a:elastic:kibana:8.12.0:*:*:*:*:*:*:*", "lastModified": "2025-09-25T15:51:37.553", "created": "2025-09-25T15:42:58.453", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:elastic:kibana:8.12.0:*:*:*:*:*:*:*", "cpeNameId": "DC0C76EA-F3D6-4535-90DB-9E78B68F44B4"}]}}
