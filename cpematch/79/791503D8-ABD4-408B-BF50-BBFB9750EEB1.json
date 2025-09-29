@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "791503D8-ABD4-408B-BF50-BBFB9750EEB1", "criteria": "cpe:2.3:a:mruby:mruby:3.4.0:rc:*:*:*:ruby:*:*", "lastModified": "2025-09-29T19:59:47.900", "created": "2025-09-29T19:45:47.667", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:mruby:mruby:3.4.0:rc:*:*:*:ruby:*:*", "cpeNameId": "CEE353DE-86AC-4CBA-9E87-D66671A22433"}]}}
