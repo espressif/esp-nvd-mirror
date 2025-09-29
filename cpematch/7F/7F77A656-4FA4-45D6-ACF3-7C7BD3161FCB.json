@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "7F77A656-4FA4-45D6-ACF3-7C7BD3161FCB", "criteria": "cpe:2.3:h:intel:core_i7_12800h:-:*:*:*:*:*:*:*", "lastModified": "2023-11-07T15:07:54.573", "cpeLastModified": "2023-11-07T14:22:30.720", "created": "2023-11-07T14:22:30.720", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "7F77A656-4FA4-45D6-ACF3-7C7BD3161FCB", "criteria": "cpe:2.3:h:intel:core_i7_12800h:-:*:*:*:*:*:*:*", "lastModified": "2025-09-29T16:21:24.617", "cpeLastModified": "2023-11-07T14:22:30.720", "created": "2023-11-07T14:22:30.720", "status": "Active"}}

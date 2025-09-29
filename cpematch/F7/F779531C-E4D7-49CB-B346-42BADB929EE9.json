@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F779531C-E4D7-49CB-B346-42BADB929EE9", "criteria": "cpe:2.3:h:intel:core_i5-14500:-:*:*:*:*:*:*:*", "lastModified": "2025-09-29T17:01:11.307", "created": "2025-09-29T16:21:24.617", "status": "Active", "matches": [{"cpeName": "cpe:2.3:h:intel:core_i5-14500:-:*:*:*:*:*:*:*", "cpeNameId": "A8406BF1-9559-4848-8275-655114F8631B"}]}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "95B4A0A9-1591-4B66-996E-D0A316503E9A", "criteria": "cpe:2.3:h:intel:core_5-220h:-:*:*:*:*:*:*:*", "lastModified": "2025-09-29T17:01:11.307", "created": "2025-09-29T16:21:24.617", "status": "Active", "matches": [{"cpeName": "cpe:2.3:h:intel:core_5-220h:-:*:*:*:*:*:*:*", "cpeNameId": "E4A7697B-9653-4647-9EB3-6CCB2834AB62"}]}}

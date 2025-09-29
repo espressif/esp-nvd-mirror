@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2E88286B-261C-40CF-B160-B7FDF91D2EB9", "criteria": "cpe:2.3:a:slinkapp:slink:1.5.1:*:*:*:*:*:*:*", "lastModified": "2025-09-29T17:59:31.673", "created": "2025-09-05T18:13:35.917", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:slinkapp:slink:1.5.1:*:*:*:*:*:*:*", "cpeNameId": "7B5147A2-9894-410F-A1F1-2CE57AA119D5"}]}}

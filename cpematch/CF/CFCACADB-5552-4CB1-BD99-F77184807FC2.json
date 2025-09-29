@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CFCACADB-5552-4CB1-BD99-F77184807FC2", "criteria": "cpe:2.3:h:intel:core_5-210h:-:*:*:*:*:*:*:*", "lastModified": "2025-09-29T17:01:11.307", "created": "2025-09-29T16:21:24.617", "status": "Active", "matches": [{"cpeName": "cpe:2.3:h:intel:core_5-210h:-:*:*:*:*:*:*:*", "cpeNameId": "1D851CD0-3914-40BF-98CC-D02687ACA135"}]}}

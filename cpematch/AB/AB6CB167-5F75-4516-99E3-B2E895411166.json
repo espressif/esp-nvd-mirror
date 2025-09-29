@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AB6CB167-5F75-4516-99E3-B2E895411166", "criteria": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "42.7.4", "versionEndExcluding": "42.7.7", "lastModified": "2025-09-29T17:44:40.513", "created": "2025-09-29T17:44:40.513", "status": "Active"}}
