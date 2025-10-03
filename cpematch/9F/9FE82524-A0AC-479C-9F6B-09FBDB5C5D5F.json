@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9FE82524-A0AC-479C-9F6B-09FBDB5C5D5F", "criteria": "cpe:2.3:a:jellyfin:jellyfin:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.9.0", "versionEndExcluding": "10.10.7", "lastModified": "2025-10-03T17:13:33.543", "cpeLastModified": "2025-10-03T17:13:33.543", "created": "2025-10-03T17:13:33.543", "status": "Active"}}
