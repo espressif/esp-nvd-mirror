@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "661E583B-72DB-4E52-9CDE-6790786952DA", "criteria": "cpe:2.3:a:getrebuild:rebuild:3.7.7:*:*:*:*:*:*:*", "lastModified": "2025-10-07T15:25:24.587", "created": "2025-09-09T22:11:55.043", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:getrebuild:rebuild:3.7.7:*:*:*:*:*:*:*", "cpeNameId": "A36D8843-B60C-41CE-9689-C6C1D601BFF6"}]}}
