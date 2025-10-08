@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C4B80239-AD40-496A-9CFB-EBE05A1A3F9D", "criteria": "cpe:2.3:a:openquantumsafe:liboqs:0.10.0:-:*:*:*:*:*:*", "lastModified": "2025-10-08T15:19:49.810", "created": "2025-08-20T17:51:10.493", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:openquantumsafe:liboqs:0.10.0:-:*:*:*:*:*:*", "cpeNameId": "18269182-AF9A-413C-AE29-F0695559EC3C"}]}}
