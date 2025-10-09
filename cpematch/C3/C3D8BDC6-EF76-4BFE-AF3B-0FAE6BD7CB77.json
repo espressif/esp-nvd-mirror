@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C3D8BDC6-EF76-4BFE-AF3B-0FAE6BD7CB77", "criteria": "cpe:2.3:a:firebirdsql:firebird:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0", "versionEndExcluding": "5.0.3", "lastModified": "2025-10-09T19:26:45.643", "created": "2025-08-21T17:02:29.233", "status": "Inactive"}}
