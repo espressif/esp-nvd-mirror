@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "94BE5A6C-425A-4784-A3B2-C8B6F18EB0F5", "criteria": "cpe:2.3:a:nvidia:megatron-lm:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.13.0", "versionEndExcluding": "0.13.1", "lastModified": "2025-10-10T18:20:53.117", "created": "2025-10-10T18:19:41.417", "status": "Inactive"}}
