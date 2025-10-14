@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3107549E-A532-4A0A-AF4F-0FCA8254A684", "criteria": "cpe:2.3:a:sylius:sylius:1.12.13:*:*:*:*:*:*:*", "lastModified": "2025-10-14T18:41:09.980", "created": "2025-09-09T20:24:50.647", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:sylius:sylius:1.12.13:*:*:*:*:*:*:*", "cpeNameId": "0A81B103-3400-42AC-9456-31267AD366E9"}]}}
