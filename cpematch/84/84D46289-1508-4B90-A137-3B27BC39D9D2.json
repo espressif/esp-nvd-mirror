@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "84D46289-1508-4B90-A137-3B27BC39D9D2", "criteria": "cpe:2.3:a:nvidia:aistore_on_kubernetes:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.3.0", "lastModified": "2025-10-14T13:01:38.257", "created": "2025-10-14T13:01:38.257", "status": "Active"}}
