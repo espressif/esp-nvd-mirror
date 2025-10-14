@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8474396A-2075-4DC5-A0AD-EE68273DAD9D", "criteria": "cpe:2.3:a:microfocus:vertica:*:*:*:*:*:*:*:*", "versionStartIncluding": "23.0.0-0", "versionEndExcluding": "23.3.0-11", "lastModified": "2025-10-14T15:20:44.883", "created": "2025-10-14T15:20:44.883", "status": "Active"}}
