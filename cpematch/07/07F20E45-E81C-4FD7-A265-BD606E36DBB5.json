@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "07F20E45-E81C-4FD7-A265-BD606E36DBB5", "criteria": "cpe:2.3:a:51mis:lingdang_crm:8.6.0.0:*:*:*:*:*:*:*", "lastModified": "2025-10-15T12:15:32.070", "created": "2025-08-28T10:56:55.160", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:51mis:lingdang_crm:8.6.0.0:*:*:*:*:*:*:*", "cpeNameId": "011F8007-A5CA-4471-8720-FA3119C63B15"}]}}
