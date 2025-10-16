@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5BDF8AF0-D6E3-4FAA-8236-792675DD7F58", "criteria": "cpe:2.3:a:jruby:jruby:10.0.0.0:*:*:*:*:*:*:*", "lastModified": "2025-10-16T17:53:10.420", "created": "2025-10-16T17:50:44.540", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:jruby:jruby:10.0.0.0:*:*:*:*:*:*:*", "cpeNameId": "B1F7129E-5F90-419E-A061-8C10807DB398"}]}}

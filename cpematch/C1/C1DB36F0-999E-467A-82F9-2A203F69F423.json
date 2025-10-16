@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C1DB36F0-999E-467A-82F9-2A203F69F423", "criteria": "cpe:2.3:a:fortinet:fortidlp_agent:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.3.1", "versionEndIncluding": "11.5.1", "lastModified": "2025-10-16T17:10:14.370", "cpeLastModified": "2025-10-16T17:10:14.370", "created": "2025-10-16T17:10:14.370", "status": "Active"}}
