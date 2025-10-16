@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "38BBD1AC-1073-436A-A230-79F30EB3893C", "criteria": "cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.2.0", "versionEndExcluding": "13.2.1", "lastModified": "2025-10-16T19:47:23.017", "cpeLastModified": "2025-10-16T19:47:23.017", "created": "2025-10-16T19:47:23.017", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4AC0D1C3-A872-480F-9A77-DAF8041C3847", "criteria": "cpe:2.3:a:microsoft:jdbc_driver_for_sql_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.2.0", "versionEndExcluding": "11.2.4", "lastModified": "2025-10-16T19:47:23.017", "cpeLastModified": "2025-10-16T19:47:23.017", "created": "2025-10-16T19:47:23.017", "status": "Active"}}

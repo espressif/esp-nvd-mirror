@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8E4B9A70-D8B9-48DD-BF18-D72752E80EC9", "criteria": "cpe:2.3:a:microsoft:azure_monitor_agent:*:*:*:*:*:windows:*:*", "versionEndExcluding": "1.38.1", "lastModified": "2025-10-16T18:55:00.380", "cpeLastModified": "2025-10-16T18:52:55.810", "created": "2025-10-16T18:52:55.810", "status": "Inactive"}}
