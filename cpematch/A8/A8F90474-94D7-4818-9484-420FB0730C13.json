@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A8F90474-94D7-4818-9484-420FB0730C13", "criteria": "cpe:2.3:a:coder:coder:*:*:*:*:*:go:*:*", "versionStartIncluding": "2.22", "versionEndExcluding": "2.24.4", "lastModified": "2025-10-17T13:21:27.460", "created": "2025-10-17T13:21:27.460", "status": "Active"}}
