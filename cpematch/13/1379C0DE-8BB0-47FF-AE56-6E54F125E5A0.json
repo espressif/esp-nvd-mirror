@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1379C0DE-8BB0-47FF-AE56-6E54F125E5A0", "criteria": "cpe:2.3:a:arcserve:udp:7.0:update_2:*:*:*:*:*:*", "lastModified": "2025-10-17T14:12:26.797", "created": "2025-09-08T13:37:33.690", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:arcserve:udp:7.0:update_2:*:*:*:*:*:*", "cpeNameId": "DC6C4247-520F-47B1-8362-C843D48F9D6B"}]}}
