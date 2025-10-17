@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DF803740-BAB5-43F9-8D69-A5E9081F8077", "criteria": "cpe:2.3:a:f5:big-ip_next_service_proxy_for_kubernetes:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndIncluding": "2.0.2", "lastModified": "2025-10-17T17:55:26.710", "cpeLastModified": "2025-10-17T17:55:26.710", "created": "2025-10-17T17:55:26.710", "status": "Active"}}
