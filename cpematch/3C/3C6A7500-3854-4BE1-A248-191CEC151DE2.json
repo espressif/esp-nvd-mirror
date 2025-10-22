@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3C6A7500-3854-4BE1-A248-191CEC151DE2", "criteria": "cpe:2.3:a:f5:big-ip_websafe:17.5.0:*:*:*:*:*:*:*", "lastModified": "2025-10-22T12:53:29.243", "created": "2025-08-21T19:44:12.887", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:f5:big-ip_websafe:17.5.0:*:*:*:*:*:*:*", "cpeNameId": "9D3C6CBA-8AA3-4FB4-8FD7-3302B6483976"}]}}

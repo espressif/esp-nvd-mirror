@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E631EA9E-D1EC-460A-8389-E735F2D82397", "criteria": "cpe:2.3:a:f5:big-ip_edge_gateway:17.5.0:*:*:*:*:*:*:*", "lastModified": "2025-10-22T13:40:17.130", "created": "2025-08-21T19:39:53.867", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:f5:big-ip_edge_gateway:17.5.0:*:*:*:*:*:*:*", "cpeNameId": "EF120232-F44E-4F0E-8155-A6EFD06CD24A"}]}}
