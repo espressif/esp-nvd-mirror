@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5C859A9A-D6EF-4BA1-B42E-8A2E2EB98181", "criteria": "cpe:2.3:a:tpm2-tools_project:tpm2-tools:*:*:*:*:*:*:*:*", "versionStartExcluding": "5.6.1", "versionEndExcluding": "5.7", "lastModified": "2025-10-22T20:39:34.360", "created": "2025-10-22T20:39:34.360", "status": "Active"}}
