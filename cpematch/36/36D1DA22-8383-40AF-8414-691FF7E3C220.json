@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "36D1DA22-8383-40AF-8414-691FF7E3C220", "criteria": "cpe:2.3:a:kccs:lanscope_endpoint_manager:*:*:*:*:on-premise:*:*:*", "versionStartIncluding": "9.4.3.0", "versionEndExcluding": "9.4.3.8", "lastModified": "2025-10-23T12:24:08.717", "cpeLastModified": "2025-10-23T12:24:08.717", "created": "2025-10-23T12:24:08.717", "status": "Active"}}
