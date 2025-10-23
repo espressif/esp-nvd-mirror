@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1D4E1379-117C-476A-A284-8C0B2F5AD20C", "criteria": "cpe:2.3:a:cloudera:hue:4.11.0:*:*:*:*:*:*:*", "lastModified": "2025-10-23T14:23:25.920", "created": "2025-08-14T14:54:19.010", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:cloudera:hue:4.11.0:*:*:*:*:*:*:*", "cpeNameId": "6F4226C9-229C-4ADA-B929-75F3A0A68990"}]}}

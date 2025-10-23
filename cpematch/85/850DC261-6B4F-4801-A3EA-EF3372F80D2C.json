@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "850DC261-6B4F-4801-A3EA-EF3372F80D2C", "criteria": "cpe:2.3:a:brufdev:many_notes:0.10.1:*:*:*:*:*:*:*", "lastModified": "2025-10-23T14:21:32.763", "created": "2025-09-05T13:31:48.750", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:brufdev:many_notes:0.10.1:*:*:*:*:*:*:*", "cpeNameId": "E4CA2714-CF4F-42E9-A3D9-46674BCD1565"}]}}
