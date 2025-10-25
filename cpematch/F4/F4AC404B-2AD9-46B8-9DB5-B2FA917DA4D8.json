@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "F4AC404B-2AD9-46B8-9DB5-B2FA917DA4D8", "criteria": "cpe:2.3:o:furbo:furbo_mini_firmware:*:*:*:*:*:*:*:*", "versionEndIncluding": "MC0020_FW_074", "lastModified": "2025-10-24T17:17:05.073", "created": "2025-10-24T17:17:05.073", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "F4AC404B-2AD9-46B8-9DB5-B2FA917DA4D8", "criteria": "cpe:2.3:o:furbo:furbo_mini_firmware:*:*:*:*:*:*:*:*", "versionEndIncluding": "MC0020_FW_074", "lastModified": "2025-10-24T22:06:59.217", "created": "2025-10-24T17:17:05.073", "status": "Inactive"}}
