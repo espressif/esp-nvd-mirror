@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "2EF46958-23C3-4BA3-A136-0F4DE0420DE9", "criteria": "cpe:2.3:o:tcl:65c655_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-10-15T14:19:32.853", "created": "2025-10-15T14:19:32.907", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "2EF46958-23C3-4BA3-A136-0F4DE0420DE9", "criteria": "cpe:2.3:o:tcl:65c655_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-10-27T14:30:18.850", "created": "2025-10-15T14:19:32.907", "status": "Active"}}

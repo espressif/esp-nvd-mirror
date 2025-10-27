@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "12840D95-CE8E-40FB-9B73-DEBF78384B30", "criteria": "cpe:2.3:a:sap:businessobjects_business_intelligence_platform:2025:*:*:*:-:*:*:*", "lastModified": "2025-10-22T20:20:15.700", "created": "2025-10-22T20:20:00.097", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "12840D95-CE8E-40FB-9B73-DEBF78384B30", "criteria": "cpe:2.3:a:sap:businessobjects_business_intelligence_platform:2025:*:*:*:-:*:*:*", "lastModified": "2025-10-27T14:30:18.850", "created": "2025-10-22T20:20:00.097", "status": "Active"}}
