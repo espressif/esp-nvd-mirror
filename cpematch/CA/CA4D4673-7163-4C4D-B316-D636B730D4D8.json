@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CA4D4673-7163-4C4D-B316-D636B730D4D8", "criteria": "cpe:2.3:a:argo_workflows_project:argo_workflows:*:*:*:*:*:kubernetes:*:*", "versionStartIncluding": "3.5.7", "versionEndExcluding": "3.5.13", "lastModified": "2025-10-28T19:35:15.623", "cpeLastModified": "2025-10-28T19:35:15.623", "created": "2025-10-28T19:35:15.623", "status": "Active"}}

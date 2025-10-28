@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4FBDA817-4B1A-4C1C-B28E-039793EE915C", "criteria": "cpe:2.3:a:huggingface:smolagents:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.20.0", "versionEndExcluding": "1.22.0", "lastModified": "2025-10-28T19:37:51.277", "created": "2025-10-28T19:37:51.277", "status": "Active"}}
