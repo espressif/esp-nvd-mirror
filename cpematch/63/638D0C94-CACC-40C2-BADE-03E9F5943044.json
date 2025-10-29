@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "638D0C94-CACC-40C2-BADE-03E9F5943044", "criteria": "cpe:2.3:a:graylog:graylog:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.2.0", "versionEndExcluding": "6.2.4", "lastModified": "2025-10-29T19:49:12.893", "created": "2025-10-29T19:49:12.893", "status": "Active"}}
