@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0A522936-53E6-4CD5-865C-3C477BB4F7FF", "criteria": "cpe:2.3:a:dell:repository_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.4.7", "versionEndExcluding": "3.4.9", "lastModified": "2025-10-29T15:08:58.983", "created": "2025-10-29T15:08:58.983", "status": "Active"}}
