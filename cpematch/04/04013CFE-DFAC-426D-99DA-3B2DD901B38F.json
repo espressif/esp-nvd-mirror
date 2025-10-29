@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "04013CFE-DFAC-426D-99DA-3B2DD901B38F", "criteria": "cpe:2.3:a:flashmq:flashmq:1.14.0:*:*:*:*:*:*:*", "lastModified": "2025-10-29T11:45:17.683", "created": "2025-08-04T12:24:19.097", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:flashmq:flashmq:1.14.0:*:*:*:*:*:*:*", "cpeNameId": "C9D583A9-407D-4DC7-B601-708B156D299E"}]}}
