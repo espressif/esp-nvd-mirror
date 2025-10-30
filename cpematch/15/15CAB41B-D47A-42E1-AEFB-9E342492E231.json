@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "15CAB41B-D47A-42E1-AEFB-9E342492E231", "criteria": "cpe:2.3:o:tp-link:eap225_firmware:5.1.0:*:*:*:*:*:*:*", "lastModified": "2025-10-30T18:01:56.690", "created": "2025-08-21T13:45:48.927", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:tp-link:eap225_firmware:5.1.0:*:*:*:*:*:*:*", "cpeNameId": "4CB5F118-C184-4C86-B40A-CCDF1DFD0B54"}]}}
