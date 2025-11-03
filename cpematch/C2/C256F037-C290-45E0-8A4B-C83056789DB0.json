@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C256F037-C290-45E0-8A4B-C83056789DB0", "criteria": "cpe:2.3:a:pimcore:admin_classic_bundle:*:*:*:*:*:pimcore:*:*", "versionStartIncluding": "1.4.0", "versionEndExcluding": "1.4.6", "lastModified": "2025-11-03T19:26:38.487", "cpeLastModified": "2025-11-03T19:26:38.487", "created": "2025-11-03T19:26:38.487", "status": "Active"}}
