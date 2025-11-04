@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0A54A862-9938-45C7-8C4E-893B1DA6BD8F", "criteria": "cpe:2.3:a:nagios:fusion:*:*:*:*:*:*:*:*", "versionStartIncluding": "2024r1.2", "versionEndExcluding": "2024r2.1", "lastModified": "2025-11-04T15:58:37.827", "created": "2025-11-04T15:58:37.827", "status": "Active"}}
