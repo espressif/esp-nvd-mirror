@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "35E66BA4-3A20-4E92-8E5F-93E181D675DC", "criteria": "cpe:2.3:a:huggingface:smolagents:1.14.0:*:*:*:*:*:*:*", "lastModified": "2025-11-05T19:52:21.060", "created": "2025-07-31T18:25:09.510", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:huggingface:smolagents:1.14.0:*:*:*:*:*:*:*", "cpeNameId": "4CAB3E37-C232-4CAE-A6E5-06C245AC90E9"}]}}
