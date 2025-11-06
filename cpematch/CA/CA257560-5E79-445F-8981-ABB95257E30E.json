@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CA257560-5E79-445F-8981-ABB95257E30E", "criteria": "cpe:2.3:a:anydesk:anydesk:8.0.9:*:*:*:*:windows:*:*", "lastModified": "2025-11-06T20:51:38.083", "created": "2025-08-13T17:59:11.470", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:anydesk:anydesk:8.0.9:*:*:*:*:windows:*:*", "cpeNameId": "708E001F-E141-4E21-B69E-96DD74AA05DD"}]}}
