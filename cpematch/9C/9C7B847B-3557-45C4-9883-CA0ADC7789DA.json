@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9C7B847B-3557-45C4-9883-CA0ADC7789DA", "criteria": "cpe:2.3:a:veeam:backup:*:*:*:*:*:azure:*:*", "versionStartIncluding": "7.0.0.467", "versionEndExcluding": "7.1.0.59", "lastModified": "2025-11-17T19:56:54.707", "cpeLastModified": "2025-11-17T19:56:54.707", "created": "2025-11-17T19:56:54.707", "status": "Active"}}
