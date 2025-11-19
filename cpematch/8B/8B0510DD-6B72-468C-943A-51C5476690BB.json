@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8B0510DD-6B72-468C-943A-51C5476690BB", "criteria": "cpe:2.3:a:ibm:workload_scheduler:10.2:*:*:*:*:*:*:*", "lastModified": "2025-11-19T19:05:48.780", "created": "2025-08-07T20:58:11.437", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:ibm:workload_scheduler:10.2:*:*:*:*:*:*:*", "cpeNameId": "D5B809AF-D6AA-421D-8D99-4046B08CF8BF"}]}}

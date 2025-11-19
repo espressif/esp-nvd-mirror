@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "551C013E-FBDD-46A0-A94D-E11CE95A9518", "criteria": "cpe:2.3:a:ibm:spss_statistics:28.0.1.0:*:*:*:*:*:*:*", "lastModified": "2025-11-19T18:09:40.077", "created": "2025-08-18T18:04:46.430", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:ibm:spss_statistics:28.0.1.0:*:*:*:*:*:*:*", "cpeNameId": "DFA2828C-5B50-4252-A8FB-9D0ACE434B97"}]}}

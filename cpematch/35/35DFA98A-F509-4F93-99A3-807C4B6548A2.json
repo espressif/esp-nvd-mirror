@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "35DFA98A-F509-4F93-99A3-807C4B6548A2", "criteria": "cpe:2.3:a:desktopalert:pingalert_application_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.1.0.11", "versionEndExcluding": "6.1.1.5", "lastModified": "2025-11-19T18:47:03.600", "cpeLastModified": "2025-11-19T18:47:03.600", "created": "2025-11-19T18:47:03.600", "status": "Active"}}
