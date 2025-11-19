@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9B8DACBF-FF4E-4081-BF5F-63D33776BC8C", "criteria": "cpe:2.3:a:5kcrm:wukongcrm:11.0:*:*:*:*:*:*:*", "lastModified": "2025-11-19T13:53:54.027", "created": "2025-09-12T21:31:56.497", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:5kcrm:wukongcrm:11.0:*:*:*:java:*:*:*", "cpeNameId": "6F3CAE5A-2A65-4E81-9A37-59391BC0B41B"}]}}
