@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "58A32649-B824-4FAF-8CAD-F260A1EF052D", "criteria": "cpe:2.3:a:ibm:devops_velocity:5.0.0:*:*:*:*:*:*:*", "lastModified": "2025-11-19T20:54:14.390", "created": "2025-08-13T19:16:57.390", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:ibm:devops_velocity:5.0.0:*:*:*:*:*:*:*", "cpeNameId": "E593B0FF-0FF0-456F-9FF0-86729BD3D7FB"}]}}
