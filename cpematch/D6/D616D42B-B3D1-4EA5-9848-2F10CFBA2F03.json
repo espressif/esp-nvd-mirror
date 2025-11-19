@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D616D42B-B3D1-4EA5-9848-2F10CFBA2F03", "criteria": "cpe:2.3:a:m-files:m-files_server:*:*:*:*:lts:*:*:*", "versionStartIncluding": "25.8.15085.13", "versionEndExcluding": "25.8.15085.17", "lastModified": "2025-11-19T16:39:43.127", "created": "2025-11-19T16:39:43.127", "status": "Active"}}
