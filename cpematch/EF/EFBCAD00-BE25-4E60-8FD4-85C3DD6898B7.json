@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EFBCAD00-BE25-4E60-8FD4-85C3DD6898B7", "criteria": "cpe:2.3:a:uclouvain:openjpeg:2.5.0:*:*:*:*:*:*:*", "lastModified": "2025-11-20T20:31:17.087", "created": "2025-08-08T16:20:07.697", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:uclouvain:openjpeg:2.5.0:*:*:*:*:*:*:*", "cpeNameId": "C2B14361-5472-4195-92DB-3F84D4D182CF"}]}}
