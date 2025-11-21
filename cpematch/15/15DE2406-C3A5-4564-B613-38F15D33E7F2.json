@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "15DE2406-C3A5-4564-B613-38F15D33E7F2", "criteria": "cpe:2.3:a:oracle:jdk:21.0.7:*:*:*:*:*:*:*", "lastModified": "2025-11-21T18:35:48.113", "created": "2025-08-04T15:29:38.937", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:oracle:jdk:21.0.7:*:*:*:*:*:*:*", "cpeNameId": "E71F4B81-3658-4886-B436-3C62DDC9DE1C"}]}}
