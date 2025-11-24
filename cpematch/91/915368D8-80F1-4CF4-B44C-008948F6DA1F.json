@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "915368D8-80F1-4CF4-B44C-008948F6DA1F", "criteria": "cpe:2.3:a:h2o:h2o:3.45.0.6386:*:*:*:*:*:*:*", "lastModified": "2025-11-24T19:45:43.617", "created": "2025-07-28T14:04:20.620", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:h2o:h2o:3.45.0.6386:*:*:*:*:*:*:*", "cpeNameId": "4F5E7591-AFD6-40E8-AC68-A5621AE7EA7A"}]}}
