@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4C174810-BBCE-4D7C-B576-CE4859DEFBBE", "criteria": "cpe:2.3:a:strapi:strapi:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.5.2", "lastModified": "2025-11-25T16:03:40.720", "created": "2025-11-25T16:03:40.720", "status": "Active"}}
