@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "762125DE-05AE-4AE9-914C-0D3E62C20D57", "criteria": "cpe:2.3:a:ibm:watson_assistant_for_ibm_cloud_pak_for_data:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "5.2.0", "lastModified": "2025-11-25T20:53:29.313", "cpeLastModified": "2025-11-25T20:53:29.313", "created": "2025-11-25T20:53:29.313", "status": "Active"}}
