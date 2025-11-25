@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "69DC63C8-4CEF-476B-B5CA-059B4110B09B", "criteria": "cpe:2.3:a:strapi:strapi:*:*:*:*:*:**:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.5.2", "lastModified": "2025-11-25T19:14:33.523", "created": "2025-11-25T19:14:33.523", "status": "Active"}}
