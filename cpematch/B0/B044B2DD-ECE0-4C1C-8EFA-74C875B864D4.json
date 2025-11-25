@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B044B2DD-ECE0-4C1C-8EFA-74C875B864D4", "criteria": "cpe:2.3:a:apache:causeway:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "3.5.0", "lastModified": "2025-11-24T22:47:10.930", "cpeLastModified": "2025-11-24T22:47:10.930", "created": "2025-11-24T22:47:10.930", "status": "Active"}}
