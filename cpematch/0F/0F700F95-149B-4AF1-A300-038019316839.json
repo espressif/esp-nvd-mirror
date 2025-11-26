@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "0F700F95-149B-4AF1-A300-038019316839", "criteria": "cpe:2.3:a:cisco:telepresence_ce:11.9.3.1:*:*:*:*:*:*:*", "lastModified": "2025-11-26T15:57:49.983", "created": "2025-11-26T15:57:49.983", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "0F700F95-149B-4AF1-A300-038019316839", "criteria": "cpe:2.3:a:cisco:telepresence_ce:11.9.3.1:*:*:*:*:*:*:*", "lastModified": "2025-11-26T18:56:42.537", "created": "2025-11-26T15:57:49.983", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "3F623D30-6C2F-4C5C-86E5-5EC0E2A65F77", "criteria": "cpe:2.3:a:cisco:telepresence_ce:10.19.2.2:*:*:*:*:*:*:*", "lastModified": "2025-11-26T15:57:49.983", "created": "2025-11-26T15:57:49.983", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "3F623D30-6C2F-4C5C-86E5-5EC0E2A65F77", "criteria": "cpe:2.3:a:cisco:telepresence_ce:10.19.2.2:*:*:*:*:*:*:*", "lastModified": "2025-11-26T18:56:42.537", "created": "2025-11-26T15:57:49.983", "status": "Inactive"}}
