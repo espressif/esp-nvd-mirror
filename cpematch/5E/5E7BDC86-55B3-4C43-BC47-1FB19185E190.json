@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5E7BDC86-55B3-4C43-BC47-1FB19185E190", "criteria": "cpe:2.3:o:ibm:power_system_e1080_\\(9080-hex\\)_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "FW1030.00", "versionEndIncluding": "FW1030.61", "lastModified": "2025-11-28T16:31:15.807", "created": "2025-11-28T16:31:15.807", "status": "Active"}}
