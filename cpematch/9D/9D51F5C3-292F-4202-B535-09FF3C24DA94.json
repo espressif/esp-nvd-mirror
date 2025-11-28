@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "9D51F5C3-292F-4202-B535-09FF3C24DA94", "criteria": "cpe:2.3:h:ibm:9119-mme:-:*:*:*:*:*:*:*", "lastModified": "2025-11-25T21:48:40.557", "created": "2025-11-25T21:48:40.557", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "9D51F5C3-292F-4202-B535-09FF3C24DA94", "criteria": "cpe:2.3:h:ibm:9119-mme:-:*:*:*:*:*:*:*", "lastModified": "2025-11-28T15:56:02.443", "created": "2025-11-25T21:48:40.557", "status": "Inactive"}}

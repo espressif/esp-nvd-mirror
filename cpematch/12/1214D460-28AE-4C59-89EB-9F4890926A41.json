@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1214D460-28AE-4C59-89EB-9F4890926A41", "criteria": "cpe:2.3:o:cisco:ip_phone_8865_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0\\(1\\)", "versionEndExcluding": "14.3\\(1\\)", "lastModified": "2025-11-28T15:28:47.583", "cpeLastModified": "2025-11-28T15:21:55.080", "created": "2025-11-28T15:21:55.080", "status": "Inactive"}}

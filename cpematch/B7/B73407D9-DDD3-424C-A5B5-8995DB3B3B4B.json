@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B73407D9-DDD3-424C-A5B5-8995DB3B3B4B", "criteria": "cpe:2.3:o:cisco:sip_software:11.0\\(6\\):sr6:*:*:*:*:*:*", "lastModified": "2025-11-26T16:30:41.173", "created": "2025-11-26T16:30:41.173", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B73407D9-DDD3-424C-A5B5-8995DB3B3B4B", "criteria": "cpe:2.3:o:cisco:sip_software:11.0\\(6\\):sr6:*:*:*:*:*:*", "lastModified": "2025-11-28T15:46:55.560", "created": "2025-11-26T16:30:41.173", "status": "Inactive"}}

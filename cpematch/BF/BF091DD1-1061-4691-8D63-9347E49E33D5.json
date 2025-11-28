@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "BF091DD1-1061-4691-8D63-9347E49E33D5", "criteria": "cpe:2.3:o:cisco:roomos:11.14.2.3:*:*:*:*:*:*:*", "lastModified": "2025-11-26T15:57:49.983", "created": "2025-11-26T15:57:49.983", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "BF091DD1-1061-4691-8D63-9347E49E33D5", "criteria": "cpe:2.3:o:cisco:roomos:11.14.2.3:*:*:*:*:*:*:*", "lastModified": "2025-11-28T15:51:16.593", "created": "2025-11-26T15:57:49.983", "status": "Inactive"}}

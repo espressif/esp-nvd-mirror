@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "29B7531F-5135-49AC-B96C-8E3BE17D3E52", "criteria": "cpe:2.3:o:cisco:ip_phone_7841_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0\\(1\\)", "versionEndExcluding": "14.3\\(1\\)", "lastModified": "2025-11-28T15:28:47.583", "cpeLastModified": "2025-11-28T15:21:55.080", "created": "2025-11-28T15:21:55.080", "status": "Inactive"}}

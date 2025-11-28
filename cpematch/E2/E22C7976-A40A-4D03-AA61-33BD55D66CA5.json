@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E22C7976-A40A-4D03-AA61-33BD55D66CA5", "criteria": "cpe:2.3:h:ibm:8284-21a:-:*:*:*:*:*:*:*", "lastModified": "2025-11-25T21:48:40.557", "created": "2025-11-25T21:48:40.557", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E22C7976-A40A-4D03-AA61-33BD55D66CA5", "criteria": "cpe:2.3:h:ibm:8284-21a:-:*:*:*:*:*:*:*", "lastModified": "2025-11-28T15:56:02.443", "created": "2025-11-25T21:48:40.557", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "F5444198-EC2E-421A-802F-40A735847941", "criteria": "cpe:2.3:a:cisco:telepresence_collaboration_endpoint:11.20.2.3:*:*:*:*:*:*:*", "lastModified": "2025-11-26T18:56:42.537", "created": "2025-11-26T18:56:42.537", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "F5444198-EC2E-421A-802F-40A735847941", "criteria": "cpe:2.3:a:cisco:telepresence_collaboration_endpoint:11.20.2.3:*:*:*:*:*:*:*", "lastModified": "2025-11-28T15:47:47.370", "created": "2025-11-26T18:56:42.537", "status": "Inactive"}}
