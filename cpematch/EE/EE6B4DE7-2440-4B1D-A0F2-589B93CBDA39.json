@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EE6B4DE7-2440-4B1D-A0F2-589B93CBDA39", "criteria": "cpe:2.3:a:langfuse:langfuse:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.95.0", "versionEndExcluding": "2.95.12", "lastModified": "2025-11-28T20:10:05.280", "cpeLastModified": "2025-11-28T20:10:05.280", "created": "2025-11-28T20:10:05.280", "status": "Active"}}
