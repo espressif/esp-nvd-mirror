@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9094EADB-CA99-4498-A418-EBA4128E09BA", "criteria": "cpe:2.3:a:microsoft:azure_arc:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndIncluding": "1.0.10", "lastModified": "2025-12-01T16:37:18.087", "created": "2025-12-01T16:36:40.403", "status": "Inactive"}}

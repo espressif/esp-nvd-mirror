@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "BCB30B86-836A-4D1B-B730-C5CA0D3684EE", "criteria": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.4:h3:*:*:*:*:*:*", "lastModified": "2025-11-03T16:35:28.753", "created": "2025-11-03T16:35:28.753", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "BCB30B86-836A-4D1B-B730-C5CA0D3684EE", "criteria": "cpe:2.3:o:paloaltonetworks:pan-os:11.0.4:h3:*:*:*:*:*:*", "lastModified": "2025-12-01T16:19:09.407", "created": "2025-11-03T16:35:28.753", "status": "Inactive"}}
