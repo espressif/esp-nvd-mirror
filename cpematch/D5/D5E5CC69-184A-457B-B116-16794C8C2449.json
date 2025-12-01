@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D5E5CC69-184A-457B-B116-16794C8C2449", "criteria": "cpe:2.3:a:sgx_project:sgx:*:*:*:*:*:go:*:*", "versionEndExcluding": "4.18.2", "lastModified": "2025-12-01T19:20:22.000", "created": "2025-12-01T19:20:22.000", "status": "Active"}}

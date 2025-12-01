@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EAC84E94-86F1-41EE-8A3F-B99CF1484E85", "criteria": "cpe:2.3:a:cherry-ai:cherry_studio:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "1.4.8", "versionEndExcluding": "1.5.1", "lastModified": "2025-12-01T18:24:51.350", "created": "2025-12-01T18:24:51.350", "status": "Active"}}
