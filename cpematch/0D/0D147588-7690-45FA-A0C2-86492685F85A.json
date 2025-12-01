@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "0D147588-7690-45FA-A0C2-86492685F85A", "criteria": "cpe:2.3:o:dell:optiplex_tower_7020_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.33.0", "lastModified": "2025-12-01T13:51:55.220", "created": "2025-12-01T13:51:55.220", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "0D147588-7690-45FA-A0C2-86492685F85A", "criteria": "cpe:2.3:o:dell:optiplex_tower_7020_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.33.0", "lastModified": "2025-12-01T14:41:11.117", "created": "2025-12-01T13:51:55.220", "status": "Inactive"}}
