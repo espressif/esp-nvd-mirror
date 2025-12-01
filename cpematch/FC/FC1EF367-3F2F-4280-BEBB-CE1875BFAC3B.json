@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FC1EF367-3F2F-4280-BEBB-CE1875BFAC3B", "criteria": "cpe:2.3:a:pgx_project:pgx:*:*:*:*:*:go:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.5.4", "lastModified": "2025-12-01T21:05:44.773", "created": "2025-12-01T21:05:44.773", "status": "Active"}}
