@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FC93037E-4963-4C16-B06D-005ACDBBA1E7", "criteria": "cpe:2.3:a:webpack.js:webpack-dev-middleware:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.1.2", "lastModified": "2025-12-02T21:03:10.083", "created": "2025-12-02T21:03:10.083", "status": "Active"}}

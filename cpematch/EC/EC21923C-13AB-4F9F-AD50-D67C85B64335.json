@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EC21923C-13AB-4F9F-AD50-D67C85B64335", "criteria": "cpe:2.3:a:ibm:qiskit_ibm_runtime:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.1.0", "versionEndExcluding": "0.21.2", "lastModified": "2025-12-02T20:05:35.683", "created": "2025-12-02T20:05:35.683", "status": "Active"}}
