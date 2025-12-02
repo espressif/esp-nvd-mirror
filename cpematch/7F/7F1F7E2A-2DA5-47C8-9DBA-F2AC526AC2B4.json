@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7F1F7E2A-2DA5-47C8-9DBA-F2AC526AC2B4", "criteria": "cpe:2.3:a:openzeppelin:contracts:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "4.5.0", "versionEndExcluding": "5.0.2", "lastModified": "2025-12-02T19:33:11.620", "cpeLastModified": "2025-12-02T19:32:18.627", "created": "2025-12-02T19:32:18.627", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "67921273-86B8-46EE-A99E-7B92D80EAB05", "criteria": "cpe:2.3:a:acryl_data:datahub-helm:*:*:*:*:*:helm:*:*", "versionStartIncluding": "0.1.143", "versionEndExcluding": "0.2.182", "lastModified": "2025-12-02T19:47:31.350", "created": "2025-12-02T19:47:31.350", "status": "Active"}}
