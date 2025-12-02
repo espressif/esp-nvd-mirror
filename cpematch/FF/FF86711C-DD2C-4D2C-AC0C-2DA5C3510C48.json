@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FF86711C-DD2C-4D2C-AC0C-2DA5C3510C48", "criteria": "cpe:2.3:a:cloudevents:go-sdk:*:*:*:*:*:*:*:*", "versionEndIncluding": "2.5.1", "lastModified": "2025-12-02T15:36:45.987", "created": "2025-12-02T15:36:27.590", "status": "Inactive"}}

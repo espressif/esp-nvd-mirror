@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2102EFDA-BE62-4587-A556-98CF28167D6D", "criteria": "cpe:2.3:a:siderolabs:omni:*:*:*:*:*:kubernetes:*:*", "versionStartIncluding": "1.1.0", "versionEndExcluding": "1.1.5", "lastModified": "2025-12-02T15:50:58.130", "cpeLastModified": "2025-12-02T15:50:58.130", "created": "2025-12-02T15:50:58.130", "status": "Active"}}

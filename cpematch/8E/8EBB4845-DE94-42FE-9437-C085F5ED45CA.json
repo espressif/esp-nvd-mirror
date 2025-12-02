@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "8EBB4845-DE94-42FE-9437-C085F5ED45CA", "criteria": "cpe:2.3:a:apache:cloudstack:4.9.0.0:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "8EBB4845-DE94-42FE-9437-C085F5ED45CA", "criteria": "cpe:2.3:a:apache:cloudstack:4.9.0.0:*:*:*:*:*:*:*", "lastModified": "2025-12-02T14:37:07.467", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}
