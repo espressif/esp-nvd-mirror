@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "53BDBFB7-8E88-4C2D-AB7E-A1508EC16B42", "criteria": "cpe:2.3:a:simple_oauth_project:simple_oauth:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.0.7", "lastModified": "2025-12-03T20:01:53.537", "created": "2025-12-03T20:01:53.537", "status": "Active"}}
