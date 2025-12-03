@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9D399C29-839B-40C0-8348-2435724FC9B0", "criteria": "cpe:2.3:a:mozilla:neqo:*:*:*:*:*:rust:*:*", "versionStartIncluding": "0.4.24", "versionEndIncluding": "0.13.2", "lastModified": "2025-12-03T20:38:03.547", "created": "2025-12-03T20:38:03.547", "status": "Active"}}
