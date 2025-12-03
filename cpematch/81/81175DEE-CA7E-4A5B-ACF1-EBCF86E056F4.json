@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "81175DEE-CA7E-4A5B-ACF1-EBCF86E056F4", "criteria": "cpe:2.3:a:rsshub:rsshub:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "1.0.0-master.cbbd829", "versionEndExcluding": "1.0.0-master.d8ca915", "lastModified": "2025-12-03T14:23:17.320", "created": "2025-12-03T14:23:17.320", "status": "Active"}}
