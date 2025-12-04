@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0ED70810-C80E-4A45-9689-E5A52E04EB8C", "criteria": "cpe:2.3:a:astro:cloudflare:*:*:*:*:*:astro:*:*", "versionStartIncluding": "11.0.3", "versionEndExcluding": "12.6.6", "lastModified": "2025-12-04T18:52:02.027", "created": "2025-12-04T18:46:20.130", "status": "Inactive"}}
