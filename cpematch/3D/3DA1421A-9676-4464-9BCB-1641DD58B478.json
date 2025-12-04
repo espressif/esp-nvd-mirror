@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3DA1421A-9676-4464-9BCB-1641DD58B478", "criteria": "cpe:2.3:a:mongodb:c_driver:*:*:*:*:*:mongodb:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.1.2", "lastModified": "2025-12-04T14:17:12.687", "created": "2025-12-04T14:17:12.687", "status": "Active"}}
