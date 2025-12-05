@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "95894351-3797-4F04-A0DF-85DC2ED43C36", "criteria": "cpe:2.3:a:facebook:react-server-dom-parcel:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "19.1.0", "versionEndExcluding": "19.1.2", "lastModified": "2025-12-05T17:24:23.440", "cpeLastModified": "2025-12-05T16:38:36.690", "created": "2025-12-05T16:38:36.690", "status": "Inactive"}}
