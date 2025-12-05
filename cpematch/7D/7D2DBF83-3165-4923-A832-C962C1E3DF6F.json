@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7D2DBF83-3165-4923-A832-C962C1E3DF6F", "criteria": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.6.0", "versionEndExcluding": "4.6.2", "lastModified": "2025-12-05T04:02:55.433", "cpeLastModified": "2025-12-05T04:02:55.433", "created": "2025-12-05T04:02:55.433", "status": "Active"}}
