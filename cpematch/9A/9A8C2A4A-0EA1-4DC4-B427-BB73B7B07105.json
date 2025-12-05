@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9A8C2A4A-0EA1-4DC4-B427-BB73B7B07105", "criteria": "cpe:2.3:a:wixtoolset_project:wixtoolset:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.0.5", "lastModified": "2025-12-05T18:21:22.383", "created": "2025-12-05T18:21:22.383", "status": "Active"}}
