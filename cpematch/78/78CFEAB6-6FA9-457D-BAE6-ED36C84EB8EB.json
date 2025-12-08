@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "78CFEAB6-6FA9-457D-BAE6-ED36C84EB8EB", "criteria": "cpe:2.3:a:wso2:traffic_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.5.0", "versionEndExcluding": "4.5.0.27", "lastModified": "2025-12-08T18:32:25.153", "cpeLastModified": "2025-12-08T18:32:25.153", "created": "2025-12-08T18:32:25.153", "status": "Active"}}

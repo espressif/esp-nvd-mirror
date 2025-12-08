@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1D7048C8-EB43-4F23-8946-456EF6F3A1B7", "criteria": "cpe:2.3:o:entrust:nshield_connect_xc_high_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.7", "versionEndExcluding": "13.9.0", "lastModified": "2025-12-08T19:23:53.677", "cpeLastModified": "2025-12-08T19:23:53.677", "created": "2025-12-08T19:23:53.677", "status": "Active"}}

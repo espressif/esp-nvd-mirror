@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D7125CC3-3B27-4C90-97DE-51D226FBDC00", "criteria": "cpe:2.3:o:entrust:nshield_hsmi_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.7", "versionEndExcluding": "13.9.0", "lastModified": "2025-12-08T19:23:53.677", "cpeLastModified": "2025-12-08T19:23:53.677", "created": "2025-12-08T19:23:53.677", "status": "Active"}}

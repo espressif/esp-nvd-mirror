@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8957D59D-3904-44AF-BE40-50A40E7B9F74", "criteria": "cpe:2.3:a:wso2:api_control_plane:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.5.0", "versionEndExcluding": "4.5.0.29", "lastModified": "2025-12-08T18:30:02.980", "cpeLastModified": "2025-12-08T18:30:02.980", "created": "2025-12-08T18:30:02.980", "status": "Active"}}

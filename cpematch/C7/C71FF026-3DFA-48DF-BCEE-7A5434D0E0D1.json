@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C71FF026-3DFA-48DF-BCEE-7A5434D0E0D1", "criteria": "cpe:2.3:a:nextcloud:two-factor_webauthn:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.4.2", "lastModified": "2025-12-08T20:01:07.623", "created": "2025-12-08T20:01:07.623", "status": "Active"}}
