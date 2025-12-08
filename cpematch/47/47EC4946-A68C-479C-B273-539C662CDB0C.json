@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "47EC4946-A68C-479C-B273-539C662CDB0C", "criteria": "cpe:2.3:a:nextcloud:talk:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.1.0", "versionEndExcluding": "21.1.2", "lastModified": "2025-12-08T20:25:46.713", "cpeLastModified": "2025-12-08T20:25:46.713", "created": "2025-12-08T20:25:46.713", "status": "Active"}}
