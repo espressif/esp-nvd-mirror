@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "924EA066-A3B4-4A5F-936D-9A8846A184E2", "criteria": "cpe:2.3:h:dell:optiplex_7000_micro:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "924EA066-A3B4-4A5F-936D-9A8846A184E2", "criteria": "cpe:2.3:h:dell:optiplex_7000_micro:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:17:33.333", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "F005B4A2-BA85-41C2-A682-6F11E44C7FF5", "criteria": "cpe:2.3:h:dell:alienware_m16_r1:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "F005B4A2-BA85-41C2-A682-6F11E44C7FF5", "criteria": "cpe:2.3:h:dell:alienware_m16_r1:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:22:48.477", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

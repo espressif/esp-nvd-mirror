@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "524A0923-2E2A-44E6-9D18-F18BBBE19F84", "criteria": "cpe:2.3:h:dell:optiplex_5090_micro:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "524A0923-2E2A-44E6-9D18-F18BBBE19F84", "criteria": "cpe:2.3:h:dell:optiplex_5090_micro:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:22:48.477", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

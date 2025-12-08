@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "4879AE7C-8215-45AF-930E-421F91839C83", "criteria": "cpe:2.3:h:dell:vostro_3030s:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "4879AE7C-8215-45AF-930E-421F91839C83", "criteria": "cpe:2.3:h:dell:vostro_3030s:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:22:48.477", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

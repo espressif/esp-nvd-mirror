@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "8EF0A3EF-492A-4F3C-8EF0-904A458D7F16", "criteria": "cpe:2.3:o:dell:precision_3591_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.8.0", "lastModified": "2025-12-01T14:41:11.117", "created": "2025-12-01T13:51:55.220", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "8EF0A3EF-492A-4F3C-8EF0-904A458D7F16", "criteria": "cpe:2.3:o:dell:precision_3591_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.8.0", "lastModified": "2025-12-08T17:20:48.620", "created": "2025-12-01T13:51:55.220", "status": "Active"}}

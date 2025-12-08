@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "DB3F9521-111E-4034-A060-AF088ABE2CDD", "criteria": "cpe:2.3:h:dell:xps_13_plus_9320:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "DB3F9521-111E-4034-A060-AF088ABE2CDD", "criteria": "cpe:2.3:h:dell:xps_13_plus_9320:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:20:48.620", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

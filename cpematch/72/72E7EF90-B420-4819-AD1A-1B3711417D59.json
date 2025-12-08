@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "72E7EF90-B420-4819-AD1A-1B3711417D59", "criteria": "cpe:2.3:h:dell:latitude_5500:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "72E7EF90-B420-4819-AD1A-1B3711417D59", "criteria": "cpe:2.3:h:dell:latitude_5500:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:22:48.477", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

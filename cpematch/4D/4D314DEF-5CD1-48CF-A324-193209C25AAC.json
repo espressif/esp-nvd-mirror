@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "4D314DEF-5CD1-48CF-A324-193209C25AAC", "criteria": "cpe:2.3:h:dell:optiplex_5080:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "4D314DEF-5CD1-48CF-A324-193209C25AAC", "criteria": "cpe:2.3:h:dell:optiplex_5080:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:20:48.620", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

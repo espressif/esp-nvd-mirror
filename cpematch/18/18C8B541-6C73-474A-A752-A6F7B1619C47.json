@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "18C8B541-6C73-474A-A752-A6F7B1619C47", "criteria": "cpe:2.3:h:dell:vostro_14_3440:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "18C8B541-6C73-474A-A752-A6F7B1619C47", "criteria": "cpe:2.3:h:dell:vostro_14_3440:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:18:43.663", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

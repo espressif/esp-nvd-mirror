@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C169661C-CE21-44B4-BFAC-6159CA8C612A", "criteria": "cpe:2.3:h:dell:vostro_3890:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "C169661C-CE21-44B4-BFAC-6159CA8C612A", "criteria": "cpe:2.3:h:dell:vostro_3890:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:20:48.620", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "07C6B13E-F1C2-4F57-9FEA-7BAD7D30CE67", "criteria": "cpe:2.3:h:dell:optiplex_tower_7010:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "07C6B13E-F1C2-4F57-9FEA-7BAD7D30CE67", "criteria": "cpe:2.3:h:dell:optiplex_tower_7010:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:18:43.663", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

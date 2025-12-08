@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "176CE739-9C33-4924-9400-07DF980616B3", "criteria": "cpe:2.3:h:dell:xps_13_7390:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "176CE739-9C33-4924-9400-07DF980616B3", "criteria": "cpe:2.3:h:dell:xps_13_7390:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:21:38.867", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

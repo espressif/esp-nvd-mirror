@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D126CFBD-0881-4AFE-ABC5-F283E71E66F4", "criteria": "cpe:2.3:h:dell:precision_7770:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "D126CFBD-0881-4AFE-ABC5-F283E71E66F4", "criteria": "cpe:2.3:h:dell:precision_7770:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:17:33.333", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

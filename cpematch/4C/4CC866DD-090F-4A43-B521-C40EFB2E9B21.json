@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "4CC866DD-090F-4A43-B521-C40EFB2E9B21", "criteria": "cpe:2.3:h:dell:optiplex_xe4_tower:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "4CC866DD-090F-4A43-B521-C40EFB2E9B21", "criteria": "cpe:2.3:h:dell:optiplex_xe4_tower:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:20:48.620", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

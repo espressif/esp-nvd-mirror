@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B0FC5712-C689-40C7-AB9A-F594BCF37585", "criteria": "cpe:2.3:a:libjwt:libjwt:1.15.3:*:*:*:*:*:*:*", "lastModified": "2025-11-18T15:44:10.423", "cpeLastModified": "2025-11-18T15:44:10.423", "created": "2025-11-18T15:44:10.423", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "B0FC5712-C689-40C7-AB9A-F594BCF37585", "criteria": "cpe:2.3:a:libjwt:libjwt:1.15.3:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:22:48.477", "cpeLastModified": "2025-11-18T15:44:10.423", "created": "2025-11-18T15:44:10.423", "status": "Active"}}

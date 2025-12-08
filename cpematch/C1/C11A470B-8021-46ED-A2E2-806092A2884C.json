@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C11A470B-8021-46ED-A2E2-806092A2884C", "criteria": "cpe:2.3:h:dell:latitude_5400:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "C11A470B-8021-46ED-A2E2-806092A2884C", "criteria": "cpe:2.3:h:dell:latitude_5400:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:21:38.867", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

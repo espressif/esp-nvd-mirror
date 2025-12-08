@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B8776D3B-8EDF-4A22-9AF0-D110B9BBE8AF", "criteria": "cpe:2.3:h:dell:chengming_3911:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "B8776D3B-8EDF-4A22-9AF0-D110B9BBE8AF", "criteria": "cpe:2.3:h:dell:chengming_3911:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:17:33.333", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

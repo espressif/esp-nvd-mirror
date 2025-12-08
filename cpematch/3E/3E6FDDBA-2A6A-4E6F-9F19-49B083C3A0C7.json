@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "3E6FDDBA-2A6A-4E6F-9F19-49B083C3A0C7", "criteria": "cpe:2.3:h:dell:inspiron_5410:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "3E6FDDBA-2A6A-4E6F-9F19-49B083C3A0C7", "criteria": "cpe:2.3:h:dell:inspiron_5410:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:22:48.477", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

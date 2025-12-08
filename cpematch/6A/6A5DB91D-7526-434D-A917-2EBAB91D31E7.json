@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "6A5DB91D-7526-434D-A917-2EBAB91D31E7", "criteria": "cpe:2.3:o:dell:xps_9320_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.18.1", "lastModified": "2025-12-01T14:41:11.117", "created": "2025-12-01T13:51:55.220", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "6A5DB91D-7526-434D-A917-2EBAB91D31E7", "criteria": "cpe:2.3:o:dell:xps_9320_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.18.1", "lastModified": "2025-12-08T17:18:43.663", "created": "2025-12-01T13:51:55.220", "status": "Active"}}

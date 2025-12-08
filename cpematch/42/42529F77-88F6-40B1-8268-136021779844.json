@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "42529F77-88F6-40B1-8268-136021779844", "criteria": "cpe:2.3:h:dell:optiplex_7070_ultra:*:*:*:*:*:*:*:*", "lastModified": "2025-12-01T13:51:55.220", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "42529F77-88F6-40B1-8268-136021779844", "criteria": "cpe:2.3:h:dell:optiplex_7070_ultra:*:*:*:*:*:*:*:*", "lastModified": "2025-12-08T17:22:48.477", "cpeLastModified": "2025-11-28T20:45:40.853", "created": "2025-11-28T20:45:40.853", "status": "Active"}}

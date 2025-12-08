@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "00F86BCE-31BC-463B-8CF2-9F581168793D", "criteria": "cpe:2.3:a:dfinity:motoko:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.9.0", "versionEndExcluding": "0.13.4", "lastModified": "2025-12-08T17:32:33.577", "cpeLastModified": "2025-12-08T17:32:33.577", "created": "2025-12-08T17:32:33.577", "status": "Active"}}
