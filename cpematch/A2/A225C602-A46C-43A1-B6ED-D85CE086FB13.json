@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A225C602-A46C-43A1-B6ED-D85CE086FB13", "criteria": "cpe:2.3:o:entrust:nshield_5c_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.7.3", "versionEndExcluding": "13.9.0", "lastModified": "2025-12-08T14:55:33.613", "created": "2025-12-08T14:55:33.613", "status": "Active"}}

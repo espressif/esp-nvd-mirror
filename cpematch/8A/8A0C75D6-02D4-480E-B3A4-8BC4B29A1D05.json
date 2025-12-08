@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8A0C75D6-02D4-480E-B3A4-8BC4B29A1D05", "criteria": "cpe:2.3:a:antirez:linenoise:1.0:*:*:*:*:*:*:*", "lastModified": "2025-12-08T15:29:08.253", "created": "2025-12-08T15:24:01.953", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:antirez:linenoise:1.0:*:*:*:*:*:*:*", "cpeNameId": "10423C23-6AAA-439E-B723-1FCDEB3A769F"}]}}

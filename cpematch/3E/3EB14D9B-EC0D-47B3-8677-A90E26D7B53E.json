@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "3EB14D9B-EC0D-47B3-8677-A90E26D7B53E", "criteria": "cpe:2.3:o:fujitsu:celsius_w580power_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-11-03T19:49:56.380", "created": "2025-11-03T19:49:56.380", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "3EB14D9B-EC0D-47B3-8677-A90E26D7B53E", "criteria": "cpe:2.3:o:fujitsu:celsius_w580power_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-12-08T15:30:37.037", "created": "2025-11-03T19:49:56.380", "status": "Inactive"}}

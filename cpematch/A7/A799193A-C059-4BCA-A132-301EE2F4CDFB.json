@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A799193A-C059-4BCA-A132-301EE2F4CDFB", "criteria": "cpe:2.3:a:qnap:smb_service:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.15.0", "versionEndExcluding": "4.15.002", "lastModified": "2025-12-08T15:21:26.450", "created": "2025-12-08T15:19:23.103", "status": "Inactive"}}
