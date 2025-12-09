@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "044CC757-C3C4-49B1-832E-C2CEDE507420", "criteria": "cpe:2.3:a:nextcloud:talk:*:*:*:*:*:*:*:*", "versionEndExcluding": "12.1.2", "lastModified": "2022-03-10T15:05:49.960", "created": "2022-03-10T15:05:49.960", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "044CC757-C3C4-49B1-832E-C2CEDE507420", "criteria": "cpe:2.3:a:nextcloud:talk:*:*:*:*:*:*:*:*", "versionEndExcluding": "12.1.2", "lastModified": "2025-12-09T16:20:31.100", "created": "2022-03-10T15:05:49.960", "status": "Inactive"}}
