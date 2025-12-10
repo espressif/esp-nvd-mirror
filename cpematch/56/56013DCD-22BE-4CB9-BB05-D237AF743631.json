@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "56013DCD-22BE-4CB9-BB05-D237AF743631", "criteria": "cpe:2.3:a:wasmi-labs:wasmi:*:*:*:*:*:rust:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.0.1", "lastModified": "2025-12-10T16:23:37.867", "cpeLastModified": "2025-12-10T16:23:37.867", "created": "2025-12-10T16:23:37.867", "status": "Active"}}
