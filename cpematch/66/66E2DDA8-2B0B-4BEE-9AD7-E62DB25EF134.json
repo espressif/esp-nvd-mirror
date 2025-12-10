@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "66E2DDA8-2B0B-4BEE-9AD7-E62DB25EF134", "criteria": "cpe:2.3:a:icinga:icinga_db_web:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.0", "versionEndExcluding": "1.2.2", "lastModified": "2025-12-10T21:51:13.410", "cpeLastModified": "2025-12-10T21:51:13.410", "created": "2025-12-10T21:51:13.410", "status": "Active"}}

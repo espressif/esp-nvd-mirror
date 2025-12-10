@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A01DEE34-9B0E-4629-8C3B-4FD7764D8558", "criteria": "cpe:2.3:a:ibm:devops_deploy:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.1.0.0", "versionEndExcluding": "8.1.2.2", "lastModified": "2025-12-10T20:21:16.973", "cpeLastModified": "2025-12-10T20:21:16.973", "created": "2025-12-10T20:21:16.973", "status": "Active"}}
