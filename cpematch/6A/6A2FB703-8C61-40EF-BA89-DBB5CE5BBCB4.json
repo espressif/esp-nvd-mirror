@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6A2FB703-8C61-40EF-BA89-DBB5CE5BBCB4", "criteria": "cpe:2.3:a:hashicorp:terraform:*:*:*:*:enterprise:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.0.3", "lastModified": "2025-12-10T19:13:12.157", "created": "2025-12-10T19:13:12.157", "status": "Active"}}

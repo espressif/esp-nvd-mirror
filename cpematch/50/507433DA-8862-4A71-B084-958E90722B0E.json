@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "507433DA-8862-4A71-B084-958E90722B0E", "criteria": "cpe:2.3:a:microsoft:azure_compute_resource_provider:*:*:*:*:*:*:*:*", "lastModified": "2025-12-10T16:54:31.750", "created": "2025-12-10T16:54:31.750", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "507433DA-8862-4A71-B084-958E90722B0E", "criteria": "cpe:2.3:a:microsoft:azure_compute_resource_provider:*:*:*:*:*:*:*:*", "lastModified": "2025-12-10T18:05:48.717", "created": "2025-12-10T16:54:31.750", "status": "Inactive"}}

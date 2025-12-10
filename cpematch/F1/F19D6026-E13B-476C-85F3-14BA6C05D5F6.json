@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F19D6026-E13B-476C-85F3-14BA6C05D5F6", "criteria": "cpe:2.3:a:ibm:watsonx.data:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.2.0", "versionEndExcluding": "2.2.2", "lastModified": "2025-12-10T19:54:55.663", "cpeLastModified": "2025-12-10T19:54:55.663", "created": "2025-12-10T19:54:55.663", "status": "Active"}}

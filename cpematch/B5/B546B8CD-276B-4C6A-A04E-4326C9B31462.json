@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B546B8CD-276B-4C6A-A04E-4326C9B31462", "criteria": "cpe:2.3:a:hashicorp:nomad:*:*:*:*:enterprise:*:*:*", "versionStartIncluding": "1.7.0", "versionEndExcluding": "1.7.9", "lastModified": "2025-12-10T18:23:50.180", "cpeLastModified": "2025-12-10T18:19:21.230", "created": "2025-12-10T18:19:21.230", "status": "Inactive"}}

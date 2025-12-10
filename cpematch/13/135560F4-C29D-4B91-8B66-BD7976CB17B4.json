@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "135560F4-C29D-4B91-8B66-BD7976CB17B4", "criteria": "cpe:2.3:a:hashicorp:boundary:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.17.0", "versionEndExcluding": "0.17.3", "lastModified": "2025-12-10T18:59:01.050", "created": "2025-12-10T18:59:01.050", "status": "Active"}}

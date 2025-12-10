@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1FC4A71D-DC72-4A3A-9485-F0060FEC9519", "criteria": "cpe:2.3:a:hashicorp:nomad:*:*:*:*:-:*:*:*", "versionStartIncluding": "1.7.8", "versionEndExcluding": "1.7.10", "lastModified": "2025-12-10T18:23:50.180", "created": "2025-12-10T18:23:50.180", "status": "Active"}}

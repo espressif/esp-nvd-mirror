@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "F079D268-89BA-434E-8942-DD3E0DD6EBEC", "criteria": "cpe:2.3:a:microsoft:dynamics_omnichannel_sdk_storage_containers:*:*:*:*:*:*:*:*", "lastModified": "2025-12-10T16:36:39.453", "created": "2025-12-10T16:36:39.453", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "F079D268-89BA-434E-8942-DD3E0DD6EBEC", "criteria": "cpe:2.3:a:microsoft:dynamics_omnichannel_sdk_storage_containers:*:*:*:*:*:*:*:*", "lastModified": "2025-12-10T18:06:37.540", "created": "2025-12-10T16:36:39.453", "status": "Inactive"}}
