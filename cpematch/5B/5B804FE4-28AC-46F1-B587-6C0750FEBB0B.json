@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5B804FE4-28AC-46F1-B587-6C0750FEBB0B", "criteria": "cpe:2.3:a:elastic:elastic_cloud_enterprise:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.8.0", "versionEndExcluding": "3.8.3", "lastModified": "2025-12-11T19:43:02.290", "cpeLastModified": "2025-12-11T19:43:02.290", "created": "2025-12-11T19:43:02.290", "status": "Active"}}
