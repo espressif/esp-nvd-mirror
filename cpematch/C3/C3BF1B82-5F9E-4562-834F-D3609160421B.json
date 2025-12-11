@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C3BF1B82-5F9E-4562-834F-D3609160421B", "criteria": "cpe:2.3:a:algosec:firewall_analyzer:*:*:*:*:*:*:*:*", "versionStartIncluding": "a33.0", "versionEndIncluding": "b320", "lastModified": "2025-12-11T17:21:31.477", "created": "2025-12-11T16:39:24.980", "status": "Inactive"}}

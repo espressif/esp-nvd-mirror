@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4253E0AA-9AB0-43D5-A495-2E672156D8A9", "criteria": "cpe:2.3:a:ibm:watson_studio_on_cloud_pak_for_data:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0", "versionEndExcluding": "5.2.1", "lastModified": "2025-12-11T16:11:54.593", "created": "2025-12-11T16:11:54.593", "status": "Active"}}
