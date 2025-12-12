@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A8FEAB32-4588-4479-BCCA-5253FE85DB69", "criteria": "cpe:2.3:a:cloudflare:gokey:*:*:*:*:*:go:*:*", "versionEndExcluding": "0.2.0", "lastModified": "2025-12-12T16:55:36.047", "cpeLastModified": "2025-12-12T16:55:36.047", "created": "2025-12-12T16:55:36.047", "status": "Active"}}
