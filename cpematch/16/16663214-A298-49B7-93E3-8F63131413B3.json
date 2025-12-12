@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "16663214-A298-49B7-93E3-8F63131413B3", "criteria": "cpe:2.3:a:ibm:aspera_http_gateway:*:*:*:*:*:linux:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.3.2", "lastModified": "2025-12-11T22:12:00.160", "cpeLastModified": "2025-12-11T22:12:00.160", "created": "2025-12-11T22:12:00.160", "status": "Active"}}
