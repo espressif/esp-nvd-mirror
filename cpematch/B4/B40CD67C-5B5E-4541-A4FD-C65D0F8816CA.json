@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B40CD67C-5B5E-4541-A4FD-C65D0F8816CA", "criteria": "cpe:2.3:a:argoproj:argo_workflows:*:*:*:*:*:go:*:*", "versionStartIncluding": "3.7.0", "versionEndExcluding": "3.7.5", "lastModified": "2025-12-15T20:15:57.793", "created": "2025-12-15T20:15:57.793", "status": "Active"}}
