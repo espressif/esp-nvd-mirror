@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "81BD4D96-C9E9-422B-B18A-61ECFE711884", "criteria": "cpe:2.3:a:ibm:verify_identity_access_docker:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.0.0.0", "versionEndExcluding": "11.0.1.0", "lastModified": "2025-12-15T19:15:17.157", "cpeLastModified": "2025-12-15T19:15:17.157", "created": "2025-12-15T19:15:17.157", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "41035CD2-DE13-469A-984F-6BC1CCCF2695", "criteria": "cpe:2.3:a:elysiajs:elysia:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "1.4.0", "versionEndExcluding": "1.4.17", "lastModified": "2025-12-15T19:45:30.980", "created": "2025-12-15T19:45:30.980", "status": "Active"}}

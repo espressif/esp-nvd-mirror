@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "16595130-3A46-4DD1-9DAA-53E534306975", "criteria": "cpe:2.3:a:ibm:verify_identity_access:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.0.0.0", "versionEndExcluding": "11.0.1.0", "lastModified": "2025-12-15T19:13:41.367", "cpeLastModified": "2025-12-15T19:13:41.367", "created": "2025-12-15T19:13:41.367", "status": "Active"}}
