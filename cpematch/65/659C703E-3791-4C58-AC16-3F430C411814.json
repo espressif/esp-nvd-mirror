@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "659C703E-3791-4C58-AC16-3F430C411814", "criteria": "cpe:2.3:a:arm:5th_gen_gpu_architecture_userspace_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "r41p0", "versionEndIncluding": "r49p2", "lastModified": "2025-12-16T17:13:09.340", "cpeLastModified": "2025-12-16T17:10:34.403", "created": "2025-12-16T17:10:34.403", "status": "Inactive"}}

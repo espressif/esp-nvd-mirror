@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "146998B5-2679-444E-BEEE-2F10E524F12B", "criteria": "cpe:2.3:a:arm:5th_gen_gpu_architecture_userspace_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "r50p0", "versionEndIncluding": "r53p0", "lastModified": "2025-12-16T17:13:09.340", "cpeLastModified": "2025-12-16T17:11:26.250", "created": "2025-12-16T17:11:26.250", "status": "Inactive"}}

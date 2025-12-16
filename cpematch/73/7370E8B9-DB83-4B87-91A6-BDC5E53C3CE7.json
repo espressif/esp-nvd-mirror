@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7370E8B9-DB83-4B87-91A6-BDC5E53C3CE7", "criteria": "cpe:2.3:a:elastic:elasticsearch:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.2.0", "versionEndExcluding": "9.2.2", "lastModified": "2025-12-16T17:08:04.610", "cpeLastModified": "2025-12-16T17:08:04.610", "created": "2025-12-16T17:08:04.610", "status": "Active"}}
