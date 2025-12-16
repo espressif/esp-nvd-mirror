@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3FD23E28-2CBF-4336-9034-EAC6FA0185CA", "criteria": "cpe:2.3:a:arista:cloudvision_appliance:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.2", "versionEndExcluding": "5.1.0", "lastModified": "2025-12-16T21:53:26.130", "created": "2025-12-16T21:53:26.130", "status": "Active"}}
