@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B5098811-13CB-4F1E-81FE-D2BA45D515BB", "criteria": "cpe:2.3:a:sonarsource:sonarqube:6.7.3-alpine:*:*:*:*:*:*:*", "lastModified": "2020-12-17T11:50:43.850", "created": "2020-12-17T11:50:43.850", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B5098811-13CB-4F1E-81FE-D2BA45D515BB", "criteria": "cpe:2.3:a:sonarsource:sonarqube:6.7.3-alpine:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-12-17T11:50:43.850", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "0A5D818F-D456-4628-A847-0B6F5AAB0383", "criteria": "cpe:2.3:a:docker:memcached:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.5.11-alpine", "lastModified": "2020-12-17T19:35:57.417", "created": "2020-12-17T19:35:57.417", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "0A5D818F-D456-4628-A847-0B6F5AAB0383", "criteria": "cpe:2.3:a:docker:memcached:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.5.11-alpine", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-12-17T19:35:57.417", "status": "Inactive"}}

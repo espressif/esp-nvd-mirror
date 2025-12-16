@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "5A40DF87-43CB-4123-B9C9-82ABB26F7EB6", "criteria": "cpe:2.3:a:remi.rampin:taguette:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.5.0", "lastModified": "2025-10-29T20:44:07.333", "created": "2025-10-29T20:44:07.333", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "5A40DF87-43CB-4123-B9C9-82ABB26F7EB6", "criteria": "cpe:2.3:a:remi.rampin:taguette:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.5.0", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-29T20:44:07.333", "status": "Inactive"}}

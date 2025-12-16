@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "120E95A7-EB27-4C64-AF60-FCA6D50E1F42", "criteria": "cpe:2.3:a:laiketul:laiketul:3.0:*:*:*:*:*:*:*", "lastModified": "2021-09-22T01:46:01.830", "cpeLastModified": "2021-09-22T20:57:08.160", "created": "2021-09-22T01:46:01.830", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "120E95A7-EB27-4C64-AF60-FCA6D50E1F42", "criteria": "cpe:2.3:a:laiketul:laiketul:3.0:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-09-22T20:57:08.160", "created": "2021-09-22T01:46:01.830", "status": "Inactive"}}

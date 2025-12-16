@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "3F0DDE97-6ADA-4DFB-8B00-9C1D94BCF741", "criteria": "cpe:2.3:h:hp:e5500-48g_switch:je090a:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T22:41:34.363", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "3F0DDE97-6ADA-4DFB-8B00-9C1D94BCF741", "criteria": "cpe:2.3:h:hp:e5500-48g_switch:je090a:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-03T22:41:34.363", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

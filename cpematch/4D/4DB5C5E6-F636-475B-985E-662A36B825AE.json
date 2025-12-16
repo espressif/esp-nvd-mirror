@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "4DB5C5E6-F636-475B-985E-662A36B825AE", "criteria": "cpe:2.3:o:redhat:enterprise_linux:8.2.1:*:*:*:advanced_virtualization:*:*:*", "lastModified": "2021-05-29T00:26:07.153", "created": "2021-05-29T00:26:07.153", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "4DB5C5E6-F636-475B-985E-662A36B825AE", "criteria": "cpe:2.3:o:redhat:enterprise_linux:8.2.1:*:*:*:advanced_virtualization:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-05-29T00:26:07.153", "status": "Inactive"}}

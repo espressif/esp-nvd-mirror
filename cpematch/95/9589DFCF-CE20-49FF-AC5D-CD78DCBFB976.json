@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "9589DFCF-CE20-49FF-AC5D-CD78DCBFB976", "criteria": "cpe:2.3:a:portable:playable:9.18:*:*:*:*:ios:*:*", "lastModified": "2021-10-27T14:55:59.167", "cpeLastModified": "2021-10-27T15:58:01.837", "created": "2021-10-27T14:55:59.167", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "9589DFCF-CE20-49FF-AC5D-CD78DCBFB976", "criteria": "cpe:2.3:a:portable:playable:9.18:*:*:*:*:ios:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-10-27T15:58:01.837", "created": "2021-10-27T14:55:59.167", "status": "Inactive"}}

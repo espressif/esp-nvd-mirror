@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AD0E1957-ED48-4239-BB82-701635EAD5DC", "criteria": "cpe:2.3:a:psu:haxcms-nodejs:*:-:*:*:*:node.js:*:*", "versionStartIncluding": "11.0.6", "versionEndExcluding": "11.0.13", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-08-21T18:50:33.343", "status": "Inactive"}}

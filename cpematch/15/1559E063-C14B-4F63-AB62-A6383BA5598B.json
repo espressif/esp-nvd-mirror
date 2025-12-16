@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "1559E063-C14B-4F63-AB62-A6383BA5598B", "criteria": "cpe:2.3:a:clam_anti-virus:clamav:*:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "1559E063-C14B-4F63-AB62-A6383BA5598B", "criteria": "cpe:2.3:a:clam_anti-virus:clamav:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

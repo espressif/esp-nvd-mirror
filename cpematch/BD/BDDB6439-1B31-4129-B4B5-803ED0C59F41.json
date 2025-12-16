@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "BDDB6439-1B31-4129-B4B5-803ED0C59F41", "criteria": "cpe:2.3:h:se:ion7550:4.0:*:*:*:*:*:*:*", "lastModified": "2021-03-22T17:41:22.150", "cpeLastModified": "2021-03-25T00:18:43.070", "created": "2021-03-22T17:41:22.150", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "BDDB6439-1B31-4129-B4B5-803ED0C59F41", "criteria": "cpe:2.3:h:se:ion7550:4.0:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-25T00:18:43.070", "created": "2021-03-22T17:41:22.150", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "F3D97E00-6CA9-4BC0-8E80-0A3A55C0E9E0", "criteria": "cpe:2.3:h:cisco:edge_100m:-:*:*:*:*:*:*:*", "lastModified": "2019-06-25T15:34:06.103", "cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-25T15:34:06.103", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "F3D97E00-6CA9-4BC0-8E80-0A3A55C0E9E0", "criteria": "cpe:2.3:h:cisco:edge_100m:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-25T15:34:06.103", "status": "Inactive"}}

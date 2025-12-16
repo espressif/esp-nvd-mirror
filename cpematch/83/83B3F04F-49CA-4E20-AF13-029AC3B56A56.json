@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "83B3F04F-49CA-4E20-AF13-029AC3B56A56", "criteria": "cpe:2.3:o:se:ion8400_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-03-15T14:17:32.610", "created": "2021-03-15T14:17:32.610", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "83B3F04F-49CA-4E20-AF13-029AC3B56A56", "criteria": "cpe:2.3:o:se:ion8400_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-03-15T14:17:32.610", "status": "Inactive"}}

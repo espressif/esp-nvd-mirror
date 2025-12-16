@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E660D419-1769-4D0A-B5FF-B821D56B6881", "criteria": "cpe:2.3:a:zapping-vbi:zbvi:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.2.44", "lastModified": "2025-10-02T17:46:57.120", "created": "2025-10-02T17:46:57.120", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E660D419-1769-4D0A-B5FF-B821D56B6881", "criteria": "cpe:2.3:a:zapping-vbi:zbvi:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.2.44", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-02T17:46:57.120", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "EA5B9FB6-2F77-432C-BF44-D460AF0C1732", "criteria": "cpe:2.3:a:nuserp:nus-m9_erp_management_software:3..0.0:*:*:*:*:*:*:*", "lastModified": "2025-09-26T16:04:32.110", "created": "2025-09-26T16:04:32.110", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "EA5B9FB6-2F77-432C-BF44-D460AF0C1732", "criteria": "cpe:2.3:a:nuserp:nus-m9_erp_management_software:3..0.0:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-09-26T16:04:32.110", "status": "Inactive"}}

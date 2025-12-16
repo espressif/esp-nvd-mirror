@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "0039499B-96D3-430E-875E-A73A97137F1C", "criteria": "cpe:2.3:o:se:ion8300_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-03-15T14:17:32.470", "created": "2021-03-15T14:17:32.470", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "0039499B-96D3-430E-875E-A73A97137F1C", "criteria": "cpe:2.3:o:se:ion8300_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-03-15T14:17:32.470", "status": "Inactive"}}

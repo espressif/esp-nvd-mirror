@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E8B5AF0D-A003-4BA7-B258-66EBCA8B2AE9", "criteria": "cpe:2.3:a:dropwizard:dropwizard:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.3.19", "lastModified": "2020-03-06T16:13:00.490", "created": "2020-03-06T16:13:00.490", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E8B5AF0D-A003-4BA7-B258-66EBCA8B2AE9", "criteria": "cpe:2.3:a:dropwizard:dropwizard:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.3.19", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-03-06T16:13:00.490", "status": "Inactive"}}

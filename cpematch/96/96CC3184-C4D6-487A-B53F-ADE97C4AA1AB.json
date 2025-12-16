@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "96CC3184-C4D6-487A-B53F-ADE97C4AA1AB", "criteria": "cpe:2.3:o:tenda:ac18_firmware:15.03.05.05_multi:*:*:*:*:*:*:*", "lastModified": "2025-11-17T15:41:29.230", "created": "2025-11-17T15:41:29.230", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "96CC3184-C4D6-487A-B53F-ADE97C4AA1AB", "criteria": "cpe:2.3:o:tenda:ac18_firmware:15.03.05.05_multi:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-11-17T15:41:29.230", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "DB6444DD-D431-4C5E-9938-107001EC4134", "criteria": "cpe:2.3:a:clamavs:clamav:0.24:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "DB6444DD-D431-4C5E-9938-107001EC4134", "criteria": "cpe:2.3:a:clamavs:clamav:0.24:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

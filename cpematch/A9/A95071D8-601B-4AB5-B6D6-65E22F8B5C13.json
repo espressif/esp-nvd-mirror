@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "A95071D8-601B-4AB5-B6D6-65E22F8B5C13", "criteria": "cpe:2.3:o:cometsystem:h3531_firmware:1.10:*:*:*:*:*:*:*", "lastModified": "2025-09-29T18:21:26.870", "created": "2025-09-29T18:21:26.870", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "A95071D8-601B-4AB5-B6D6-65E22F8B5C13", "criteria": "cpe:2.3:o:cometsystem:h3531_firmware:1.10:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-09-29T18:21:26.870", "status": "Inactive"}}

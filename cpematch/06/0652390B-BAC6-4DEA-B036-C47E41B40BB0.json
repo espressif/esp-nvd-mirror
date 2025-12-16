@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "0652390B-BAC6-4DEA-B036-C47E41B40BB0", "criteria": "cpe:2.3:h:intel:e5-2698:4:*:*:*:*:*:*:*", "lastModified": "2019-09-17T15:49:24.620", "cpeLastModified": "2022-03-01T03:15:07.847", "created": "2019-09-17T15:49:24.620", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "0652390B-BAC6-4DEA-B036-C47E41B40BB0", "criteria": "cpe:2.3:h:intel:e5-2698:4:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-03-01T03:15:07.847", "created": "2019-09-17T15:49:24.620", "status": "Inactive"}}

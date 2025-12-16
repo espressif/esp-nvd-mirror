@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "F1F23CF8-075D-4140-AE78-343FCE3E536B", "criteria": "cpe:2.3:a:xmpie:ustore:12.3.7244.0:*:*:*:*:*:*:*", "lastModified": "2022-02-12T02:59:18.077", "cpeLastModified": "2022-02-17T03:41:48.380", "created": "2022-02-12T02:59:18.077", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "F1F23CF8-075D-4140-AE78-343FCE3E536B", "criteria": "cpe:2.3:a:xmpie:ustore:12.3.7244.0:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-02-17T03:41:48.380", "created": "2022-02-12T02:59:18.077", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "8A2DA5BC-2DB0-4479-AD6E-5C0ED6AEB4C5", "criteria": "cpe:2.3:o:apple:maos:*:*:*:*:*:*:*:*", "versionEndExcluding": "11.1.0", "lastModified": "2021-04-07T17:16:49.190", "created": "2021-04-07T17:16:49.190", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "8A2DA5BC-2DB0-4479-AD6E-5C0ED6AEB4C5", "criteria": "cpe:2.3:o:apple:maos:*:*:*:*:*:*:*:*", "versionEndExcluding": "11.1.0", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-04-07T17:16:49.190", "status": "Inactive"}}

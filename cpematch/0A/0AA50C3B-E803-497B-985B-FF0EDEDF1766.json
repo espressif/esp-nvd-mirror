@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "0AA50C3B-E803-497B-985B-FF0EDEDF1766", "criteria": "cpe:2.3:h:aruba:cx_8360:-:*:*:*:*:*:*:*", "lastModified": "2021-08-03T14:12:30.710", "cpeLastModified": "2021-08-03T14:13:15.770", "created": "2021-08-03T14:12:30.710", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "0AA50C3B-E803-497B-985B-FF0EDEDF1766", "criteria": "cpe:2.3:h:aruba:cx_8360:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-08-03T14:13:15.770", "created": "2021-08-03T14:12:30.710", "status": "Inactive"}}

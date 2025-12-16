@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "1FF02579-E9A2-48EF-9734-36DE0FAC31BB", "criteria": "cpe:2.3:o:google:chrome_os:15753.50.0:*:*:*:*:*:*:*", "lastModified": "2025-10-02T20:48:27.383", "created": "2025-10-02T20:48:27.383", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "1FF02579-E9A2-48EF-9734-36DE0FAC31BB", "criteria": "cpe:2.3:o:google:chrome_os:15753.50.0:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-02T20:48:27.383", "status": "Inactive"}}

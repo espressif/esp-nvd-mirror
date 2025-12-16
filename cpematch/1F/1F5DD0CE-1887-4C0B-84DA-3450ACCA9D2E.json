@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "1F5DD0CE-1887-4C0B-84DA-3450ACCA9D2E", "criteria": "cpe:2.3:a:digi:connectport_x2e:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.2.30.6", "lastModified": "2021-02-18T23:52:55.460", "created": "2021-02-18T23:52:55.460", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "1F5DD0CE-1887-4C0B-84DA-3450ACCA9D2E", "criteria": "cpe:2.3:a:digi:connectport_x2e:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.2.30.6", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-02-18T23:52:55.460", "status": "Inactive"}}

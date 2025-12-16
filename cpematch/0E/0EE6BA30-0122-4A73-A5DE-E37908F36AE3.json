@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "0EE6BA30-0122-4A73-A5DE-E37908F36AE3", "criteria": "cpe:2.3:h:multilaser:ac1200:-:*:*:*:*:*:*:*", "lastModified": "2021-04-20T11:58:51.000", "cpeLastModified": "2021-04-20T11:58:57.060", "created": "2021-04-20T11:58:51.000", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "0EE6BA30-0122-4A73-A5DE-E37908F36AE3", "criteria": "cpe:2.3:h:multilaser:ac1200:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-04-20T11:58:57.060", "created": "2021-04-20T11:58:51.000", "status": "Inactive"}}

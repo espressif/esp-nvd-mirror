@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "98C26CF8-228F-4791-B5A3-B65DF709F402", "criteria": "cpe:2.3:o:samsung:android:16.0:smr-dec-2025-r1:*:*:*:*:*:*", "lastModified": "2025-12-02T20:08:54.277", "created": "2025-12-02T20:08:54.277", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "98C26CF8-228F-4791-B5A3-B65DF709F402", "criteria": "cpe:2.3:o:samsung:android:16.0:smr-dec-2025-r1:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-02T20:08:54.277", "status": "Inactive"}}

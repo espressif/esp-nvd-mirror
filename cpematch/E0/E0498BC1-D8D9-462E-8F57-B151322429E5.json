@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E0498BC1-D8D9-462E-8F57-B151322429E5", "criteria": "cpe:2.3:a:iced_project:iced:*:*:*:*:*:rust:*:*", "versionEndIncluding": "1.10.3", "lastModified": "2021-08-14T01:30:04.740", "created": "2021-08-14T01:30:04.740", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E0498BC1-D8D9-462E-8F57-B151322429E5", "criteria": "cpe:2.3:a:iced_project:iced:*:*:*:*:*:rust:*:*", "versionEndIncluding": "1.10.3", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-08-14T01:30:04.740", "status": "Inactive"}}

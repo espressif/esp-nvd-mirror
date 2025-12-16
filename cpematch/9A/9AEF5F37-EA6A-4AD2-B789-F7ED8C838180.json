@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "9AEF5F37-EA6A-4AD2-B789-F7ED8C838180", "criteria": "cpe:2.3:a:ibm:engineering_test_management:7.1.0:ifix002:*:*:*:*:*:*", "lastModified": "2025-12-11T15:51:16.090", "created": "2025-12-11T15:51:16.090", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "9AEF5F37-EA6A-4AD2-B789-F7ED8C838180", "criteria": "cpe:2.3:a:ibm:engineering_test_management:7.1.0:ifix002:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-11T15:51:16.090", "status": "Inactive"}}

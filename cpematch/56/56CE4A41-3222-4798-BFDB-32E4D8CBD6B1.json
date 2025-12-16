@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "56CE4A41-3222-4798-BFDB-32E4D8CBD6B1", "criteria": "cpe:2.3:a:fatek:plc_winproladder:*:*:*:*:*:*:*:*", "versionEndIncluding": "3.28", "lastModified": "2020-10-05T17:09:53.453", "created": "2020-10-05T17:09:53.453", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "56CE4A41-3222-4798-BFDB-32E4D8CBD6B1", "criteria": "cpe:2.3:a:fatek:plc_winproladder:*:*:*:*:*:*:*:*", "versionEndIncluding": "3.28", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-10-05T17:09:53.453", "status": "Inactive"}}

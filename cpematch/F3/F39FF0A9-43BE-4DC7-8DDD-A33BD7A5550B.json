@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "F39FF0A9-43BE-4DC7-8DDD-A33BD7A5550B", "criteria": "cpe:2.3:h:ntt_east:rt-400mi:-:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "F39FF0A9-43BE-4DC7-8DDD-A33BD7A5550B", "criteria": "cpe:2.3:h:ntt_east:rt-400mi:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

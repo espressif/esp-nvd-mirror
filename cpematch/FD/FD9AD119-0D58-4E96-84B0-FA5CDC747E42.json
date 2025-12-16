@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "FD9AD119-0D58-4E96-84B0-FA5CDC747E42", "criteria": "cpe:2.3:a:cncf:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*", "versionEndIncluding": "1.4.2", "lastModified": "2020-04-10T11:50:42.640", "created": "2020-04-10T11:50:42.640", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "FD9AD119-0D58-4E96-84B0-FA5CDC747E42", "criteria": "cpe:2.3:a:cncf:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*", "versionEndIncluding": "1.4.2", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-04-10T11:50:42.640", "status": "Inactive"}}

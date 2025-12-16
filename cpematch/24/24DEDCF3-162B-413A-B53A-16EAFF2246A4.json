@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "24DEDCF3-162B-413A-B53A-16EAFF2246A4", "criteria": "cpe:2.3:o:lb-link:bl-cpe300m_firmware:bl-r8800_b10_alk_sl_v01.01.02p42u14_06:*:*:*:*:*:*:*", "lastModified": "2025-09-25T16:26:08.643", "created": "2025-09-25T16:26:08.643", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "24DEDCF3-162B-413A-B53A-16EAFF2246A4", "criteria": "cpe:2.3:o:lb-link:bl-cpe300m_firmware:bl-r8800_b10_alk_sl_v01.01.02p42u14_06:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-09-25T16:26:08.643", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E90F501F-56F0-4BE1-B8DF-2BFD457E852C", "criteria": "cpe:2.3:a:kubernetes:kubernetes:1.12.11:beta.0:*:*:*:*:*:*", "lastModified": "2019-09-04T16:16:34.937", "created": "2019-09-04T16:16:34.937", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E90F501F-56F0-4BE1-B8DF-2BFD457E852C", "criteria": "cpe:2.3:a:kubernetes:kubernetes:1.12.11:beta.0:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2019-09-04T16:16:34.937", "status": "Inactive"}}

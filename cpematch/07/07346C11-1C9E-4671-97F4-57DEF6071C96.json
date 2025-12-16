@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "07346C11-1C9E-4671-97F4-57DEF6071C96", "criteria": "cpe:2.3:a:drupal:synchronize_composer.json_with_contrib_modules:*:*:*:*:*:*:*:*", "lastModified": "2025-12-03T16:37:02.067", "created": "2025-12-03T16:37:02.067", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "07346C11-1C9E-4671-97F4-57DEF6071C96", "criteria": "cpe:2.3:a:drupal:synchronize_composer.json_with_contrib_modules:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-03T16:37:02.067", "status": "Inactive"}}

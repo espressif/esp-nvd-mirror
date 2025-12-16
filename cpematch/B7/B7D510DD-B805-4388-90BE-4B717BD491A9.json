@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B7D510DD-B805-4388-90BE-4B717BD491A9", "criteria": "cpe:2.3:a:openplcproject:scadabr:*:*:*:*:*:windows:*:*", "versionEndIncluding": "1.12.4", "lastModified": "2021-06-21T17:51:36.967", "created": "2021-06-21T17:51:36.967", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B7D510DD-B805-4388-90BE-4B717BD491A9", "criteria": "cpe:2.3:a:openplcproject:scadabr:*:*:*:*:*:windows:*:*", "versionEndIncluding": "1.12.4", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-06-21T17:51:36.967", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "76EC80CF-FF37-4A09-B62A-E146039D65AB", "criteria": "cpe:2.3:a:milwaukee:one-key:-:*:*:*:*:android:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "76EC80CF-FF37-4A09-B62A-E146039D65AB", "criteria": "cpe:2.3:a:milwaukee:one-key:-:*:*:*:*:android:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

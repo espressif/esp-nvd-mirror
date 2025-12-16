@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "005F1F5D-9D86-4EBA-BF78-596FB87BED8D", "criteria": "cpe:2.3:a:sencha:extjs:5.0.0:*:*:*:*:*:*:*", "lastModified": "2020-01-27T18:48:46.300", "created": "2020-01-27T18:48:46.300", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "005F1F5D-9D86-4EBA-BF78-596FB87BED8D", "criteria": "cpe:2.3:a:sencha:extjs:5.0.0:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-01-27T18:48:46.300", "status": "Inactive"}}

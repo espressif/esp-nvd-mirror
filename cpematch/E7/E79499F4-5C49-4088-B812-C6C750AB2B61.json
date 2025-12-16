@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E79499F4-5C49-4088-B812-C6C750AB2B61", "criteria": "cpe:2.3:o:juniper:junos:14.1:x53-d27:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E79499F4-5C49-4088-B812-C6C750AB2B61", "criteria": "cpe:2.3:o:juniper:junos:14.1:x53-d27:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

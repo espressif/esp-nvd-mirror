@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "9116C0DB-93CD-4568-8EE8-8588C7599FEE", "criteria": "cpe:2.3:o:vmware:esxi:6.7:650-202008001:*:*:*:*:*:*", "lastModified": "2020-10-21T15:19:47.743", "created": "2020-10-21T15:19:47.743", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "9116C0DB-93CD-4568-8EE8-8588C7599FEE", "criteria": "cpe:2.3:o:vmware:esxi:6.7:650-202008001:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-10-21T15:19:47.743", "status": "Inactive"}}

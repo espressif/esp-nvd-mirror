@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E732D418-9720-4E59-889E-5A93858943C3", "criteria": "cpe:2.3:h:axis:p7304:q1798-le:*:*:*:*:*:*:*", "lastModified": "2025-11-24T15:51:25.857", "created": "2025-11-24T15:51:25.857", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E732D418-9720-4E59-889E-5A93858943C3", "criteria": "cpe:2.3:h:axis:p7304:q1798-le:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-11-24T15:51:25.857", "status": "Inactive"}}

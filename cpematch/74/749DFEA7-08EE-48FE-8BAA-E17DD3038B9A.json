@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "749DFEA7-08EE-48FE-8BAA-E17DD3038B9A", "criteria": "cpe:2.3:o:arm:trusted_firmware_m:*:*:*:*:*:*:*:*", "versionEndIncluding": "1.2", "lastModified": "2021-06-08T18:23:33.940", "created": "2021-06-08T18:23:33.940", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "749DFEA7-08EE-48FE-8BAA-E17DD3038B9A", "criteria": "cpe:2.3:o:arm:trusted_firmware_m:*:*:*:*:*:*:*:*", "versionEndIncluding": "1.2", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-06-08T18:23:33.940", "status": "Inactive"}}

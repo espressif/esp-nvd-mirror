@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "AF5AE65B-E202-4713-9260-0842FC7DFACB", "criteria": "cpe:2.3:a:web.sesame-system:web-sesame:2020.1.1.3375:*:*:*:*:*:*:*", "lastModified": "2021-01-08T13:42:49.810", "created": "2021-01-08T13:42:49.810", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "AF5AE65B-E202-4713-9260-0842FC7DFACB", "criteria": "cpe:2.3:a:web.sesame-system:web-sesame:2020.1.1.3375:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-01-08T13:42:49.810", "status": "Inactive"}}

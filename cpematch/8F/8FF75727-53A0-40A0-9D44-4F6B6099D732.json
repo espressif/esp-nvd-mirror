@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "8FF75727-53A0-40A0-9D44-4F6B6099D732", "criteria": "cpe:2.3:a:dfinity:agent-js:0.20.0:beta0:*:*:*:node.js:*:*", "lastModified": "2025-12-08T13:29:41.970", "created": "2025-12-08T13:29:41.970", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "8FF75727-53A0-40A0-9D44-4F6B6099D732", "criteria": "cpe:2.3:a:dfinity:agent-js:0.20.0:beta0:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-08T13:29:41.970", "status": "Inactive"}}

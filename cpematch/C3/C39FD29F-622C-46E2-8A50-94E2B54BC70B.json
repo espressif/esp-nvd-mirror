@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C39FD29F-622C-46E2-8A50-94E2B54BC70B", "criteria": "cpe:2.3:o:mercku:m6a_firmware:*:*:*:*:*:*:*:*", "versionEndIncluding": "2.1.0", "lastModified": "2025-10-24T21:10:17.743", "created": "2025-10-24T21:10:17.743", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "C39FD29F-622C-46E2-8A50-94E2B54BC70B", "criteria": "cpe:2.3:o:mercku:m6a_firmware:*:*:*:*:*:*:*:*", "versionEndIncluding": "2.1.0", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-24T21:10:17.743", "status": "Inactive"}}

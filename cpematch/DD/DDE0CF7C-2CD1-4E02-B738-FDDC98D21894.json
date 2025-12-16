@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "DDE0CF7C-2CD1-4E02-B738-FDDC98D21894", "criteria": "cpe:2.3:h:ddrt:dashcam_live:-:*:*:*:*:*:*:*", "lastModified": "2019-07-10T13:41:19.273", "cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-07-10T13:41:19.273", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "DDE0CF7C-2CD1-4E02-B738-FDDC98D21894", "criteria": "cpe:2.3:h:ddrt:dashcam_live:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-07-10T13:41:19.273", "status": "Inactive"}}

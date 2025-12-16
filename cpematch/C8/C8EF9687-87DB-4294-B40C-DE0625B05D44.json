@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C8EF9687-87DB-4294-B40C-DE0625B05D44", "criteria": "cpe:2.3:a:jenkins:start_windocks:*:*:*:*:*:jenkins:*:*", "versionEndIncluding": "1.4", "lastModified": "2025-11-03T21:29:19.377", "created": "2025-11-03T21:29:19.377", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "C8EF9687-87DB-4294-B40C-DE0625B05D44", "criteria": "cpe:2.3:a:jenkins:start_windocks:*:*:*:*:*:jenkins:*:*", "versionEndIncluding": "1.4", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-11-03T21:29:19.377", "status": "Inactive"}}

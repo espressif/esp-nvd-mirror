@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "A93927E7-A7CB-40E5-A334-D81668133A14", "criteria": "cpe:2.3:a:intel:graphics_driver:5.4:rc4:*:*:*:*:*:*", "lastModified": "2019-11-21T15:36:43.140", "created": "2019-11-21T15:36:43.140", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "A93927E7-A7CB-40E5-A334-D81668133A14", "criteria": "cpe:2.3:a:intel:graphics_driver:5.4:rc4:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2019-11-21T15:36:43.140", "status": "Inactive"}}

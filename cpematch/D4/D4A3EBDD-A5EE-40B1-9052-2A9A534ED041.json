@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D4A3EBDD-A5EE-40B1-9052-2A9A534ED041", "criteria": "cpe:2.3:a:oracle:jre:7.0:update_281:*:*:*:*:*:*", "lastModified": "2021-02-24T19:29:04.350", "created": "2021-02-24T19:29:04.350", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D4A3EBDD-A5EE-40B1-9052-2A9A534ED041", "criteria": "cpe:2.3:a:oracle:jre:7.0:update_281:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-02-24T19:29:04.350", "status": "Inactive"}}

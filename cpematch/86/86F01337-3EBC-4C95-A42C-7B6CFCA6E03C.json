@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "86F01337-3EBC-4C95-A42C-7B6CFCA6E03C", "criteria": "cpe:2.3:h:ui:camera_g3_flex_camera:-:*:*:*:*:*:*:*", "lastModified": "2021-06-24T19:32:39.593", "cpeLastModified": "2021-06-24T19:32:56.663", "created": "2021-06-24T19:32:39.593", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "86F01337-3EBC-4C95-A42C-7B6CFCA6E03C", "criteria": "cpe:2.3:h:ui:camera_g3_flex_camera:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-06-24T19:32:56.663", "created": "2021-06-24T19:32:39.593", "status": "Inactive"}}

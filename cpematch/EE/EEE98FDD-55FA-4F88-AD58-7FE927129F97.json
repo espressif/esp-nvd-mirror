@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "EEE98FDD-55FA-4F88-AD58-7FE927129F97", "criteria": "cpe:2.3:a:sap:supplier_relationship_management:714:*:*:*:*:*:*:*", "lastModified": "2025-10-23T17:57:10.923", "created": "2025-10-23T17:57:10.923", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "EEE98FDD-55FA-4F88-AD58-7FE927129F97", "criteria": "cpe:2.3:a:sap:supplier_relationship_management:714:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-23T17:57:10.923", "status": "Inactive"}}

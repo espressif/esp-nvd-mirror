@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "A72EA87F-387C-4FCF-98D8-C28F6348F8EC", "criteria": "cpe:2.3:a:ibm:jazz_reporting_service:7.0.2:ifix030:*:*:*:*:*:*", "lastModified": "2025-12-11T15:47:45.523", "created": "2025-12-11T15:47:45.523", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "A72EA87F-387C-4FCF-98D8-C28F6348F8EC", "criteria": "cpe:2.3:a:ibm:jazz_reporting_service:7.0.2:ifix030:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-11T15:47:45.523", "status": "Inactive"}}

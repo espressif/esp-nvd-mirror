@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "AE4AD7BA-2BC4-46C3-BC79-EDB5C30BF92D", "criteria": "cpe:2.3:h:hp:s12508_chassis:0235a38n:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "AE4AD7BA-2BC4-46C3-BC79-EDB5C30BF92D", "criteria": "cpe:2.3:h:hp:s12508_chassis:0235a38n:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "56C82BC5-68D1-4BD7-A013-943EECB5525B", "criteria": "cpe:2.3:a:speex:speex:1.2:*:*:*:*:*:*:*", "lastModified": "2021-11-12T18:26:47.050", "cpeLastModified": "2021-11-12T21:54:19.327", "created": "2021-11-12T18:26:47.050", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "56C82BC5-68D1-4BD7-A013-943EECB5525B", "criteria": "cpe:2.3:a:speex:speex:1.2:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-11-12T21:54:19.327", "created": "2021-11-12T18:26:47.050", "status": "Inactive"}}

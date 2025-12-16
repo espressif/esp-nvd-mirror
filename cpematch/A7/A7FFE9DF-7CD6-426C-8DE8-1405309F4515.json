@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "A7FFE9DF-7CD6-426C-8DE8-1405309F4515", "criteria": "cpe:2.3:a:huawei:magic_ui:2.1.0:*:*:*:*:*:*:*", "lastModified": "2021-12-07T20:46:41.777", "cpeLastModified": "2021-12-07T20:46:44.763", "created": "2021-12-07T20:46:41.777", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "A7FFE9DF-7CD6-426C-8DE8-1405309F4515", "criteria": "cpe:2.3:a:huawei:magic_ui:2.1.0:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-12-07T20:46:44.763", "created": "2021-12-07T20:46:41.777", "status": "Inactive"}}

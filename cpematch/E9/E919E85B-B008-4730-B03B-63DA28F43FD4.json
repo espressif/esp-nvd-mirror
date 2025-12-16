@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E919E85B-B008-4730-B03B-63DA28F43FD4", "criteria": "cpe:2.3:o:apple:macos13.0:11.7:*:*:*:*:*:*:*", "lastModified": "2022-10-28T21:13:53.647", "cpeLastModified": "2022-10-28T21:13:53.647", "created": "2022-10-28T21:13:53.647", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E919E85B-B008-4730-B03B-63DA28F43FD4", "criteria": "cpe:2.3:o:apple:macos13.0:11.7:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-10-28T21:13:53.647", "created": "2022-10-28T21:13:53.647", "status": "Inactive"}}

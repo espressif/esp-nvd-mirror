@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "2B65B9D4-F712-40E8-9651-B632DBD5EFDC", "criteria": "cpe:2.3:a:yavijava:yavijava:6.0.07.1:*:*:*:*:*:*:*", "lastModified": "2023-12-30T03:35:18.010", "cpeLastModified": "2023-12-30T03:35:18.010", "created": "2023-12-30T03:35:18.010", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "2B65B9D4-F712-40E8-9651-B632DBD5EFDC", "criteria": "cpe:2.3:a:yavijava:yavijava:6.0.07.1:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2023-12-30T03:35:18.010", "created": "2023-12-30T03:35:18.010", "status": "Inactive"}}

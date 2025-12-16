@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "86BE20CF-4B85-4024-ACBD-4ED3976E96AC", "criteria": "cpe:2.3:a:jetbrains:runtime:*:*:*:*:*:macos:*:*", "versionEndExcluding": "21.0.6b872.80", "lastModified": "2025-12-01T16:03:52.090", "created": "2025-12-01T16:03:52.090", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "86BE20CF-4B85-4024-ACBD-4ED3976E96AC", "criteria": "cpe:2.3:a:jetbrains:runtime:*:*:*:*:*:macos:*:*", "versionEndExcluding": "21.0.6b872.80", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-01T16:03:52.090", "status": "Inactive"}}

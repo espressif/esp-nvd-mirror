@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "97432A47-B68E-40A8-9558-A550E05D2D91", "criteria": "cpe:2.3:a:znc:znc_docker:1.7.0:*:*:*:*:*:*:*", "lastModified": "2020-12-09T15:59:28.657", "created": "2020-12-09T15:59:28.657", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "97432A47-B68E-40A8-9558-A550E05D2D91", "criteria": "cpe:2.3:a:znc:znc_docker:1.7.0:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-12-09T15:59:28.657", "status": "Inactive"}}

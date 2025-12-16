@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "101AD50B-242A-45B2-BBEC-1516F14D9F79", "criteria": "cpe:2.3:a:apache:storm_docker:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.2.1", "lastModified": "2020-12-09T15:28:05.330", "created": "2020-12-09T15:28:05.330", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "101AD50B-242A-45B2-BBEC-1516F14D9F79", "criteria": "cpe:2.3:a:apache:storm_docker:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.2.1", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-12-09T15:28:05.330", "status": "Inactive"}}

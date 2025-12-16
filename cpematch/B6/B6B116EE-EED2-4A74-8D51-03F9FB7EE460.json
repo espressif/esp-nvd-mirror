@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B6B116EE-EED2-4A74-8D51-03F9FB7EE460", "criteria": "cpe:2.3:a:increments:qiita_markdown:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.34.0", "lastModified": "2021-06-21T19:48:29.793", "created": "2021-06-21T19:48:29.793", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B6B116EE-EED2-4A74-8D51-03F9FB7EE460", "criteria": "cpe:2.3:a:increments:qiita_markdown:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.34.0", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-06-21T19:48:29.793", "status": "Inactive"}}

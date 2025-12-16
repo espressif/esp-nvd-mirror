@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "61A91988-D91C-4154-96B5-C657FD21B335", "criteria": "cpe:2.3:a:drupal:webform_multiple_file_upload:*:*:*:*:*:*:*:*", "lastModified": "2025-12-03T18:21:44.710", "created": "2025-12-03T18:21:44.710", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "61A91988-D91C-4154-96B5-C657FD21B335", "criteria": "cpe:2.3:a:drupal:webform_multiple_file_upload:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-03T18:21:44.710", "status": "Inactive"}}

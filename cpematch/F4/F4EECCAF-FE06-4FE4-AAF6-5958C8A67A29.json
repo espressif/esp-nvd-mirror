@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "F4EECCAF-FE06-4FE4-AAF6-5958C8A67A29", "criteria": "cpe:2.3:a:influxdata:influxdb:1.0.0-alpine:rc2:*:*:*:*:*:*", "lastModified": "2020-12-17T19:16:14.830", "created": "2020-12-17T19:16:14.830", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "F4EECCAF-FE06-4FE4-AAF6-5958C8A67A29", "criteria": "cpe:2.3:a:influxdata:influxdb:1.0.0-alpine:rc2:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-12-17T19:16:14.830", "status": "Inactive"}}

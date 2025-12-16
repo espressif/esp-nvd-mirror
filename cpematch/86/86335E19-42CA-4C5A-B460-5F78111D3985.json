@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "86335E19-42CA-4C5A-B460-5F78111D3985", "criteria": "cpe:2.3:o:qualcomm:snapdragon_8cx_compute_platform_\\(sc8180xp-af\\)__firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-10-03T18:30:27.903", "created": "2025-10-03T18:30:27.903", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "86335E19-42CA-4C5A-B460-5F78111D3985", "criteria": "cpe:2.3:o:qualcomm:snapdragon_8cx_compute_platform_\\(sc8180xp-af\\)__firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-03T18:30:27.903", "status": "Inactive"}}

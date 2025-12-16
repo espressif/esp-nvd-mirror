@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "DD902073-7BF7-4F0F-B80A-E5CE73247561", "criteria": "cpe:2.3:o:singtel:askey_ap5100w-d171_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.01.101", "lastModified": "2020-12-12T01:15:02.930", "created": "2020-12-12T01:15:02.930", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "DD902073-7BF7-4F0F-B80A-E5CE73247561", "criteria": "cpe:2.3:o:singtel:askey_ap5100w-d171_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.01.101", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-12-12T01:15:02.930", "status": "Inactive"}}

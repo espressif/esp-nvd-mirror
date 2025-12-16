@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "218DA749-2619-48A8-B0EC-A4745591562F", "criteria": "cpe:2.3:o:samsung:samsung_firmware:-:*:*:*:*:*:*:*", "lastModified": "2019-09-16T19:12:52.483", "cpeLastModified": "2025-11-12T17:51:54.080", "created": "2019-09-16T19:12:52.483", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "218DA749-2619-48A8-B0EC-A4745591562F", "criteria": "cpe:2.3:o:samsung:samsung_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2025-11-12T17:51:54.080", "created": "2019-09-16T19:12:52.483", "status": "Inactive"}}

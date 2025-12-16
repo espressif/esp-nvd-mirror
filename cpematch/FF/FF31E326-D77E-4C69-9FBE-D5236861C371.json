@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "FF31E326-D77E-4C69-9FBE-D5236861C371", "criteria": "cpe:2.3:a:microfocus:verastream_host_integrato:7.7:-:*:*:*:*:*:*", "lastModified": "2019-08-28T17:15:32.810", "created": "2019-08-28T17:15:32.810", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "FF31E326-D77E-4C69-9FBE-D5236861C371", "criteria": "cpe:2.3:a:microfocus:verastream_host_integrato:7.7:-:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2019-08-28T17:15:32.810", "status": "Inactive"}}

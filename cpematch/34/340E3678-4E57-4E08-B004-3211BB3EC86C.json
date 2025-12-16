@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "340E3678-4E57-4E08-B004-3211BB3EC86C", "criteria": "cpe:2.3:o:qualcomm:scr2130p_firmware:-:*:*:*:*:*:*:*", "lastModified": "2020-11-13T03:56:59.730", "created": "2020-11-13T03:56:59.730", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "340E3678-4E57-4E08-B004-3211BB3EC86C", "criteria": "cpe:2.3:o:qualcomm:scr2130p_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-11-13T03:56:59.730", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "5F5DD9F2-ED2C-46C2-8F74-5AC136272299", "criteria": "cpe:2.3:a:mediawiki:twocolconflict:-:*:*:*:*:mediawiki:*:*", "lastModified": "2025-09-26T16:25:43.153", "created": "2025-09-26T16:25:43.153", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "5F5DD9F2-ED2C-46C2-8F74-5AC136272299", "criteria": "cpe:2.3:a:mediawiki:twocolconflict:-:*:*:*:*:mediawiki:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-09-26T16:25:43.153", "status": "Inactive"}}

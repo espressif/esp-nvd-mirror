@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B47D414B-811A-4E11-9280-43C615C3F3E1", "criteria": "cpe:2.3:h:phillips:hue_hub:-:*:*:*:*:*:*:*", "lastModified": "2023-10-16T18:22:56.747", "cpeLastModified": "2023-10-17T14:04:37.600", "created": "2023-10-16T18:22:56.747", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B47D414B-811A-4E11-9280-43C615C3F3E1", "criteria": "cpe:2.3:h:phillips:hue_hub:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2023-10-17T14:04:37.600", "created": "2023-10-16T18:22:56.747", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "8FDCFD80-BB9E-4828-A87C-1710FB27F200", "criteria": "cpe:2.3:a:kernel:udev:0.5.8:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "8FDCFD80-BB9E-4828-A87C-1710FB27F200", "criteria": "cpe:2.3:a:kernel:udev:0.5.8:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

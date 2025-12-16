@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "407518A2-4DF1-4043-B6CB-F398C18CEE65", "criteria": "cpe:2.3:a:cimg:the_cimg_library:*:*:*:*:*:*:*:*", "versionEndIncluding": "2.3.3", "lastModified": "2019-07-26T15:45:18.233", "created": "2019-07-26T15:45:18.233", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "407518A2-4DF1-4043-B6CB-F398C18CEE65", "criteria": "cpe:2.3:a:cimg:the_cimg_library:*:*:*:*:*:*:*:*", "versionEndIncluding": "2.3.3", "lastModified": "2025-12-16T03:00:00.070", "created": "2019-07-26T15:45:18.233", "status": "Inactive"}}

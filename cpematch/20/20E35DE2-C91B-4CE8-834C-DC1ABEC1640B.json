@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "20E35DE2-C91B-4CE8-834C-DC1ABEC1640B", "criteria": "cpe:2.3:a:icetea-web_project:icetea-web:*:*:*:*:*:*:*:*", "versionEndIncluding": "1.7.2", "lastModified": "2019-08-01T14:02:55.890", "created": "2019-08-01T14:02:55.890", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "20E35DE2-C91B-4CE8-834C-DC1ABEC1640B", "criteria": "cpe:2.3:a:icetea-web_project:icetea-web:*:*:*:*:*:*:*:*", "versionEndIncluding": "1.7.2", "lastModified": "2025-12-16T03:00:00.070", "created": "2019-08-01T14:02:55.890", "status": "Inactive"}}

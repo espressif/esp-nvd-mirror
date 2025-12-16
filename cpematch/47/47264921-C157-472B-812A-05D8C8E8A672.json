@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "47264921-C157-472B-812A-05D8C8E8A672", "criteria": "cpe:2.3:o:fedoraproject:fedora:3334:*:*:*:*:*:*:*", "lastModified": "2021-09-02T17:44:24.147", "cpeLastModified": "2021-09-21T18:12:58.563", "created": "2021-09-02T17:44:24.147", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "47264921-C157-472B-812A-05D8C8E8A672", "criteria": "cpe:2.3:o:fedoraproject:fedora:3334:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-09-21T18:12:58.563", "created": "2021-09-02T17:44:24.147", "status": "Inactive"}}

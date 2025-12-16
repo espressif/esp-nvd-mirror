@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "26C4B37E-45E8-4A53-92E5-45E79D2278CE", "criteria": "cpe:2.3:a:dell:powerflex_custom_node:*:*:*:*:*:*:*:*", "versionEndExcluding": "4.6.1.0", "lastModified": "2025-12-01T16:14:59.917", "created": "2025-12-01T16:14:59.917", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "26C4B37E-45E8-4A53-92E5-45E79D2278CE", "criteria": "cpe:2.3:a:dell:powerflex_custom_node:*:*:*:*:*:*:*:*", "versionEndExcluding": "4.6.1.0", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-01T16:14:59.917", "status": "Inactive"}}

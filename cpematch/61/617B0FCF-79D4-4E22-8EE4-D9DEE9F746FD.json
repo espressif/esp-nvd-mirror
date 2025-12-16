@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "617B0FCF-79D4-4E22-8EE4-D9DEE9F746FD", "criteria": "cpe:2.3:a:imagemagick:image-compositor.c:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.17.4", "lastModified": "2021-03-19T15:45:26.813", "created": "2021-03-19T15:45:26.813", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "617B0FCF-79D4-4E22-8EE4-D9DEE9F746FD", "criteria": "cpe:2.3:a:imagemagick:image-compositor.c:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.17.4", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-03-19T15:45:26.813", "status": "Inactive"}}

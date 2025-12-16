@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E3608C6A-4DB7-4879-A517-5077E47E14D1", "criteria": "cpe:2.3:h:dell:all-flash_ready_node:-:*:*:*:*:*:*:*", "lastModified": "2025-10-09T18:45:14.527", "created": "2025-10-09T18:45:14.527", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E3608C6A-4DB7-4879-A517-5077E47E14D1", "criteria": "cpe:2.3:h:dell:all-flash_ready_node:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-09T18:45:14.527", "status": "Inactive"}}

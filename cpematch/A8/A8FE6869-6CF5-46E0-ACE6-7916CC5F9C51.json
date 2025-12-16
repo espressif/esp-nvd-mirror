@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "A8FE6869-6CF5-46E0-ACE6-7916CC5F9C51", "criteria": "cpe:2.3:a:redhat:descision_manager:7:*:*:*:*:*:*:*", "lastModified": "2021-06-08T13:44:34.160", "cpeLastModified": "2021-06-08T13:48:28.110", "created": "2021-06-08T13:44:34.160", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "A8FE6869-6CF5-46E0-ACE6-7916CC5F9C51", "criteria": "cpe:2.3:a:redhat:descision_manager:7:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-06-08T13:48:28.110", "created": "2021-06-08T13:44:34.160", "status": "Inactive"}}

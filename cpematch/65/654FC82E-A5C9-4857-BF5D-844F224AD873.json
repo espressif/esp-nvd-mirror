@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "654FC82E-A5C9-4857-BF5D-844F224AD873", "criteria": "cpe:2.3:a:oracle:jdk:8.0:update_271:*:*:*:*:*:*", "lastModified": "2021-02-24T19:29:04.163", "created": "2021-02-24T19:29:04.163", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "654FC82E-A5C9-4857-BF5D-844F224AD873", "criteria": "cpe:2.3:a:oracle:jdk:8.0:update_271:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-02-24T19:29:04.163", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D5020ADD-8AC6-4A6C-93D2-7A5D96759CE4", "criteria": "cpe:2.3:h:qualcomm:r6350:-:*:*:*:*:*:*:*", "lastModified": "2020-10-15T12:25:09.530", "created": "2020-10-15T12:25:09.530", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D5020ADD-8AC6-4A6C-93D2-7A5D96759CE4", "criteria": "cpe:2.3:h:qualcomm:r6350:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-10-15T12:25:09.530", "status": "Inactive"}}

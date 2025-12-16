@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "75247930-731B-4BAF-8349-6E8409323632", "criteria": "cpe:2.3:a:godaddy:node-config-shield:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "0.2.2", "lastModified": "2021-02-02T00:46:41.880", "created": "2021-02-02T00:46:41.880", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "75247930-731B-4BAF-8349-6E8409323632", "criteria": "cpe:2.3:a:godaddy:node-config-shield:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "0.2.2", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-02-02T00:46:41.880", "status": "Inactive"}}

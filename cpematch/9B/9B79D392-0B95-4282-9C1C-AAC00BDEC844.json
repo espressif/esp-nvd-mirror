@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "9B79D392-0B95-4282-9C1C-AAC00BDEC844", "criteria": "cpe:2.3:h:hp:msr20-13_router:jf240a:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T22:53:51.837", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "9B79D392-0B95-4282-9C1C-AAC00BDEC844", "criteria": "cpe:2.3:h:hp:msr20-13_router:jf240a:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-03T22:53:51.837", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

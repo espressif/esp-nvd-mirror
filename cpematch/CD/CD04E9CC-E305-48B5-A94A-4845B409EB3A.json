@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "CD04E9CC-E305-48B5-A94A-4845B409EB3A", "criteria": "cpe:2.3:a:zoom:call_recording:6.3.1:*:*:*:*:*:*:*", "lastModified": "2021-10-29T13:09:09.870", "cpeLastModified": "2021-11-03T13:59:23.220", "created": "2021-10-29T13:09:09.870", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "CD04E9CC-E305-48B5-A94A-4845B409EB3A", "criteria": "cpe:2.3:a:zoom:call_recording:6.3.1:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-11-03T13:59:23.220", "created": "2021-10-29T13:09:09.870", "status": "Inactive"}}

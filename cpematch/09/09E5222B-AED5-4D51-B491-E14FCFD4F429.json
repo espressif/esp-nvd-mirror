@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "09E5222B-AED5-4D51-B491-E14FCFD4F429", "criteria": "cpe:2.3:a:jaspersoft:jasperreports_server:*:*:*:*:*:*:*:*", "versionEndIncluding": "9.0.0", "lastModified": "2025-10-14T14:40:44.793", "created": "2025-10-14T14:40:44.793", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "09E5222B-AED5-4D51-B491-E14FCFD4F429", "criteria": "cpe:2.3:a:jaspersoft:jasperreports_server:*:*:*:*:*:*:*:*", "versionEndIncluding": "9.0.0", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-14T14:40:44.793", "status": "Inactive"}}

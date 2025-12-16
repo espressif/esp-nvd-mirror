@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "077212E7-9109-4BD5-83B1-975AA87ACC40", "criteria": "cpe:2.3:a:concrete5:concrete5:*:*:*:-:*:*:*:*", "versionEndIncluding": "8.5.5", "lastModified": "2021-07-31T03:44:27.583", "created": "2021-07-31T03:44:27.583", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "077212E7-9109-4BD5-83B1-975AA87ACC40", "criteria": "cpe:2.3:a:concrete5:concrete5:*:*:*:-:*:*:*:*", "versionEndIncluding": "8.5.5", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-07-31T03:44:27.583", "status": "Inactive"}}

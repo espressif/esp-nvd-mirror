@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "2C3820E3-3B1E-446C-92C8-EB3510916E1E", "criteria": "cpe:2.3:h:hp:a3600-24_ei_switch:-:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T22:41:34.363", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "2C3820E3-3B1E-446C-92C8-EB3510916E1E", "criteria": "cpe:2.3:h:hp:a3600-24_ei_switch:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-03T22:41:34.363", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

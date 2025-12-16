@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "FE73861E-103C-46A4-839B-76BCA579DCFE", "criteria": "cpe:2.3:a:mozilo:mozilo:2.0:*:*:*:*:*:*:*", "lastModified": "2022-02-03T17:50:06.990", "cpeLastModified": "2022-02-07T20:11:34.280", "created": "2022-02-03T17:50:06.990", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "FE73861E-103C-46A4-839B-76BCA579DCFE", "criteria": "cpe:2.3:a:mozilo:mozilo:2.0:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-02-07T20:11:34.280", "created": "2022-02-03T17:50:06.990", "status": "Inactive"}}

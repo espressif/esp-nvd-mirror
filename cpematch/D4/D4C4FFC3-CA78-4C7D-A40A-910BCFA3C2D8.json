@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D4C4FFC3-CA78-4C7D-A40A-910BCFA3C2D8", "criteria": "cpe:2.3:a:mozilla:firefox:*:*:*:*:*-:*:*:*", "versionEndExcluding": "67.0.4", "lastModified": "2025-10-24T18:10:14.447", "created": "2025-10-24T18:10:14.447", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D4C4FFC3-CA78-4C7D-A40A-910BCFA3C2D8", "criteria": "cpe:2.3:a:mozilla:firefox:*:*:*:*:*-:*:*:*", "versionEndExcluding": "67.0.4", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-24T18:10:14.447", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "7DAD712B-1754-413F-84D4-4E5664C342B7", "criteria": "cpe:2.3:a:esri:portal_for_arcgis:11.4:patch1:*:*:*:*:*:*", "lastModified": "2025-09-30T13:00:35.260", "created": "2025-09-30T13:00:35.260", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "7DAD712B-1754-413F-84D4-4E5664C342B7", "criteria": "cpe:2.3:a:esri:portal_for_arcgis:11.4:patch1:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-09-30T13:00:35.260", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B2DC9793-7A08-428D-A1B3-E9A2DBBD0EC2", "criteria": "cpe:2.3:a:enensys:ipguardv2:2.10.0:*:*:*:*:*:*:*", "lastModified": "2025-10-10T17:24:05.387", "created": "2025-10-10T17:24:05.387", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B2DC9793-7A08-428D-A1B3-E9A2DBBD0EC2", "criteria": "cpe:2.3:a:enensys:ipguardv2:2.10.0:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-10T17:24:05.387", "status": "Inactive"}}

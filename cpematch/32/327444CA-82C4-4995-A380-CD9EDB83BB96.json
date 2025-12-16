@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "327444CA-82C4-4995-A380-CD9EDB83BB96", "criteria": "cpe:2.3:a:mrubyc:mrubyc:*:*:*:*:*:*:*:*", "versionEndIncluding": "3.4", "lastModified": "2025-11-26T21:38:49.527", "created": "2025-11-26T21:38:49.527", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "327444CA-82C4-4995-A380-CD9EDB83BB96", "criteria": "cpe:2.3:a:mrubyc:mrubyc:*:*:*:*:*:*:*:*", "versionEndIncluding": "3.4", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-11-26T21:38:49.527", "status": "Inactive"}}

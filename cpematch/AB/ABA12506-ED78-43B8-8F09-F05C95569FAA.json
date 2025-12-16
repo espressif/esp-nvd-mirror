@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "ABA12506-ED78-43B8-8F09-F05C95569FAA", "criteria": "cpe:2.3:o:linuxfoundation:yocto:3.1:*:*:*:*:*:*:*", "lastModified": "2022-08-05T03:39:00.330", "cpeLastModified": "2022-08-05T03:39:00.330", "created": "2022-08-05T03:39:00.330", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "ABA12506-ED78-43B8-8F09-F05C95569FAA", "criteria": "cpe:2.3:o:linuxfoundation:yocto:3.1:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-08-05T03:39:00.330", "created": "2022-08-05T03:39:00.330", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "13D510C2-3906-4A7D-87D8-06F78FB04BCB", "criteria": "cpe:2.3:a:matomo:docker:3-fpm-alpine:*:*:*:*:*:*:*", "lastModified": "2020-12-09T16:08:58.813", "created": "2020-12-09T16:08:58.813", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "13D510C2-3906-4A7D-87D8-06F78FB04BCB", "criteria": "cpe:2.3:a:matomo:docker:3-fpm-alpine:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-12-09T16:08:58.813", "status": "Inactive"}}

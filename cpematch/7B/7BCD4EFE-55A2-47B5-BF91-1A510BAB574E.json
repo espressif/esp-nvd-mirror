@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "7BCD4EFE-55A2-47B5-BF91-1A510BAB574E", "criteria": "cpe:2.3:o:tcl:v8-t658t01-lf1_firmware:*:*:*:*:*:*:*:*", "versionEndIncluding": "373", "lastModified": "2020-11-17T18:10:19.550", "created": "2020-11-17T18:10:19.550", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "7BCD4EFE-55A2-47B5-BF91-1A510BAB574E", "criteria": "cpe:2.3:o:tcl:v8-t658t01-lf1_firmware:*:*:*:*:*:*:*:*", "versionEndIncluding": "373", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-11-17T18:10:19.550", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E1269152-25EA-4140-88E6-F9C3E38F5A1B", "criteria": "cpe:2.3:a:canonical:juju_utils:*:*:*:*:*:go:*:*", "versionStartIncluding": "4.0.1", "versionEndExcluding": "4.0.4", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-08-26T12:57:13.753", "status": "Inactive"}}

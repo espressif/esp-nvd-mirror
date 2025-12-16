@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "40C671D8-5758-4469-BE52-15BF1BA3A11D", "criteria": "cpe:2.3:h:creston:dm-nvx-dir-ent:*:*:*:*:*:*:*:*", "lastModified": "2021-08-10T13:33:52.243", "cpeLastModified": "2022-02-10T16:06:54.470", "created": "2021-08-10T13:33:52.243", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "40C671D8-5758-4469-BE52-15BF1BA3A11D", "criteria": "cpe:2.3:h:creston:dm-nvx-dir-ent:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-02-10T16:06:54.470", "created": "2021-08-10T13:33:52.243", "status": "Inactive"}}

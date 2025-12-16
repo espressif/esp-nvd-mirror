@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "6F0E70F6-E35D-4179-9ED7-BA3027CAB9A0", "criteria": "cpe:2.3:a:dotnetfoundation:piranhacms:12.0:*:*:*:*:*:*:*", "lastModified": "2025-10-07T18:25:22.087", "created": "2025-10-07T18:25:22.087", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "6F0E70F6-E35D-4179-9ED7-BA3027CAB9A0", "criteria": "cpe:2.3:a:dotnetfoundation:piranhacms:12.0:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-07T18:25:22.087", "status": "Inactive"}}

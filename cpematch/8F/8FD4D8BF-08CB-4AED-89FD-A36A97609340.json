@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "8FD4D8BF-08CB-4AED-89FD-A36A97609340", "criteria": "cpe:2.3:a:courier-mta:mail_server:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.1.5", "lastModified": "2021-08-11T17:19:29.610", "created": "2021-08-11T17:19:29.610", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "8FD4D8BF-08CB-4AED-89FD-A36A97609340", "criteria": "cpe:2.3:a:courier-mta:mail_server:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.1.5", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-08-11T17:19:29.610", "status": "Inactive"}}

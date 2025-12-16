@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "66E09F86-81D8-4834-A595-505E09167ED4", "criteria": "cpe:2.3:o:dell:dell_edge_gateway_5000_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.30.0", "lastModified": "2025-12-01T13:51:55.220", "created": "2025-12-01T13:51:55.220", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "66E09F86-81D8-4834-A595-505E09167ED4", "criteria": "cpe:2.3:o:dell:dell_edge_gateway_5000_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.30.0", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-01T13:51:55.220", "status": "Inactive"}}

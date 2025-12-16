@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B8DC52A2-BCF3-41A1-AF45-B8B927B010F2", "criteria": "cpe:2.3:h:hp:5682_router:3c13759:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T22:53:51.837", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B8DC52A2-BCF3-41A1-AF45-B8B927B010F2", "criteria": "cpe:2.3:h:hp:5682_router:3c13759:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-03T22:53:51.837", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

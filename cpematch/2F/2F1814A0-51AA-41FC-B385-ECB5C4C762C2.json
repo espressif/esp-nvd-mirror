@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "2F1814A0-51AA-41FC-B385-ECB5C4C762C2", "criteria": "cpe:2.3:o:google:android:12:*:*:*:*:*:*:*", "lastModified": "2022-04-18T14:52:41.663", "cpeLastModified": "2022-04-18T14:52:45.057", "created": "2022-04-18T14:52:41.663", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "2F1814A0-51AA-41FC-B385-ECB5C4C762C2", "criteria": "cpe:2.3:o:google:android:12:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-04-18T14:52:45.057", "created": "2022-04-18T14:52:41.663", "status": "Inactive"}}

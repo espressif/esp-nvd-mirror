@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B0BCBCE4-05D5-43FA-A9D5-84A7D0BF6902", "criteria": "cpe:2.3:a:debian:apt:0.7.25.3:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-25T17:06:51.540", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B0BCBCE4-05D5-43FA-A9D5-84A7D0BF6902", "criteria": "cpe:2.3:a:debian:apt:0.7.25.3:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-25T17:06:51.540", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

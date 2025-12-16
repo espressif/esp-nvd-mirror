@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "A235A500-0C20-44AF-B17A-33E656B6E9A0", "criteria": "cpe:2.3:o:se:ion7650_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "376", "lastModified": "2021-03-15T14:17:31.970", "created": "2021-03-15T14:17:31.970", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "A235A500-0C20-44AF-B17A-33E656B6E9A0", "criteria": "cpe:2.3:o:se:ion7650_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "376", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-03-15T14:17:31.970", "status": "Inactive"}}

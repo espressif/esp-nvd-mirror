@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C26FE79C-073F-47B6-82CB-03A8EFAD6765", "criteria": "cpe:2.3:a:jhumanj:openform:*:*:*:*:*:*:*:*", "versionEndIncluding": "1.9.3", "lastModified": "2025-10-09T13:54:33.393", "created": "2025-10-09T13:54:33.393", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "C26FE79C-073F-47B6-82CB-03A8EFAD6765", "criteria": "cpe:2.3:a:jhumanj:openform:*:*:*:*:*:*:*:*", "versionEndIncluding": "1.9.3", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-09T13:54:33.393", "status": "Inactive"}}

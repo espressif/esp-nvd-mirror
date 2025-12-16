@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "CB3D3B63-DEC3-491F-9C4F-DCFB08404FCF", "criteria": "cpe:2.3:h:qualcomm:snapdragon_8cx_gen_2_5g_compute_platform_\\(sc8180x-af\\)__:-:*:*:*:*:*:*:*", "lastModified": "2025-10-03T18:30:27.903", "created": "2025-10-03T18:30:27.903", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "CB3D3B63-DEC3-491F-9C4F-DCFB08404FCF", "criteria": "cpe:2.3:h:qualcomm:snapdragon_8cx_gen_2_5g_compute_platform_\\(sc8180x-af\\)__:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-03T18:30:27.903", "status": "Inactive"}}

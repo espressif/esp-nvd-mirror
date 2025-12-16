@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "6F101A5B-6133-4DA9-A282-EC48988DDAFF", "criteria": "cpe:2.3:h:trango:giga_plus:-:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T22:21:48.897", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "6F101A5B-6133-4DA9-A282-EC48988DDAFF", "criteria": "cpe:2.3:h:trango:giga_plus:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-03T22:21:48.897", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

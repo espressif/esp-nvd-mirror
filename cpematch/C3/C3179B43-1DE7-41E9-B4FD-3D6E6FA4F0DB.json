@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C3179B43-1DE7-41E9-B4FD-3D6E6FA4F0DB", "criteria": "cpe:2.3:h:monoprice:select_min_v2:*:*:*:*:*:*:*:*", "lastModified": "2024-08-23T17:46:29.107", "cpeLastModified": "2024-08-23T17:46:29.107", "created": "2024-08-23T17:46:29.107", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "C3179B43-1DE7-41E9-B4FD-3D6E6FA4F0DB", "criteria": "cpe:2.3:h:monoprice:select_min_v2:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2024-08-23T17:46:29.107", "created": "2024-08-23T17:46:29.107", "status": "Inactive"}}

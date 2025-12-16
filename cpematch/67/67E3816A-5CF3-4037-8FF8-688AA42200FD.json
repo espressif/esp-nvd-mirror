@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "67E3816A-5CF3-4037-8FF8-688AA42200FD", "criteria": "cpe:2.3:h:cisco:nsc_540:-:*:*:*:*:*:*:*", "lastModified": "2020-01-31T00:06:11.533", "created": "2020-01-31T00:06:11.533", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "67E3816A-5CF3-4037-8FF8-688AA42200FD", "criteria": "cpe:2.3:h:cisco:nsc_540:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-01-31T00:06:11.533", "status": "Inactive"}}

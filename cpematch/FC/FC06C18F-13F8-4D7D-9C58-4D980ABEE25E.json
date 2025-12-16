@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "FC06C18F-13F8-4D7D-9C58-4D980ABEE25E", "criteria": "cpe:2.3:a:ibm:engineering_requirements_management_doors_next:7.0.3:ifix003:*:*:*:*:*:*", "lastModified": "2025-12-11T15:49:31.823", "created": "2025-12-11T15:49:31.823", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "FC06C18F-13F8-4D7D-9C58-4D980ABEE25E", "criteria": "cpe:2.3:a:ibm:engineering_requirements_management_doors_next:7.0.3:ifix003:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-11T15:49:31.823", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "97813DC7-FAD2-4661-821C-D91276CE7D5A", "criteria": "cpe:2.3:a:xorux:xormon:*:*:*:*:*:*:*:*", "versionEndIncluding": "1.8", "lastModified": "2025-10-08T16:31:08.827", "created": "2025-10-08T16:31:08.827", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "97813DC7-FAD2-4661-821C-D91276CE7D5A", "criteria": "cpe:2.3:a:xorux:xormon:*:*:*:*:*:*:*:*", "versionEndIncluding": "1.8", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-08T16:31:08.827", "status": "Inactive"}}

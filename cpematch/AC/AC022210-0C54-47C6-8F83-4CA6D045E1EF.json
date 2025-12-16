@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "AC022210-0C54-47C6-8F83-4CA6D045E1EF", "criteria": "cpe:2.3:a:ibm:engineering_systems_design_rhapsody:7.0.2:ifix023:*:*:*:*:*:*", "lastModified": "2025-12-11T15:47:45.523", "created": "2025-12-11T15:47:45.523", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "AC022210-0C54-47C6-8F83-4CA6D045E1EF", "criteria": "cpe:2.3:a:ibm:engineering_systems_design_rhapsody:7.0.2:ifix023:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-11T15:47:45.523", "status": "Inactive"}}

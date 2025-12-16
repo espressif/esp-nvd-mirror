@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "CBE572B8-2FEC-488E-9A14-B6A66F2834D1", "criteria": "cpe:2.3:o:redhat:enterprise_linux:8.0:*:*:*:*:*:xarm64:*", "lastModified": "2025-11-17T22:00:53.460", "created": "2025-11-17T22:00:53.460", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "CBE572B8-2FEC-488E-9A14-B6A66F2834D1", "criteria": "cpe:2.3:o:redhat:enterprise_linux:8.0:*:*:*:*:*:xarm64:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-11-17T22:00:53.460", "status": "Inactive"}}

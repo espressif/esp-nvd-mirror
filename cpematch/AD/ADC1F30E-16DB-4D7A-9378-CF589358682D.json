@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "ADC1F30E-16DB-4D7A-9378-CF589358682D", "criteria": "cpe:2.3:h:qualcomm:r6230:-:*:*:*:*:*:*:*", "lastModified": "2020-10-15T12:25:09.390", "created": "2020-10-15T12:25:09.390", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "ADC1F30E-16DB-4D7A-9378-CF589358682D", "criteria": "cpe:2.3:h:qualcomm:r6230:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-10-15T12:25:09.390", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "757C1F63-AEE2-4B77-92A3-418BC24CE72C", "criteria": "cpe:2.3:a:blackberry:vapp:5.4.1:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T22:21:48.897", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "757C1F63-AEE2-4B77-92A3-418BC24CE72C", "criteria": "cpe:2.3:a:blackberry:vapp:5.4.1:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-03T22:21:48.897", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

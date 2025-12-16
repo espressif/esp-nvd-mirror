@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "5F8F139D-C2CB-406D-92E0-2866E4809D3E", "criteria": "cpe:2.3:o:d-link:dcs-2670l_firmware:*:*:*:*:*:*:*:*", "versionEndIncluding": "2.02", "lastModified": "2020-09-03T13:26:03.773", "created": "2020-09-03T13:26:03.773", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "5F8F139D-C2CB-406D-92E0-2866E4809D3E", "criteria": "cpe:2.3:o:d-link:dcs-2670l_firmware:*:*:*:*:*:*:*:*", "versionEndIncluding": "2.02", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-09-03T13:26:03.773", "status": "Inactive"}}

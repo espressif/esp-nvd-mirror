@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "AC0CACCC-53C8-454A-8825-1BB1FA866439", "criteria": "cpe:2.3:o:qualcomm:r6260_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.1.0.76", "lastModified": "2020-10-15T12:25:09.420", "created": "2020-10-15T12:25:09.420", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "AC0CACCC-53C8-454A-8825-1BB1FA866439", "criteria": "cpe:2.3:o:qualcomm:r6260_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.1.0.76", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-10-15T12:25:09.420", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "6EF89856-6C29-4BB5-B3E5-62D0445EB066", "criteria": "cpe:2.3:a:open-exchange:ox_app_suite:*:*:*:*:*:*:*:*", "versionEndExcluding": "7.10.3", "lastModified": "2021-08-03T14:46:14.420", "created": "2021-08-03T14:46:14.420", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "6EF89856-6C29-4BB5-B3E5-62D0445EB066", "criteria": "cpe:2.3:a:open-exchange:ox_app_suite:*:*:*:*:*:*:*:*", "versionEndExcluding": "7.10.3", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-08-03T14:46:14.420", "status": "Inactive"}}

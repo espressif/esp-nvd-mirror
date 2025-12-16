@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "F5271672-8607-46A6-8628-30721DDEA1C1", "criteria": "cpe:2.3:a:apache:flink:3.4.0:*:*:*:*:*:*:*", "lastModified": "2025-12-03T15:05:23.633", "created": "2025-12-03T15:05:23.633", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "F5271672-8607-46A6-8628-30721DDEA1C1", "criteria": "cpe:2.3:a:apache:flink:3.4.0:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-03T15:05:23.633", "status": "Inactive"}}

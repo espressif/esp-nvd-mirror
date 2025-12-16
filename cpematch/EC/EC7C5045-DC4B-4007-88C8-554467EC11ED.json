@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "EC7C5045-DC4B-4007-88C8-554467EC11ED", "criteria": "cpe:2.3:a:ibm:engineering_requirements_management_doors_next:7.1.0:-:*:*:*:*:*:*", "lastModified": "2025-12-11T15:45:21.627", "created": "2025-12-11T15:45:21.627", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "EC7C5045-DC4B-4007-88C8-554467EC11ED", "criteria": "cpe:2.3:a:ibm:engineering_requirements_management_doors_next:7.1.0:-:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-11T15:45:21.627", "status": "Inactive"}}

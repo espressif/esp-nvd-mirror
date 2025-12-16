@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "52FA320B-2D52-4CC2-BEC8-D609A988DA64", "criteria": "cpe:2.3:h:hp:ls-9502-ovs-h3:0235a21x:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T22:21:48.897", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "52FA320B-2D52-4CC2-BEC8-D609A988DA64", "criteria": "cpe:2.3:h:hp:ls-9502-ovs-h3:0235a21x:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-03T22:21:48.897", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

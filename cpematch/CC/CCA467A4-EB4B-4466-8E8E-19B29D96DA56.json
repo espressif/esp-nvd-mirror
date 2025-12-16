@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "CCA467A4-EB4B-4466-8E8E-19B29D96DA56", "criteria": "cpe:2.3:a:pusher:oauth2_proxy:*:*:*:*:*:*:*:*", "versionEndExcluding": "5.0", "lastModified": "2020-02-10T02:45:34.920", "created": "2020-02-10T02:45:34.920", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "CCA467A4-EB4B-4466-8E8E-19B29D96DA56", "criteria": "cpe:2.3:a:pusher:oauth2_proxy:*:*:*:*:*:*:*:*", "versionEndExcluding": "5.0", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-02-10T02:45:34.920", "status": "Inactive"}}

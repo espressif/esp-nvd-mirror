@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "FF13ADEC-02D0-4D56-9CA9-6EB3CEFEF1B6", "criteria": "cpe:2.3:a:openeuler:isula-build:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.9.5-8", "lastModified": "2021-08-04T12:37:51.867", "created": "2021-08-04T12:37:51.867", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "FF13ADEC-02D0-4D56-9CA9-6EB3CEFEF1B6", "criteria": "cpe:2.3:a:openeuler:isula-build:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.9.5-8", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-08-04T12:37:51.867", "status": "Inactive"}}

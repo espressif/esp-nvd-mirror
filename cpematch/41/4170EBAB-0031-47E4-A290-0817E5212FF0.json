@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "4170EBAB-0031-47E4-A290-0817E5212FF0", "criteria": "cpe:2.3:o:qualcomm:qcc710__firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-09-25T13:55:40.117", "created": "2025-09-25T13:55:40.117", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "4170EBAB-0031-47E4-A290-0817E5212FF0", "criteria": "cpe:2.3:o:qualcomm:qcc710__firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-09-25T13:55:40.117", "status": "Inactive"}}

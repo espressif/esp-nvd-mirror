@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "091D6948-B218-4D66-ADB9-7357C4FCF41A", "criteria": "cpe:2.3:a:siemens:solid_edge:se2024:update2:*:*:*:*:*:*", "lastModified": "2025-10-28T16:53:00.697", "created": "2025-10-28T16:53:00.697", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "091D6948-B218-4D66-ADB9-7357C4FCF41A", "criteria": "cpe:2.3:a:siemens:solid_edge:se2024:update2:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-28T16:53:00.697", "status": "Inactive"}}

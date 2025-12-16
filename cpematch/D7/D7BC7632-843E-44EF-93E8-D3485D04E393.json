@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D7BC7632-843E-44EF-93E8-D3485D04E393", "criteria": "cpe:2.3:a:netapp:_steelstore_cloud_integrated_storage:-:*:*:*:*:*:*:*", "lastModified": "2021-06-01T18:52:39.443", "created": "2021-06-01T18:52:39.443", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D7BC7632-843E-44EF-93E8-D3485D04E393", "criteria": "cpe:2.3:a:netapp:_steelstore_cloud_integrated_storage:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-06-01T18:52:39.443", "status": "Inactive"}}

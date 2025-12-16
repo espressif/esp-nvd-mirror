@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E101097E-B4B4-4A6C-9067-9DD47D3FBDBA", "criteria": "cpe:2.3:h:trango:apex_lynx:-:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E101097E-B4B4-4A6C-9067-9DD47D3FBDBA", "criteria": "cpe:2.3:h:trango:apex_lynx:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-03T23:02:44.753", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

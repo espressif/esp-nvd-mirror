@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "10159619-C86F-4EE9-9C43-41701D38280B", "criteria": "cpe:2.3:a:eng:knowage_suite:*:*:*:*:*:*:*:*", "versionEndExcluding": "7.4", "lastModified": "2021-04-07T15:53:33.100", "created": "2021-04-07T15:53:33.100", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "10159619-C86F-4EE9-9C43-41701D38280B", "criteria": "cpe:2.3:a:eng:knowage_suite:*:*:*:*:*:*:*:*", "versionEndExcluding": "7.4", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-04-07T15:53:33.100", "status": "Inactive"}}

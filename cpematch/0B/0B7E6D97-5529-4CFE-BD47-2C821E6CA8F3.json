@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "0B7E6D97-5529-4CFE-BD47-2C821E6CA8F3", "criteria": "cpe:2.3:a:cloudevents:go-sdk:*:*:*:*:*:*:*:*", "versionEndIncluding": "2.15.1", "lastModified": "2025-12-02T15:36:45.987", "created": "2025-12-02T15:36:45.987", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "0B7E6D97-5529-4CFE-BD47-2C821E6CA8F3", "criteria": "cpe:2.3:a:cloudevents:go-sdk:*:*:*:*:*:*:*:*", "versionEndIncluding": "2.15.1", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-02T15:36:45.987", "status": "Inactive"}}

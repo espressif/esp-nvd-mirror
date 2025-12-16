@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D5C0113F-74AA-4132-A7E6-2352E5690F82", "criteria": "cpe:2.3:a:oxygenz:clipbucket_v5:5.5.2-90:*:*:*:*:*:*:*", "lastModified": "2025-09-25T19:40:33.353", "created": "2025-09-25T19:40:33.353", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D5C0113F-74AA-4132-A7E6-2352E5690F82", "criteria": "cpe:2.3:a:oxygenz:clipbucket_v5:5.5.2-90:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-09-25T19:40:33.353", "status": "Inactive"}}

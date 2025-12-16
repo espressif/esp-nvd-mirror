@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "89413506-1729-4BFB-AAC0-500E96B09D37", "criteria": "cpe:2.3:a:zyxel:zywall:1050:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "89413506-1729-4BFB-AAC0-500E96B09D37", "criteria": "cpe:2.3:a:zyxel:zywall:1050:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

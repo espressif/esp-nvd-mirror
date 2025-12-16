@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "2D3A308C-BD21-4A3B-AF6C-1EC3D5CCA000", "criteria": "cpe:2.3:a:keyangxiang:csvtojson:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.0.10", "lastModified": "2025-10-15T16:33:05.110", "created": "2025-10-15T16:33:05.110", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "2D3A308C-BD21-4A3B-AF6C-1EC3D5CCA000", "criteria": "cpe:2.3:a:keyangxiang:csvtojson:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.0.10", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-15T16:33:05.110", "status": "Inactive"}}

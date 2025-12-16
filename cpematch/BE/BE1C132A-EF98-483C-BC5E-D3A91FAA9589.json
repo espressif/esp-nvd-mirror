@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "BE1C132A-EF98-483C-BC5E-D3A91FAA9589", "criteria": "cpe:2.3:a:intel:graphics_driver:5.4:rc2:*:*:*:*:*:*", "lastModified": "2019-11-21T15:36:42.877", "created": "2019-11-21T15:36:42.877", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "BE1C132A-EF98-483C-BC5E-D3A91FAA9589", "criteria": "cpe:2.3:a:intel:graphics_driver:5.4:rc2:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2019-11-21T15:36:42.877", "status": "Inactive"}}

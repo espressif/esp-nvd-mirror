@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "3E9BD3A6-CBA2-4D35-95DA-D048A2AB30A7", "criteria": "cpe:2.3:o:tcl:v8-r851t02-lf1_firmware:*:*:*:*:*:*:*:*", "versionEndIncluding": "295", "lastModified": "2020-11-17T18:10:19.500", "created": "2020-11-17T18:10:19.500", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "3E9BD3A6-CBA2-4D35-95DA-D048A2AB30A7", "criteria": "cpe:2.3:o:tcl:v8-r851t02-lf1_firmware:*:*:*:*:*:*:*:*", "versionEndIncluding": "295", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-11-17T18:10:19.500", "status": "Inactive"}}

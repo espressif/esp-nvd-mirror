@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C89D1FD3-DE98-461D-93FA-9562F9F6F1D8", "criteria": "cpe:2.3:o:qualcomm:r6020_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.0.0.44", "lastModified": "2020-10-15T12:25:09.187", "created": "2020-10-15T12:25:09.187", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "C89D1FD3-DE98-461D-93FA-9562F9F6F1D8", "criteria": "cpe:2.3:o:qualcomm:r6020_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.0.0.44", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-10-15T12:25:09.187", "status": "Inactive"}}

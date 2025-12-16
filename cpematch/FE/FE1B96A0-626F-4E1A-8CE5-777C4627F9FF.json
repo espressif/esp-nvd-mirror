@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "FE1B96A0-626F-4E1A-8CE5-777C4627F9FF", "criteria": "cpe:2.3:h:intel:core_i5_1035g1:*:*:*:*:*:*:*:*", "lastModified": "2025-09-29T15:22:28.463", "cpeLastModified": "2025-09-29T15:22:28.463", "created": "2025-09-29T15:22:28.463", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "FE1B96A0-626F-4E1A-8CE5-777C4627F9FF", "criteria": "cpe:2.3:h:intel:core_i5_1035g1:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2025-09-29T15:22:28.463", "created": "2025-09-29T15:22:28.463", "status": "Inactive"}}

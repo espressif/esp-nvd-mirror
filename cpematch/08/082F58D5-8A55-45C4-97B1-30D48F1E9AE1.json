@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "082F58D5-8A55-45C4-97B1-30D48F1E9AE1", "criteria": "cpe:2.3:a:secureprops_project:secureprops:1.2.1:*:*:*:*:php:*:*", "lastModified": "2025-12-02T17:22:18.373", "created": "2025-12-02T17:22:18.373", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "082F58D5-8A55-45C4-97B1-30D48F1E9AE1", "criteria": "cpe:2.3:a:secureprops_project:secureprops:1.2.1:*:*:*:*:php:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-02T17:22:18.373", "status": "Inactive"}}

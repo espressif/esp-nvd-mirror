@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "3177CC53-4A43-4999-9F9F-635284A0AB35", "criteria": "cpe:2.3:h:cisco:ucs_e160d:-:*:*:*:*:*:*:*", "lastModified": "2021-05-12T12:01:29.230", "cpeLastModified": "2021-05-12T12:13:27.843", "created": "2021-05-12T12:01:29.230", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "3177CC53-4A43-4999-9F9F-635284A0AB35", "criteria": "cpe:2.3:h:cisco:ucs_e160d:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-05-12T12:13:27.843", "created": "2021-05-12T12:01:29.230", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "9DE6F57D-3CD4-4D8C-BF80-7F84ECD77723", "criteria": "cpe:2.3:h:realtek:rtsuer.sys:-:*:*:*:*:*:*:*", "lastModified": "2024-08-14T15:45:35.400", "cpeLastModified": "2024-08-14T15:45:35.400", "created": "2024-08-14T15:45:35.400", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "9DE6F57D-3CD4-4D8C-BF80-7F84ECD77723", "criteria": "cpe:2.3:h:realtek:rtsuer.sys:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2024-08-14T15:45:35.400", "created": "2024-08-14T15:45:35.400", "status": "Inactive"}}

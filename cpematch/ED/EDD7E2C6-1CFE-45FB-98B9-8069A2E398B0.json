@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "EDD7E2C6-1CFE-45FB-98B9-8069A2E398B0", "criteria": "cpe:2.3:a:lodev:lodepngl:*:*:*:*:*:*:*:*", "versionEndIncluding": "2019-09-28", "lastModified": "2019-10-07T19:08:50.233", "created": "2019-10-07T19:08:50.233", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "EDD7E2C6-1CFE-45FB-98B9-8069A2E398B0", "criteria": "cpe:2.3:a:lodev:lodepngl:*:*:*:*:*:*:*:*", "versionEndIncluding": "2019-09-28", "lastModified": "2025-12-16T03:00:00.070", "created": "2019-10-07T19:08:50.233", "status": "Inactive"}}

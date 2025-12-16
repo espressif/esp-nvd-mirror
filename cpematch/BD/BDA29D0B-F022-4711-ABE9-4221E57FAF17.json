@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "BDA29D0B-F022-4711-ABE9-4221E57FAF17", "criteria": "cpe:2.3:a:oracle:jdk:8:*:*:*:*:*:*:*", "lastModified": "2024-09-19T17:54:30.220", "cpeLastModified": "2024-09-19T17:54:30.220", "created": "2024-09-19T17:54:30.220", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "BDA29D0B-F022-4711-ABE9-4221E57FAF17", "criteria": "cpe:2.3:a:oracle:jdk:8:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2024-09-19T17:54:30.220", "created": "2024-09-19T17:54:30.220", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "942B1321-9422-4116-8A0F-9935C5282878", "criteria": "cpe:2.3:a:openplcproject:scadabr:*:*:*:*:*:linux:*:*", "versionEndIncluding": "0.9.1", "lastModified": "2021-06-21T17:51:36.967", "created": "2021-06-21T17:51:36.967", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "942B1321-9422-4116-8A0F-9935C5282878", "criteria": "cpe:2.3:a:openplcproject:scadabr:*:*:*:*:*:linux:*:*", "versionEndIncluding": "0.9.1", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-06-21T17:51:36.967", "status": "Inactive"}}

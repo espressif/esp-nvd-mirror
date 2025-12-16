@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "9C22EB35-387F-4943-9006-71C2CB533C20", "criteria": "cpe:2.3:a:vtiger:vtiger:7.2:*:*:*:*:*:*:*", "lastModified": "2021-05-01T02:03:30.280", "cpeLastModified": "2021-05-01T02:03:34.390", "created": "2021-05-01T02:03:30.280", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "9C22EB35-387F-4943-9006-71C2CB533C20", "criteria": "cpe:2.3:a:vtiger:vtiger:7.2:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-05-01T02:03:34.390", "created": "2021-05-01T02:03:30.280", "status": "Inactive"}}

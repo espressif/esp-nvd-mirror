@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "153661DC-B6F6-431B-8C4C-7BD5049D17B9", "criteria": "cpe:2.3:a:redhat:jboss_amq_streaming:-:*:*:*:*:*:*:*", "lastModified": "2020-12-04T14:52:16.650", "created": "2020-12-04T14:52:16.650", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "153661DC-B6F6-431B-8C4C-7BD5049D17B9", "criteria": "cpe:2.3:a:redhat:jboss_amq_streaming:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-12-04T14:52:16.650", "status": "Inactive"}}

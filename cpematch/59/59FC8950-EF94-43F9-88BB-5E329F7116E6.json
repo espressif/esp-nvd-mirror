@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "59FC8950-EF94-43F9-88BB-5E329F7116E6", "criteria": "cpe:2.3:h:tendacn:m3:-:*:*:*:*:*:*:*", "lastModified": "2022-07-11T16:13:33.543", "cpeLastModified": "2022-07-08T19:14:28.440", "created": "2022-07-08T19:08:45.250", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "59FC8950-EF94-43F9-88BB-5E329F7116E6", "criteria": "cpe:2.3:h:tendacn:m3:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-07-08T19:14:28.440", "created": "2022-07-08T19:08:45.250", "status": "Inactive"}}

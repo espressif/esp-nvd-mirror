@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "EE0189AA-796C-4A80-BAAF-0F342AB5984B", "criteria": "cpe:2.3:a:microsoft:office_2016:-*:*:*:-:*:*:x64:*", "lastModified": "2025-10-28T14:26:44.947", "created": "2025-10-28T14:26:44.947", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "EE0189AA-796C-4A80-BAAF-0F342AB5984B", "criteria": "cpe:2.3:a:microsoft:office_2016:-*:*:*:-:*:*:x64:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-28T14:26:44.947", "status": "Inactive"}}

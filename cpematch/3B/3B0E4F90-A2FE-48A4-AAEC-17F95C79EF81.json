@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "3B0E4F90-A2FE-48A4-AAEC-17F95C79EF81", "criteria": "cpe:2.3:a:naigos:nagios_log_server:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.1.9", "lastModified": "2021-08-04T13:09:46.843", "created": "2021-08-04T13:09:46.843", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "3B0E4F90-A2FE-48A4-AAEC-17F95C79EF81", "criteria": "cpe:2.3:a:naigos:nagios_log_server:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.1.9", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-08-04T13:09:46.843", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D9FA8794-2A76-449D-97D9-9C882D00055C", "criteria": "cpe:2.3:o:se:pm8000_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.0.0", "lastModified": "2021-03-15T14:21:13.083", "created": "2021-03-15T14:21:13.083", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D9FA8794-2A76-449D-97D9-9C882D00055C", "criteria": "cpe:2.3:o:se:pm8000_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.0.0", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-03-15T14:21:13.083", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "5559289A-9942-4173-9BD2-693745F96D31", "criteria": "cpe:2.3:a:spin_project:spin:6.5.1:*:*:*:*:*:*:*", "lastModified": "2022-01-21T15:20:12.007", "cpeLastModified": "2022-01-21T18:52:03.090", "created": "2022-01-21T15:20:12.007", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "5559289A-9942-4173-9BD2-693745F96D31", "criteria": "cpe:2.3:a:spin_project:spin:6.5.1:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-01-21T18:52:03.090", "created": "2022-01-21T15:20:12.007", "status": "Inactive"}}

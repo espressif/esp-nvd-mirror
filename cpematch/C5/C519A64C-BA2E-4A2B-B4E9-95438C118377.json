@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C519A64C-BA2E-4A2B-B4E9-95438C118377", "criteria": "cpe:2.3:a:fortinet:fortimanager:*:*:*:*:virtual_machine:*:*:*", "versionEndExcluding": "6.2.1", "lastModified": "2019-08-26T16:35:19.480", "created": "2019-08-26T16:35:19.480", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "C519A64C-BA2E-4A2B-B4E9-95438C118377", "criteria": "cpe:2.3:a:fortinet:fortimanager:*:*:*:*:virtual_machine:*:*:*", "versionEndExcluding": "6.2.1", "lastModified": "2025-12-16T03:00:00.070", "created": "2019-08-26T16:35:19.480", "status": "Inactive"}}

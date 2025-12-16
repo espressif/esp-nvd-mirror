@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C6E22013-6D2A-48C8-A3BD-225AF7455B3C", "criteria": "cpe:2.3:h:asuswrt:rt-ac58u:-:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "C6E22013-6D2A-48C8-A3BD-225AF7455B3C", "criteria": "cpe:2.3:h:asuswrt:rt-ac58u:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

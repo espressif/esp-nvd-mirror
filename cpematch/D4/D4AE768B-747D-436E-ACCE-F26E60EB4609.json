@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D4AE768B-747D-436E-ACCE-F26E60EB4609", "criteria": "cpe:2.3:h:siemnes:tim_4r-ie_dnp3:-:*:*:*:*:*:*:*", "lastModified": "2021-04-16T00:31:33.843", "cpeLastModified": "2021-04-16T00:31:47.860", "created": "2021-04-16T00:31:33.843", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D4AE768B-747D-436E-ACCE-F26E60EB4609", "criteria": "cpe:2.3:h:siemnes:tim_4r-ie_dnp3:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-04-16T00:31:47.860", "created": "2021-04-16T00:31:33.843", "status": "Inactive"}}

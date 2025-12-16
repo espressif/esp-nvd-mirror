@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "180F4561-60C3-4C9D-803A-6E63164F5CD3", "criteria": "cpe:2.3:a:drupal:civictheme_design_system:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.12.0", "lastModified": "2025-12-03T18:48:39.623", "created": "2025-12-03T18:48:39.623", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "180F4561-60C3-4C9D-803A-6E63164F5CD3", "criteria": "cpe:2.3:a:drupal:civictheme_design_system:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.12.0", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-03T18:48:39.623", "status": "Inactive"}}

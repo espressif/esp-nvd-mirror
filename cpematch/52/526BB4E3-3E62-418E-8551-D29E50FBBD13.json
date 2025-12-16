@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "526BB4E3-3E62-418E-8551-D29E50FBBD13", "criteria": "cpe:2.3:a:obsdian:obsidian:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.12.12", "lastModified": "2021-08-14T03:16:00.693", "created": "2021-08-14T03:16:00.693", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "526BB4E3-3E62-418E-8551-D29E50FBBD13", "criteria": "cpe:2.3:a:obsdian:obsidian:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.12.12", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-08-14T03:16:00.693", "status": "Inactive"}}

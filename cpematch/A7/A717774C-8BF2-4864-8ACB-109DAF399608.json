@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "A717774C-8BF2-4864-8ACB-109DAF399608", "criteria": "cpe:2.3:a:suse:munge:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.5.13-6.1", "lastModified": "2020-01-27T14:57:59.817", "created": "2020-01-27T14:57:59.817", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "A717774C-8BF2-4864-8ACB-109DAF399608", "criteria": "cpe:2.3:a:suse:munge:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.5.13-6.1", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-01-27T14:57:59.817", "status": "Inactive"}}

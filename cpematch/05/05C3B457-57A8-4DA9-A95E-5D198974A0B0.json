@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "05C3B457-57A8-4DA9-A95E-5D198974A0B0", "criteria": "cpe:2.3:a:ibm:engineering_workflow_management:7.0.3:ifix017:*:*:*:*:*:*", "lastModified": "2025-12-11T15:49:31.823", "created": "2025-12-11T15:49:31.823", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "05C3B457-57A8-4DA9-A95E-5D198974A0B0", "criteria": "cpe:2.3:a:ibm:engineering_workflow_management:7.0.3:ifix017:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-11T15:49:31.823", "status": "Inactive"}}

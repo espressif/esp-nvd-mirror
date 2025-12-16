@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "9CFD9FED-BF3A-4672-BF5F-1EA413C533FD", "criteria": "cpe:2.3:a:error311:filerise:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.5.0", "lastModified": "2025-12-04T17:14:33.317", "created": "2025-12-04T17:14:33.317", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "9CFD9FED-BF3A-4672-BF5F-1EA413C533FD", "criteria": "cpe:2.3:a:error311:filerise:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.5.0", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-04T17:14:33.317", "status": "Inactive"}}

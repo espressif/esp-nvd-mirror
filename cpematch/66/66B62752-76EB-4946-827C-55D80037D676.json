@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "66B62752-76EB-4946-827C-55D80037D676", "criteria": "cpe:2.3:o:qualcomm:r6850_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.1.0.76", "lastModified": "2020-10-15T12:25:09.560", "created": "2020-10-15T12:25:09.560", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "66B62752-76EB-4946-827C-55D80037D676", "criteria": "cpe:2.3:o:qualcomm:r6850_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.1.0.76", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-10-15T12:25:09.560", "status": "Inactive"}}

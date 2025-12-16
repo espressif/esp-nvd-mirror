@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "F78392FA-3208-4139-AAF8-EF61ABB2D5D9", "criteria": "cpe:2.3:a:x.org:xserver:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.4.1", "lastModified": "2020-11-20T16:27:26.257", "created": "2020-11-20T16:27:26.257", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "F78392FA-3208-4139-AAF8-EF61ABB2D5D9", "criteria": "cpe:2.3:a:x.org:xserver:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.4.1", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-11-20T16:27:26.257", "status": "Inactive"}}

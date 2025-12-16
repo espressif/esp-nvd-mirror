@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "CF2E9A49-9B15-4B46-B1BB-7BE8F96896FF", "criteria": "cpe:2.3:a:jenkins:inheritance-plugin:*:*:*:*:*:jenkins:*:*", "versionEndIncluding": "2.0.0", "lastModified": "2019-09-25T17:22:21.850", "created": "2019-09-25T17:22:21.850", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "CF2E9A49-9B15-4B46-B1BB-7BE8F96896FF", "criteria": "cpe:2.3:a:jenkins:inheritance-plugin:*:*:*:*:*:jenkins:*:*", "versionEndIncluding": "2.0.0", "lastModified": "2025-12-16T03:00:00.070", "created": "2019-09-25T17:22:21.850", "status": "Inactive"}}

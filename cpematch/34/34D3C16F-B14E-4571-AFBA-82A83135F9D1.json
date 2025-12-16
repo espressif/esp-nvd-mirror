@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "34D3C16F-B14E-4571-AFBA-82A83135F9D1", "criteria": "cpe:2.3:h:trendnet:tew-755ap:1.11b03:*:*:*:*:*:*:*", "lastModified": "2021-08-13T17:36:40.087", "cpeLastModified": "2021-08-13T17:36:50.480", "created": "2021-08-13T17:36:40.087", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "34D3C16F-B14E-4571-AFBA-82A83135F9D1", "criteria": "cpe:2.3:h:trendnet:tew-755ap:1.11b03:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-08-13T17:36:50.480", "created": "2021-08-13T17:36:40.087", "status": "Inactive"}}

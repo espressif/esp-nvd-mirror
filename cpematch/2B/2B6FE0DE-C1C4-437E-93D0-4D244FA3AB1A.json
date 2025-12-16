@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "2B6FE0DE-C1C4-437E-93D0-4D244FA3AB1A", "criteria": "cpe:2.3:h:dahua:ipc-hx2xxx:-:*:*:*:*:*:*:*", "lastModified": "2020-04-10T12:53:11.317", "cpeLastModified": "2021-03-22T20:02:38.157", "created": "2020-04-10T12:53:11.317", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "2B6FE0DE-C1C4-437E-93D0-4D244FA3AB1A", "criteria": "cpe:2.3:h:dahua:ipc-hx2xxx:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-22T20:02:38.157", "created": "2020-04-10T12:53:11.317", "status": "Inactive"}}

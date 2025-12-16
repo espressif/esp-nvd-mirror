@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "F833E5AE-140A-4D7F-B47D-446051FBA957", "criteria": "cpe:2.3:a:ibm:cognos_analytics:11.0.13:fix_pack_2:*:*:*:*:*:*", "lastModified": "2019-12-23T15:25:32.550", "created": "2019-12-23T15:25:32.550", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "F833E5AE-140A-4D7F-B47D-446051FBA957", "criteria": "cpe:2.3:a:ibm:cognos_analytics:11.0.13:fix_pack_2:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2019-12-23T15:25:32.550", "status": "Inactive"}}

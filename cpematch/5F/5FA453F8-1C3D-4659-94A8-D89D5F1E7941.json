@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "5FA453F8-1C3D-4659-94A8-D89D5F1E7941", "criteria": "cpe:2.3:o:qualcomm:r6080_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.0.0.44", "lastModified": "2020-10-15T12:25:09.233", "created": "2020-10-15T12:25:09.233", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "5FA453F8-1C3D-4659-94A8-D89D5F1E7941", "criteria": "cpe:2.3:o:qualcomm:r6080_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.0.0.44", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-10-15T12:25:09.233", "status": "Inactive"}}

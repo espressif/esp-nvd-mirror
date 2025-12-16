@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B234AEA4-5911-470B-BE6B-8BDD43A4708C", "criteria": "cpe:2.3:a:jenkins:xray_-_test_management:*:*:*:*:*:jenkins:*:*", "versionEndIncluding": "2.4.0", "lastModified": "2021-05-14T21:03:31.067", "created": "2021-05-14T21:03:31.067", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B234AEA4-5911-470B-BE6B-8BDD43A4708C", "criteria": "cpe:2.3:a:jenkins:xray_-_test_management:*:*:*:*:*:jenkins:*:*", "versionEndIncluding": "2.4.0", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-05-14T21:03:31.067", "status": "Inactive"}}

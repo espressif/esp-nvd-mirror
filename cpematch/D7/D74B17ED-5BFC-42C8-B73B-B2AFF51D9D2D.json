@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D74B17ED-5BFC-42C8-B73B-B2AFF51D9D2D", "criteria": "cpe:2.3:o:se:ion8600_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-03-15T14:17:32.937", "created": "2021-03-15T14:17:32.937", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D74B17ED-5BFC-42C8-B73B-B2AFF51D9D2D", "criteria": "cpe:2.3:o:se:ion8600_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-03-15T14:17:32.937", "status": "Inactive"}}

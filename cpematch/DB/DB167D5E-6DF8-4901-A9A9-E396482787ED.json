@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "DB167D5E-6DF8-4901-A9A9-E396482787ED", "criteria": "cpe:2.3:o:dell:dell_g16_7630_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.21.1", "lastModified": "2025-12-01T13:51:55.220", "created": "2025-12-01T13:51:55.220", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "DB167D5E-6DF8-4901-A9A9-E396482787ED", "criteria": "cpe:2.3:o:dell:dell_g16_7630_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.21.1", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-01T13:51:55.220", "status": "Inactive"}}

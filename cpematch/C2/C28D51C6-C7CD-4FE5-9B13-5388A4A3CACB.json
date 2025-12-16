@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C28D51C6-C7CD-4FE5-9B13-5388A4A3CACB", "criteria": "cpe:2.3:a:eggheads:eggdrop_docker:1.8.0:rc3:*:*:*:*:*:*", "lastModified": "2020-12-09T15:58:06.480", "created": "2020-12-09T15:58:06.480", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "C28D51C6-C7CD-4FE5-9B13-5388A4A3CACB", "criteria": "cpe:2.3:a:eggheads:eggdrop_docker:1.8.0:rc3:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-12-09T15:58:06.480", "status": "Inactive"}}

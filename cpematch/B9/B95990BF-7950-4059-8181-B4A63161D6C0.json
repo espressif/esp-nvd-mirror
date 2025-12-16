@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B95990BF-7950-4059-8181-B4A63161D6C0", "criteria": "cpe:2.3:a:ibm:engineering_lifecycle_optimization_-_engineering_insights:7.1.0:-:*:*:*:*:*:*", "lastModified": "2025-12-11T15:45:21.627", "created": "2025-12-11T15:45:21.627", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B95990BF-7950-4059-8181-B4A63161D6C0", "criteria": "cpe:2.3:a:ibm:engineering_lifecycle_optimization_-_engineering_insights:7.1.0:-:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-11T15:45:21.627", "status": "Inactive"}}

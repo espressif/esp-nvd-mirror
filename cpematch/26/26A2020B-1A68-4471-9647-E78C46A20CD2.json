@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "26A2020B-1A68-4471-9647-E78C46A20CD2", "criteria": "cpe:2.3:a:sap:netweaver_as_abap_business_server_pages_:7.73:*:*:*:*:*:*:*", "lastModified": "2020-03-11T19:40:31.563", "created": "2020-03-11T19:40:31.563", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "26A2020B-1A68-4471-9647-E78C46A20CD2", "criteria": "cpe:2.3:a:sap:netweaver_as_abap_business_server_pages_:7.73:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-03-11T19:40:31.563", "status": "Inactive"}}

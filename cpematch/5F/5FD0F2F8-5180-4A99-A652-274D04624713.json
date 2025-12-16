@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "5FD0F2F8-5180-4A99-A652-274D04624713", "criteria": "cpe:2.3:a:hcl:leap:*:*:*:*:*:*:*:*", "versionEndExcluding": "9.3.1", "lastModified": "2025-10-29T14:39:35.107", "created": "2025-10-29T14:39:35.107", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "5FD0F2F8-5180-4A99-A652-274D04624713", "criteria": "cpe:2.3:a:hcl:leap:*:*:*:*:*:*:*:*", "versionEndExcluding": "9.3.1", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-29T14:39:35.107", "status": "Inactive"}}

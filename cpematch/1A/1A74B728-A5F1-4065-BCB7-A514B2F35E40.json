@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "1A74B728-A5F1-4065-BCB7-A514B2F35E40", "criteria": "cpe:2.3:a:blackberry:athoc:7.21:*:*:*:*:*:*:*", "lastModified": "2025-12-01T15:46:06.917", "created": "2025-12-01T15:46:06.917", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "1A74B728-A5F1-4065-BCB7-A514B2F35E40", "criteria": "cpe:2.3:a:blackberry:athoc:7.21:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-01T15:46:06.917", "status": "Inactive"}}

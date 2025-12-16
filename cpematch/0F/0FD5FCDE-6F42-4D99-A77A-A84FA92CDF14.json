@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "0FD5FCDE-6F42-4D99-A77A-A84FA92CDF14", "criteria": "cpe:2.3:o:se:ion8500_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-03-15T14:17:32.780", "created": "2021-03-15T14:17:32.780", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "0FD5FCDE-6F42-4D99-A77A-A84FA92CDF14", "criteria": "cpe:2.3:o:se:ion8500_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-03-15T14:17:32.780", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "CB1F1394-08BA-492D-A30D-5BBF0EC30E74", "criteria": "cpe:2.3:a:flocksafety:bravo_edge_ai_compute_device:bravo_00.00_local_20241017:*:*:*:*:*:*:*", "lastModified": "2025-10-08T11:49:44.433", "created": "2025-10-08T11:49:44.433", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "CB1F1394-08BA-492D-A30D-5BBF0EC30E74", "criteria": "cpe:2.3:a:flocksafety:bravo_edge_ai_compute_device:bravo_00.00_local_20241017:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-08T11:49:44.433", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C160C858-6EAF-48E7-9050-F2467ECE88D8", "criteria": "cpe:2.3:a:oracle:peoplesoft_enterprise_fin_maintenance_management_:9.2:*:*:*:*:*:*:*", "lastModified": "2025-10-23T17:09:05.617", "created": "2025-10-23T17:09:05.617", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "C160C858-6EAF-48E7-9050-F2467ECE88D8", "criteria": "cpe:2.3:a:oracle:peoplesoft_enterprise_fin_maintenance_management_:9.2:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-23T17:09:05.617", "status": "Inactive"}}

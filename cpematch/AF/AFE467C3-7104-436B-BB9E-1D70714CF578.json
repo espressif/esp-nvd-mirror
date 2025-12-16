@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "AFE467C3-7104-436B-BB9E-1D70714CF578", "criteria": "cpe:2.3:o:entrust:nshield_hsmi_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-12-05T03:25:18.820", "created": "2025-12-05T03:25:18.820", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "AFE467C3-7104-436B-BB9E-1D70714CF578", "criteria": "cpe:2.3:o:entrust:nshield_hsmi_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-05T03:25:18.820", "status": "Inactive"}}

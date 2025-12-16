@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E6DE1CB5-2079-48DC-9069-2E9C231AC60A", "criteria": "cpe:2.3:a:microfocus:verastream_host_integrato:7.7:sp2:*:*:*:*:*:*", "lastModified": "2019-08-28T17:15:32.840", "created": "2019-08-28T17:15:32.840", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E6DE1CB5-2079-48DC-9069-2E9C231AC60A", "criteria": "cpe:2.3:a:microfocus:verastream_host_integrato:7.7:sp2:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2019-08-28T17:15:32.840", "status": "Inactive"}}

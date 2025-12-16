@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "BFDABCCE-FD61-4FCA-BB9C-DD52A2491F7A", "criteria": "cpe:2.3:a:zzcms:zzcms:8.2.:*:*:*:*:*:*:*", "lastModified": "2023-07-24T19:51:09.903", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "BFDABCCE-FD61-4FCA-BB9C-DD52A2491F7A", "criteria": "cpe:2.3:a:zzcms:zzcms:8.2.:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

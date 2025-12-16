@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B86ABCAB-0F48-476B-B8A1-55545B7FEF9B", "criteria": "cpe:2.3:o:se:ion8800_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "372", "lastModified": "2021-03-15T14:17:31.657", "created": "2021-03-15T14:17:31.657", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B86ABCAB-0F48-476B-B8A1-55545B7FEF9B", "criteria": "cpe:2.3:o:se:ion8800_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "372", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-03-15T14:17:31.657", "status": "Inactive"}}

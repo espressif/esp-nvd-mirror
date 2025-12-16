@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C26973AC-642C-4523-83DE-B65DF307F372", "criteria": "cpe:2.3:h:d-link:dir-819:-:*:*:*:*:*:*:*", "lastModified": "2022-09-14T00:53:47.840", "cpeLastModified": "2022-09-14T00:55:38.227", "created": "2022-09-14T00:53:47.840", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "C26973AC-642C-4523-83DE-B65DF307F372", "criteria": "cpe:2.3:h:d-link:dir-819:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-09-14T00:55:38.227", "created": "2022-09-14T00:53:47.840", "status": "Inactive"}}

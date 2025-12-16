@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "13483E4A-A05F-45BB-985A-F4F6159543A1", "criteria": "cpe:2.3:o:d-link:dcs-1100_firmware:-:*:*:*:*:*:*:*", "lastModified": "2021-04-22T17:18:05.810", "cpeLastModified": "2021-04-22T18:22:20.157", "created": "2021-04-22T17:18:05.810", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "13483E4A-A05F-45BB-985A-F4F6159543A1", "criteria": "cpe:2.3:o:d-link:dcs-1100_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-04-22T18:22:20.157", "created": "2021-04-22T17:18:05.810", "status": "Inactive"}}

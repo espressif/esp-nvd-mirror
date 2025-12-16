@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "F7316AE9-4673-4007-9F0C-AD672E042D0F", "criteria": "cpe:2.3:o:paloaltonetworks:pan-os:11.0:-:*:*:*:*:*:*", "lastModified": "2025-11-03T16:35:28.753", "created": "2025-11-03T16:35:28.753", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "F7316AE9-4673-4007-9F0C-AD672E042D0F", "criteria": "cpe:2.3:o:paloaltonetworks:pan-os:11.0:-:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-11-03T16:35:28.753", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "69D8A8A5-04F2-44E6-AD0F-215E9822A137", "criteria": "cpe:2.3:a:drupal:currency:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.5.0", "lastModified": "2025-12-03T18:45:01.757", "created": "2025-12-03T18:45:01.757", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "69D8A8A5-04F2-44E6-AD0F-215E9822A137", "criteria": "cpe:2.3:a:drupal:currency:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.5.0", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-03T18:45:01.757", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "4480220F-95F9-4ADB-8884-2A8660C190B8", "criteria": "cpe:2.3:a:rancher_labs:rancher:1.2.4:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T22:53:51.837", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "4480220F-95F9-4ADB-8884-2A8660C190B8", "criteria": "cpe:2.3:a:rancher_labs:rancher:1.2.4:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-03T22:53:51.837", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

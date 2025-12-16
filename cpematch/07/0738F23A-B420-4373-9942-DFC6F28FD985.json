@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "0738F23A-B420-4373-9942-DFC6F28FD985", "criteria": "cpe:2.3:a:microsoft:office_2016:-:*:*:*:click-to-run:*:x86:*", "lastModified": "2025-10-28T14:27:08.157", "created": "2025-10-28T14:27:08.157", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "0738F23A-B420-4373-9942-DFC6F28FD985", "criteria": "cpe:2.3:a:microsoft:office_2016:-:*:*:*:click-to-run:*:x86:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-28T14:27:08.157", "status": "Inactive"}}

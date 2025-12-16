@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E3DDB2A6-A8C2-4940-95B1-812593E6AFFE", "criteria": "cpe:2.3:a:dell:storage_manager:*:r1.21:*:*:*:*:*:*", "versionEndExcluding": "2020", "lastModified": "2025-10-29T14:54:27.810", "created": "2025-10-29T14:54:27.810", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E3DDB2A6-A8C2-4940-95B1-812593E6AFFE", "criteria": "cpe:2.3:a:dell:storage_manager:*:r1.21:*:*:*:*:*:*", "versionEndExcluding": "2020", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-29T14:54:27.810", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "AEC2B2DB-4CA7-4582-8B65-F31C8EA4E56D", "criteria": "cpe:2.3:o:se:ion7300_firmware:*:*:*:*:*:*:*:*", "lastModified": "2021-03-15T14:17:32.297", "created": "2021-03-15T14:17:32.297", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "AEC2B2DB-4CA7-4582-8B65-F31C8EA4E56D", "criteria": "cpe:2.3:o:se:ion7300_firmware:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-03-15T14:17:32.297", "status": "Inactive"}}

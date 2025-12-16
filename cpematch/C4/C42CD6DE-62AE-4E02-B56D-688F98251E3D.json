@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C42CD6DE-62AE-4E02-B56D-688F98251E3D", "criteria": "cpe:2.3:a:huangjian888:jeeweb-mybatis-springboot:*:*:*:*:*:*:*:*", "versionEndIncluding": "0.0.1", "lastModified": "2025-10-10T15:48:27.587", "created": "2025-10-10T15:48:27.587", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "C42CD6DE-62AE-4E02-B56D-688F98251E3D", "criteria": "cpe:2.3:a:huangjian888:jeeweb-mybatis-springboot:*:*:*:*:*:*:*:*", "versionEndIncluding": "0.0.1", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-10T15:48:27.587", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "AD97E965-4B52-4D22-9526-BA7DA6B8327E", "criteria": "cpe:2.3:a:scratch:scratch-svg-renderer:0.2.0:prerelease.20201014105708:*:*:*:node.js:*:*", "lastModified": "2020-10-22T13:22:53.420", "created": "2020-10-22T13:22:53.420", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "AD97E965-4B52-4D22-9526-BA7DA6B8327E", "criteria": "cpe:2.3:a:scratch:scratch-svg-renderer:0.2.0:prerelease.20201014105708:*:*:*:node.js:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-10-22T13:22:53.420", "status": "Inactive"}}

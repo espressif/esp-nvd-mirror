@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "3683FAEF-BBB5-407A-87DF-46DBF04AAA3B", "criteria": "cpe:2.3:a:zabbix:zabbiz-agent2:5.4.9:-:*:*:*:*:*:*", "lastModified": "2022-01-18T16:29:20.710", "cpeLastModified": "2022-01-18T17:31:55.337", "created": "2022-01-18T16:29:20.710", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "3683FAEF-BBB5-407A-87DF-46DBF04AAA3B", "criteria": "cpe:2.3:a:zabbix:zabbiz-agent2:5.4.9:-:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-01-18T17:31:55.337", "created": "2022-01-18T16:29:20.710", "status": "Inactive"}}

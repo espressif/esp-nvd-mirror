@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "5E3D520D-92F4-47DC-A08A-50AFFCA9D451", "criteria": "cpe:2.3:h:genexis:platinum_4410:v2.1:*:*:*:*:*:*:*", "lastModified": "2021-04-21T19:47:40.140", "cpeLastModified": "2021-04-21T19:48:29.000", "created": "2021-04-21T19:47:40.140", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "5E3D520D-92F4-47DC-A08A-50AFFCA9D451", "criteria": "cpe:2.3:h:genexis:platinum_4410:v2.1:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-04-21T19:48:29.000", "created": "2021-04-21T19:47:40.140", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "7A14CA98-8100-448D-8F27-8004026789A6", "criteria": "cpe:2.3:a:pfsense:pfsense:0.63_10:*:*:*:community:*:*:*", "lastModified": "2025-09-24T16:07:45.473", "created": "2025-09-24T16:07:45.473", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "7A14CA98-8100-448D-8F27-8004026789A6", "criteria": "cpe:2.3:a:pfsense:pfsense:0.63_10:*:*:*:community:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-09-24T16:07:45.473", "status": "Inactive"}}

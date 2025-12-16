@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "3CCAE4DA-CB92-43ED-A67B-DCC5B924D3AD", "criteria": "cpe:2.3:a:sheetjs_project:sheetjs:*:*:*:*:*:*:*:*", "versionEndIncluding": "0.16.9", "lastModified": "2021-07-20T16:05:55.870", "created": "2021-07-20T16:05:55.870", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "3CCAE4DA-CB92-43ED-A67B-DCC5B924D3AD", "criteria": "cpe:2.3:a:sheetjs_project:sheetjs:*:*:*:*:*:*:*:*", "versionEndIncluding": "0.16.9", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-07-20T16:05:55.870", "status": "Inactive"}}

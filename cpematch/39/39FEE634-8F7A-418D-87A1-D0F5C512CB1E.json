@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "39FEE634-8F7A-418D-87A1-D0F5C512CB1E", "criteria": "cpe:2.3:h:beetel:777vr1-dl:1.01:*:*:*:*:*:*:*", "lastModified": "2022-02-02T12:37:41.460", "cpeLastModified": "2022-09-22T18:36:12.547", "created": "2022-02-02T12:37:41.460", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "39FEE634-8F7A-418D-87A1-D0F5C512CB1E", "criteria": "cpe:2.3:h:beetel:777vr1-dl:1.01:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-09-22T18:36:12.547", "created": "2022-02-02T12:37:41.460", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "55725CD0-704A-4801-8679-104F82630107", "criteria": "cpe:2.3:a:openml:openml.org:2.0.20241110:*:*:*:*:*:*:*", "lastModified": "2025-10-14T19:08:19.007", "created": "2025-10-14T19:08:19.007", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "55725CD0-704A-4801-8679-104F82630107", "criteria": "cpe:2.3:a:openml:openml.org:2.0.20241110:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-14T19:08:19.007", "status": "Inactive"}}

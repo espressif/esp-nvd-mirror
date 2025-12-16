@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "8451E672-1CBE-471F-9587-2EF41F681F67", "criteria": "cpe:2.3:o:cometsystem:t6640_firmware:1.60:*:*:*:*:*:*:*", "lastModified": "2025-09-29T18:21:26.870", "created": "2025-09-29T18:21:26.870", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "8451E672-1CBE-471F-9587-2EF41F681F67", "criteria": "cpe:2.3:o:cometsystem:t6640_firmware:1.60:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-09-29T18:21:26.870", "status": "Inactive"}}

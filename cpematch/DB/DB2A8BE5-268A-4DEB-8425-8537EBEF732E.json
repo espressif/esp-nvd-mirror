@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "DB2A8BE5-268A-4DEB-8425-8537EBEF732E", "criteria": "cpe:2.3:h:qualcomm:snapdragon_765g_5g_mobile_platform_\\(sm7250-ab\\)_:-:*:*:*:*:*:*:*", "lastModified": "2025-09-25T14:59:48.140", "created": "2025-09-25T14:59:48.140", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "DB2A8BE5-268A-4DEB-8425-8537EBEF732E", "criteria": "cpe:2.3:h:qualcomm:snapdragon_765g_5g_mobile_platform_\\(sm7250-ab\\)_:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-09-25T14:59:48.140", "status": "Inactive"}}

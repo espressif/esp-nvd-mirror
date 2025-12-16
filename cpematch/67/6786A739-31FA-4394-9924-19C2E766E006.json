@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "6786A739-31FA-4394-9924-19C2E766E006", "criteria": "cpe:2.3:o:cometsystem:t3510_firmware:1.60:*:*:*:*:*:*:*", "lastModified": "2025-09-29T18:21:26.870", "created": "2025-09-29T18:21:26.870", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "6786A739-31FA-4394-9924-19C2E766E006", "criteria": "cpe:2.3:o:cometsystem:t3510_firmware:1.60:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-09-29T18:21:26.870", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "DD29E48E-A637-4D2F-AE81-73F51623D754", "criteria": "cpe:2.3:o:qualcomm:wnr2020_firmware:-:*:*:*:*:*:*:*", "lastModified": "2020-10-15T12:25:09.653", "created": "2020-10-15T12:25:09.653", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "DD29E48E-A637-4D2F-AE81-73F51623D754", "criteria": "cpe:2.3:o:qualcomm:wnr2020_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-10-15T12:25:09.653", "status": "Inactive"}}

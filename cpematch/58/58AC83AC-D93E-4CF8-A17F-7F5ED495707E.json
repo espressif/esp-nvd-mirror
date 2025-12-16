@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "58AC83AC-D93E-4CF8-A17F-7F5ED495707E", "criteria": "cpe:2.3:a:maradns:maradns:0.1.36:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "58AC83AC-D93E-4CF8-A17F-7F5ED495707E", "criteria": "cpe:2.3:a:maradns:maradns:0.1.36:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2019-07-22T16:37:38.133", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

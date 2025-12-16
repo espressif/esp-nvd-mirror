@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "F911BC83-5CE1-45BD-B432-C41FB462CAC8", "criteria": "cpe:2.3:a:emlog:emlog_pro:1.1.1:*:*:*:*:*:*:*", "lastModified": "2022-02-02T14:55:01.867", "cpeLastModified": "2022-02-04T18:17:29.213", "created": "2022-02-02T14:55:01.867", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "F911BC83-5CE1-45BD-B432-C41FB462CAC8", "criteria": "cpe:2.3:a:emlog:emlog_pro:1.1.1:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-02-04T18:17:29.213", "created": "2022-02-02T14:55:01.867", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "4A197B49-28A9-455C-BB14-6DE83147B545", "criteria": "cpe:2.3:o:linuxfoundation:yocto:3.3:*:*:*:*:*:*:*", "lastModified": "2022-08-05T03:39:00.330", "cpeLastModified": "2022-08-05T03:39:00.330", "created": "2022-08-05T03:39:00.330", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "4A197B49-28A9-455C-BB14-6DE83147B545", "criteria": "cpe:2.3:o:linuxfoundation:yocto:3.3:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-08-05T03:39:00.330", "created": "2022-08-05T03:39:00.330", "status": "Inactive"}}

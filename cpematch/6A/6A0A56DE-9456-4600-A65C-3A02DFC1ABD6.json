@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "6A0A56DE-9456-4600-A65C-3A02DFC1ABD6", "criteria": "cpe:2.3:a:drupal:umami_analytics:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.0.1", "lastModified": "2025-12-03T18:42:51.427", "created": "2025-12-03T18:42:51.427", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "6A0A56DE-9456-4600-A65C-3A02DFC1ABD6", "criteria": "cpe:2.3:a:drupal:umami_analytics:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.0.1", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-03T18:42:51.427", "status": "Inactive"}}

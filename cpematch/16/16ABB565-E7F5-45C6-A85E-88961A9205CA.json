@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "16ABB565-E7F5-45C6-A85E-88961A9205CA", "criteria": "cpe:2.3:h:ge:ml3100_switch:-:*:*:*:*:*:*:*", "lastModified": "2019-06-17T09:16:33.960", "cpeLastModified": "2021-03-03T22:53:51.837", "created": "2019-06-17T09:16:33.960", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "16ABB565-E7F5-45C6-A85E-88961A9205CA", "criteria": "cpe:2.3:h:ge:ml3100_switch:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-03-03T22:53:51.837", "created": "2019-06-17T09:16:33.960", "status": "Inactive"}}

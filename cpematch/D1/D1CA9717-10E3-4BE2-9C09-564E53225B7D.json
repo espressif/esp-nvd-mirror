@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D1CA9717-10E3-4BE2-9C09-564E53225B7D", "criteria": "cpe:2.3:a:i3geo_project:i3geo:7.0.5:*:*:*:*:*:*:*", "lastModified": "2022-07-19T17:10:59.183", "cpeLastModified": "2022-07-19T17:11:18.980", "created": "2022-07-19T17:10:59.183", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D1CA9717-10E3-4BE2-9C09-564E53225B7D", "criteria": "cpe:2.3:a:i3geo_project:i3geo:7.0.5:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-07-19T17:11:18.980", "created": "2022-07-19T17:10:59.183", "status": "Inactive"}}

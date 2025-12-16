@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "AC00C380-2F8F-416A-9FA9-91E474673A00", "criteria": "cpe:2.3:a:netop:vision_pro:*:*:*:*:*:*:*:*", "versionEndIncluding": "7.1", "lastModified": "2021-03-26T15:04:55.087", "created": "2021-03-26T15:04:55.087", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "AC00C380-2F8F-416A-9FA9-91E474673A00", "criteria": "cpe:2.3:a:netop:vision_pro:*:*:*:*:*:*:*:*", "versionEndIncluding": "7.1", "lastModified": "2025-12-16T03:00:00.070", "created": "2021-03-26T15:04:55.087", "status": "Inactive"}}

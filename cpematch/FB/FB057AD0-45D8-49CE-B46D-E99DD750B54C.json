@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "FB057AD0-45D8-49CE-B46D-E99DD750B54C", "criteria": "cpe:2.3:a:ibm:jazz_foundation:7.0.3:ifix16:*:*:*:*:*:*", "lastModified": "2025-11-26T18:32:46.333", "created": "2025-11-26T18:32:46.333", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "FB057AD0-45D8-49CE-B46D-E99DD750B54C", "criteria": "cpe:2.3:a:ibm:jazz_foundation:7.0.3:ifix16:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-11-26T18:32:46.333", "status": "Inactive"}}

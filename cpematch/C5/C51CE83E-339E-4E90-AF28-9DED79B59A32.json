@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "C51CE83E-339E-4E90-AF28-9DED79B59A32", "criteria": "cpe:2.3:a:elixir-lang:docker_image:1.6.2-alpine:*:*:*:*:*:*:*", "lastModified": "2020-12-08T19:02:45.743", "created": "2020-12-08T19:02:45.743", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "C51CE83E-339E-4E90-AF28-9DED79B59A32", "criteria": "cpe:2.3:a:elixir-lang:docker_image:1.6.2-alpine:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-12-08T19:02:45.743", "status": "Inactive"}}

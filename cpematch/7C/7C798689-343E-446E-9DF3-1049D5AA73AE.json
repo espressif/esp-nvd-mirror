@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "7C798689-343E-446E-9DF3-1049D5AA73AE", "criteria": "cpe:2.3:a:instantsoft:instantcms:*:*:*:*:*:*:*:*", "versionEndIncluding": "1.6.0", "lastModified": "2025-10-06T12:55:34.550", "created": "2025-10-06T12:55:34.550", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "7C798689-343E-446E-9DF3-1049D5AA73AE", "criteria": "cpe:2.3:a:instantsoft:instantcms:*:*:*:*:*:*:*:*", "versionEndIncluding": "1.6.0", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-06T12:55:34.550", "status": "Inactive"}}

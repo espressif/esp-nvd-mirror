@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "FEA8807C-BD41-4FED-9001-B627450483DF", "criteria": "cpe:2.3:a:drupal:json_field:*:*:*:*:*:*:*:*", "lastModified": "2025-12-03T16:23:15.273", "created": "2025-12-03T16:23:15.273", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "FEA8807C-BD41-4FED-9001-B627450483DF", "criteria": "cpe:2.3:a:drupal:json_field:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-03T16:23:15.273", "status": "Inactive"}}

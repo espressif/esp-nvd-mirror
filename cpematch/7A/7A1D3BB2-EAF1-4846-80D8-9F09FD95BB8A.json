@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "7A1D3BB2-EAF1-4846-80D8-9F09FD95BB8A", "criteria": "cpe:2.3:a:ibm:global_configuration_management:7.0.2:ifix023:*:*:*:*:*:*", "lastModified": "2025-12-11T15:47:45.523", "created": "2025-12-11T15:47:45.523", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "7A1D3BB2-EAF1-4846-80D8-9F09FD95BB8A", "criteria": "cpe:2.3:a:ibm:global_configuration_management:7.0.2:ifix023:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-11T15:47:45.523", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "BC7F5211-8745-42E2-8561-72211399DCE2", "criteria": "cpe:2.3:a:oracle:financial_services_revenue_management:2.8.0.0:*:*:*:*:*:*:*", "lastModified": "2020-01-17T14:14:35.050", "created": "2020-01-17T14:14:35.050", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "BC7F5211-8745-42E2-8561-72211399DCE2", "criteria": "cpe:2.3:a:oracle:financial_services_revenue_management:2.8.0.0:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-01-17T14:14:35.050", "status": "Inactive"}}

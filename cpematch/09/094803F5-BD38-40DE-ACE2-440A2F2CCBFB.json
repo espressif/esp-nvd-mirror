@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "094803F5-BD38-40DE-ACE2-440A2F2CCBFB", "criteria": "cpe:2.3:o:qualcomm:r6330_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.1.0.76", "lastModified": "2020-10-15T12:25:09.467", "created": "2020-10-15T12:25:09.467", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "094803F5-BD38-40DE-ACE2-440A2F2CCBFB", "criteria": "cpe:2.3:o:qualcomm:r6330_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.1.0.76", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-10-15T12:25:09.467", "status": "Inactive"}}

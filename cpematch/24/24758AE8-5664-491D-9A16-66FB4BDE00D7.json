@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "24758AE8-5664-491D-9A16-66FB4BDE00D7", "criteria": "cpe:2.3:a:sap:netweaver:application_server_java:7.11:*:*:*:*:*:*", "lastModified": "2020-08-13T12:23:26.233", "created": "2020-08-13T12:23:26.233", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "24758AE8-5664-491D-9A16-66FB4BDE00D7", "criteria": "cpe:2.3:a:sap:netweaver:application_server_java:7.11:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-08-13T12:23:26.233", "status": "Inactive"}}

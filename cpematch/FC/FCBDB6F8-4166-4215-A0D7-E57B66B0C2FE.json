@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "FCBDB6F8-4166-4215-A0D7-E57B66B0C2FE", "criteria": "cpe:2.3:h:arm:cortex-35p:-:*:*:*:*:*:*:*", "lastModified": "2021-08-26T17:52:07.513", "cpeLastModified": "2021-08-28T00:42:34.247", "created": "2021-08-26T17:52:07.513", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "FCBDB6F8-4166-4215-A0D7-E57B66B0C2FE", "criteria": "cpe:2.3:h:arm:cortex-35p:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-08-28T00:42:34.247", "created": "2021-08-26T17:52:07.513", "status": "Inactive"}}

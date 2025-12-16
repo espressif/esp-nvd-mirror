@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "06E3780A-5768-47D9-9C14-ADB691AA4974", "criteria": "cpe:2.3:o:qualcomm:jnr3210_firmware:-:*:*:*:*:*:*:*", "lastModified": "2020-10-15T12:25:09.607", "created": "2020-10-15T12:25:09.607", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "06E3780A-5768-47D9-9C14-ADB691AA4974", "criteria": "cpe:2.3:o:qualcomm:jnr3210_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-10-15T12:25:09.607", "status": "Inactive"}}

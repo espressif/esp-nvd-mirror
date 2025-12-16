@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "64F7366D-E70C-4F0E-B583-AA2C265652BF", "criteria": "cpe:2.3:a:drupal:api_key_manager:*:*:*:*:*:*:*:*", "lastModified": "2025-12-03T16:33:43.807", "created": "2025-12-03T16:33:43.807", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "64F7366D-E70C-4F0E-B583-AA2C265652BF", "criteria": "cpe:2.3:a:drupal:api_key_manager:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-03T16:33:43.807", "status": "Inactive"}}

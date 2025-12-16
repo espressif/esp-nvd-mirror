@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "CB0647CA-372A-4A51-BEC0-F7238B6142E2", "criteria": "cpe:2.3:a:kaseya:traverse:*:*:*:*:*:*:*:*", "versionEndExcluding": "9.5.20", "lastModified": "2020-02-26T04:13:57.430", "created": "2020-02-26T04:13:57.430", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "CB0647CA-372A-4A51-BEC0-F7238B6142E2", "criteria": "cpe:2.3:a:kaseya:traverse:*:*:*:*:*:*:*:*", "versionEndExcluding": "9.5.20", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-02-26T04:13:57.430", "status": "Inactive"}}

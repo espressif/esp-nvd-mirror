@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B657A489-89B6-4817-9B20-B6E38D4AAA3C", "criteria": "cpe:2.3:a:thinkup:thinkup:2.0:beta10:*:*:*:*:*:*", "lastModified": "2021-12-06T15:35:38.510", "cpeLastModified": "2021-12-06T16:51:49.870", "created": "2021-12-06T15:35:38.510", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B657A489-89B6-4817-9B20-B6E38D4AAA3C", "criteria": "cpe:2.3:a:thinkup:thinkup:2.0:beta10:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-12-06T16:51:49.870", "created": "2021-12-06T15:35:38.510", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "26C11D35-2A3C-4AB6-809C-2E9E8AE45268", "criteria": "cpe:2.3:o:qualcomm:r6120_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.0.0.70", "lastModified": "2020-10-15T12:25:09.280", "created": "2020-10-15T12:25:09.280", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "26C11D35-2A3C-4AB6-809C-2E9E8AE45268", "criteria": "cpe:2.3:o:qualcomm:r6120_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.0.0.70", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-10-15T12:25:09.280", "status": "Inactive"}}

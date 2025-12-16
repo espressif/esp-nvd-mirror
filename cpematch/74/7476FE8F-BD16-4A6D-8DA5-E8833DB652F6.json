@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "7476FE8F-BD16-4A6D-8DA5-E8833DB652F6", "criteria": "cpe:2.3:a:scadabr:scadabr:1.12.4:*:*:*:*:*:*:*", "lastModified": "2025-12-04T13:12:25.273", "cpeLastModified": "2025-12-04T13:12:25.273", "created": "2025-12-04T13:12:25.273", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "7476FE8F-BD16-4A6D-8DA5-E8833DB652F6", "criteria": "cpe:2.3:a:scadabr:scadabr:1.12.4:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2025-12-04T13:12:25.273", "created": "2025-12-04T13:12:25.273", "status": "Inactive"}}

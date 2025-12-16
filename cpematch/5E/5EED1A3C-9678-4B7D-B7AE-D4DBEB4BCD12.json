@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "5EED1A3C-9678-4B7D-B7AE-D4DBEB4BCD12", "criteria": "cpe:2.3:h:lexmark:-:*:*:*:*:*:*:*:*", "lastModified": "2022-02-11T16:33:04.207", "cpeLastModified": "2022-02-11T16:34:31.513", "created": "2022-02-11T16:33:04.207", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "5EED1A3C-9678-4B7D-B7AE-D4DBEB4BCD12", "criteria": "cpe:2.3:h:lexmark:-:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-02-11T16:34:31.513", "created": "2022-02-11T16:33:04.207", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "5FB5D40E-5429-4572-9552-4D22BDAD4A43", "criteria": "cpe:2.3:h:intel:core_i3_1000g4:*:*:*:*:*:*:*:*", "lastModified": "2025-09-29T15:22:28.463", "cpeLastModified": "2025-09-29T15:22:28.463", "created": "2025-09-29T15:22:28.463", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "5FB5D40E-5429-4572-9552-4D22BDAD4A43", "criteria": "cpe:2.3:h:intel:core_i3_1000g4:*:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2025-09-29T15:22:28.463", "created": "2025-09-29T15:22:28.463", "status": "Inactive"}}

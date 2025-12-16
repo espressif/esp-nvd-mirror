@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "4F1DB4F4-383E-4045-BD0B-B8C1B30C3E45", "criteria": "cpe:2.3:o:entrust:nshield_connect_xc_base_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-12-05T03:25:18.820", "created": "2025-12-05T03:25:18.820", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "4F1DB4F4-383E-4045-BD0B-B8C1B30C3E45", "criteria": "cpe:2.3:o:entrust:nshield_connect_xc_base_firmware:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-05T03:25:18.820", "status": "Inactive"}}

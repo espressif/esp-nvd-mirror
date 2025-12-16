@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "1A416746-6032-476D-8B77-B15AE8E50428", "criteria": "cpe:2.3:a:swhkd_project:swhkd:1.1.5:*:*:*:*:*:*:*", "lastModified": "2022-04-02T03:10:51.390", "cpeLastModified": "2022-04-04T19:03:30.413", "created": "2022-04-02T03:10:51.390", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "1A416746-6032-476D-8B77-B15AE8E50428", "criteria": "cpe:2.3:a:swhkd_project:swhkd:1.1.5:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2022-04-04T19:03:30.413", "created": "2022-04-02T03:10:51.390", "status": "Inactive"}}

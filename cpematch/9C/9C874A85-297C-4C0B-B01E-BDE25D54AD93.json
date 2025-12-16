@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "9C874A85-297C-4C0B-B01E-BDE25D54AD93", "criteria": "cpe:2.3:h:intel:core_i58279u:-:*:*:*:*:*:*:*", "lastModified": "2025-09-29T16:27:33.313", "created": "2025-09-29T16:27:33.313", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "9C874A85-297C-4C0B-B01E-BDE25D54AD93", "criteria": "cpe:2.3:h:intel:core_i58279u:-:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-09-29T16:27:33.313", "status": "Inactive"}}

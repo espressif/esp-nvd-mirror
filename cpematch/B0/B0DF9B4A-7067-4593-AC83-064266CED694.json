@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B0DF9B4A-7067-4593-AC83-064266CED694", "criteria": "cpe:2.3:a:umami_software:umami_analytics:*:*:*:*:*:drupal:*:*", "versionEndExcluding": "1.0.1", "lastModified": "2025-12-03T19:39:37.970", "created": "2025-12-03T19:39:37.970", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B0DF9B4A-7067-4593-AC83-064266CED694", "criteria": "cpe:2.3:a:umami_software:umami_analytics:*:*:*:*:*:drupal:*:*", "versionEndExcluding": "1.0.1", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-03T19:39:37.970", "status": "Inactive"}}

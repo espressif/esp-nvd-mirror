@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "588B844D-B6FA-443E-ABCC-E824E57E413F", "criteria": "cpe:2.3:a:sssd:sssd:2.6.0:*:*:*:*:*:*:*", "lastModified": "2022-01-07T14:56:47.273", "cpeLastModified": "2024-03-01T14:58:10.647", "created": "2022-01-07T14:56:47.273", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "588B844D-B6FA-443E-ABCC-E824E57E413F", "criteria": "cpe:2.3:a:sssd:sssd:2.6.0:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2024-03-01T14:58:10.647", "created": "2022-01-07T14:56:47.273", "status": "Inactive"}}

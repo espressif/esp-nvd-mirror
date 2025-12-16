@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FE83E327-E1EC-4104-9A07-DCF9A5B4135B", "criteria": "cpe:2.3:a:ibm:integration_bus_for_z\\/os:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.1.0.0", "versionEndExcluding": "10.1.0.5-IIB-ZOS-LAPH65769", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-08-12T16:23:08.160", "status": "Inactive"}}

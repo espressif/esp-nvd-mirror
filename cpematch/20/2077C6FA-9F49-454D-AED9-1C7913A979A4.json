@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "2077C6FA-9F49-454D-AED9-1C7913A979A4", "criteria": "cpe:2.3:a:se:operator_terminal_expert_runtime:3.1:service_pack_a:*:*:*:*:*:*", "lastModified": "2020-12-03T16:30:11.113", "created": "2020-12-03T16:30:11.113", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "2077C6FA-9F49-454D-AED9-1C7913A979A4", "criteria": "cpe:2.3:a:se:operator_terminal_expert_runtime:3.1:service_pack_a:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-12-03T16:30:11.113", "status": "Inactive"}}

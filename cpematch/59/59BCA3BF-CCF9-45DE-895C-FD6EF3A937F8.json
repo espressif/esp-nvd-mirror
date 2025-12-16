@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "59BCA3BF-CCF9-45DE-895C-FD6EF3A937F8", "criteria": "cpe:2.3:a:ukcms_project:ukcms:1.1.10:*:*:*:*:*:*:*", "lastModified": "2021-08-13T14:54:24.993", "cpeLastModified": "2021-08-13T14:54:30.677", "created": "2021-08-13T14:54:24.993", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "59BCA3BF-CCF9-45DE-895C-FD6EF3A937F8", "criteria": "cpe:2.3:a:ukcms_project:ukcms:1.1.10:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2021-08-13T14:54:30.677", "created": "2021-08-13T14:54:24.993", "status": "Inactive"}}

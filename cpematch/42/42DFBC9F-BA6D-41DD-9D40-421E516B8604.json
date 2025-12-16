@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "42DFBC9F-BA6D-41DD-9D40-421E516B8604", "criteria": "cpe:2.3:a:docker:regisry:2.5.1:*:*:*:*:*:*:*", "lastModified": "2020-12-14T18:46:36.863", "created": "2020-12-14T18:46:36.863", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "42DFBC9F-BA6D-41DD-9D40-421E516B8604", "criteria": "cpe:2.3:a:docker:regisry:2.5.1:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2020-12-14T18:46:36.863", "status": "Inactive"}}

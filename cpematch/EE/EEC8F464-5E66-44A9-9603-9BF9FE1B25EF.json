@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "EEC8F464-5E66-44A9-9603-9BF9FE1B25EF", "criteria": "cpe:2.3:a:puppet:puppet_enterprise:2025.3:*:*:*:*:*:*:*", "lastModified": "2025-10-14T14:47:37.320", "created": "2025-10-14T14:47:37.320", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "EEC8F464-5E66-44A9-9603-9BF9FE1B25EF", "criteria": "cpe:2.3:a:puppet:puppet_enterprise:2025.3:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-10-14T14:47:37.320", "status": "Inactive"}}
