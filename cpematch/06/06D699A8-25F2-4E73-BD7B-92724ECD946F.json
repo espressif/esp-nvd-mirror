@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "06D699A8-25F2-4E73-BD7B-92724ECD946F", "criteria": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "r48p0", "versionEndIncluding": "r49p1", "lastModified": "2025-12-16T15:39:38.010", "cpeLastModified": "2025-12-16T15:37:51.643", "created": "2025-12-16T15:37:51.643", "status": "Inactive"}}
