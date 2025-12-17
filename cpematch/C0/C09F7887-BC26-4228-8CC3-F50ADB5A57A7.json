@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C09F7887-BC26-4228-8CC3-F50ADB5A57A7", "criteria": "cpe:2.3:a:haproxy:aloha_appliance:*:*:*:*:*:*:*:*", "versionStartIncluding": "15.5.0", "versionEndExcluding": "15.5.28", "lastModified": "2025-12-17T17:03:39.160", "created": "2025-12-17T17:03:39.160", "status": "Active"}}

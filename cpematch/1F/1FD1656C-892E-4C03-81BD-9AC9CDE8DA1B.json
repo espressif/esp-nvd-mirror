@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1FD1656C-892E-4C03-81BD-9AC9CDE8DA1B", "criteria": "cpe:2.3:a:canonical:apport:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.20.11-0ubuntu82", "versionEndExcluding": "2.20.11-0ubuntu82.7", "lastModified": "2025-12-17T16:17:51.097", "created": "2025-12-17T16:17:51.097", "status": "Active"}}

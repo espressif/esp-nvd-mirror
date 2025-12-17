@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FE9600AC-800F-49C3-8C8E-916FBD815E17", "criteria": "cpe:2.3:a:canonical:maas:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.6.0", "versionEndExcluding": "3.6.2", "lastModified": "2025-12-17T16:13:49.717", "created": "2025-12-17T16:13:49.717", "status": "Active"}}
