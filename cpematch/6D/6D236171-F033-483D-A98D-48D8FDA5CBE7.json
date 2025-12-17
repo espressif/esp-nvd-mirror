@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6D236171-F033-483D-A98D-48D8FDA5CBE7", "criteria": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0.0", "versionEndExcluding": "8.0.1.11", "lastModified": "2025-12-17T19:43:40.130", "created": "2025-12-17T19:43:40.130", "status": "Active"}}
