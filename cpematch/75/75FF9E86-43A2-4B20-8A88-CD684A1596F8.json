@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "75FF9E86-43A2-4B20-8A88-CD684A1596F8", "criteria": "cpe:2.3:a:br-automation:mapp_vision:*:*:*:*:*:*:*:*", "versionEndExcluding": "5.26.1", "lastModified": "2025-12-16T21:13:05.250", "created": "2025-12-16T21:13:05.250", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "75FF9E86-43A2-4B20-8A88-CD684A1596F8", "criteria": "cpe:2.3:a:br-automation:mapp_vision:*:*:*:*:*:*:*:*", "versionEndExcluding": "5.26.1", "lastModified": "2025-12-18T03:00:00.037", "created": "2025-12-16T21:13:05.250", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "56B9A835-C782-4C81-B59A-EEF5A79D1388", "criteria": "cpe:2.3:a:br-automation:mapp_safety:*:*:*:*:*:*:*:*", "versionEndExcluding": "5.24.2", "lastModified": "2025-12-16T21:13:05.250", "created": "2025-12-16T21:13:05.250", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "56B9A835-C782-4C81-B59A-EEF5A79D1388", "criteria": "cpe:2.3:a:br-automation:mapp_safety:*:*:*:*:*:*:*:*", "versionEndExcluding": "5.24.2", "lastModified": "2025-12-18T03:00:00.037", "created": "2025-12-16T21:13:05.250", "status": "Inactive"}}

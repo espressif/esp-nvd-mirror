@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "56B45B3F-58DB-43A4-970B-F3B0F66F09FD", "criteria": "cpe:2.3:a:br-automation:adi_driver_universal:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.2.0", "lastModified": "2025-12-16T21:13:05.250", "created": "2025-12-16T21:13:05.250", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "56B45B3F-58DB-43A4-970B-F3B0F66F09FD", "criteria": "cpe:2.3:a:br-automation:adi_driver_universal:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.2.0", "lastModified": "2025-12-18T03:00:00.037", "created": "2025-12-16T21:13:05.250", "status": "Inactive"}}

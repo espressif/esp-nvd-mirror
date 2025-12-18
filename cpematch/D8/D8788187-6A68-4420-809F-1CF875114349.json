@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D8788187-6A68-4420-809F-1CF875114349", "criteria": "cpe:2.3:a:br-automation:sram_driver:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.2.0", "lastModified": "2025-12-16T21:13:05.250", "created": "2025-12-16T21:13:05.250", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D8788187-6A68-4420-809F-1CF875114349", "criteria": "cpe:2.3:a:br-automation:sram_driver:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.2.0", "lastModified": "2025-12-18T03:00:00.037", "created": "2025-12-16T21:13:05.250", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "CAD2099D-5FC2-4A17-A6DA-09F7DFEF878C", "criteria": "cpe:2.3:a:br-automation:toch_lock:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.1.0", "lastModified": "2025-12-16T21:13:05.250", "created": "2025-12-16T21:13:05.250", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "CAD2099D-5FC2-4A17-A6DA-09F7DFEF878C", "criteria": "cpe:2.3:a:br-automation:toch_lock:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.1.0", "lastModified": "2025-12-18T03:00:00.037", "created": "2025-12-16T21:13:05.250", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "0A389313-96D1-42E3-8016-52A198443CCC", "criteria": "cpe:2.3:a:br-automation:hmi_service_center:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.1.0", "lastModified": "2025-12-16T21:13:05.250", "created": "2025-12-16T21:13:05.250", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "0A389313-96D1-42E3-8016-52A198443CCC", "criteria": "cpe:2.3:a:br-automation:hmi_service_center:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.1.0", "lastModified": "2025-12-18T03:00:00.037", "created": "2025-12-16T21:13:05.250", "status": "Inactive"}}
