@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "51A4F3A3-0AFF-42B8-83A3-586D50B41F37", "criteria": "cpe:2.3:a:haproxy:kubernetes_ingress_controller:*:*:*:*:enterprise:*:*:*", "versionStartIncluding": "3.0.0-ee1", "versionEndExcluding": "3.0.15-ee4", "lastModified": "2025-12-18T17:28:21.013", "created": "2025-12-18T17:28:21.013", "status": "Active"}}

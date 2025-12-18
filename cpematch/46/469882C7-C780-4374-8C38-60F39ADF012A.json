@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "469882C7-C780-4374-8C38-60F39ADF012A", "criteria": "cpe:2.3:a:weaviate:weaviate:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.32.0", "versionEndIncluding": "1.32.15", "lastModified": "2025-12-18T16:55:35.857", "created": "2025-12-18T16:55:35.857", "status": "Active"}}

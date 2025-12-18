@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "06A96A3F-D264-4142-9971-763179D99EE8", "criteria": "cpe:2.3:a:ubuntu:python-apt:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.0.1", "lastModified": "2025-12-18T17:13:20.440", "created": "2025-12-18T17:13:20.440", "status": "Active"}}

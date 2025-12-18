@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "86554AB5-7384-4EA8-B7DA-33A5FB962158", "criteria": "cpe:2.3:a:haproxy:kubernetes_ingress_controller:*:*:*:*:-:*:*:*", "versionEndExcluding": "3.1.12", "lastModified": "2025-12-17T17:03:39.160", "created": "2025-12-17T17:03:39.160", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "86554AB5-7384-4EA8-B7DA-33A5FB962158", "criteria": "cpe:2.3:a:haproxy:kubernetes_ingress_controller:*:*:*:*:-:*:*:*", "versionEndExcluding": "3.1.12", "lastModified": "2025-12-18T17:25:53.607", "created": "2025-12-17T17:03:39.160", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "DC162892-AC7D-48B1-924C-E324B4E191D5", "criteria": "cpe:2.3:a:haproxy:kubernetes_ingress_controller:1.9.14:ee2:*:*:enterprise:*:*:*", "lastModified": "2025-12-18T15:03:06.987", "created": "2025-12-18T15:03:06.987", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "DC162892-AC7D-48B1-924C-E324B4E191D5", "criteria": "cpe:2.3:a:haproxy:kubernetes_ingress_controller:1.9.14:ee2:*:*:enterprise:*:*:*", "lastModified": "2025-12-18T17:25:53.607", "created": "2025-12-18T15:03:06.987", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "0E036671-5E02-4159-8AB9-9E513EFDA846", "criteria": "cpe:2.3:a:debian:python-apt:2.2.1.1:*:*:*:*:*:*:*", "lastModified": "2025-12-17T20:04:23.930", "created": "2025-12-17T20:04:23.930", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "0E036671-5E02-4159-8AB9-9E513EFDA846", "criteria": "cpe:2.3:a:debian:python-apt:2.2.1.1:*:*:*:*:*:*:*", "lastModified": "2025-12-18T17:13:20.440", "created": "2025-12-17T20:04:23.930", "status": "Inactive"}}
