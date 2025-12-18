@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A1DD7180-6117-4FCE-88CA-812C5D82611A", "criteria": "cpe:2.3:a:windscribe:windscribe:*:*:*:*:*:linux:*:*", "versionStartIncluding": "2.10.1", "versionEndExcluding": "2.17.10", "lastModified": "2025-12-18T14:41:32.363", "created": "2025-12-18T14:41:32.363", "status": "Active"}}
