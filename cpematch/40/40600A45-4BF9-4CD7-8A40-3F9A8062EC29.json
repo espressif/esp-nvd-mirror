@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "40600A45-4BF9-4CD7-8A40-3F9A8062EC29", "criteria": "cpe:2.3:a:intel:optimization_for_tensorflow:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.13.0", "lastModified": "2025-12-18T20:09:45.920", "created": "2025-12-18T20:09:45.920", "status": "Active"}}
