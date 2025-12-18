@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "41F46C1E-1AE5-4B2F-BA0F-4C2198453EB1", "criteria": "cpe:2.3:a:haproxy:haproxy_enterprise:3.1r1:*:*:*:*:*:*:*", "lastModified": "2025-12-18T17:25:53.607", "created": "2025-12-18T17:25:53.607", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "41F46C1E-1AE5-4B2F-BA0F-4C2198453EB1", "criteria": "cpe:2.3:a:haproxy:haproxy_enterprise:3.1r1:*:*:*:*:*:*:*", "lastModified": "2025-12-18T18:17:53.140", "created": "2025-12-18T17:25:53.607", "status": "Inactive"}}
