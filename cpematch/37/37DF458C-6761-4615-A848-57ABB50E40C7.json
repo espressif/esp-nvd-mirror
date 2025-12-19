@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "37DF458C-6761-4615-A848-57ABB50E40C7", "criteria": "cpe:2.3:o:xen:xen:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.16.0", "versionEndExcluding": "4.16.6", "lastModified": "2025-12-19T18:34:17.307", "cpeLastModified": "2025-12-19T18:32:08.583", "created": "2025-12-19T18:32:08.583", "status": "Inactive"}}

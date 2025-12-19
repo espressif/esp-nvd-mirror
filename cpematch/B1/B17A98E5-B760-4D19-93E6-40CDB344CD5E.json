@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B17A98E5-B760-4D19-93E6-40CDB344CD5E", "criteria": "cpe:2.3:a:clickhouse:ch:*:*:*:*:*:go:*:*", "versionEndExcluding": "0.65.0", "lastModified": "2025-12-19T18:46:51.353", "created": "2025-12-19T18:46:51.353", "status": "Active"}}
