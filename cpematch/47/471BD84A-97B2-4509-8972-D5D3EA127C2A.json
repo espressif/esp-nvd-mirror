@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "471BD84A-97B2-4509-8972-D5D3EA127C2A", "criteria": "cpe:2.3:a:powerdns:recursor:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.9.0", "versionEndExcluding": "4.9.2", "lastModified": "2025-12-19T15:46:46.953", "created": "2025-12-19T15:46:46.953", "status": "Active"}}
