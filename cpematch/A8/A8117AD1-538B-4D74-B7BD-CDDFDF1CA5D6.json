@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A8117AD1-538B-4D74-B7BD-CDDFDF1CA5D6", "criteria": "cpe:2.3:o:sonicwall:sma6200_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.5.0", "versionEndExcluding": "12.5.0-02283", "lastModified": "2025-12-19T13:43:02.977", "created": "2025-12-19T13:43:02.977", "status": "Active"}}
