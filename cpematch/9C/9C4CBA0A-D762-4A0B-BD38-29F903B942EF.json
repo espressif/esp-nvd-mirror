@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9C4CBA0A-D762-4A0B-BD38-29F903B942EF", "criteria": "cpe:2.3:a:apache:apache-airflow-providers-edge3:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.0.0", "lastModified": "2025-12-22T18:13:52.800", "created": "2025-12-22T18:13:52.800", "status": "Active"}}
