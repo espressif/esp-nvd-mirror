@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FE1B8D89-6838-4BB0-9E8F-5770F3D896A0", "criteria": "cpe:2.3:a:elasticsearch:packetbeat:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.6.0", "versionEndExcluding": "8.19.9", "lastModified": "2025-12-22T15:51:11.583", "cpeLastModified": "2025-12-22T15:51:11.583", "created": "2025-12-22T15:51:11.583", "status": "Active"}}
