@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "776A3811-2C5E-4418-913A-11BE965BA223", "criteria": "cpe:2.3:a:ibm:watson_studio:*:*:*:*:*:cloud_pak_for_data:*:*", "versionStartIncluding": "4.0", "versionEndExcluding": "5.2.1", "lastModified": "2025-12-22T13:55:36.123", "created": "2025-12-22T13:55:36.123", "status": "Active"}}
