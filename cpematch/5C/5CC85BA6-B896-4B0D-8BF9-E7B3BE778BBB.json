@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5CC85BA6-B896-4B0D-8BF9-E7B3BE778BBB", "criteria": "cpe:2.3:a:elastic:filebeat:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.0", "versionEndExcluding": "9.1.9", "lastModified": "2025-12-23T17:59:04.360", "created": "2025-12-23T17:59:04.360", "status": "Active"}}

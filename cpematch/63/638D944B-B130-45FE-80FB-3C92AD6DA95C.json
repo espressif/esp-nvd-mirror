@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "638D944B-B130-45FE-80FB-3C92AD6DA95C", "criteria": "cpe:2.3:o:arm:scp_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.11.0", "versionEndExcluding": "2.16.0", "lastModified": "2025-12-23T16:22:00.920", "cpeLastModified": "2025-12-23T16:22:00.920", "created": "2025-12-23T16:22:00.920", "status": "Active"}}
