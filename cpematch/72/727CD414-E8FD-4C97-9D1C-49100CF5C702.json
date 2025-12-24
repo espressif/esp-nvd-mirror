@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "727CD414-E8FD-4C97-9D1C-49100CF5C702", "criteria": "cpe:2.3:a:sensiolabs:httpclient:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.0.0", "versionEndExcluding": "7.1.8", "lastModified": "2025-12-23T22:23:10.600", "created": "2025-12-23T22:23:10.600", "status": "Active"}}
