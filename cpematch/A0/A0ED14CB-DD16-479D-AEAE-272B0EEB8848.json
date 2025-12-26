@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A0ED14CB-DD16-479D-AEAE-272B0EEB8848", "criteria": "cpe:2.3:a:linuxcontainers:incus:*:*:*:*:*:go:*:*", "versionEndExcluding": "6.0.6", "lastModified": "2025-12-26T18:55:40.363", "created": "2025-12-26T18:55:40.363", "status": "Active"}}
