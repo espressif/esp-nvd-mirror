@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8F401AE6-72AA-4188-B763-4354213AA0BB", "criteria": "cpe:2.3:a:xml\\:\\:sig_project:xml\\:\\:sig:*:*:*:*:*:perl:*:*", "versionStartIncluding": "0.27", "versionEndIncluding": "0.67", "lastModified": "2025-12-29T14:51:03.623", "created": "2025-12-29T14:51:03.623", "status": "Active"}}

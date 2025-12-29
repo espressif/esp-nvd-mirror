@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "113A4E81-FF15-4E70-8DE5-E82AA3FB1D79", "criteria": "cpe:2.3:a:openvpn:openvpn:2.7:rc1:*:*:community:*:*:*", "lastModified": "2025-12-29T14:56:09.390", "created": "2025-12-29T14:44:26.797", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:openvpn:openvpn:2.7:rc1:*:*:community:*:*:*", "cpeNameId": "B3EB0F47-C3A1-484B-983B-0545EA6A356E"}]}}
