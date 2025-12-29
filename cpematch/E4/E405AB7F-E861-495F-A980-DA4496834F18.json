@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E405AB7F-E861-495F-A980-DA4496834F18", "criteria": "cpe:2.3:a:prestashop:prestashop_checkout:*:*:*:*:*:prestashop:*:*", "versionStartIncluding": "7.5.0.2", "versionEndExcluding": "7.5.0.5", "lastModified": "2025-12-29T19:41:57.490", "cpeLastModified": "2025-12-29T19:41:57.490", "created": "2025-12-29T19:41:57.490", "status": "Active"}}
