@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7F3D5C52-E59A-4DD7-B995-BDD5994E22D0", "criteria": "cpe:2.3:a:openfga:openfga:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.9.3", "versionEndExcluding": "1.9.5", "lastModified": "2025-12-29T00:56:27.703", "cpeLastModified": "2025-12-29T00:56:27.703", "created": "2025-12-29T00:56:27.703", "status": "Active"}}
