@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F9783D17-D1DD-4A5A-9715-A11A9FFF63AB", "criteria": "cpe:2.3:a:openfga:helm_charts:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.1.36", "versionEndExcluding": "0.2.29", "lastModified": "2025-12-30T21:09:19.477", "cpeLastModified": "2025-12-30T21:09:19.477", "created": "2025-12-30T21:09:19.477", "status": "Active"}}
