@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7E6235FD-EF73-4272-BAC3-25BAF8FAE070", "criteria": "cpe:2.3:a:golang:go:*:*:*:*:*:visual_studio:*:*", "versionEndExcluding": "0.52.1", "lastModified": "2026-01-05T18:53:38.983", "created": "2026-01-05T18:53:38.983", "status": "Active"}}
