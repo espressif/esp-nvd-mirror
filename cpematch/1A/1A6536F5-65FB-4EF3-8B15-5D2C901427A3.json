@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1A6536F5-65FB-4EF3-8B15-5D2C901427A3", "criteria": "cpe:2.3:o:xen:xapi:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.249.0", "versionEndIncluding": "1.249.42", "lastModified": "2026-01-05T16:14:07.740", "created": "2026-01-05T16:12:57.113", "status": "Inactive"}}
