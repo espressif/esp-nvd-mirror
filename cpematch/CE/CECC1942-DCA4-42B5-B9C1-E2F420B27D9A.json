@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CECC1942-DCA4-42B5-B9C1-E2F420B27D9A", "criteria": "cpe:2.3:a:langchain:langchain\\/core:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.1.8", "lastModified": "2026-01-06T15:24:06.153", "created": "2026-01-06T15:24:06.153", "status": "Active"}}
