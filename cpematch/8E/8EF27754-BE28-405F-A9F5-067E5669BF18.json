@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8EF27754-BE28-405F-A9F5-067E5669BF18", "criteria": "cpe:2.3:a:httpbin:httpbin:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.18.0", "lastModified": "2026-01-07T16:59:38.530", "cpeLastModified": "2026-01-07T16:56:55.580", "created": "2026-01-07T16:56:55.580", "status": "Inactive"}}
