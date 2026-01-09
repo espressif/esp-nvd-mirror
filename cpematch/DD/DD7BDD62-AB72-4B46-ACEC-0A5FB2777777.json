@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "DD7BDD62-AB72-4B46-ACEC-0A5FB2777777", "criteria": "cpe:2.3:o:onsemi:qcs-ax2-sdk:*:*:*:*:*:*:*:*", "lastModified": "2026-01-09T17:40:52.287", "created": "2026-01-09T17:40:52.287", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "DD7BDD62-AB72-4B46-ACEC-0A5FB2777777", "criteria": "cpe:2.3:o:onsemi:qcs-ax2-sdk:*:*:*:*:*:*:*:*", "lastModified": "2026-01-09T19:13:57.697", "created": "2026-01-09T17:40:52.287", "status": "Inactive"}}
