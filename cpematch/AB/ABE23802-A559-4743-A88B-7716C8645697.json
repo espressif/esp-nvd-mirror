@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ABE23802-A559-4743-A88B-7716C8645697", "criteria": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.0.0.4967", "versionEndExcluding": "13.0.1.1071", "lastModified": "2026-01-09T16:57:58.657", "cpeLastModified": "2026-01-09T16:57:58.657", "created": "2026-01-09T16:57:58.657", "status": "Active"}}
