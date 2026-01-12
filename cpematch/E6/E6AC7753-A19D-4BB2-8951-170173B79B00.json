@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E6AC7753-A19D-4BB2-8951-170173B79B00", "criteria": "cpe:2.3:a:ibm:terracotta:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.1.0", "versionEndExcluding": "11.1.0.5", "lastModified": "2026-01-12T16:30:16.380", "created": "2026-01-12T16:30:16.380", "status": "Active"}}
