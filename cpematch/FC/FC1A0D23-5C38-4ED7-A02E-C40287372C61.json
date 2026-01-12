@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FC1A0D23-5C38-4ED7-A02E-C40287372C61", "criteria": "cpe:2.3:a:dell:unisphere_for_powermax:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "10.2.0.9", "lastModified": "2026-01-12T19:02:32.840", "created": "2026-01-12T19:02:32.840", "status": "Active"}}

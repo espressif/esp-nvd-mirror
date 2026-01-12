@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B9496AB7-4966-46E2-8310-29B31BC56906", "criteria": "cpe:2.3:o:abilis:cpx_firmware:*:*:*:*:*:*:*:*", "versionEndIncluding": "9.07", "lastModified": "2026-01-09T16:16:39.873", "created": "2026-01-09T16:16:39.873", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B9496AB7-4966-46E2-8310-29B31BC56906", "criteria": "cpe:2.3:o:abilis:cpx_firmware:*:*:*:*:*:*:*:*", "versionEndIncluding": "9.07", "lastModified": "2026-01-12T18:25:04.717", "created": "2026-01-09T16:16:39.873", "status": "Inactive"}}
