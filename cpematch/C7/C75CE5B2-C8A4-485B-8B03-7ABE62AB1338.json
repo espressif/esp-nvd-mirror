@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C75CE5B2-C8A4-485B-8B03-7ABE62AB1338", "criteria": "cpe:2.3:a:apache:commons_ognl:*:*:*:*:*:*:*:*", "lastModified": "2026-01-12T13:45:42.030", "created": "2025-08-21T12:25:21.987", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:apache:commons_ognl:-:*:*:*:*:*:*:*", "cpeNameId": "1C979617-4DE2-4952-836F-AAF005EEA12D"}]}}
