@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9EC484AC-A1F0-4C13-BFAB-9DA57116957D", "criteria": "cpe:2.3:a:ghost:ghost:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.11.0", "lastModified": "2026-01-13T15:42:39.140", "created": "2026-01-13T15:42:39.140", "status": "Active"}}

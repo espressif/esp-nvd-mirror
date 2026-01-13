@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4298E953-ED96-49EC-8474-86095D560F2B", "criteria": "cpe:2.3:a:langchain:langchain_core:*:*:*:*:*:python:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.2.5", "lastModified": "2026-01-13T15:52:04.667", "created": "2026-01-13T15:52:04.667", "status": "Active"}}
