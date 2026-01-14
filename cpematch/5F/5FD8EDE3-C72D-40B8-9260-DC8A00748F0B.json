@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5FD8EDE3-C72D-40B8-9260-DC8A00748F0B", "criteria": "cpe:2.3:o:dell:idrac9_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.00.00.183", "versionEndExcluding": "7.20.10.50", "lastModified": "2026-01-14T14:43:00.800", "created": "2026-01-14T14:43:00.800", "status": "Active"}}
