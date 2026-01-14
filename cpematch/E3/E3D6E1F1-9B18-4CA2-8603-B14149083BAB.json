@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E3D6E1F1-9B18-4CA2-8603-B14149083BAB", "criteria": "cpe:2.3:a:microsoft:exchange_server:*:*:*:*:subscription:*:*:*", "versionStartIncluding": "15.02.0.0", "versionEndExcluding": "15.02.2562.017", "lastModified": "2026-01-14T16:57:12.430", "created": "2026-01-14T16:57:12.430", "status": "Active"}}

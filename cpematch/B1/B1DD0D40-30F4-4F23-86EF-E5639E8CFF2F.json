@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B1DD0D40-30F4-4F23-86EF-E5639E8CFF2F", "criteria": "cpe:2.3:a:microsoft:azure_sdk_for_python:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.0", "versionEndIncluding": "1.38.0", "lastModified": "2026-01-14T16:40:08.837", "created": "2026-01-14T16:40:08.837", "status": "Active"}}
