@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "323EC5A1-26AE-4EA7-82C2-5D44FB3B9009", "criteria": "cpe:2.3:a:elastic:kibana:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.0.0", "versionEndExcluding": "8.0.0", "lastModified": "2026-01-14T22:42:19.287", "cpeLastModified": "2026-01-14T22:41:55.540", "created": "2026-01-14T22:41:55.540", "status": "Inactive"}}
