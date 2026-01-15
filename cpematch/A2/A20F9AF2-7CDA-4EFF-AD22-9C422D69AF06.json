@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "A20F9AF2-7CDA-4EFF-AD22-9C422D69AF06", "criteria": "cpe:2.3:h:hp:5rc87a:-:*:*:*:*:*:*:*", "lastModified": "2026-01-14T19:48:58.770", "created": "2026-01-14T19:48:58.770", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "A20F9AF2-7CDA-4EFF-AD22-9C422D69AF06", "criteria": "cpe:2.3:h:hp:5rc87a:-:*:*:*:*:*:*:*", "lastModified": "2026-01-15T19:17:10.713", "created": "2026-01-14T19:48:58.770", "status": "Active", "matches": [{"cpeName": "cpe:2.3:h:hp:5rc87a:-:*:*:*:*:*:*:*", "cpeNameId": "2A962E6F-D63E-4CC8-8661-01CE7AA34F39"}]}}
