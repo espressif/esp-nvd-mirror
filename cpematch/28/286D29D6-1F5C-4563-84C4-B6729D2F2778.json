@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "286D29D6-1F5C-4563-84C4-B6729D2F2778", "criteria": "cpe:2.3:a:cotonti:cotonti_siena:0.9.24:*:*:*:*:*:*:*", "lastModified": "2026-01-15T18:00:46.357", "created": "2026-01-15T17:57:17.780", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:cotonti:cotonti_siena:0.9.24:*:*:*:*:*:*:*", "cpeNameId": "81F8A374-D2DC-4B24-935A-3C17D86F5EA6"}]}}

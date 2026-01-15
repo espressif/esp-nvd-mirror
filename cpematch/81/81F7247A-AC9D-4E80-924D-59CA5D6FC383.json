@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "81F7247A-AC9D-4E80-924D-59CA5D6FC383", "criteria": "cpe:2.3:a:microsoft:sql_server_2025:*:*:*:*:*:*:x64:*", "versionEndExcluding": "17.0.1050.2", "lastModified": "2026-01-14T19:22:03.957", "created": "2026-01-14T19:22:03.957", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "81F7247A-AC9D-4E80-924D-59CA5D6FC383", "criteria": "cpe:2.3:a:microsoft:sql_server_2025:*:*:*:*:*:*:x64:*", "versionEndExcluding": "17.0.1050.2", "lastModified": "2026-01-15T16:08:32.193", "created": "2026-01-14T19:22:03.957", "status": "Inactive"}}
