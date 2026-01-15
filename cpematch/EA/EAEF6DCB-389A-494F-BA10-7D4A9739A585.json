@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EAEF6DCB-389A-494F-BA10-7D4A9739A585", "criteria": "cpe:2.3:a:checkpoint:log_server:r81.10:*:*:*:*:*:*:*", "lastModified": "2026-01-15T15:35:14.840", "created": "2025-08-26T17:48:15.660", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:checkpoint:log_server:r81.10:*:*:*:*:*:*:*", "cpeNameId": "784642BF-D038-4F34-B97D-435357C65424"}]}}

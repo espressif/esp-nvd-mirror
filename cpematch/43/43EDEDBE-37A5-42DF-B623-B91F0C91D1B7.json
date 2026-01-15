@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "43EDEDBE-37A5-42DF-B623-B91F0C91D1B7", "criteria": "cpe:2.3:a:checkpoint:harmony_sase:-:*:*:*:*:*:*:*", "lastModified": "2026-01-15T15:34:26.970", "created": "2025-08-26T18:16:56.560", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:checkpoint:harmony_sase:-:*:*:*:*:*:*:*", "cpeNameId": "837647CA-7231-46DA-BC83-3DE4D23E0542"}]}}

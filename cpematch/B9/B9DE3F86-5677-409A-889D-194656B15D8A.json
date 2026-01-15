@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B9DE3F86-5677-409A-889D-194656B15D8A", "criteria": "cpe:2.3:o:axis:axis_os_2024:*:*:*:*:lts:*:*:*", "versionStartIncluding": "11.11.0", "versionEndExcluding": "11.11.140", "lastModified": "2026-01-15T15:42:30.193", "cpeLastModified": "2026-01-15T15:41:53.157", "created": "2026-01-15T15:41:53.157", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9726550F-4150-463B-8F43-CEF283B75903", "criteria": "cpe:2.3:a:checkpoint:log_server:r81.20:*:*:*:*:*:*:*", "lastModified": "2026-01-15T15:35:14.840", "created": "2025-08-26T17:48:15.660", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:checkpoint:log_server:r81.20:*:*:*:*:*:*:*", "cpeNameId": "3F60AA72-0F1A-4D86-AA41-1C2B519C699C"}]}}

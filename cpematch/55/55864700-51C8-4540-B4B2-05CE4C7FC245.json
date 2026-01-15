@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "55864700-51C8-4540-B4B2-05CE4C7FC245", "criteria": "cpe:2.3:o:checkpoint:gaia_os:r81.10:*:*:*:*:*:*:*", "lastModified": "2026-01-15T15:35:14.840", "created": "2025-08-26T15:54:15.770", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:checkpoint:gaia_os:r81.10:*:*:*:*:*:*:*", "cpeNameId": "256C7D44-EA61-46ED-AD64-6A32BB2C0BA5"}]}}
