@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E70AD508-7046-4740-A03C-8605AC4A5F12", "criteria": "cpe:2.3:a:svelte:devalue:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "5.1.0", "versionEndExcluding": "5.6.2", "lastModified": "2026-01-16T19:11:54.570", "cpeLastModified": "2026-01-16T19:11:54.570", "created": "2026-01-16T19:11:54.570", "status": "Active"}}
