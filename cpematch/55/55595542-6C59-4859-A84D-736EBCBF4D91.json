@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "55595542-6C59-4859-A84D-736EBCBF4D91", "criteria": "cpe:2.3:a:apache:camel:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.14.0", "versionEndExcluding": "4.14.3", "lastModified": "2026-01-15T22:12:53.150", "cpeLastModified": "2026-01-15T22:12:53.150", "created": "2026-01-15T22:12:53.150", "status": "Active"}}
