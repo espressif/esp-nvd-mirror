@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "2BCABFE8-93E0-484A-8603-DF3F77DD8C31", "criteria": "cpe:2.3:o:dlink:dwr-m921_firmware:1.1.50:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "created": "2025-12-06T01:32:05.830", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "2BCABFE8-93E0-484A-8603-DF3F77DD8C31", "criteria": "cpe:2.3:o:dlink:dwr-m921_firmware:1.1.50:*:*:*:*:*:*:*", "lastModified": "2026-01-20T12:42:51.150", "created": "2025-12-06T01:32:05.830", "status": "Active"}}
