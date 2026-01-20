@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E3D434B8-77EC-432C-B1CA-AB441068FDD9", "criteria": "cpe:2.3:a:svelte:adapter-node:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "5.4.1", "versionEndExcluding": "5.5.1", "lastModified": "2026-01-20T21:33:25.537", "created": "2026-01-20T21:33:25.537", "status": "Active"}}
