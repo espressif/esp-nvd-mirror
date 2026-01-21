@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "8F5DB258-998F-448E-806C-54B0AEF60AB0", "criteria": "cpe:2.3:o:hp:z2_small_form_factor_g5_workstation_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-01-16T19:48:27.503", "created": "2026-01-16T19:48:27.503", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "8F5DB258-998F-448E-806C-54B0AEF60AB0", "criteria": "cpe:2.3:o:hp:z2_small_form_factor_g5_workstation_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-01-21T18:49:25.640", "created": "2026-01-16T19:48:27.503", "status": "Inactive"}}

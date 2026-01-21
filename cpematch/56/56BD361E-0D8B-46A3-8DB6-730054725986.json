@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "56BD361E-0D8B-46A3-8DB6-730054725986", "criteria": "cpe:2.3:o:hp:mt20_mobile_thin_client_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-01-16T19:48:27.503", "created": "2026-01-16T19:48:27.503", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "56BD361E-0D8B-46A3-8DB6-730054725986", "criteria": "cpe:2.3:o:hp:mt20_mobile_thin_client_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-01-21T18:49:25.640", "created": "2026-01-16T19:48:27.503", "status": "Inactive"}}
