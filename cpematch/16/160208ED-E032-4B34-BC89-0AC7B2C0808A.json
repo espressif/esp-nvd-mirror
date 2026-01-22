@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "160208ED-E032-4B34-BC89-0AC7B2C0808A", "criteria": "cpe:2.3:a:servicenow:now_assist_ai_agents:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.2.0", "versionEndExcluding": "5.2.19", "lastModified": "2026-01-22T21:09:29.070", "created": "2026-01-22T21:09:29.070", "status": "Active"}}
