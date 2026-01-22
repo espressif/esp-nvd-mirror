@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "388FECC8-EDAB-4046-96F5-AC7087330E95", "criteria": "cpe:2.3:a:svelte:svelte:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "5.46.0", "versionEndExcluding": "5.46.3", "lastModified": "2026-01-22T14:00:43.307", "created": "2026-01-22T14:00:43.307", "status": "Active"}}
