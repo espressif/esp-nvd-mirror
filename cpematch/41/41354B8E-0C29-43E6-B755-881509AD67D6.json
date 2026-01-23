@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "41354B8E-0C29-43E6-B755-881509AD67D6", "criteria": "cpe:2.3:a:versa-networks:concerto:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.4.0", "versionEndExcluding": "12.2.1", "lastModified": "2026-01-23T15:30:00.567", "cpeLastModified": "2026-01-23T15:24:47.167", "created": "2026-01-23T15:24:47.167", "status": "Inactive"}}
