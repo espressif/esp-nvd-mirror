@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "98CA7181-A481-4E69-ABBF-3B5F2CD9FA37", "criteria": "cpe:2.3:a:synology:media_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.2.0-3324", "versionEndExcluding": "2.2.0-3325", "lastModified": "2026-01-23T16:49:54.850", "cpeLastModified": "2026-01-23T16:49:54.850", "created": "2026-01-23T16:49:54.850", "status": "Active"}}
