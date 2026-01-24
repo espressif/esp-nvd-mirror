@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "35768783-8EF1-41DB-8DD1-6870B46B647C", "criteria": "cpe:2.3:a:sigstore:cosign:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.0.4", "lastModified": "2026-01-24T00:14:32.803", "cpeLastModified": "2026-01-24T00:14:32.803", "created": "2026-01-24T00:14:32.803", "status": "Active"}}
