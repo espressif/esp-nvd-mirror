@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AA025E77-1B5C-4E14-811D-F792671B4373", "criteria": "cpe:2.3:a:centreon:dynamic_service_management:*:*:*:*:*:*:*:*", "versionStartIncluding": "24.04.0", "versionEndExcluding": "24.04.8", "lastModified": "2026-01-23T22:12:19.853", "cpeLastModified": "2026-01-23T22:12:19.853", "created": "2026-01-23T22:12:19.853", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "79268CBB-6F6E-45DF-89AA-0D47A201D600", "criteria": "cpe:2.3:a:centreon:awie:*:*:*:*:*:*:*:*", "versionStartIncluding": "25.10.0", "versionEndExcluding": "25.10.2", "lastModified": "2026-01-23T22:04:31.907", "cpeLastModified": "2026-01-23T22:04:31.907", "created": "2026-01-23T22:04:31.907", "status": "Active"}}

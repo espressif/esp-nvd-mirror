@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7DE49827-44BF-4560-99B1-0642ED561161", "criteria": "cpe:2.3:a:centreon:open_tickets:*:*:*:*:*:*:*:*", "versionStartIncluding": "24.04.0", "versionEndExcluding": "24.04.5", "lastModified": "2026-01-23T22:19:49.937", "cpeLastModified": "2026-01-23T22:19:49.937", "created": "2026-01-23T22:19:49.937", "status": "Active"}}
