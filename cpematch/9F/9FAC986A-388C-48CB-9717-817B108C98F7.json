@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9FAC986A-388C-48CB-9717-817B108C98F7", "criteria": "cpe:2.3:a:ibm:sterling_connect\\:express_adapter_for_sterling_b2b_integrator:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.2.0.00", "versionEndExcluding": "5.2.0.13", "lastModified": "2026-01-26T16:29:05.717", "created": "2026-01-26T16:29:05.717", "status": "Active"}}
