@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "460BAF74-CCA1-406F-B77D-B9DB7C6BDA69", "criteria": "cpe:2.3:a:oracle:epm_integration_agent:*:*:*:*:*:*:*:*", "versionStartIncluding": "25.04", "versionEndIncluding": "25.09", "lastModified": "2026-01-27T21:08:49.050", "created": "2026-01-27T21:08:49.050", "status": "Active"}}
