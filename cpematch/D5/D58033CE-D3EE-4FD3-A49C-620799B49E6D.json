@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D58033CE-D3EE-4FD3-A49C-620799B49E6D", "criteria": "cpe:2.3:a:apache:kyuubi:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.6.0", "versionEndExcluding": "1.10.3", "lastModified": "2026-01-27T14:30:26.203", "created": "2026-01-27T14:30:26.203", "status": "Active"}}
