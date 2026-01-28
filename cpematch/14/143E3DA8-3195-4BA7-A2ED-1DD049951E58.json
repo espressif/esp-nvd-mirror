@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "143E3DA8-3195-4BA7-A2ED-1DD049951E58", "criteria": "cpe:2.3:a:vega_project:vega:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.1.2", "lastModified": "2026-01-28T12:41:37.537", "created": "2026-01-28T12:41:37.537", "status": "Active"}}
