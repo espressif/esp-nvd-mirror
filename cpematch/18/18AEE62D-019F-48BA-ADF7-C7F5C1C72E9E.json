@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "18AEE62D-019F-48BA-ADF7-C7F5C1C72E9E", "criteria": "cpe:2.3:a:theupdateframework:go-tuf:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.4.1", "lastModified": "2026-01-28T19:55:29.807", "cpeLastModified": "2026-01-28T19:55:29.807", "created": "2026-01-28T19:55:29.807", "status": "Active"}}
