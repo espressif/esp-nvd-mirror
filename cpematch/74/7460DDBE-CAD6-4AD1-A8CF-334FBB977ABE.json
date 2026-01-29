@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7460DDBE-CAD6-4AD1-A8CF-334FBB977ABE", "criteria": "cpe:2.3:a:shopify:react-router:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "7.0.0", "versionEndIncluding": "7.9.5", "lastModified": "2026-01-29T20:29:32.777", "cpeLastModified": "2026-01-29T20:29:32.777", "created": "2026-01-29T20:29:32.777", "status": "Active"}}
