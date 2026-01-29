@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DB22DB4B-8396-4C5E-9346-3E20EE111E99", "criteria": "cpe:2.3:a:amazon:harmonix:*:*:*:*:*:aws:*:*", "versionStartIncluding": "0.3.0", "versionEndExcluding": "0.4.2", "lastModified": "2026-01-29T15:31:17.060", "created": "2026-01-29T15:31:17.060", "status": "Active"}}

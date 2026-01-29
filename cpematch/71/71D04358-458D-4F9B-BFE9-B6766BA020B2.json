@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "71D04358-458D-4F9B-BFE9-B6766BA020B2", "criteria": "cpe:2.3:a:enterprisedb:postgres_enterprise_manager:*:*:*:*:lts:*:*:*", "versionEndExcluding": "1.3.3", "lastModified": "2026-01-29T15:50:53.850", "created": "2026-01-29T15:50:23.793", "status": "Inactive"}}

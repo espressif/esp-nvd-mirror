@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "59C4531F-5A4D-46E8-BCED-CB3AE06369CB", "criteria": "cpe:2.3:a:syntax-tree:mdast-util-to-hast:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.0.0", "versionEndExcluding": "13.2.1", "lastModified": "2026-01-29T16:10:02.077", "created": "2026-01-29T16:10:02.077", "status": "Active"}}
