@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5C8EFC89-B911-4AC4-B805-017148C0C8FE", "criteria": "cpe:2.3:a:coder:coder:*:*:*:*:*:go:*:*", "versionStartIncluding": "2.28.0", "versionEndExcluding": "2.28.4", "lastModified": "2026-01-30T16:55:18.833", "cpeLastModified": "2026-01-30T16:55:18.833", "created": "2026-01-30T16:55:18.833", "status": "Active"}}

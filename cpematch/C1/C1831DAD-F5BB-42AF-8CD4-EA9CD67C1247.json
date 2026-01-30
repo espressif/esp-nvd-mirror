@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C1831DAD-F5BB-42AF-8CD4-EA9CD67C1247", "criteria": "cpe:2.3:a:amazon:firecracker:1.14.0:-:*:*:*:*:*:*", "lastModified": "2026-01-30T16:57:19.700", "created": "2026-01-30T16:54:48.963", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:amazon:firecracker:1.14.0:-:*:*:*:*:*:*", "cpeNameId": "6197CAB6-B783-4D7C-BC74-1A534A6EE3AD"}]}}
