@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4B387332-AE38-4C8E-BCBE-DD669474AA9E", "criteria": "cpe:2.3:a:ghost:portal:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "2.52.0", "versionEndExcluding": "2.57.1", "lastModified": "2026-01-30T21:58:25.850", "cpeLastModified": "2026-01-30T21:58:25.850", "created": "2026-01-30T21:58:25.850", "status": "Active"}}
