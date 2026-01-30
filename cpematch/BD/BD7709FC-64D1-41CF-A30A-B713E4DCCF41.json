@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BD7709FC-64D1-41CF-A30A-B713E4DCCF41", "criteria": "cpe:2.3:a:acquia_content_hub_project:acquia_content_hub:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "3.7.0", "versionEndExcluding": "3.7.3", "lastModified": "2026-01-30T14:09:34.207", "created": "2026-01-30T14:09:34.207", "status": "Active"}}

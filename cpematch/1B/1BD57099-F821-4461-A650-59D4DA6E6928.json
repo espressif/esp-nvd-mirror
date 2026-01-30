@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1BD57099-F821-4461-A650-59D4DA6E6928", "criteria": "cpe:2.3:a:bmeme:http_client_manager:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "10.0.2", "lastModified": "2026-01-30T13:51:35.897", "created": "2026-01-30T13:51:35.897", "status": "Active"}}
