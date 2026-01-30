@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "415C2CA0-1A9A-4C4F-A141-3816A79ED6EB", "criteria": "cpe:2.3:a:datateam:datactive:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.13.34", "versionEndExcluding": "2.14.0.6", "lastModified": "2026-01-30T18:53:53.480", "cpeLastModified": "2026-01-30T18:53:53.480", "created": "2026-01-30T18:53:53.480", "status": "Active"}}
