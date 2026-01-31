@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AFFC15A4-197B-44FB-985A-BDDE22679655", "criteria": "cpe:2.3:a:kyverno:kyverno:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.16.0", "versionEndExcluding": "1.16.3", "lastModified": "2026-01-30T22:09:13.227", "created": "2026-01-30T22:09:13.227", "status": "Active"}}
