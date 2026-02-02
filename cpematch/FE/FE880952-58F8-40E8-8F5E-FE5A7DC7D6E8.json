@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "FE880952-58F8-40E8-8F5E-FE5A7DC7D6E8", "criteria": "cpe:2.3:o:infoblox:nios:8.5.2:*:*:*:*:*:*:*", "lastModified": "2024-01-13T03:00:23.283", "cpeLastModified": "2024-01-12T16:10:46.800", "created": "2024-01-12T16:10:46.800", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "FE880952-58F8-40E8-8F5E-FE5A7DC7D6E8", "criteria": "cpe:2.3:o:infoblox:nios:8.5.2:*:*:*:*:*:*:*", "lastModified": "2026-02-02T13:03:34.243", "cpeLastModified": "2024-01-12T16:10:46.800", "created": "2024-01-12T16:10:46.800", "status": "Active"}}
