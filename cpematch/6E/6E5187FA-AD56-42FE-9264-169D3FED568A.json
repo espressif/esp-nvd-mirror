@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6E5187FA-AD56-42FE-9264-169D3FED568A", "criteria": "cpe:2.3:a:bytecodealliance:wasmtime:*:*:*:*:*:rust:*:*", "versionStartIncluding": "41.0.0", "versionEndExcluding": "41.0.1", "lastModified": "2026-02-02T15:21:51.170", "created": "2026-02-02T15:21:51.170", "status": "Active"}}
