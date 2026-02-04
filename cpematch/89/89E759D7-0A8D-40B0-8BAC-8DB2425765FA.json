@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "89E759D7-0A8D-40B0-8BAC-8DB2425765FA", "criteria": "cpe:2.3:a:f5:big-ip_container_ingress_services:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.2.0.2", "lastModified": "2026-02-04T19:50:47.507", "created": "2026-02-04T19:50:47.507", "status": "Active"}}
