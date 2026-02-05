@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D977E504-C3B8-403B-8277-A1A4A2DAB907", "criteria": "cpe:2.3:a:chainguard:apko:*:*:*:*:*:go:*:*", "versionStartIncluding": "0.14.8", "versionEndExcluding": "1.1.0", "lastModified": "2026-02-05T21:09:20.887", "cpeLastModified": "2026-02-05T21:09:20.887", "created": "2026-02-05T21:09:20.887", "status": "Active"}}
