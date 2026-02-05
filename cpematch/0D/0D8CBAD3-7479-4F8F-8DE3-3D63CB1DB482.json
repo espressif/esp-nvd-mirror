@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0D8CBAD3-7479-4F8F-8DE3-3D63CB1DB482", "criteria": "cpe:2.3:a:oracle:graalvm_for_jdk:21.0.7:*:*:*:*:*:*:*", "lastModified": "2026-02-05T18:11:21.480", "created": "2025-08-04T15:29:38.937", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:oracle:graalvm_for_jdk:21.0.7:*:*:*:*:*:*:*", "cpeNameId": "CE2E0DEC-98D0-4ABE-91C8-164A5B3070B6"}]}}

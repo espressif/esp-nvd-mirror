@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "30701A29-97E4-4250-AEDA-442915CC0F42", "criteria": "cpe:2.3:a:phillipsdata:blesta:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "5.13.3", "lastModified": "2026-02-05T17:00:08.137", "cpeLastModified": "2026-02-05T17:00:08.137", "created": "2026-02-05T17:00:08.137", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AEEE0232-309C-47B9-9E86-65C4A03E5533", "criteria": "cpe:2.3:a:microsoft:azure_core_shared_client_library*:*:*:*:*:*:python:*:*", "versionStartIncluding": "1.1.0", "versionEndIncluding": "1.38.0", "lastModified": "2026-02-05T17:48:59.390", "created": "2026-02-05T17:48:59.390", "status": "Active"}}

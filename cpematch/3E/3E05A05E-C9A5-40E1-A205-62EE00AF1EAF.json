@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3E05A05E-C9A5-40E1-A205-62EE00AF1EAF", "criteria": "cpe:2.3:a:cisco:ios_xrd_control_plane:*:*:*:*:*:*:*:*", "lastModified": "2026-02-05T18:11:21.480", "created": "2025-08-04T13:44:03.963", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:cisco:ios_xrd_control_plane:-:*:*:*:*:*:*:*", "cpeNameId": "924CBBB5-0423-4CD0-84CA-4C4946D84AEC"}]}}

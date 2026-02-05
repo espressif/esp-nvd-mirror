@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "546F18E0-335C-4841-A0A5-32CAD2DDE7BF", "criteria": "cpe:2.3:a:cisco:ios_xrd_vrouter:*:*:*:*:*:*:*:*", "lastModified": "2026-02-05T18:11:21.480", "created": "2025-08-04T13:44:03.963", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:cisco:ios_xrd_vrouter:-:*:*:*:*:*:*:*", "cpeNameId": "B3D5BAFA-7239-4681-87A8-6A52344EEE18"}]}}

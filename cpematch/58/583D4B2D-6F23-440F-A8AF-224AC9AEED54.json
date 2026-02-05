@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "583D4B2D-6F23-440F-A8AF-224AC9AEED54", "criteria": "cpe:2.3:h:tesla:wall_connector:-:*:*:*:*:*:*:*", "lastModified": "2026-02-05T18:11:21.480", "created": "2025-08-08T18:01:29.370", "status": "Active", "matches": [{"cpeName": "cpe:2.3:h:tesla:wall_connector:-:*:*:*:*:*:*:*", "cpeNameId": "590CB870-7010-4626-8AE5-6B2FD5C40FB1"}]}}
