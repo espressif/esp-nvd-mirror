@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FC0E3074-A3ED-46A3-97B1-FAB873EF506F", "criteria": "cpe:2.3:a:carrier:block_load:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.10", "versionEndIncluding": "4.16", "lastModified": "2026-02-05T18:41:54.093", "created": "2026-02-05T18:41:54.093", "status": "Active"}}
