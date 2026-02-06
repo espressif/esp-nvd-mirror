@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "70AFAEB8-7ACB-4C79-8593-2C797F560265", "criteria": "cpe:2.3:a:react-native-community:cli:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.8.0", "versionEndExcluding": "20.0.0", "lastModified": "2026-02-06T15:58:44.357", "cpeLastModified": "2026-02-06T15:58:44.357", "created": "2026-02-06T15:58:44.357", "status": "Active"}}
