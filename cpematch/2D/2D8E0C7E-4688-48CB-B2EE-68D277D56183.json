@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2D8E0C7E-4688-48CB-B2EE-68D277D56183", "criteria": "cpe:2.3:a:keats:jsonwebtoken:*:*:*:*:*:rust:*:*", "versionEndExcluding": "10.3.0", "lastModified": "2026-02-09T18:19:51.307", "created": "2026-02-09T18:19:51.307", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1925AABB-E45D-40EC-9357-07091200BF4B", "criteria": "cpe:2.3:a:jtenman:central_authentication_system_server:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "2.1.0", "versionEndExcluding": "2.1.2", "lastModified": "2026-02-09T18:57:33.593", "created": "2026-02-09T18:57:33.593", "status": "Active"}}

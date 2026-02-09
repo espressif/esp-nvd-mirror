@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B09A6900-B6B0-430D-9971-99D2352BC0F4", "criteria": "cpe:2.3:a:bpg:terraform_provider:*:*:*:*:*:proxmox_ve:*:*", "versionEndExcluding": "0.93.1", "lastModified": "2026-02-09T19:30:24.430", "cpeLastModified": "2026-02-09T19:30:24.430", "created": "2026-02-09T19:30:24.430", "status": "Active"}}

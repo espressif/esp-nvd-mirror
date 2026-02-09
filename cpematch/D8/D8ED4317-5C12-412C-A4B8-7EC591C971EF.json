@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D8ED4317-5C12-412C-A4B8-7EC591C971EF", "criteria": "cpe:2.3:a:hashicorp:terraform_provider:*:*:*:*:*:proxmox_ve:*:*", "versionEndExcluding": "0.93.1", "lastModified": "2026-02-09T19:25:25.697", "created": "2026-02-09T19:25:25.697", "status": "Active"}}
