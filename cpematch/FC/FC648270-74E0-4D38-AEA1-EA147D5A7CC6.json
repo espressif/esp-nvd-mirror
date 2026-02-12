@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FC648270-74E0-4D38-AEA1-EA147D5A7CC6", "criteria": "cpe:2.3:a:sangoma:freepbx_firestore:*:*:*:*:*:*:*:*", "versionStartIncluding": "17.0.2.36", "versionEndExcluding": "17.0.3", "lastModified": "2026-02-12T11:32:40.277", "created": "2026-02-12T11:31:48.560", "status": "Inactive"}}

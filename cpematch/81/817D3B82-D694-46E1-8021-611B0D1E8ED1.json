@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "817D3B82-D694-46E1-8021-611B0D1E8ED1", "criteria": "cpe:2.3:a:microsoft:confidential_sidecar_containers:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.12", "lastModified": "2026-02-12T11:23:14.740", "cpeLastModified": "2026-02-12T11:23:14.740", "created": "2026-02-12T11:23:14.740", "status": "Active"}}
