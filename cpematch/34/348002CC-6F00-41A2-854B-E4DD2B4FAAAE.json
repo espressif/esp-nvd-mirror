@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "348002CC-6F00-41A2-854B-E4DD2B4FAAAE", "criteria": "cpe:2.3:a:tanium:patch_endpoint_tools:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.2", "versionEndExcluding": "10.2.22", "lastModified": "2026-02-13T15:42:42.883", "created": "2026-02-13T15:42:42.883", "status": "Active"}}
