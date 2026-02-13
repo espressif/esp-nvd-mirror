@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "95C8E184-A4E9-4558-8824-D89590D62C4C", "criteria": "cpe:2.3:a:slack:nebula:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.7.0", "versionEndExcluding": "1.10.3", "lastModified": "2026-02-13T19:31:41.283", "cpeLastModified": "2026-02-13T19:31:41.283", "created": "2026-02-13T19:31:41.283", "status": "Active"}}

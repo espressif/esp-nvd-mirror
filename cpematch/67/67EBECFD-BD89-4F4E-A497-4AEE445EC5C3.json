@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "67EBECFD-BD89-4F4E-A497-4AEE445EC5C3", "criteria": "cpe:2.3:a:chainguard:melange:*:*:*:*:*:go:*:*", "versionStartIncluding": "0.14.0", "versionEndExcluding": "0.40.5", "lastModified": "2026-02-13T18:43:55.603", "cpeLastModified": "2026-02-13T18:43:55.603", "created": "2026-02-13T18:43:55.603", "status": "Active"}}

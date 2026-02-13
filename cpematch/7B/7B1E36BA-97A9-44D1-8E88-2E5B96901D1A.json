@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7B1E36BA-97A9-44D1-8E88-2E5B96901D1A", "criteria": "cpe:2.3:a:time_project:time:*:*:*:*:*:rust:*:*", "versionStartIncluding": "0.3.6", "versionEndExcluding": "0.3.47", "lastModified": "2026-02-13T19:08:52.140", "cpeLastModified": "2026-02-13T19:08:52.140", "created": "2026-02-13T19:08:52.140", "status": "Active"}}
