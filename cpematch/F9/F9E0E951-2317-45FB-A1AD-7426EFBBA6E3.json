@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F9E0E951-2317-45FB-A1AD-7426EFBBA6E3", "criteria": "cpe:2.3:a:external-secrets:external_secrets_operator:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.20.2", "versionEndExcluding": "1.2.0", "lastModified": "2026-02-17T19:03:55.497", "cpeLastModified": "2026-02-17T19:03:55.497", "created": "2026-02-17T19:03:55.497", "status": "Active"}}
