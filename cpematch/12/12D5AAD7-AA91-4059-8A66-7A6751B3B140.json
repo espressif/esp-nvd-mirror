@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "12D5AAD7-AA91-4059-8A66-7A6751B3B140", "criteria": "cpe:2.3:a:tgies:client-certificate-auth:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "0.2.1", "versionEndExcluding": "1.0.0", "lastModified": "2026-02-17T12:18:02.827", "created": "2026-02-17T12:18:02.827", "status": "Active"}}
