@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FB44BA2C-F5F8-4EC2-BC65-49A9F498780E", "criteria": "cpe:2.3:a:mattermost:confluence:*:*:*:*:*:mattermost:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.7.0", "lastModified": "2026-02-17T16:43:00.663", "cpeLastModified": "2026-02-17T16:43:00.663", "created": "2026-02-17T16:43:00.663", "status": "Active"}}
