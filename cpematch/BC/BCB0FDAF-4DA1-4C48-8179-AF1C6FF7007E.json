@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BCB0FDAF-4DA1-4C48-8179-AF1C6FF7007E", "criteria": "cpe:2.3:a:tenable:nessus_agent:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.1.0", "versionEndExcluding": "11.1.2", "lastModified": "2026-02-17T14:58:35.447", "cpeLastModified": "2026-02-17T14:58:35.447", "created": "2026-02-17T14:58:35.447", "status": "Active"}}

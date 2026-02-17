@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3BDFF093-EF44-4D55-8D49-B32725E6AAFF", "criteria": "cpe:2.3:a:heinlein:opencloud_reva:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.41.0", "versionEndExcluding": "2.42.3", "lastModified": "2026-02-17T14:32:27.563", "created": "2026-02-17T14:32:27.563", "status": "Active"}}
