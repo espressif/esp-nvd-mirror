@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1FCBECBB-D90D-4883-81FF-F5F43C7A926C", "criteria": "cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.22.0", "lastModified": "2026-02-18T20:40:10.567", "cpeLastModified": "2026-02-18T20:40:10.567", "created": "2026-02-18T20:40:10.567", "status": "Active"}}

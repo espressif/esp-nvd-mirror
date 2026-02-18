@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D64C55F6-7FB5-4D98-9E14-99F89DD9F3E4", "criteria": "cpe:2.3:a:quic-go:webtransport-go:*:*:*:*:*:go:*:*", "versionEndExcluding": "0.10.0", "lastModified": "2026-02-18T21:55:07.690", "cpeLastModified": "2026-02-18T21:55:07.690", "created": "2026-02-18T21:55:07.690", "status": "Active"}}
