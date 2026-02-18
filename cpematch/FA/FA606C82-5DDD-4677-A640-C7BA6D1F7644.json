@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FA606C82-5DDD-4677-A640-C7BA6D1F7644", "criteria": "cpe:2.3:a:dell:update_package_framework:*:*:*:*:*:*:*:*", "versionStartIncluding": "23.12.00", "versionEndExcluding": "25.02.00", "lastModified": "2026-02-18T16:40:37.050", "created": "2026-02-18T16:40:37.050", "status": "Active"}}

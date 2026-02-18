@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FCD0783F-8211-4F78-854F-27F7943D1CDC", "criteria": "cpe:2.3:a:wso2:enterprise_service_bus:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.9.0", "versionEndExcluding": "4.9.0.10", "lastModified": "2026-02-18T16:45:11.477", "cpeLastModified": "2026-02-18T16:45:11.477", "created": "2026-02-18T16:45:11.477", "status": "Active"}}
