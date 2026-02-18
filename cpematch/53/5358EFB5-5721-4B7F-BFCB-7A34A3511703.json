@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "5358EFB5-5721-4B7F-BFCB-7A34A3511703", "criteria": "cpe:2.3:a:cisco:duo:-:*:*:*:*:-:*:*", "lastModified": "2025-07-23T16:13:45.823", "created": "2025-07-23T16:13:45.823", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "5358EFB5-5721-4B7F-BFCB-7A34A3511703", "criteria": "cpe:2.3:a:cisco:duo:-:*:*:*:*:-:*:*", "lastModified": "2026-02-18T15:23:43.630", "created": "2025-07-23T16:13:45.823", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:cisco:duo:-:*:*:*:*:-:*:*", "cpeNameId": "D9F4EC2E-BABB-4BBE-AB00-FC810DF5F451"}]}}
