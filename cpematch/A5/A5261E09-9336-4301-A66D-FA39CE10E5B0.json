@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A5261E09-9336-4301-A66D-FA39CE10E5B0", "criteria": "cpe:2.3:a:ibm:sterling_file_gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.2.1.0", "versionEndExcluding": "6.2.1.1_1", "lastModified": "2026-02-19T19:20:29.080", "cpeLastModified": "2026-02-19T19:20:29.080", "created": "2026-02-19T19:20:29.080", "status": "Active"}}

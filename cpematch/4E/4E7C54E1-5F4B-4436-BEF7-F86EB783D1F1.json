@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4E7C54E1-5F4B-4436-BEF7-F86EB783D1F1", "criteria": "cpe:2.3:a:codesys:remote_target_visu:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.5.18.0", "versionEndExcluding": "3.5.21.40", "lastModified": "2026-02-19T19:24:55.123", "created": "2026-02-19T19:24:55.123", "status": "Active"}}

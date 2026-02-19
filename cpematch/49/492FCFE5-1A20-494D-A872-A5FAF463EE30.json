@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "492FCFE5-1A20-494D-A872-A5FAF463EE30", "criteria": "cpe:2.3:a:codesys:virtual_control_sl:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.5.0.0", "versionEndExcluding": "4.19.0.0", "lastModified": "2026-02-19T19:24:55.123", "created": "2026-02-19T19:24:55.123", "status": "Active"}}

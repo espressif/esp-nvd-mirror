@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A7012092-D8D0-451C-BF39-8B34AEC74673", "criteria": "cpe:2.3:a:cube:cube.js:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "1.1.0", "versionEndExcluding": "1.4.2", "lastModified": "2026-02-19T19:17:58.547", "cpeLastModified": "2026-02-19T19:17:58.547", "created": "2026-02-19T19:17:58.547", "status": "Active"}}
