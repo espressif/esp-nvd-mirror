@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5DB38701-1394-4552-8D77-D36B06B5D7E4", "criteria": "cpe:2.3:a:ibm:datastage_on_cloud_pak_for_data:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.1.2", "versionEndExcluding": "5.3.1", "lastModified": "2026-02-18T22:31:16.870", "created": "2026-02-18T22:31:16.870", "status": "Active"}}
