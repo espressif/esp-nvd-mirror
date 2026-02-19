@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "445FA7B4-2F69-4147-B692-B28CBA40663F", "criteria": "cpe:2.3:a:agentfront:enclave-vm:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "2.7.0", "versionEndExcluding": "2.10.1", "lastModified": "2026-02-19T20:13:24.183", "cpeLastModified": "2026-02-19T20:13:24.183", "created": "2026-02-19T20:13:24.183", "status": "Active"}}

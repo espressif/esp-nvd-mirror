@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E2123DB2-CF4E-4021-8581-3F0EA05B9D42", "criteria": "cpe:2.3:a:chainguard:malcontent:*:*:*:*:*:go:*:*", "versionStartIncluding": "1.8.0", "versionEndExcluding": "1.20.3", "lastModified": "2026-02-19T21:23:47.960", "cpeLastModified": "2026-02-19T21:23:47.960", "created": "2026-02-19T21:23:47.960", "status": "Active"}}
