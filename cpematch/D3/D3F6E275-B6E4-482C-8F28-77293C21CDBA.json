@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D3F6E275-B6E4-482C-8F28-77293C21CDBA", "criteria": "cpe:2.3:a:cncf:inspektor_gadget:*:*:*:*:*:kubernetes:*:*", "versionEndExcluding": "0.48.1", "lastModified": "2026-02-19T15:43:52.197", "cpeLastModified": "2026-02-19T15:43:52.197", "created": "2026-02-19T15:43:52.197", "status": "Active"}}

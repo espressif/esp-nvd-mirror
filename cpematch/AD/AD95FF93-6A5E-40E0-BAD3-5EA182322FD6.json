@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AD95FF93-6A5E-40E0-BAD3-5EA182322FD6", "criteria": "cpe:2.3:a:yokecd:yoke:*:*:*:*:*:kubernetes:*:*", "versionEndIncluding": "0.19.0", "lastModified": "2026-02-19T15:08:50.817", "created": "2026-02-19T15:08:50.817", "status": "Active"}}
