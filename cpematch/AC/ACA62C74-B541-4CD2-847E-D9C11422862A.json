@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ACA62C74-B541-4CD2-847E-D9C11422862A", "criteria": "cpe:2.3:o:tanium:tanos:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.8.6\\*", "versionEndIncluding": "1.8.6.0150", "lastModified": "2026-02-20T18:01:08.590", "created": "2026-02-20T18:01:08.590", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7B5FAB0B-7ED3-4F55-906F-0A3D31B212BF", "criteria": "cpe:2.3:a:refraction-networking:utls:*:*:*:*:*:go:*:*", "versionStartIncluding": "1.6.0", "versionEndExcluding": "1.8.1", "lastModified": "2026-02-20T17:03:15.653", "cpeLastModified": "2026-02-20T17:03:15.653", "created": "2026-02-20T17:03:15.653", "status": "Active"}}
