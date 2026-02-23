@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "06D43307-1188-4E7E-9327-290A5E41FB84", "criteria": "cpe:2.3:a:linuxfoundation:inspektor_gadget:*:*:*:*:*:kubernetes:*:*", "versionEndExcluding": "0.49.1", "lastModified": "2026-02-23T17:16:56.723", "created": "2026-02-23T17:16:56.723", "status": "Active"}}
