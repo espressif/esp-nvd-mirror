@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DE7082B0-CAF7-4360-9514-D81B0372765D", "criteria": "cpe:2.3:a:cloudhypervisor:cloud_hypervisor:*:*:*:*:*:rust:*:*", "versionStartIncluding": "34.0", "versionEndExcluding": "50.1", "lastModified": "2026-02-23T22:38:36.587", "cpeLastModified": "2026-02-23T22:38:36.587", "created": "2026-02-23T22:38:36.587", "status": "Active"}}
