@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "87AFF1D2-3872-463C-BA4C-D6C31C3B9EBC", "criteria": "cpe:2.3:a:akuity:kargo:*:*:*:*:*:kubernetes:*:*", "versionStartIncluding": "1.8.0", "versionEndExcluding": "1.8.7", "lastModified": "2026-02-24T20:39:03.533", "cpeLastModified": "2026-02-24T20:39:03.533", "created": "2026-02-24T20:39:03.533", "status": "Active"}}

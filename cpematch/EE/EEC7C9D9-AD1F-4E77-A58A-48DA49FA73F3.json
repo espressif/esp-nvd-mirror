@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EEC7C9D9-AD1F-4E77-A58A-48DA49FA73F3", "criteria": "cpe:2.3:a:linuxfoundation:strimzi_kafka_operator:*:-:*:*:*:*:*:*", "versionStartIncluding": "0.47.0", "versionEndExcluding": "0.50.1", "lastModified": "2026-02-24T20:11:51.533", "cpeLastModified": "2026-02-24T20:11:51.533", "created": "2026-02-24T20:11:51.533", "status": "Active"}}

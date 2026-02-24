@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EA57FE99-0A8A-4A84-8A6A-FAD4CAB01376", "criteria": "cpe:2.3:a:astro:\\@astrojs\\/node:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "9.5.4", "lastModified": "2026-02-24T22:00:55.060", "cpeLastModified": "2026-02-24T22:00:55.060", "created": "2026-02-24T22:00:55.060", "status": "Active"}}
