@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "EBECC317-FC26-433C-AEC8-22ABFBD85170", "criteria": "cpe:2.3:o:zyxel:ex3510-b1_firmware:5.17\\(abup.15.2\\)c0:*:*:*:*:*:*:*", "lastModified": "2026-02-24T17:27:40.423", "created": "2026-02-24T17:27:40.423", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "EBECC317-FC26-433C-AEC8-22ABFBD85170", "criteria": "cpe:2.3:o:zyxel:ex3510-b1_firmware:5.17\\(abup.15.2\\)c0:*:*:*:*:*:*:*", "lastModified": "2026-02-24T19:17:29.493", "created": "2026-02-24T17:27:40.423", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "BA067CC5-5CB8-4415-AB5B-143AF51F4B59", "criteria": "cpe:2.3:o:zyxel:ex3510-b0_firmware:5.17\\(abup.15.2\\)c0:*:*:*:*:*:*:*", "lastModified": "2026-02-24T17:27:40.423", "created": "2026-02-24T17:27:40.423", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "BA067CC5-5CB8-4415-AB5B-143AF51F4B59", "criteria": "cpe:2.3:o:zyxel:ex3510-b0_firmware:5.17\\(abup.15.2\\)c0:*:*:*:*:*:*:*", "lastModified": "2026-02-24T19:17:29.493", "created": "2026-02-24T17:27:40.423", "status": "Inactive"}}

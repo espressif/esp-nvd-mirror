@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "A9BB13B4-CC72-411F-9CBD-414DFD5B41DE", "criteria": "cpe:2.3:o:zyxel:ee6510-10_firmware:5.19\\(acjq.4.1\\)c0:*:*:*:*:*:*:*", "lastModified": "2026-02-24T17:19:51.020", "created": "2026-02-24T17:19:51.020", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "A9BB13B4-CC72-411F-9CBD-414DFD5B41DE", "criteria": "cpe:2.3:o:zyxel:ee6510-10_firmware:5.19\\(acjq.4.1\\)c0:*:*:*:*:*:*:*", "lastModified": "2026-02-24T19:17:29.493", "created": "2026-02-24T17:19:51.020", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "DB43D38B-486B-4239-8B19-DD235A8A7BD4", "criteria": "cpe:2.3:o:zyxel:nebula_lte3301-plus_firmware:1.18\\(acca.6\\)v0:*:*:*:*:*:*:*", "lastModified": "2026-02-24T17:05:17.337", "created": "2026-02-24T17:05:17.337", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "DB43D38B-486B-4239-8B19-DD235A8A7BD4", "criteria": "cpe:2.3:o:zyxel:nebula_lte3301-plus_firmware:1.18\\(acca.6\\)v0:*:*:*:*:*:*:*", "lastModified": "2026-02-24T19:46:56.190", "created": "2026-02-24T17:05:17.337", "status": "Inactive"}}

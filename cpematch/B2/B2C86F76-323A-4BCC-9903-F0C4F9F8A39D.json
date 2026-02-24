@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B2C86F76-323A-4BCC-9903-F0C4F9F8A39D", "criteria": "cpe:2.3:o:zyxel:ex3500-t0_firmware:5.44\\(achr.5.1\\)c0:*:*:*:*:*:*:*", "lastModified": "2026-02-24T17:27:40.423", "created": "2026-02-24T17:27:40.423", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B2C86F76-323A-4BCC-9903-F0C4F9F8A39D", "criteria": "cpe:2.3:o:zyxel:ex3500-t0_firmware:5.44\\(achr.5.1\\)c0:*:*:*:*:*:*:*", "lastModified": "2026-02-24T19:17:29.493", "created": "2026-02-24T17:27:40.423", "status": "Inactive"}}

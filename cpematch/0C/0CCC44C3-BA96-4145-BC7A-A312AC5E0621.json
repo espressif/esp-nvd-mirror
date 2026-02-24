@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0CCC44C3-BA96-4145-BC7A-A312AC5E0621", "criteria": "cpe:2.3:a:collerek:ormar:*:*:*:*:*:python:*:*", "versionStartIncluding": "0.9.9", "versionEndExcluding": "0.23.0", "lastModified": "2026-02-24T18:28:26.467", "cpeLastModified": "2026-02-24T18:28:26.467", "created": "2026-02-24T18:28:26.467", "status": "Active"}}

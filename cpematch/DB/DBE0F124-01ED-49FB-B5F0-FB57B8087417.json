@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "DBE0F124-01ED-49FB-B5F0-FB57B8087417", "criteria": "cpe:2.3:o:zyxel:emg3525-t50b_firmware:5.50\\(abpm.9.7\\)c0:*:*:*:*:*:*:*", "lastModified": "2026-02-24T17:19:51.020", "created": "2026-02-24T17:19:51.020", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "DBE0F124-01ED-49FB-B5F0-FB57B8087417", "criteria": "cpe:2.3:o:zyxel:emg3525-t50b_firmware:5.50\\(abpm.9.7\\)c0:*:*:*:*:*:*:*", "lastModified": "2026-02-24T19:17:29.493", "created": "2026-02-24T17:19:51.020", "status": "Inactive"}}
