@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "82EF19F0-15AD-422C-86C7-0D669060AC6F", "criteria": "cpe:2.3:a:linuxfoundation:nats-server:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.12.0", "versionEndExcluding": "2.12.3", "lastModified": "2026-02-25T17:05:58.097", "cpeLastModified": "2026-02-25T17:05:58.097", "created": "2026-02-25T17:05:58.097", "status": "Active"}}
