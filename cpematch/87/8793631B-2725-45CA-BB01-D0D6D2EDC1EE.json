@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8793631B-2725-45CA-BB01-D0D6D2EDC1EE", "criteria": "cpe:2.3:a:super-linter_project:super-linter:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "8.3.1", "lastModified": "2026-02-25T20:04:12.320", "cpeLastModified": "2026-02-25T20:04:12.320", "created": "2026-02-25T20:04:12.320", "status": "Active"}}
