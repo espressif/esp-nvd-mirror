@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0BE31D7D-3EA7-4474-930A-0FD4C237989C", "criteria": "cpe:2.3:a:gofiber:fiber:*:*:*:*:*:go:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.1.0", "lastModified": "2026-02-25T14:42:11.730", "created": "2026-02-25T14:42:11.730", "status": "Active"}}
