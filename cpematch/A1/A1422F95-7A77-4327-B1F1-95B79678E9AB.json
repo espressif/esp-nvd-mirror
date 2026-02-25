@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A1422F95-7A77-4327-B1F1-95B79678E9AB", "criteria": "cpe:2.3:a:fedify:hollo:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.6.0", "versionEndExcluding": "0.6.20", "lastModified": "2026-02-25T20:11:51.233", "cpeLastModified": "2026-02-25T20:11:51.233", "created": "2026-02-25T20:11:51.233", "status": "Active"}}
