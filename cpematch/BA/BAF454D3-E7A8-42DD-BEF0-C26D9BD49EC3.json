@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BAF454D3-E7A8-42DD-BEF0-C26D9BD49EC3", "criteria": "cpe:2.3:a:cert-manager:cert-manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.18.0", "versionEndExcluding": "1.18.5", "lastModified": "2026-02-26T16:23:49.607", "cpeLastModified": "2026-02-26T16:23:49.607", "created": "2026-02-26T16:23:49.607", "status": "Active"}}

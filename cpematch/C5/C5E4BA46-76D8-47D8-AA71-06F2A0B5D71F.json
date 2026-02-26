@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C5E4BA46-76D8-47D8-AA71-06F2A0B5D71F", "criteria": "cpe:2.3:a:curl:wcurl:*:*:*:*:*:*:*:*", "versionStartIncluding": "2024.12.08", "versionEndExcluding": "2025.11.09", "lastModified": "2026-02-26T16:47:41.153", "created": "2026-02-26T16:47:41.153", "status": "Active"}}
