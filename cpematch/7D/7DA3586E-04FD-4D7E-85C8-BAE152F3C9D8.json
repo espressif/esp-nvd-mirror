@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7DA3586E-04FD-4D7E-85C8-BAE152F3C9D8", "criteria": "cpe:2.3:a:linuxfoundation:sigstore-python:*:*:*:*:*:*:*:*", "versionEndExcluding": "4.2.0", "lastModified": "2026-02-26T20:08:43.220", "cpeLastModified": "2026-02-26T20:08:43.220", "created": "2026-02-26T20:08:43.220", "status": "Active"}}
