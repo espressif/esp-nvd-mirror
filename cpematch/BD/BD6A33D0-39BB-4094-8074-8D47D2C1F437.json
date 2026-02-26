@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BD6A33D0-39BB-4094-8074-8D47D2C1F437", "criteria": "cpe:2.3:a:aquasec:trivy_action:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.31.0", "versionEndExcluding": "0.34.1", "lastModified": "2026-02-26T02:54:47.057", "cpeLastModified": "2026-02-26T02:54:47.057", "created": "2026-02-26T02:54:47.057", "status": "Active"}}
