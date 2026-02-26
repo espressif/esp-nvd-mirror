@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7B720BE5-BD1D-4BFA-A899-BFB20C7499FC", "criteria": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.11", "versionEndExcluding": "20.12.5.3", "lastModified": "2026-02-26T15:27:45.943", "cpeLastModified": "2026-02-26T15:27:45.943", "created": "2026-02-26T15:27:45.943", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "20BFEB88-98B3-498A-9FFC-0C950ED8CF0D", "criteria": "cpe:2.3:a:tokio-rs:bytes:*:*:*:*:*:rust:*:*", "versionStartIncluding": "1.2.1", "versionEndExcluding": "1.11.1", "lastModified": "2026-02-26T16:07:20.567", "cpeLastModified": "2026-02-26T16:07:20.567", "created": "2026-02-26T16:07:20.567", "status": "Active"}}

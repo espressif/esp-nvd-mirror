@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8383E954-CE22-400C-A2BC-4C5E6F399601", "criteria": "cpe:2.3:a:cisco:sd-wan_vedge_cloud:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.7", "versionEndExcluding": "20.7.2", "lastModified": "2026-02-26T15:40:24.110", "cpeLastModified": "2026-02-26T15:40:24.110", "created": "2026-02-26T15:40:24.110", "status": "Active"}}

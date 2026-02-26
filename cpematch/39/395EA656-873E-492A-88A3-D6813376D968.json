@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "395EA656-873E-492A-88A3-D6813376D968", "criteria": "cpe:2.3:a:linuxfoundation:antrea:*:*:*:*:*:kubernetes:*:*", "versionEndExcluding": "2.3.2", "lastModified": "2026-02-26T15:33:10.467", "cpeLastModified": "2026-02-26T15:33:10.467", "created": "2026-02-26T15:33:10.467", "status": "Active"}}
