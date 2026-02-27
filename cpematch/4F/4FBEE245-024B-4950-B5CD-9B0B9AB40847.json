@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4FBEE245-024B-4950-B5CD-9B0B9AB40847", "criteria": "cpe:2.3:a:openstack:vitrage:*:*:*:*:*:*:*:*", "versionStartIncluding": "15.0.0", "versionEndExcluding": "15.0.1", "lastModified": "2026-02-27T15:53:56.867", "created": "2026-02-27T15:53:56.867", "status": "Active"}}
