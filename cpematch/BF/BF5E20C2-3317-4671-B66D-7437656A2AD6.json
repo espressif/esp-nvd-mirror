@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BF5E20C2-3317-4671-B66D-7437656A2AD6", "criteria": "cpe:2.3:a:wso2:identity_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.1.0", "versionEndExcluding": "6.1.0.128", "lastModified": "2026-02-27T16:59:58.253", "cpeLastModified": "2026-02-27T16:59:58.253", "created": "2026-02-27T16:59:58.253", "status": "Active"}}

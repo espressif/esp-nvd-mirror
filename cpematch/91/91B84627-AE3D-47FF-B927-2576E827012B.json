@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "91B84627-AE3D-47FF-B927-2576E827012B", "criteria": "cpe:2.3:a:fast-xml-parser_project:fast-xml-parser:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.3.8", "lastModified": "2026-02-27T17:14:14.540", "created": "2026-02-27T17:14:14.540", "status": "Active"}}
