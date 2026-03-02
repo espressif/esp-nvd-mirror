@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FCA7FF3F-546F-494B-A5B0-42A93E4181EC", "criteria": "cpe:2.3:a:kpdecker:jsdiff:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "8.0.3", "lastModified": "2026-03-02T20:33:47.557", "cpeLastModified": "2026-03-02T20:33:47.557", "created": "2026-03-02T20:33:47.557", "status": "Active"}}
