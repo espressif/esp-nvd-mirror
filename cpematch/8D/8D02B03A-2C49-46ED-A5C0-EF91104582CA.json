@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8D02B03A-2C49-46ED-A5C0-EF91104582CA", "criteria": "cpe:2.3:a:junkurihara:httpsig-hyper:*:*:*:*:*:rust:*:*", "versionEndExcluding": "0.0.23", "lastModified": "2026-03-02T19:30:07.523", "cpeLastModified": "2026-03-02T19:30:07.523", "created": "2026-03-02T19:30:07.523", "status": "Active"}}
