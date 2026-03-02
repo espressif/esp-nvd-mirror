@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E1883C04-6846-427A-BFFE-4C3AF35CCC19", "criteria": "cpe:2.3:a:mcgill:loris:*:*:*:*:*:*:*:*", "versionStartIncluding": "27.0.0", "versionEndExcluding": "27.0.2", "lastModified": "2026-03-02T18:09:50.050", "cpeLastModified": "2026-03-02T18:09:50.050", "created": "2026-03-02T18:09:50.050", "status": "Active"}}

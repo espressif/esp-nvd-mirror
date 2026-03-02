@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4A6B76A0-02C5-4E39-99B1-1C8BD3758257", "criteria": "cpe:2.3:a:openkruise:kruise:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.8.0", "versionEndExcluding": "1.8.3", "lastModified": "2026-03-02T17:51:34.557", "cpeLastModified": "2026-03-02T17:51:34.557", "created": "2026-03-02T17:51:34.557", "status": "Active"}}
