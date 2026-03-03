@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CEFCAFFE-AFCB-468E-8F32-63B8205A39DA", "criteria": "cpe:2.3:a:fedify:fedify:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.9.0", "versionEndExcluding": "1.9.2", "lastModified": "2026-03-03T20:37:21.683", "cpeLastModified": "2026-03-03T20:37:21.683", "created": "2026-03-03T20:37:21.683", "status": "Active"}}

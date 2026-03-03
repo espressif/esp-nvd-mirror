@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4FFA138E-FEF2-445E-A513-9C69AEFC03CF", "criteria": "cpe:2.3:a:ddick:crypt\\:\\:urandom:*:*:*:*:*:perl:*:*", "versionStartIncluding": "0.41", "versionEndExcluding": "0.55", "lastModified": "2026-03-03T20:18:07.617", "created": "2026-03-03T20:18:07.617", "status": "Active"}}
