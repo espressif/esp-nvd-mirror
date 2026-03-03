@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3E9AD42B-7590-4FA2-853E-7A2856CB38F0", "criteria": "cpe:2.3:a:bva:concierge\\:\\:sessions:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.8.1", "versionEndExcluding": "0.8.5", "lastModified": "2026-03-03T19:56:36.880", "created": "2026-03-03T19:56:16.453", "status": "Inactive"}}
