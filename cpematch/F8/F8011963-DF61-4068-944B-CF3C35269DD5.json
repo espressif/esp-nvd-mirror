@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "F8011963-DF61-4068-944B-CF3C35269DD5", "criteria": "cpe:2.3:a:cpan:net\\:\\:cidr:*:*:*:*:*:perl:*:*", "versionEndExcluding": "0.24", "lastModified": "2026-03-03T15:18:45.273", "created": "2026-03-03T15:18:45.273", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "F8011963-DF61-4068-944B-CF3C35269DD5", "criteria": "cpe:2.3:a:cpan:net\\:\\:cidr:*:*:*:*:*:perl:*:*", "versionEndExcluding": "0.24", "lastModified": "2026-03-03T16:14:18.727", "created": "2026-03-03T15:18:45.273", "status": "Inactive"}}
