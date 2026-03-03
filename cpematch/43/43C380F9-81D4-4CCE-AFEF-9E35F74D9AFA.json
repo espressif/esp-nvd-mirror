@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "43C380F9-81D4-4CCE-AFEF-9E35F74D9AFA", "criteria": "cpe:2.3:a:cpan:crypt\\:\\:sysrandom\\:\\:xs:*:*:*:*:*:perl:*:*", "versionEndExcluding": "0.010", "lastModified": "2026-03-03T16:08:37.850", "created": "2026-03-03T14:40:28.990", "status": "Inactive"}}
