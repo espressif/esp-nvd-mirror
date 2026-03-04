@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3D04FC94-65CE-45E2-9D9F-CEA72D2951B5", "criteria": "cpe:2.3:a:ibm:devops_plan:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.0.6", "lastModified": "2026-03-04T12:36:31.810", "created": "2026-03-04T12:36:31.810", "status": "Active"}}
