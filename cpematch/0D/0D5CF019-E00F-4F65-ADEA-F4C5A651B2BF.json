@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0D5CF019-E00F-4F65-ADEA-F4C5A651B2BF", "criteria": "cpe:2.3:a:serverless:serverless:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.29.0", "versionEndExcluding": "4.29.3", "lastModified": "2026-03-04T21:23:58.303", "cpeLastModified": "2026-03-04T21:23:58.303", "created": "2026-03-04T21:23:58.303", "status": "Active"}}
