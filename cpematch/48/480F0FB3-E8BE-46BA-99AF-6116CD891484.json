@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "480F0FB3-E8BE-46BA-99AF-6116CD891484", "criteria": "cpe:2.3:a:bwva:concierge\\:\\:sessions:*:*:*:*:*:perl:*:*", "versionStartIncluding": "0.8.1", "versionEndExcluding": "0.8.5", "lastModified": "2026-03-04T02:25:41.507", "created": "2026-03-04T02:25:41.507", "status": "Active"}}
