@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D726E50A-7EF5-416D-A87A-2BF960AD2FE8", "criteria": "cpe:2.3:a:amazon:relational_database_service:*:*:*:*:*:mariadb:*:*", "versionEndIncluding": "10.6.24", "lastModified": "2026-03-04T19:53:34.010", "created": "2026-03-04T19:53:34.010", "status": "Active"}}

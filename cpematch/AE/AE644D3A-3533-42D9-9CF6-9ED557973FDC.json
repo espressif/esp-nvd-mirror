@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AE644D3A-3533-42D9-9CF6-9ED557973FDC", "criteria": "cpe:2.3:a:amazon:aurora_mysql:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.01.0", "versionEndIncluding": "3.04.5", "lastModified": "2026-03-04T19:53:34.010", "created": "2026-03-04T19:53:34.010", "status": "Active"}}

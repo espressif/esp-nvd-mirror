@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D0E5AB60-5EAB-4425-A5ED-D7A4C885412B", "criteria": "cpe:2.3:a:amazon:relational_database_service:*:*:*:*:*:mysql:*:*", "versionStartIncluding": "8.0.11", "versionEndIncluding": "8.0.44", "lastModified": "2026-03-04T19:53:34.010", "created": "2026-03-04T19:53:34.010", "status": "Active"}}
