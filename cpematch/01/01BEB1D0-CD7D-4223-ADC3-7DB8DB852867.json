@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "01BEB1D0-CD7D-4223-ADC3-7DB8DB852867", "criteria": "cpe:2.3:a:auth0:laravel-auth0:*:*:*:*:*:laravel:*:*", "versionStartIncluding": "7.0.0", "versionEndExcluding": "7.20.0", "lastModified": "2026-03-04T16:42:18.710", "cpeLastModified": "2026-03-04T16:42:18.710", "created": "2026-03-04T16:42:18.710", "status": "Active"}}

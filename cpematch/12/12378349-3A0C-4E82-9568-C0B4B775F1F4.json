@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "12378349-3A0C-4E82-9568-C0B4B775F1F4", "criteria": "cpe:2.3:a:auth0:auth0-php:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.18.0", "lastModified": "2026-03-04T16:25:18.103", "cpeLastModified": "2026-03-04T16:25:18.103", "created": "2026-03-04T16:25:18.103", "status": "Active"}}

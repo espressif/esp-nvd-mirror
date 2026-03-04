@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7EFAA647-87D8-4171-9B4F-BFB780567203", "criteria": "cpe:2.3:o:watchguard:fireware:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.5.9", "versionEndIncluding": "12.5.16", "lastModified": "2026-03-04T16:57:59.537", "cpeLastModified": "2026-03-04T16:19:30.043", "created": "2026-03-04T16:19:30.043", "status": "Inactive"}}

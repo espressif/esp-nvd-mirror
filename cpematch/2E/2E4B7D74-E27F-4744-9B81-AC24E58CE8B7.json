@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2E4B7D74-E27F-4744-9B81-AC24E58CE8B7", "criteria": "cpe:2.3:o:ruckus:vriot_iot_controller_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.3.0.0", "versionEndExcluding": "3.0.0.0_GA", "lastModified": "2026-03-04T16:15:28.267", "created": "2026-03-04T16:15:28.267", "status": "Active"}}
