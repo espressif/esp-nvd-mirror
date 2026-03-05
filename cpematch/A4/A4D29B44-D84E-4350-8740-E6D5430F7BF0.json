@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A4D29B44-D84E-4350-8740-E6D5430F7BF0", "criteria": "cpe:2.3:a:aliasvault:aliasvault:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.24.0", "versionEndExcluding": "0.25.3", "lastModified": "2026-03-05T13:45:36.430", "cpeLastModified": "2026-03-05T13:45:36.430", "created": "2026-03-05T13:45:36.430", "status": "Active"}}
