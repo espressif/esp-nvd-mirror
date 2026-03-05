@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "722E1257-050A-4183-B55D-3683443658B9", "criteria": "cpe:2.3:a:suse:rancher_backup_and_restore_operator:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.0.0", "versionEndExcluding": "7.0.5", "lastModified": "2026-03-05T14:17:51.387", "created": "2026-03-05T14:17:51.387", "status": "Active"}}

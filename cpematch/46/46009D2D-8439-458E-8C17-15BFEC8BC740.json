@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "46009D2D-8439-458E-8C17-15BFEC8BC740", "criteria": "cpe:2.3:a:docker:mcp_gateway:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.28.0", "lastModified": "2026-03-05T15:11:04.477", "cpeLastModified": "2026-03-05T15:11:04.477", "created": "2026-03-05T15:11:04.477", "status": "Active"}}
