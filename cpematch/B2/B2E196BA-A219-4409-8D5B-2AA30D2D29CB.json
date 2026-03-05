@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B2E196BA-A219-4409-8D5B-2AA30D2D29CB", "criteria": "cpe:2.3:a:cohesity:tranzman_migration_appliance:4.0:build14614:*:*:*:*:*:*", "lastModified": "2026-03-04T14:47:09.040", "created": "2026-03-04T14:47:09.040", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B2E196BA-A219-4409-8D5B-2AA30D2D29CB", "criteria": "cpe:2.3:a:cohesity:tranzman_migration_appliance:4.0:build14614:*:*:*:*:*:*", "lastModified": "2026-03-05T03:00:00.170", "created": "2026-03-04T14:47:09.040", "status": "Inactive"}}
