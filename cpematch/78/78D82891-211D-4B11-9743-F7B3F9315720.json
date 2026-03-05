@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "78D82891-211D-4B11-9743-F7B3F9315720", "criteria": "cpe:2.3:a:linuxfoundation:cni_network_plugins:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.6.0", "versionEndExcluding": "1.9.0", "lastModified": "2026-03-05T16:19:33.610", "cpeLastModified": "2026-03-05T16:19:33.610", "created": "2026-03-05T16:19:33.610", "status": "Active"}}

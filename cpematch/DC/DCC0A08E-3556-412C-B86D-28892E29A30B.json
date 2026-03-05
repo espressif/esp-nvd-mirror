@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DCC0A08E-3556-412C-B86D-28892E29A30B", "criteria": "cpe:2.3:a:langchain:langgraph-checkpoint-sqlite:*:*:*:*:*:python:*:*", "versionEndExcluding": "3.0.1", "lastModified": "2026-03-05T16:53:45.360", "cpeLastModified": "2026-03-05T16:53:45.360", "created": "2026-03-05T16:53:45.360", "status": "Active"}}

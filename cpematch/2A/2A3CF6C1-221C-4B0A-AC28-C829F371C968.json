@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2A3CF6C1-221C-4B0A-AC28-C829F371C968", "criteria": "cpe:2.3:a:emiago:sipgo:*:*:*:*:*:go:*:*", "versionStartIncluding": "0.30.0", "versionEndExcluding": "1.0.0", "lastModified": "2026-03-05T18:12:31.937", "cpeLastModified": "2026-03-05T18:12:31.937", "created": "2026-03-05T18:12:31.937", "status": "Active"}}

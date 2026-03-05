@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EDB7F167-5D5E-44EE-8292-B4EC9D7D23D9", "criteria": "cpe:2.3:a:linuxfoundation:gardenctl:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.12.0", "lastModified": "2026-03-05T17:11:02.590", "cpeLastModified": "2026-03-05T17:11:02.590", "created": "2026-03-05T17:11:02.590", "status": "Active"}}

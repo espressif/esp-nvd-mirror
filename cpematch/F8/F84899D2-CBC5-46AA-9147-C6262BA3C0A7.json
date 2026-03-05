@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F84899D2-CBC5-46AA-9147-C6262BA3C0A7", "criteria": "cpe:2.3:a:terraform:linode_provider:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.9.0", "lastModified": "2026-03-05T17:41:45.193", "cpeLastModified": "2026-03-05T17:41:45.193", "created": "2026-03-05T17:41:45.193", "status": "Active"}}

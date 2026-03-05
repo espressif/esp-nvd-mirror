@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3C43BFC7-95C4-4C2B-B828-74D733323BCA", "criteria": "cpe:2.3:a:expr-lang:expr:*:*:*:*:*:go:*:*", "versionEndExcluding": "1.17.7", "lastModified": "2026-03-05T17:59:42.090", "cpeLastModified": "2026-03-05T17:59:42.090", "created": "2026-03-05T17:59:42.090", "status": "Active"}}
