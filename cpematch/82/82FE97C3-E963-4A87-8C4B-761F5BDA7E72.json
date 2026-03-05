@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "82FE97C3-E963-4A87-8C4B-761F5BDA7E72", "criteria": "cpe:2.3:a:gnu:wget2:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.1.0", "versionEndExcluding": "2.2.1", "lastModified": "2026-03-05T20:06:12.143", "created": "2026-03-05T20:06:12.143", "status": "Active"}}

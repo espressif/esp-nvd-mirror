@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DF422B5A-1DB6-4A93-959D-6D6CA728DCBC", "criteria": "cpe:2.3:a:fastapi-users_project:fastapi_users:*:*:*:*:*:python:*:*", "versionEndExcluding": "15.0.2", "lastModified": "2026-03-05T18:48:52.067", "cpeLastModified": "2026-03-05T18:48:52.067", "created": "2026-03-05T18:48:52.067", "status": "Active"}}
