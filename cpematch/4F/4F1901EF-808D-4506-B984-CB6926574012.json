@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4F1901EF-808D-4506-B984-CB6926574012", "criteria": "cpe:2.3:a:adonisjs:bodyparser:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "10.1.4", "versionEndIncluding": "11.0.0", "lastModified": "2026-03-06T17:31:58.600", "created": "2026-03-06T17:31:58.600", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A36A3F4B-0138-43AE-A643-8F3CD2FC2CF0", "criteria": "cpe:2.3:a:immich:immich:*:*:*:*:*:docker:*:*", "versionStartIncluding": "2.4.1", "versionEndExcluding": "2.5.0", "lastModified": "2026-03-06T17:55:29.080", "created": "2026-03-06T17:55:29.080", "status": "Active"}}
