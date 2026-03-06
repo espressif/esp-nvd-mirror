@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8AA802BF-9FFA-404E-ADAF-898977B14384", "criteria": "cpe:2.3:a:storybook:storybook:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "9.0.0", "versionEndExcluding": "9.1.19", "lastModified": "2026-03-05T22:42:23.477", "cpeLastModified": "2026-03-05T22:42:23.477", "created": "2026-03-05T22:42:23.477", "status": "Active"}}
