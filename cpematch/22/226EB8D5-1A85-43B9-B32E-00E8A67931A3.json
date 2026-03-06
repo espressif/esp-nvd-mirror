@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "226EB8D5-1A85-43B9-B32E-00E8A67931A3", "criteria": "cpe:2.3:a:openlit:openlit_software_development_kit:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "1.8.0", "versionEndExcluding": "1.9.1", "lastModified": "2026-03-06T20:00:34.333", "cpeLastModified": "2026-03-06T20:00:34.333", "created": "2026-03-06T20:00:34.333", "status": "Active"}}

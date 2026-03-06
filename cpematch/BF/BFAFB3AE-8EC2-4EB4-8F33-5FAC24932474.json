@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BFAFB3AE-8EC2-4EB4-8F33-5FAC24932474", "criteria": "cpe:2.3:a:assertj:assertj:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.4.0", "versionEndExcluding": "3.27.7", "lastModified": "2026-03-06T19:17:39.393", "cpeLastModified": "2026-03-06T19:17:39.393", "created": "2026-03-06T19:17:39.393", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4A765658-CA39-4F2B-94EF-64D0345C0F1F", "criteria": "cpe:2.3:a:openlit:openlit_software_development_kit:*:*:*:*:*:python:*:*", "versionStartIncluding": "1.36.2", "versionEndExcluding": "1.37.1", "lastModified": "2026-03-06T20:00:34.333", "cpeLastModified": "2026-03-06T20:00:34.333", "created": "2026-03-06T20:00:34.333", "status": "Active"}}

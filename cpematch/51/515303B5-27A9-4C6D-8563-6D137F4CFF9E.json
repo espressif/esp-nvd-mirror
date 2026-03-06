@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "515303B5-27A9-4C6D-8563-6D137F4CFF9E", "criteria": "cpe:2.3:a:icinga:icinga_powershell_framework:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.12.0", "versionEndExcluding": "1.12.4", "lastModified": "2026-03-06T19:08:26.243", "created": "2026-03-06T19:08:26.243", "status": "Active"}}

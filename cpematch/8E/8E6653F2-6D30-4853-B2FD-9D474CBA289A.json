@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8E6653F2-6D30-4853-B2FD-9D474CBA289A", "criteria": "cpe:2.3:a:control-plane:flux_operator:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.36.0", "versionEndExcluding": "0.40.0", "lastModified": "2026-03-06T18:58:19.147", "cpeLastModified": "2026-03-06T18:58:19.147", "created": "2026-03-06T18:58:19.147", "status": "Active"}}
