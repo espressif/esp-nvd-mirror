@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2E64CB1D-03C8-4A80-966F-3B85E10D8F3D", "criteria": "cpe:2.3:a:langchain:langchain_helm_charts:*:*:*:*:*:kubernetes:*:*", "versionEndExcluding": "0.12.71", "lastModified": "2026-03-06T14:52:16.200", "cpeLastModified": "2026-03-06T14:52:16.200", "created": "2026-03-06T14:52:16.200", "status": "Active"}}

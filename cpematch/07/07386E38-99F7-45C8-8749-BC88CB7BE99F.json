@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "07386E38-99F7-45C8-8749-BC88CB7BE99F", "criteria": "cpe:2.3:a:software-metadata.pub:hermes:*:*:*:*:*:python:*:*", "versionStartIncluding": "0.8.1", "versionEndExcluding": "0.9.1", "lastModified": "2026-03-06T15:42:02.403", "cpeLastModified": "2026-03-06T15:42:02.403", "created": "2026-03-06T15:42:02.403", "status": "Active"}}
