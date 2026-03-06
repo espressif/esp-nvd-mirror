@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "452E047E-0565-4E46-9511-05AC5DDE0A1A", "criteria": "cpe:2.3:a:apollographql:apollo-server:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.4.0", "lastModified": "2026-03-06T20:26:20.267", "cpeLastModified": "2026-03-06T20:26:20.267", "created": "2026-03-06T20:26:20.267", "status": "Active"}}
