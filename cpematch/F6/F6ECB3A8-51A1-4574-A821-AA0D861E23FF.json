@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F6ECB3A8-51A1-4574-A821-AA0D861E23FF", "criteria": "cpe:2.3:a:gnu:libcdio:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.2.0", "versionEndExcluding": "2.3.0", "lastModified": "2026-03-06T22:35:21.623", "cpeLastModified": "2026-03-06T22:35:21.623", "created": "2026-03-06T22:35:21.623", "status": "Active"}}
