@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FFD587A5-A6DA-4D83-9903-7AD395DE5744", "criteria": "cpe:2.3:a:opennextjs:opennext_for_cloudflare:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "1.17.1", "lastModified": "2026-03-09T13:08:28.060", "cpeLastModified": "2026-03-09T13:08:28.060", "created": "2026-03-09T13:08:28.060", "status": "Active"}}
