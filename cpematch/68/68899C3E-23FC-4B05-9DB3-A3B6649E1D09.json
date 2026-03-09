@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "68899C3E-23FC-4B05-9DB3-A3B6649E1D09", "criteria": "cpe:2.3:a:kazeburo:plack\\:middleware\\:\\:session\\:\\:simple:*:*:*:*:*:perl:*:*", "versionEndExcluding": "0.05", "lastModified": "2026-03-09T14:33:42.517", "cpeLastModified": "2026-03-09T14:30:08.827", "created": "2026-03-09T14:30:08.827", "status": "Inactive"}}
