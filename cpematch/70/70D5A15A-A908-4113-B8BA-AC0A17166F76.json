@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "70D5A15A-A908-4113-B8BA-AC0A17166F76", "criteria": "cpe:2.3:a:timescale:timescaledb:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.23.0", "versionEndExcluding": "2.25.2", "lastModified": "2026-03-09T18:01:25.737", "cpeLastModified": "2026-03-09T18:01:25.737", "created": "2026-03-09T18:01:25.737", "status": "Active"}}

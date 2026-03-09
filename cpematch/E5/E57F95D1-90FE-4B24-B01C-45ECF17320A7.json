@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E57F95D1-90FE-4B24-B01C-45ECF17320A7", "criteria": "cpe:2.3:a:wikimedia:parsoid:*:*:*:*:*:node.js:*:*", "versionStartExcluding": "0.20.4", "versionEndExcluding": "0.21.1", "lastModified": "2026-03-09T17:45:36.093", "created": "2026-03-09T17:45:36.093", "status": "Active"}}

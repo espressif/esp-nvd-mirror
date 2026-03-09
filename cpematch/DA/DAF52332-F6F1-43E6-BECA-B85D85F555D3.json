@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DAF52332-F6F1-43E6-BECA-B85D85F555D3", "criteria": "cpe:2.3:a:wikimedia:parsoid:*:*:*:*:*:node.js:*:*", "versionStartExcluding": "0.16.6", "versionEndExcluding": "0.20.4", "lastModified": "2026-03-09T17:45:36.093", "created": "2026-03-09T17:45:36.093", "status": "Active"}}
