@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "36F9F8AC-0EDB-4FA5-9E11-1F85AC15D3E8", "criteria": "cpe:2.3:a:iamb:crypt\\:\\:sodium\\:\\:xs:*:*:*:*:*:perl:*:*", "versionEndIncluding": "0.001001", "lastModified": "2026-03-10T14:46:26.263", "cpeLastModified": "2026-03-10T14:46:26.263", "created": "2026-03-10T14:46:26.263", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "52E336CB-084F-475A-A9D2-146BC4C01887", "criteria": "cpe:2.3:a:lfprojects:zarf:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.54.0", "versionEndExcluding": "0.73.1", "lastModified": "2026-03-10T15:43:17.887", "cpeLastModified": "2026-03-10T15:43:17.887", "created": "2026-03-10T15:43:17.887", "status": "Active"}}

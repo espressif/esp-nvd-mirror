@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5883275C-B31D-48E7-91F3-5D21C9D52FFD", "criteria": "cpe:2.3:a:svgo:svgo:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.3.3", "lastModified": "2026-03-10T15:48:38.380", "cpeLastModified": "2026-03-10T15:48:38.380", "created": "2026-03-10T15:48:38.380", "status": "Active"}}

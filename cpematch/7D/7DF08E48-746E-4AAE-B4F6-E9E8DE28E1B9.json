@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7DF08E48-746E-4AAE-B4F6-E9E8DE28E1B9", "criteria": "cpe:2.3:a:stellar:stellar-xdr:*:*:*:*:*:rust:*:*", "versionEndExcluding": "25.0.1", "lastModified": "2026-03-10T14:40:05.673", "cpeLastModified": "2026-03-10T14:40:05.673", "created": "2026-03-10T14:40:05.673", "status": "Active"}}

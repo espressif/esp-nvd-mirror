@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AA6DD668-601D-4399-88DE-4D0F34EA9206", "criteria": "cpe:2.3:a:fasterxml:jackson-core:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.1.0", "lastModified": "2026-03-10T15:58:49.973", "cpeLastModified": "2026-03-10T15:58:49.973", "created": "2026-03-10T15:58:49.973", "status": "Active"}}
