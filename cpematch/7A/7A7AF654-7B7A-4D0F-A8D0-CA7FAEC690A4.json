@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7A7AF654-7B7A-4D0F-A8D0-CA7FAEC690A4", "criteria": "cpe:2.3:a:parseplatform:parse-server:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "9.0.0", "versionEndIncluding": "9.5.0", "lastModified": "2026-03-10T16:39:36.443", "cpeLastModified": "2026-03-10T16:37:37.030", "created": "2026-03-10T16:37:37.030", "status": "Inactive"}}
