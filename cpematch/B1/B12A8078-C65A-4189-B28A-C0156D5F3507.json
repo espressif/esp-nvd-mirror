@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B12A8078-C65A-4189-B28A-C0156D5F3507", "criteria": "cpe:2.3:a:npuwyw:px4_drone_autopilot:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.12.0", "versionEndExcluding": "1.16.0", "lastModified": "2026-03-11T19:20:08.767", "cpeLastModified": "2026-03-11T19:20:08.767", "created": "2026-03-11T19:20:08.767", "status": "Active"}}
