@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "43114A7E-C07A-43A3-B8C8-A34D3E970371", "criteria": "cpe:2.3:a:amazon:aws-lc-sys:*:*:*:*:*:rust:*:*", "versionStartIncluding": "0.14.0", "versionEndExcluding": "0.38.0", "lastModified": "2026-03-11T17:14:46.287", "cpeLastModified": "2026-03-11T17:14:46.287", "created": "2026-03-11T17:14:46.287", "status": "Active"}}

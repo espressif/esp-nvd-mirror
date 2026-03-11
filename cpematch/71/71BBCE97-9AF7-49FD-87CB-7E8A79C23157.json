@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "71BBCE97-9AF7-49FD-87CB-7E8A79C23157", "criteria": "cpe:2.3:a:amazon:aws-lc-fips-sys:*:*:*:*:*:rust:*:*", "versionStartIncluding": "0.13.0", "versionEndExcluding": "0.13.12", "lastModified": "2026-03-11T17:14:46.287", "cpeLastModified": "2026-03-11T17:14:46.287", "created": "2026-03-11T17:14:46.287", "status": "Active"}}
