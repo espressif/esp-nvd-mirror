@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1C68269E-0203-4CC0-A46A-79EE0707D72B", "criteria": "cpe:2.3:a:apache:pdfbox:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.24", "versionEndIncluding": "2.0.35", "lastModified": "2026-03-12T21:13:42.257", "cpeLastModified": "2026-03-12T21:13:42.257", "created": "2026-03-12T21:13:42.257", "status": "Active"}}
