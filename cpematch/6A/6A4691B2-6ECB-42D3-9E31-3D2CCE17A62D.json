@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6A4691B2-6ECB-42D3-9E31-3D2CCE17A62D", "criteria": "cpe:2.3:a:pi-hole:web_interface:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0", "versionEndExcluding": "6.4.1", "lastModified": "2026-03-12T16:28:38.533", "cpeLastModified": "2026-03-12T16:28:38.533", "created": "2026-03-12T16:28:38.533", "status": "Active"}}
