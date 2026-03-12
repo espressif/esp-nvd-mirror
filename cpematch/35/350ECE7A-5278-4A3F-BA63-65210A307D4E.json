@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "350ECE7A-5278-4A3F-BA63-65210A307D4E", "criteria": "cpe:2.3:a:fortinet:fortideceptor:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.2.0", "versionEndExcluding": "6.2.1", "lastModified": "2026-03-12T16:19:35.730", "cpeLastModified": "2026-03-12T16:19:35.730", "created": "2026-03-12T16:19:35.730", "status": "Active"}}
