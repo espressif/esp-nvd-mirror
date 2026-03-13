@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3F4BAE2C-0C48-4D0E-9128-289E4CFB637D", "criteria": "cpe:2.3:a:microsoft:azure_linux_virtual_machines_azure_diagnostics:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "2.1.24", "lastModified": "2026-03-13T13:38:51.310", "created": "2026-03-13T13:38:51.310", "status": "Active"}}
