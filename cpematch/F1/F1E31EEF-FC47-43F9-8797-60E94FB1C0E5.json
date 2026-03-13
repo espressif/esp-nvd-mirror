@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F1E31EEF-FC47-43F9-8797-60E94FB1C0E5", "criteria": "cpe:2.3:a:anchore:quill:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.7.1", "lastModified": "2026-03-13T18:37:59.780", "cpeLastModified": "2026-03-13T18:37:59.780", "created": "2026-03-13T18:37:59.780", "status": "Active"}}
