@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "50898895-9E82-4377-BAA0-E74F5F332760", "criteria": "cpe:2.3:a:microsoft:arc_enabled_servers_azure_connected_machine_agent:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.61", "lastModified": "2026-03-13T16:05:56.217", "created": "2026-03-13T16:05:56.217", "status": "Active"}}

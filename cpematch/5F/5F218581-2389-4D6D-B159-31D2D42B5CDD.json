@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5F218581-2389-4D6D-B159-31D2D42B5CDD", "criteria": "cpe:2.3:a:microsoft:azure_automation_hybrid_worker_windows_extension:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.3.74", "lastModified": "2026-03-13T15:15:34.897", "created": "2026-03-13T15:15:34.897", "status": "Active"}}
