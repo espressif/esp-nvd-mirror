@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "75EBD042-DA8D-4CEE-8EF6-B345AC60EBDF", "criteria": "cpe:2.3:a:microsoft:azure_ad_ssh_login_extension_for_linux:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.0.033370002", "lastModified": "2026-03-13T11:45:11.760", "created": "2026-03-13T11:45:11.760", "status": "Active"}}
