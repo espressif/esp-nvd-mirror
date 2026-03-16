@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EF7C7B78-1161-417A-A32C-08E090D45975", "criteria": "cpe:2.3:a:file-type_project:file-type:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "20.0.0", "versionEndExcluding": "21.3.2", "lastModified": "2026-03-16T15:08:40.083", "cpeLastModified": "2026-03-16T15:08:40.083", "created": "2026-03-16T15:08:40.083", "status": "Active"}}
