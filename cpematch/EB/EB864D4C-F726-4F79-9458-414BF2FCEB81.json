@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EB864D4C-F726-4F79-9458-414BF2FCEB81", "criteria": "cpe:2.3:a:intel:lts_kernel_software:*:*:*:*:*:linux:*:*", "versionEndExcluding": "lts-v6.12.28-linux-250521T070434Z", "lastModified": "2026-03-16T19:56:24.870", "created": "2026-03-16T18:47:20.230", "status": "Inactive"}}
