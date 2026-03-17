@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C74B34C2-C566-468C-8F2A-B45301F0C297", "criteria": "cpe:2.3:a:gstreamer:gstreamer:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.10.0", "versionEndExcluding": "0.10.8", "lastModified": "2026-03-17T15:52:33.870", "cpeLastModified": "2026-03-17T15:52:33.870", "created": "2026-03-17T15:52:33.870", "status": "Inactive"}}
