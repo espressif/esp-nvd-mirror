@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7D8EA727-11A8-4D61-8E22-F87608DA7009", "criteria": "cpe:2.3:a:linuxfoundation:sigstore_timestamp_authority:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.0.3", "lastModified": "2026-03-17T20:36:01.513", "cpeLastModified": "2026-03-17T20:36:01.513", "created": "2026-03-17T20:36:01.513", "status": "Active"}}
