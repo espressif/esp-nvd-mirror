@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "7CBAE4F4-E03A-4DFF-A2AD-44304553EA03", "criteria": "cpe:2.3:a:intel:arc_pro_graphics:*:*:*:*:*:windows:*:*", "versionEndExcluding": "32.0.101.6979", "lastModified": "2026-03-16T19:56:24.870", "created": "2026-03-16T19:56:24.870", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "7CBAE4F4-E03A-4DFF-A2AD-44304553EA03", "criteria": "cpe:2.3:a:intel:arc_pro_graphics:*:*:*:*:*:windows:*:*", "versionEndExcluding": "32.0.101.6979", "lastModified": "2026-03-17T02:00:00.163", "created": "2026-03-16T19:56:24.870", "status": "Inactive"}}
