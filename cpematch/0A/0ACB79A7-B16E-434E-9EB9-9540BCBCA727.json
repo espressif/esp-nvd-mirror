@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0ACB79A7-B16E-434E-9EB9-9540BCBCA727", "criteria": "cpe:2.3:a:pyopenssl:pyopenssl:*:*:*:*:*:*:*:*", "versionStartIncluding": "22.0.0", "versionEndIncluding": "26.0.0", "lastModified": "2026-03-18T18:03:55.697", "cpeLastModified": "2026-03-18T18:03:55.697", "created": "2026-03-18T18:03:55.697", "status": "Active"}}

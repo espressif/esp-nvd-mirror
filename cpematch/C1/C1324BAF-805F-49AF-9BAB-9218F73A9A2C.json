@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C1324BAF-805F-49AF-9BAB-9218F73A9A2C", "criteria": "cpe:2.3:a:kube-router:kube-router:*:*:*:*:*:kubernetes:*:*", "versionEndExcluding": "2.8.0", "lastModified": "2026-03-18T17:40:41.010", "cpeLastModified": "2026-03-18T17:40:41.010", "created": "2026-03-18T17:40:41.010", "status": "Active"}}
