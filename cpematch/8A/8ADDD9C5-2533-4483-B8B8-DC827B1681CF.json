@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8ADDD9C5-2533-4483-B8B8-DC827B1681CF", "criteria": "cpe:2.3:a:protocol:yamux:0.12.1:*:*:*:*:rust:*:*", "lastModified": "2026-03-18T23:19:33.847", "cpeLastModified": "2026-03-18T23:19:07.743", "created": "2026-03-18T23:19:07.743", "status": "Inactive"}}
