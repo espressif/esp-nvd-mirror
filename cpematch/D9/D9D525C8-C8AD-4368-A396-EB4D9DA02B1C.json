@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D9D525C8-C8AD-4368-A396-EB4D9DA02B1C", "criteria": "cpe:2.3:a:htslib:htslib:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.22", "versionEndExcluding": "1.22.2", "lastModified": "2026-03-19T13:32:48.210", "cpeLastModified": "2026-03-19T13:32:48.210", "created": "2026-03-19T13:32:48.210", "status": "Active"}}
