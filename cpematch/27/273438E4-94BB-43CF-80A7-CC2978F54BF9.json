@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "273438E4-94BB-43CF-80A7-CC2978F54BF9", "criteria": "cpe:2.3:a:hexpm:rebar3:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.9.1", "versionEndExcluding": "3.27.0", "lastModified": "2026-03-19T19:52:13.387", "created": "2026-03-19T19:16:37.803", "status": "Inactive"}}

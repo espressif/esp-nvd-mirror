@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C177BC96-6BFE-4126-97E8-D8A0A74EF0D9", "criteria": "cpe:2.3:a:hexpm:hex_core:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.1.0", "versionEndExcluding": "0.12.1", "lastModified": "2026-03-19T19:52:13.387", "cpeLastModified": "2026-03-19T19:16:37.803", "created": "2026-03-19T19:16:37.803", "status": "Inactive"}}
