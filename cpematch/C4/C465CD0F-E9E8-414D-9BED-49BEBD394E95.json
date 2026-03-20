@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C465CD0F-E9E8-414D-9BED-49BEBD394E95", "criteria": "cpe:2.3:a:linuxfoundation:tekton_pipelines:*:*:*:*:*:go:*:*", "versionStartIncluding": "1.7.0", "versionEndExcluding": "1.9.2", "lastModified": "2026-03-20T18:46:11.950", "cpeLastModified": "2026-03-20T18:46:11.950", "created": "2026-03-20T18:46:11.950", "status": "Active"}}
