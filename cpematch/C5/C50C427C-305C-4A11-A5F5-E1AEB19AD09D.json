@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C50C427C-305C-4A11-A5F5-E1AEB19AD09D", "criteria": "cpe:2.3:a:objectcomputing:micronaut:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.7.0", "versionEndExcluding": "4.10.17", "lastModified": "2026-03-23T17:33:23.297", "cpeLastModified": "2026-03-23T17:33:23.297", "created": "2026-03-23T17:33:23.297", "status": "Active"}}

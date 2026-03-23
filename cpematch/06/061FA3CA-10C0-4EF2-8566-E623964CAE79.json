@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "061FA3CA-10C0-4EF2-8566-E623964CAE79", "criteria": "cpe:2.3:o:openwrt:openwrt:*:*:*:*:*:*:*:*", "versionStartIncluding": "25.12.0", "versionEndExcluding": "25.12.1", "lastModified": "2026-03-23T17:35:52.197", "cpeLastModified": "2026-03-23T17:35:52.197", "created": "2026-03-23T17:35:52.197", "status": "Active"}}

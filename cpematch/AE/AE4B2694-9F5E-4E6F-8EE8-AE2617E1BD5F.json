@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AE4B2694-9F5E-4E6F-8EE8-AE2617E1BD5F", "criteria": "cpe:2.3:a:ldap-account-manager:ldap_account_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.5", "versionEndExcluding": "9.5", "lastModified": "2026-03-23T18:01:45.783", "cpeLastModified": "2026-03-23T18:01:45.783", "created": "2026-03-23T18:01:45.783", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "524C6EEC-F1BD-410B-8FB7-0459A8759841", "criteria": "cpe:2.3:a:mattermost:mattermost_desktop:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.13.0", "versionEndExcluding": "5.13.3", "lastModified": "2026-03-23T17:26:47.740", "cpeLastModified": "2026-03-23T17:25:58.670", "created": "2026-03-23T17:25:58.670", "status": "Inactive"}}
