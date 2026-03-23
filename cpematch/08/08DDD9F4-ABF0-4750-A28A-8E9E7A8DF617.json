@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "08DDD9F4-ABF0-4750-A28A-8E9E7A8DF617", "criteria": "cpe:2.3:a:pydicom:pydicom:*:*:*:*:*:python:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "3.0.2", "lastModified": "2026-03-23T14:23:56.910", "cpeLastModified": "2026-03-23T14:23:56.910", "created": "2026-03-23T14:23:56.910", "status": "Active"}}
