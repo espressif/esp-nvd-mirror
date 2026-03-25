@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D19A8826-6289-4EEA-8093-8F92E7A66461", "criteria": "cpe:2.3:a:pengutronix:barebox:*:*:*:*:*:*:*:*", "versionStartIncluding": "2025.10.0", "versionEndExcluding": "2026.03.1", "lastModified": "2026-03-25T15:50:36.260", "cpeLastModified": "2026-03-25T15:50:36.260", "created": "2026-03-25T15:50:36.260", "status": "Active"}}
