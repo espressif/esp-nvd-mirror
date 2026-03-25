@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "98332CC2-3012-483E-8C64-DF7E640E440A", "criteria": "cpe:2.3:a:scala.epfl:sbt:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.9.5", "versionEndExcluding": "1.12.7", "lastModified": "2026-03-25T17:14:22.580", "cpeLastModified": "2026-03-25T17:14:22.580", "created": "2026-03-25T17:14:22.580", "status": "Active"}}
