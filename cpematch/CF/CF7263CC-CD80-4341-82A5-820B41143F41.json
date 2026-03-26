@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CF7263CC-CD80-4341-82A5-820B41143F41", "criteria": "cpe:2.3:a:f5:nginx_open_source:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.27.2", "versionEndIncluding": "1.27.5", "lastModified": "2026-03-26T13:43:28.860", "created": "2026-03-26T13:43:28.860", "status": "Active"}}
