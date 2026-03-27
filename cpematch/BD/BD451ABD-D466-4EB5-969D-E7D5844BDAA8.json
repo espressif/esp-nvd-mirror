@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BD451ABD-D466-4EB5-969D-E7D5844BDAA8", "criteria": "cpe:2.3:a:crun_project:crun:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.19", "versionEndExcluding": "1.27", "lastModified": "2026-03-27T20:25:14.793", "cpeLastModified": "2026-03-27T20:25:14.793", "created": "2026-03-27T20:25:14.793", "status": "Active"}}
