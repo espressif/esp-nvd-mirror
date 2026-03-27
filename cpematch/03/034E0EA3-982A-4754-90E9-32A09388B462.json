@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "034E0EA3-982A-4754-90E9-32A09388B462", "criteria": "cpe:2.3:a:sonarr:sonarr:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0", "versionEndExcluding": "4.0.17.2950", "lastModified": "2026-03-27T16:07:27.587", "cpeLastModified": "2026-03-27T16:07:27.587", "created": "2026-03-27T16:07:27.587", "status": "Active"}}
