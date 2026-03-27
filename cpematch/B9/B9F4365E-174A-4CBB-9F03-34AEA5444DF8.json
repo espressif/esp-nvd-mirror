@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B9F4365E-174A-4CBB-9F03-34AEA5444DF8", "criteria": "cpe:2.3:a:pseitz:lz4_flex:*:*:*:*:*:rust:*:*", "versionEndExcluding": "0.11.6", "lastModified": "2026-03-27T18:24:16.833", "cpeLastModified": "2026-03-27T18:24:16.833", "created": "2026-03-27T18:24:16.833", "status": "Active"}}

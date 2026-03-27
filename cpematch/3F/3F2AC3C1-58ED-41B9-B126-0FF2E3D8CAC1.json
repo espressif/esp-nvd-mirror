@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3F2AC3C1-58ED-41B9-B126-0FF2E3D8CAC1", "criteria": "cpe:2.3:a:ruby-lang:json:*:*:*:*:*:ruby:*:*", "versionStartIncluding": "2.14.0", "versionEndExcluding": "2.15.2.1", "lastModified": "2026-03-27T18:57:28.087", "cpeLastModified": "2026-03-27T18:57:28.087", "created": "2026-03-27T18:57:28.087", "status": "Active"}}
