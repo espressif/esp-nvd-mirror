@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D39CC1B5-D6C2-4F77-BBCA-9E84E385B8C4", "criteria": "cpe:2.3:a:role_delegation_project:role_delegation:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "8.x-1.3", "versionEndExcluding": "8.x-1.5", "lastModified": "2026-03-30T14:18:35.450", "created": "2026-03-30T14:18:35.450", "status": "Active"}}
