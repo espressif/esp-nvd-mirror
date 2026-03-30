@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8CABC71B-E563-463E-8D56-8FB5E430C88B", "criteria": "cpe:2.3:a:gematik:authenticator:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.12.0", "versionEndExcluding": "4.16.0", "lastModified": "2026-03-30T20:13:47.073", "created": "2026-03-30T20:13:47.073", "status": "Active"}}
