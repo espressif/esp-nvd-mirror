@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "94F2B4A1-DE4B-4718-A4D2-FBAE0711CC94", "criteria": "cpe:2.3:a:grafana:grafana:*:*:*:*:enterprise:*:*:*", "versionStartIncluding": "11.6.14", "versionEndExcluding": "12.0.0", "lastModified": "2026-03-31T18:25:31.790", "created": "2026-03-31T18:25:31.790", "status": "Active"}}
