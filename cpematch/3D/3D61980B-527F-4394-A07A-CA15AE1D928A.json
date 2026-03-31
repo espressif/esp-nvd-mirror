@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3D61980B-527F-4394-A07A-CA15AE1D928A", "criteria": "cpe:2.3:a:beeware:briefcase:*:*:*:*:*:python:*:*", "versionStartIncluding": "0.3.0", "versionEndExcluding": "0.3.26", "lastModified": "2026-03-31T14:40:11.433", "cpeLastModified": "2026-03-31T14:40:11.433", "created": "2026-03-31T14:40:11.433", "status": "Active"}}

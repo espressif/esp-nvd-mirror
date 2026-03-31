@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C5F46077-E26C-43B8-BFE7-513E17F5252E", "criteria": "cpe:2.3:a:automated_logout_project:automated_logout:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.0.2", "lastModified": "2026-03-31T13:39:43.260", "created": "2026-03-31T13:39:43.260", "status": "Active"}}

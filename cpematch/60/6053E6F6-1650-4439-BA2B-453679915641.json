@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6053E6F6-1650-4439-BA2B-453679915641", "criteria": "cpe:2.3:a:openid_connect_\\/_oauth_client_project:openid_connect_\\/_oauth_client:*:*:*:*:*:drupal:*:*", "versionEndExcluding": "8.x-1.5", "lastModified": "2026-03-31T12:29:54.267", "created": "2026-03-31T12:29:54.267", "status": "Active"}}
