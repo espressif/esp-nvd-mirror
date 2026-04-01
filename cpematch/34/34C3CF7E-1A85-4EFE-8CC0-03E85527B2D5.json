@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "34C3CF7E-1A85-4EFE-8CC0-03E85527B2D5", "criteria": "cpe:2.3:a:vmware:spring_ai:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.0", "versionEndExcluding": "1.1.3", "lastModified": "2026-04-01T13:21:47.287", "created": "2026-04-01T13:21:47.287", "status": "Active"}}
