@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C374ACE5-BF67-47B1-9A68-621CE8855267", "criteria": "cpe:2.3:a:anthropic:claude_sdk_for_python:*:*:*:*:*:python:*:*", "versionStartIncluding": "0.79.0", "versionEndExcluding": "0.81.0", "lastModified": "2026-04-01T18:12:51.500", "cpeLastModified": "2026-04-01T18:12:51.500", "created": "2026-04-01T18:12:51.500", "status": "Active"}}
