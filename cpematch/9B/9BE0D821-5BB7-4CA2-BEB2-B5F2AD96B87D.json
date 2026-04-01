@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9BE0D821-5BB7-4CA2-BEB2-B5F2AD96B87D", "criteria": "cpe:2.3:a:cps-it:mailqueue:*:*:*:*:*:typo3:*:*", "versionStartIncluding": "0.5.0", "versionEndExcluding": "0.5.2", "lastModified": "2026-04-01T18:38:45.963", "created": "2026-04-01T18:38:45.963", "status": "Active"}}
