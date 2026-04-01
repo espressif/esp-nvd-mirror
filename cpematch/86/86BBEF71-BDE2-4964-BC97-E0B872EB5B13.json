@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "86BBEF71-BDE2-4964-BC97-E0B872EB5B13", "criteria": "cpe:2.3:a:microsoft:bcl.memory:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "10.0.4", "lastModified": "2026-04-01T20:22:36.023", "cpeLastModified": "2026-04-01T20:22:36.023", "created": "2026-04-01T20:22:36.023", "status": "Active"}}
