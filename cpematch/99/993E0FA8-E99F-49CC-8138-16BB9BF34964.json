@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "993E0FA8-E99F-49CC-8138-16BB9BF34964", "criteria": "cpe:2.3:a:linuxfoundation:\\@backstage\\/backend_defaults:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "0.12.2", "lastModified": "2026-04-01T16:08:57.877", "cpeLastModified": "2026-04-01T16:08:57.877", "created": "2026-04-01T16:08:57.877", "status": "Active"}}
