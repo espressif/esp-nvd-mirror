@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "89CF59C2-CDC8-4C1A-8FD8-BCAA850355ED", "criteria": "cpe:2.3:a:apache:airflow_providers_databricks:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.10.0", "versionEndExcluding": "1.12.0", "lastModified": "2026-04-02T13:08:45.703", "created": "2026-04-02T13:08:45.703", "status": "Active"}}

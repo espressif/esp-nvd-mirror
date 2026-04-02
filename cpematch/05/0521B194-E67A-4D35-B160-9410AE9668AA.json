@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0521B194-E67A-4D35-B160-9410AE9668AA", "criteria": "cpe:2.3:a:libops:captcha_protect:*:*:*:*:*:traefik:*:*", "versionEndExcluding": "1.12.2", "lastModified": "2026-04-02T13:54:50.437", "cpeLastModified": "2026-04-02T13:54:50.437", "created": "2026-04-02T13:54:50.437", "status": "Active"}}
