@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E557EBDE-5EC3-49C5-AC28-F34726561EC3", "criteria": "cpe:2.3:a:volcengine:openviking:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.2.5", "versionEndExcluding": "0.2.14", "lastModified": "2026-04-02T15:20:41.183", "created": "2026-04-02T15:20:41.183", "status": "Active"}}

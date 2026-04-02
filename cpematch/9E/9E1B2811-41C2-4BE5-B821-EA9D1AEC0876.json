@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9E1B2811-41C2-4BE5-B821-EA9D1AEC0876", "criteria": "cpe:2.3:a:yves:sereal\\:\\:encoder:*:*:*:*:*:perl:*:*", "versionStartIncluding": "4.000", "versionEndIncluding": "4.010", "lastModified": "2026-04-02T15:08:54.917", "cpeLastModified": "2026-04-02T15:08:54.917", "created": "2026-04-02T15:08:54.917", "status": "Active"}}

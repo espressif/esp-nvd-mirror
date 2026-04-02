@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8670D1E4-2A5B-42ED-94C1-F8AFCD308809", "criteria": "cpe:2.3:a:flannel-io:flannel:*:*:*:*:*:kubernetes:*:*", "versionEndExcluding": "0.28.2", "lastModified": "2026-04-02T15:37:06.077", "cpeLastModified": "2026-04-02T15:37:06.077", "created": "2026-04-02T15:37:06.077", "status": "Active"}}
