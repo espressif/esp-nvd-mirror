@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EA06F310-304F-4729-BBD3-8EB69179D32B", "criteria": "cpe:2.3:a:dell:secure_connect_gateway:*:*:*:*:-:*:*:*", "versionStartIncluding": "5.28.00.00", "versionEndExcluding": "5.34.00.00", "lastModified": "2026-04-02T16:26:56.120", "created": "2026-04-02T16:26:56.120", "status": "Active"}}

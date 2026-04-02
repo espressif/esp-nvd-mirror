@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BE3E24F7-D558-4862-8B10-EE0D04D0179A", "criteria": "cpe:2.3:a:eemeli:yaml:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.8.3", "lastModified": "2026-04-02T17:59:59.177", "cpeLastModified": "2026-04-02T17:59:59.177", "created": "2026-04-02T17:59:59.177", "status": "Active"}}

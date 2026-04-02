@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FE60215E-89BD-4D62-ADEA-A174B376D87A", "criteria": "cpe:2.3:a:rotp_project:rotp:*:*:*:*:*:ruby:*:*", "versionStartIncluding": "6.2.1", "versionEndExcluding": "6.3.0", "lastModified": "2026-04-02T17:36:58.883", "cpeLastModified": "2026-04-02T17:36:58.883", "created": "2026-04-02T17:36:58.883", "status": "Active"}}

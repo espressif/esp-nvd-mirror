@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "82D2D10D-92F3-4E73-856F-BCDD0F9B63AA", "criteria": "cpe:2.3:a:juliangruber:brace-expansion:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.0.5", "lastModified": "2026-04-02T17:28:54.153", "created": "2026-04-02T17:28:54.153", "status": "Active"}}

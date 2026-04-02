@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3BBE7B6B-857A-41B0-A38E-7FA77FDB1497", "criteria": "cpe:2.3:a:icalendar_project:icalendar:*:*:*:*:*:ruby:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.12.2", "lastModified": "2026-04-02T16:19:44.933", "cpeLastModified": "2026-04-02T16:19:44.933", "created": "2026-04-02T16:19:44.933", "status": "Active"}}
