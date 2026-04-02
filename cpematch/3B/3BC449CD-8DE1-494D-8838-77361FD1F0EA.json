@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3BC449CD-8DE1-494D-8838-77361FD1F0EA", "criteria": "cpe:2.3:a:mikro-orm:mikroorm:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.0.0", "versionEndExcluding": "7.0.6", "lastModified": "2026-04-02T20:16:46.227", "cpeLastModified": "2026-04-02T20:16:46.227", "created": "2026-04-02T20:16:46.227", "status": "Active"}}
