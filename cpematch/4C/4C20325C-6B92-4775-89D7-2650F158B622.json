@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4C20325C-6B92-4775-89D7-2650F158B622", "criteria": "cpe:2.3:a:lodash:lodash-es:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.17.23", "lastModified": "2026-04-02T18:13:46.290", "created": "2026-04-02T18:13:46.290", "status": "Active"}}
