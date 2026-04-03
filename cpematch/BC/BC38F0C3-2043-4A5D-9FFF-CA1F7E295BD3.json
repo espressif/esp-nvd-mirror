@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BC38F0C3-2043-4A5D-9FFF-CA1F7E295BD3", "criteria": "cpe:2.3:a:mikro-orm:mikroorm:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "7.0.0", "versionEndExcluding": "7.0.6", "lastModified": "2026-04-03T15:12:59.457", "created": "2026-04-03T15:12:59.457", "status": "Active"}}

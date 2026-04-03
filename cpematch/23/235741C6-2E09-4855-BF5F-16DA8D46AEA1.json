@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "235741C6-2E09-4855-BF5F-16DA8D46AEA1", "criteria": "cpe:2.3:a:libp2p:libp2p-gossipsub:*:*:*:*:*:rust:*:*", "versionEndExcluding": "0.49.4", "lastModified": "2026-04-03T14:19:31.420", "created": "2026-04-03T14:19:31.420", "status": "Active"}}
