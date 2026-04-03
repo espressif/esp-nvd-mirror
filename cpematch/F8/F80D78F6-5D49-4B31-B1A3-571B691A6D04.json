@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F80D78F6-5D49-4B31-B1A3-571B691A6D04", "criteria": "cpe:2.3:a:zscaler:client_connector:*:*:*:*:*:windows:*:*", "versionStartIncluding": "4.7", "versionEndExcluding": "4.7.0.141", "lastModified": "2026-04-03T18:42:02.610", "created": "2026-04-03T18:42:02.610", "status": "Active"}}
