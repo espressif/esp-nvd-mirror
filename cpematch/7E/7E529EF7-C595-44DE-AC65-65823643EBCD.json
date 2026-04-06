@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7E529EF7-C595-44DE-AC65-65823643EBCD", "criteria": "cpe:2.3:a:progress:sharefile_storage_zones_controller:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.12.4", "lastModified": "2026-04-06T18:58:03.537", "created": "2026-04-06T18:58:03.537", "status": "Active"}}
