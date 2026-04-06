@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6305B4E1-D30A-46D9-9A79-6DFC56825CBD", "criteria": "cpe:2.3:a:python-poetry:poetry:*:*:*:*:*:python:*:*", "versionStartIncluding": "1.4.0", "versionEndExcluding": "2.3.3", "lastModified": "2026-04-06T15:54:39.207", "cpeLastModified": "2026-04-06T15:54:39.207", "created": "2026-04-06T15:54:39.207", "status": "Active"}}

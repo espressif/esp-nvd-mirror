@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "75B488D6-7590-4EE6-BFC2-1C0930D347E3", "criteria": "cpe:2.3:a:apple:swift-crypto:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.3.1", "lastModified": "2026-04-06T15:16:55.683", "created": "2026-04-06T15:16:55.683", "status": "Active"}}
