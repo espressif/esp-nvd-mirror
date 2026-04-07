@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0924FDEC-AC40-4E2A-A7D6-50D0D9F10F4B", "criteria": "cpe:2.3:a:freedesktop:libinput:*:*:*:*:*:fedora:*:*", "versionStartIncluding": "1.30.4", "versionEndIncluding": "1.31.0", "lastModified": "2026-04-07T17:26:13.783", "created": "2026-04-07T17:26:13.783", "status": "Active"}}
