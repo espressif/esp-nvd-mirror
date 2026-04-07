@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0B88130C-E3C4-4A94-AAB7-4D212EAE2FE5", "criteria": "cpe:2.3:a:open-xchange:dovecot:*:*:*:*:pro:*:*:*", "versionStartIncluding": "2.3.0", "versionEndExcluding": "2.3.22.1", "lastModified": "2026-04-07T13:49:58.600", "cpeLastModified": "2026-04-07T13:49:58.600", "created": "2026-04-07T13:49:58.600", "status": "Active"}}

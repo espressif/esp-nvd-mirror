@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "34207A09-744F-4934-892A-5236C8173C78", "criteria": "cpe:2.3:a:mediawiki:checkuser:*:*:*:*:*:mediawiki:*:*", "versionStartIncluding": "1.43.0", "versionEndExcluding": "1.43.4", "lastModified": "2026-04-07T13:47:47.947", "created": "2026-04-07T13:47:47.947", "status": "Active"}}
