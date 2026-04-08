@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "850E34D6-8319-4094-8DE2-E9DAE3CD7478", "criteria": "cpe:2.3:a:microsoft:symcrypt:*:*:*:*:*:*:*:*", "versionStartIncluding": "103.5.0", "versionEndExcluding": "103.11.0", "lastModified": "2026-04-08T17:20:07.477", "created": "2026-04-08T17:20:07.477", "status": "Active"}}

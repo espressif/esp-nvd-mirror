@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5EAC1BC4-17C0-4CA6-B031-4632A184CD4F", "criteria": "cpe:2.3:a:whisperx:whisperx-fastapi:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.3.1", "versionEndIncluding": "0.5.0", "lastModified": "2026-04-08T17:10:45.653", "created": "2026-04-08T17:10:45.653", "status": "Active"}}
