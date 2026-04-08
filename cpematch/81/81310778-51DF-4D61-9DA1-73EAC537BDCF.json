@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "81310778-51DF-4D61-9DA1-73EAC537BDCF", "criteria": "cpe:2.3:a:kubeai:kubeai:*:*:*:*:*:kubernetes:*:*", "versionEndExcluding": "0.23.2", "lastModified": "2026-04-08T15:15:23.553", "cpeLastModified": "2026-04-08T15:15:23.553", "created": "2026-04-08T15:15:23.553", "status": "Active"}}

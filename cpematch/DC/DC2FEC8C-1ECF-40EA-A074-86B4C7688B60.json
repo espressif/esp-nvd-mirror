@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DC2FEC8C-1ECF-40EA-A074-86B4C7688B60", "criteria": "cpe:2.3:a:go-jose_project:go-jose:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.1.4", "lastModified": "2026-04-08T14:46:25.200", "cpeLastModified": "2026-04-08T14:46:25.200", "created": "2026-04-08T14:46:25.200", "status": "Active"}}
