@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2CF8A08B-0520-4B4C-A03D-D17A62E7E98D", "criteria": "cpe:2.3:a:erlang:erlang\\/inets:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0", "versionEndExcluding": "9.1.0.6", "lastModified": "2026-04-08T19:06:34.453", "created": "2026-04-08T19:06:34.453", "status": "Active"}}

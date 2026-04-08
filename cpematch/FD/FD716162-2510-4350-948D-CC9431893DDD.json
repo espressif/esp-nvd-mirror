@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FD716162-2510-4350-948D-CC9431893DDD", "criteria": "cpe:2.3:a:erlang:erlang\\/public_key:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.16", "versionEndIncluding": "1.17.1.1", "lastModified": "2026-04-08T18:44:31.507", "created": "2026-04-08T18:44:31.507", "status": "Active"}}
