@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1623B4ED-853E-4562-AD04-804AAF87D937", "criteria": "cpe:2.3:a:apache:activemq_broker:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.2.3", "lastModified": "2026-04-08T13:58:55.107", "created": "2026-04-08T13:58:55.107", "status": "Active"}}
