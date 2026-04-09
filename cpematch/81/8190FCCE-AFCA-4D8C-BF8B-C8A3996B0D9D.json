@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8190FCCE-AFCA-4D8C-BF8B-C8A3996B0D9D", "criteria": "cpe:2.3:a:electronjs:electron:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "40.0.0", "versionEndIncluding": "40.8.4", "lastModified": "2026-04-09T13:30:11.803", "cpeLastModified": "2026-04-09T13:30:11.803", "created": "2026-04-09T13:30:11.803", "status": "Active"}}
