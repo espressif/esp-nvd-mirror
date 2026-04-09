@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CD81C8DA-2E94-4EF0-AA53-E33BD76AAE26", "criteria": "cpe:2.3:a:containers:aardvark-dns:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.16.0", "versionEndExcluding": "1.17.1", "lastModified": "2026-04-09T17:20:06.250", "created": "2026-04-09T17:20:06.250", "status": "Active"}}

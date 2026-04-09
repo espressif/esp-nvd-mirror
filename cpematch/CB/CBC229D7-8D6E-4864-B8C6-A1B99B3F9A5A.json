@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CBC229D7-8D6E-4864-B8C6-A1B99B3F9A5A", "criteria": "cpe:2.3:a:rack:rack-session:*:*:*:*:*:ruby:*:*", "versionStartIncluding": "2.0.0", "versionEndIncluding": "2.1.1", "lastModified": "2026-04-09T17:57:50.470", "created": "2026-04-09T17:57:50.470", "status": "Active"}}
