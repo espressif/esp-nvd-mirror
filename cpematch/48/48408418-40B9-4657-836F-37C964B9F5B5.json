@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "48408418-40B9-4657-836F-37C964B9F5B5", "criteria": "cpe:2.3:a:nixos:nix:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.29.0", "versionEndExcluding": "2.29.3", "lastModified": "2026-04-09T14:42:00.877", "cpeLastModified": "2026-04-09T14:42:00.877", "created": "2026-04-09T14:42:00.877", "status": "Active"}}
