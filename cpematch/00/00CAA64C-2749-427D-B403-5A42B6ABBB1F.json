@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "00CAA64C-2749-427D-B403-5A42B6ABBB1F", "criteria": "cpe:2.3:a:elastic:logstash:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.0", "versionEndExcluding": "9.2.8", "lastModified": "2026-04-10T03:02:25.747", "cpeLastModified": "2026-04-10T03:02:25.747", "created": "2026-04-10T03:02:25.747", "status": "Active"}}
