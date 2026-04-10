@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A18A7EB7-D0E7-4269-BDCC-38AE227738BB", "criteria": "cpe:2.3:a:docker:model_runner:*:*:*:*:*:docker:*:*", "versionEndExcluding": "1.1.25", "lastModified": "2026-04-10T16:25:02.840", "cpeLastModified": "2026-04-10T16:25:02.840", "created": "2026-04-10T16:25:02.840", "status": "Active"}}
