@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "27C90FDD-EF05-4AF2-BDE6-4E47481562E2", "criteria": "cpe:2.3:a:miguelgrinberg:flask-httpauth:*:*:*:*:*:python:*:*", "versionEndExcluding": "4.8.1", "lastModified": "2026-04-10T16:12:35.490", "cpeLastModified": "2026-04-10T16:12:35.490", "created": "2026-04-10T16:12:35.490", "status": "Active"}}
