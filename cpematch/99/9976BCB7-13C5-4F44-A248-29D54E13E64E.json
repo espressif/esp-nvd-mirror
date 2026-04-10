@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9976BCB7-13C5-4F44-A248-29D54E13E64E", "criteria": "cpe:2.3:a:tokuhirom:amon2\\:\\:plugin\\:\\:web\\:\\:csrfdefender:*:*:*:*:*:perl:*:*", "versionStartIncluding": "7.00", "versionEndIncluding": "7.03", "lastModified": "2026-04-10T00:58:53.780", "created": "2026-04-10T00:58:53.780", "status": "Active"}}
