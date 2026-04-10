@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "725A3E2E-B367-4AE8-AD96-B93A99C035F8", "criteria": "cpe:2.3:a:astral:astral-tokio-tar:*:*:*:*:*:rust:*:*", "versionEndExcluding": "0.6.0", "lastModified": "2026-04-10T19:21:16.727", "cpeLastModified": "2026-04-10T19:21:16.727", "created": "2026-04-10T19:21:16.727", "status": "Active"}}
