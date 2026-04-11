@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "2C43C0DB-AC5A-42A5-8C75-261BB11F13EC", "criteria": "cpe:2.3:o:cisco:firepower_4100_firmware:9.12.1.2:*:*:*:*:*:*:*", "lastModified": "2026-04-10T17:09:12.983", "created": "2026-04-10T17:09:12.983", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "2C43C0DB-AC5A-42A5-8C75-261BB11F13EC", "criteria": "cpe:2.3:o:cisco:firepower_4100_firmware:9.12.1.2:*:*:*:*:*:*:*", "lastModified": "2026-04-11T02:00:00.177", "created": "2026-04-10T17:09:12.983", "status": "Inactive"}}

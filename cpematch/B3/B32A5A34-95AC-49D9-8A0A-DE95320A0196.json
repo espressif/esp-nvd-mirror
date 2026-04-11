@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B32A5A34-95AC-49D9-8A0A-DE95320A0196", "criteria": "cpe:2.3:o:cisco:firepower_2100_firmware:9.19.1.28:*:*:*:*:*:*:*", "lastModified": "2026-04-10T16:10:46.577", "created": "2026-04-10T16:10:46.577", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B32A5A34-95AC-49D9-8A0A-DE95320A0196", "criteria": "cpe:2.3:o:cisco:firepower_2100_firmware:9.19.1.28:*:*:*:*:*:*:*", "lastModified": "2026-04-11T02:00:00.177", "created": "2026-04-10T16:10:46.577", "status": "Inactive"}}

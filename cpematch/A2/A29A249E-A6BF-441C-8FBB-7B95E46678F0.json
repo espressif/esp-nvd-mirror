@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "A29A249E-A6BF-441C-8FBB-7B95E46678F0", "criteria": "cpe:2.3:o:cisco:firepower_4100_firmware:7.2.7:*:*:*:*:*:*:*", "lastModified": "2026-04-10T17:09:12.983", "created": "2026-04-10T17:09:12.983", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "A29A249E-A6BF-441C-8FBB-7B95E46678F0", "criteria": "cpe:2.3:o:cisco:firepower_4100_firmware:7.2.7:*:*:*:*:*:*:*", "lastModified": "2026-04-11T02:00:00.177", "created": "2026-04-10T17:09:12.983", "status": "Inactive"}}

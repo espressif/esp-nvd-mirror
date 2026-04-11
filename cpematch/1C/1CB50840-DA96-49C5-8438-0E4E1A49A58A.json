@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "1CB50840-DA96-49C5-8438-0E4E1A49A58A", "criteria": "cpe:2.3:o:cisco:industrial_security_appliances_3000_firmware:9.18.2.7:*:*:*:*:*:*:*", "lastModified": "2026-04-10T16:00:54.337", "created": "2026-04-10T16:00:54.337", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "1CB50840-DA96-49C5-8438-0E4E1A49A58A", "criteria": "cpe:2.3:o:cisco:industrial_security_appliances_3000_firmware:9.18.2.7:*:*:*:*:*:*:*", "lastModified": "2026-04-11T02:00:00.177", "created": "2026-04-10T16:00:54.337", "status": "Inactive"}}

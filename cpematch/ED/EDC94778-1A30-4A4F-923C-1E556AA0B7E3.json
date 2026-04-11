@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "EDC94778-1A30-4A4F-923C-1E556AA0B7E3", "criteria": "cpe:2.3:o:cisco:secure_firewall_4200_firmware:9.22.1.2:*:*:*:*:*:*:*", "lastModified": "2026-04-10T17:21:53.410", "created": "2026-04-10T17:21:53.410", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "EDC94778-1A30-4A4F-923C-1E556AA0B7E3", "criteria": "cpe:2.3:o:cisco:secure_firewall_4200_firmware:9.22.1.2:*:*:*:*:*:*:*", "lastModified": "2026-04-11T02:00:00.177", "created": "2026-04-10T17:21:53.410", "status": "Inactive"}}

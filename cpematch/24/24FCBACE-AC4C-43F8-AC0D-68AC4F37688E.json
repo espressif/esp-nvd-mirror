@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "24FCBACE-AC4C-43F8-AC0D-68AC4F37688E", "criteria": "cpe:2.3:o:cisco:firepower_1000_firmware:7.2.9:*:*:*:*:*:*:*", "lastModified": "2026-04-10T16:10:46.577", "created": "2026-04-10T16:10:46.577", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "24FCBACE-AC4C-43F8-AC0D-68AC4F37688E", "criteria": "cpe:2.3:o:cisco:firepower_1000_firmware:7.2.9:*:*:*:*:*:*:*", "lastModified": "2026-04-11T02:00:00.177", "created": "2026-04-10T16:10:46.577", "status": "Inactive"}}

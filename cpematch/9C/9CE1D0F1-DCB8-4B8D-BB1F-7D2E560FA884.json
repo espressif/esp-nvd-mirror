@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "9CE1D0F1-DCB8-4B8D-BB1F-7D2E560FA884", "criteria": "cpe:2.3:o:cisco:secure_firewall_4200_firmware:7.4.2.4:*:*:*:*:*:*:*", "lastModified": "2026-04-10T17:21:53.410", "created": "2026-04-10T17:21:53.410", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "9CE1D0F1-DCB8-4B8D-BB1F-7D2E560FA884", "criteria": "cpe:2.3:o:cisco:secure_firewall_4200_firmware:7.4.2.4:*:*:*:*:*:*:*", "lastModified": "2026-04-11T02:00:00.177", "created": "2026-04-10T17:21:53.410", "status": "Inactive"}}

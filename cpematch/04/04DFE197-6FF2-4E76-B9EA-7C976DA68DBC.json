@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "04DFE197-6FF2-4E76-B9EA-7C976DA68DBC", "criteria": "cpe:2.3:o:cisco:asa_5500-x_firmware:6.4.0.9:*:*:*:*:*:*:*", "lastModified": "2026-04-10T16:00:54.337", "created": "2026-04-10T16:00:54.337", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "04DFE197-6FF2-4E76-B9EA-7C976DA68DBC", "criteria": "cpe:2.3:o:cisco:asa_5500-x_firmware:6.4.0.9:*:*:*:*:*:*:*", "lastModified": "2026-04-11T02:00:00.177", "created": "2026-04-10T16:00:54.337", "status": "Inactive"}}

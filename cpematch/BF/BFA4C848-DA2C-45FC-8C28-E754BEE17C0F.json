@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "BFA4C848-DA2C-45FC-8C28-E754BEE17C0F", "criteria": "cpe:2.3:o:cisco:secure_firewall_4200_firmware:9.17.1.39:*:*:*:*:*:*:*", "lastModified": "2026-04-10T17:21:53.410", "created": "2026-04-10T17:21:53.410", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "BFA4C848-DA2C-45FC-8C28-E754BEE17C0F", "criteria": "cpe:2.3:o:cisco:secure_firewall_4200_firmware:9.17.1.39:*:*:*:*:*:*:*", "lastModified": "2026-04-11T02:00:00.177", "created": "2026-04-10T17:21:53.410", "status": "Inactive"}}

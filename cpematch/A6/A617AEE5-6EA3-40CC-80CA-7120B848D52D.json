@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "A617AEE5-6EA3-40CC-80CA-7120B848D52D", "criteria": "cpe:2.3:o:cisco:firepower_4100_firmware:6.4.0.10:*:*:*:*:*:*:*", "lastModified": "2026-04-10T17:09:12.983", "created": "2026-04-10T17:09:12.983", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "A617AEE5-6EA3-40CC-80CA-7120B848D52D", "criteria": "cpe:2.3:o:cisco:firepower_4100_firmware:6.4.0.10:*:*:*:*:*:*:*", "lastModified": "2026-04-11T02:00:00.177", "created": "2026-04-10T17:09:12.983", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "BAC11F85-70E0-413E-B50C-8BA397E0178A", "criteria": "cpe:2.3:o:cisco:secure_firewall_3100_firmware:9.16.4.76:*:*:*:*:*:*:*", "lastModified": "2026-04-10T17:19:58.570", "created": "2026-04-10T17:19:58.570", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "BAC11F85-70E0-413E-B50C-8BA397E0178A", "criteria": "cpe:2.3:o:cisco:secure_firewall_3100_firmware:9.16.4.76:*:*:*:*:*:*:*", "lastModified": "2026-04-11T02:00:00.177", "created": "2026-04-10T17:19:58.570", "status": "Inactive"}}

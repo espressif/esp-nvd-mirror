@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E7884B06-AA76-433C-91FE-2DC682622489", "criteria": "cpe:2.3:o:cisco:secure_firewall_3100_firmware:9.22.1.1:*:*:*:*:*:*:*", "lastModified": "2026-04-10T17:19:58.570", "created": "2026-04-10T17:19:58.570", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E7884B06-AA76-433C-91FE-2DC682622489", "criteria": "cpe:2.3:o:cisco:secure_firewall_3100_firmware:9.22.1.1:*:*:*:*:*:*:*", "lastModified": "2026-04-11T02:00:00.177", "created": "2026-04-10T17:19:58.570", "status": "Inactive"}}

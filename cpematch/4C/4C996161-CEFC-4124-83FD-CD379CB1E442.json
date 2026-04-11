@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "4C996161-CEFC-4124-83FD-CD379CB1E442", "criteria": "cpe:2.3:o:cisco:firepower_1000_firmware:9.17.1.11:*:*:*:*:*:*:*", "lastModified": "2026-04-10T16:10:46.577", "created": "2026-04-10T16:10:46.577", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "4C996161-CEFC-4124-83FD-CD379CB1E442", "criteria": "cpe:2.3:o:cisco:firepower_1000_firmware:9.17.1.11:*:*:*:*:*:*:*", "lastModified": "2026-04-11T02:00:00.177", "created": "2026-04-10T16:10:46.577", "status": "Inactive"}}

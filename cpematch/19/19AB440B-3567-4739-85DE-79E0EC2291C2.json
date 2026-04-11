@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "19AB440B-3567-4739-85DE-79E0EC2291C2", "criteria": "cpe:2.3:o:cisco:firepower_9300_firmware:6.4.0:*:*:*:*:*:*:*", "lastModified": "2026-04-10T17:10:22.413", "created": "2026-04-10T17:10:22.413", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "19AB440B-3567-4739-85DE-79E0EC2291C2", "criteria": "cpe:2.3:o:cisco:firepower_9300_firmware:6.4.0:*:*:*:*:*:*:*", "lastModified": "2026-04-11T02:00:00.177", "created": "2026-04-10T17:10:22.413", "status": "Inactive"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "1918ABDA-E692-4BD4-9A0E-224AC87FF40C", "criteria": "cpe:2.3:o:cisco:secure_firewall_4200_firmware:6.4.0.16:*:*:*:*:*:*:*", "lastModified": "2026-04-10T17:21:53.410", "created": "2026-04-10T17:21:53.410", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "1918ABDA-E692-4BD4-9A0E-224AC87FF40C", "criteria": "cpe:2.3:o:cisco:secure_firewall_4200_firmware:6.4.0.16:*:*:*:*:*:*:*", "lastModified": "2026-04-11T02:00:00.177", "created": "2026-04-10T17:21:53.410", "status": "Inactive"}}
