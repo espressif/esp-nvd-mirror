@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "60818EB5-7DE4-47E5-A1B5-62EDDE6B7A86", "criteria": "cpe:2.3:a:openstack:glance:*:*:*:*:*:*:*:*", "versionStartIncluding": "30.0.0", "versionEndExcluding": "30.1.1", "lastModified": "2026-04-13T14:49:36.203", "cpeLastModified": "2026-04-13T14:49:36.203", "created": "2026-04-13T14:49:36.203", "status": "Active"}}

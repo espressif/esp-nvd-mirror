@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CB8C7729-F7F9-4179-B66D-4E76EFE4115D", "criteria": "cpe:2.3:a:lfprojects:mlflow:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.8.0", "versionEndIncluding": "3.8.1", "lastModified": "2026-04-13T14:49:42.970", "cpeLastModified": "2026-04-13T14:49:42.970", "created": "2026-04-13T14:49:42.970", "status": "Active"}}
