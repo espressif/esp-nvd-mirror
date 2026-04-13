@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7EAF0355-096E-4A40-8520-8FA8EBEF230B", "criteria": "cpe:2.3:a:capricorn86:happy_dom:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "15.10.0", "versionEndExcluding": "20.8.8", "lastModified": "2026-04-13T17:24:36.850", "created": "2026-04-13T17:24:36.850", "status": "Active"}}

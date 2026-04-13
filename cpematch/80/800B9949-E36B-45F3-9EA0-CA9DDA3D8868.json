@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "800B9949-E36B-45F3-9EA0-CA9DDA3D8868", "criteria": "cpe:2.3:a:helm:helm:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.1.4", "lastModified": "2026-04-13T18:20:04.390", "cpeLastModified": "2026-04-13T18:20:04.390", "created": "2026-04-13T18:20:04.390", "status": "Active"}}
