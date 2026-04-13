@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0E23134A-F7C0-40FB-AB4C-5B056C011E0B", "criteria": "cpe:2.3:a:nearform:fast-jwt:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "6.2.1", "lastModified": "2026-04-13T18:28:43.003", "cpeLastModified": "2026-04-13T18:28:43.003", "created": "2026-04-13T18:28:43.003", "status": "Active"}}
