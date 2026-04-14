@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "A086C9D3-5DB3-482A-9CCA-3857967A9629", "criteria": "cpe:2.3:o:qnap:qurouter:2.6.3.009:build_20251117:*:*:*:*:*:*", "lastModified": "2026-04-13T15:39:53.137", "created": "2026-04-13T15:39:53.137", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "A086C9D3-5DB3-482A-9CCA-3857967A9629", "criteria": "cpe:2.3:o:qnap:qurouter:2.6.3.009:build_20251117:*:*:*:*:*:*", "lastModified": "2026-04-14T02:00:00.100", "created": "2026-04-13T15:39:53.137", "status": "Inactive"}}
