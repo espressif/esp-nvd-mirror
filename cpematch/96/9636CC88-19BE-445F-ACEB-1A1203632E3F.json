@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9636CC88-19BE-445F-ACEB-1A1203632E3F", "criteria": "cpe:2.3:a:saltcorn:saltcorn:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "1.5.0", "versionEndExcluding": "1.5.5", "lastModified": "2026-04-16T14:28:58.377", "cpeLastModified": "2026-04-16T14:28:58.377", "created": "2026-04-16T14:28:58.377", "status": "Active"}}
