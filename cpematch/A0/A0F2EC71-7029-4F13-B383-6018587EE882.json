@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A0F2EC71-7029-4F13-B383-6018587EE882", "criteria": "cpe:2.3:a:immutable-js:immutable:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.3.7", "lastModified": "2026-04-16T17:18:50.340", "cpeLastModified": "2026-04-16T17:18:50.340", "created": "2026-04-16T17:18:50.340", "status": "Active"}}
