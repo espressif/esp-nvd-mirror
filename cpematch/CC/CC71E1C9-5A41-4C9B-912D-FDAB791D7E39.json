@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CC71E1C9-5A41-4C9B-912D-FDAB791D7E39", "criteria": "cpe:2.3:a:bmc:control-m\\/managed_file_transfer:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.20.000", "versionEndExcluding": "9.0.22.025", "lastModified": "2026-04-16T19:27:57.990", "cpeLastModified": "2026-04-16T19:23:05.790", "created": "2026-04-16T19:23:05.790", "status": "Inactive"}}
