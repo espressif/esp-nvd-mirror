@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DB421812-F7E3-4CC5-B02B-53CCBFDFB671", "criteria": "cpe:2.3:a:pillarjs:path-to-regexp:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.4.0", "lastModified": "2026-04-16T15:10:35.557", "cpeLastModified": "2026-04-16T15:10:35.557", "created": "2026-04-16T15:10:35.557", "status": "Active"}}

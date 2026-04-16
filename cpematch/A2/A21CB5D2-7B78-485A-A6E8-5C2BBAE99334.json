@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A21CB5D2-7B78-485A-A6E8-5C2BBAE99334", "criteria": "cpe:2.3:a:perl:perl:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.43.0", "versionEndExcluding": "5.43.9", "lastModified": "2026-04-16T14:48:59.163", "cpeLastModified": "2026-04-16T14:48:59.163", "created": "2026-04-16T14:48:59.163", "status": "Active"}}
