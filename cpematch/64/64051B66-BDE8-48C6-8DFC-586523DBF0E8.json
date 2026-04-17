@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "64051B66-BDE8-48C6-8DFC-586523DBF0E8", "criteria": "cpe:2.3:a:grafana:pyroscope:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.16.0", "versionEndExcluding": "1.16.1", "lastModified": "2026-04-17T16:44:06.907", "cpeLastModified": "2026-04-17T16:44:06.907", "created": "2026-04-17T16:44:06.907", "status": "Active"}}

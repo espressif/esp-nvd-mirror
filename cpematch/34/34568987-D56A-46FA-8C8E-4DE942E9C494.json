@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "34568987-D56A-46FA-8C8E-4DE942E9C494", "criteria": "cpe:2.3:a:authzed:spicedb:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.49.0", "versionEndExcluding": "1.51.1", "lastModified": "2026-04-17T17:16:04.153", "cpeLastModified": "2026-04-17T17:16:04.153", "created": "2026-04-17T17:16:04.153", "status": "Active"}}
