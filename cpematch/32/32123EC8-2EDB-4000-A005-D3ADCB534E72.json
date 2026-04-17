@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "32123EC8-2EDB-4000-A005-D3ADCB534E72", "criteria": "cpe:2.3:a:openjsf:\\@fastify\\/static:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "8.0.0", "versionEndIncluding": "9.1.0", "lastModified": "2026-04-17T21:03:57.423", "created": "2026-04-17T20:59:07.287", "status": "Inactive"}}
