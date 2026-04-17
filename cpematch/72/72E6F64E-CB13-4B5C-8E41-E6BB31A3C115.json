@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "72E6F64E-CB13-4B5C-8E41-E6BB31A3C115", "criteria": "cpe:2.3:a:prometheus:prometheus:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.5.2", "lastModified": "2026-04-17T16:09:37.863", "cpeLastModified": "2026-04-17T16:09:37.863", "created": "2026-04-17T16:09:37.863", "status": "Active"}}

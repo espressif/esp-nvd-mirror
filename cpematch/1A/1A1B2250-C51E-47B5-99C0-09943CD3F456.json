@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1A1B2250-C51E-47B5-99C0-09943CD3F456", "criteria": "cpe:2.3:a:rapid7:velociraptor:*:*:*:*:*:*:*:*", "versionStartExcluding": "0.75.7", "versionEndExcluding": "0.76.3", "lastModified": "2026-04-17T14:46:06.707", "created": "2026-04-17T14:46:06.707", "status": "Active"}}
