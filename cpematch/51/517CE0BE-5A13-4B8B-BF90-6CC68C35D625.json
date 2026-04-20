@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "517CE0BE-5A13-4B8B-BF90-6CC68C35D625", "criteria": "cpe:2.3:a:anthropic:claude_sdk_for_typescript:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.79.0", "versionEndExcluding": "0.81.0", "lastModified": "2026-04-20T14:43:44.280", "created": "2026-04-20T14:43:44.280", "status": "Active"}}
