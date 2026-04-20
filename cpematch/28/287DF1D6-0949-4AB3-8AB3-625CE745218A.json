@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "287DF1D6-0949-4AB3-8AB3-625CE745218A", "criteria": "cpe:2.3:a:microsoft:outlook:-:*:*:*:*:macos:*:*", "lastModified": "2025-08-22T15:18:31.663", "cpeLastModified": "2025-08-22T15:18:12.423", "created": "2025-08-22T15:18:12.423", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "287DF1D6-0949-4AB3-8AB3-625CE745218A", "criteria": "cpe:2.3:a:microsoft:outlook:-:*:*:*:*:macos:*:*", "lastModified": "2026-04-20T12:37:27.160", "cpeLastModified": "2025-08-22T15:18:12.423", "created": "2025-08-22T15:18:12.423", "status": "Active"}}

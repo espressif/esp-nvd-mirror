@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "26714F97-BF32-4107-BA07-3AEB3598BFF1", "criteria": "cpe:2.3:a:n8n:n8n:2.14.0:*:*:*:community:node.js:*:*", "lastModified": "2026-03-31T02:00:00.190", "created": "2026-03-30T14:45:43.010", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "26714F97-BF32-4107-BA07-3AEB3598BFF1", "criteria": "cpe:2.3:a:n8n:n8n:2.14.0:*:*:*:community:node.js:*:*", "lastModified": "2026-04-20T12:37:27.160", "created": "2026-03-30T14:45:43.010", "status": "Active"}}
