@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D16D1A54-CBEF-4519-894B-921C296B4B3A", "criteria": "cpe:2.3:a:adonisjs:server:*:*:*:*:*:node.js:*:*", "versionStartExcluding": "8.0.0", "versionEndIncluding": "8.1.3", "lastModified": "2026-04-20T17:43:18.800", "created": "2026-04-20T17:43:18.800", "status": "Active"}}

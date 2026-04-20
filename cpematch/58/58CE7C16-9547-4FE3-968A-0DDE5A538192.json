@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "58CE7C16-9547-4FE3-968A-0DDE5A538192", "criteria": "cpe:2.3:a:adonisjs:core:*:*:*:*:*:node.js:*:*", "lastModified": "2026-04-20T14:11:04.117", "created": "2026-04-20T14:11:04.117", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "58CE7C16-9547-4FE3-968A-0DDE5A538192", "criteria": "cpe:2.3:a:adonisjs:core:*:*:*:*:*:node.js:*:*", "lastModified": "2026-04-20T17:43:18.800", "created": "2026-04-20T14:11:04.117", "status": "Inactive"}}
