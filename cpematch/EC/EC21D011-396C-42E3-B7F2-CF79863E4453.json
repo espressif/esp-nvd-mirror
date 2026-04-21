@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EC21D011-396C-42E3-B7F2-CF79863E4453", "criteria": "cpe:2.3:a:redhat:openshift_ai:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.16", "versionEndExcluding": "2.16.4", "lastModified": "2026-04-21T19:50:46.530", "cpeLastModified": "2026-04-21T19:50:46.530", "created": "2026-04-21T19:50:46.530", "status": "Active"}}
