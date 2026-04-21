@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DD7D6EB1-0E97-43AE-9412-FA558F8FFA6B", "criteria": "cpe:2.3:a:fedify:fedify\\/fedify:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.0.8", "lastModified": "2026-04-21T15:48:53.417", "created": "2026-04-21T15:48:53.417", "status": "Active"}}

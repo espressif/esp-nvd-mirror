@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D941E7FD-DC6C-413B-B08C-A4CE18C2D7F9", "criteria": "cpe:2.3:h:mitsubishielectric:melsec_iq-f_fx5-eip:-:*:*:*:*:*:*:*", "lastModified": "2026-03-05T15:16:17.473", "created": "2026-03-05T15:10:26.537", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "D941E7FD-DC6C-413B-B08C-A4CE18C2D7F9", "criteria": "cpe:2.3:h:mitsubishielectric:melsec_iq-f_fx5-eip:-:*:*:*:*:*:*:*", "lastModified": "2026-04-21T15:16:24.860", "cpeLastModified": "2026-04-21T15:16:24.860", "created": "2026-03-05T15:10:26.537", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B6CC76BF-8504-4630-832A-F5EA09191546", "criteria": "cpe:2.3:a:fedify:fedify\\/vocab-runtime:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "2.1.0", "versionEndExcluding": "2.1.1", "lastModified": "2026-04-21T15:48:53.417", "created": "2026-04-21T15:48:53.417", "status": "Active"}}

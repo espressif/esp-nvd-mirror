@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ACFA1F77-59B0-4865-9AF2-CC30F107165F", "criteria": "cpe:2.3:a:fedify:vocab-runtime:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.1.0", "versionEndExcluding": "2.1.1", "lastModified": "2026-04-21T15:48:53.417", "cpeLastModified": "2026-04-21T15:03:12.810", "created": "2026-04-21T15:03:12.810", "status": "Inactive"}}
