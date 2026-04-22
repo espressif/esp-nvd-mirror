@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "667562C0-156D-4D2B-A446-67A2EBFB4CEF", "criteria": "cpe:2.3:a:linuxfoundation:spinnaker:*:*:*:*:*:*:*:*", "versionStartIncluding": "2026.0.0", "versionEndExcluding": "2026.0.1", "lastModified": "2026-04-22T19:35:58.180", "cpeLastModified": "2026-04-22T19:35:58.180", "created": "2026-04-22T19:35:58.180", "status": "Active"}}
