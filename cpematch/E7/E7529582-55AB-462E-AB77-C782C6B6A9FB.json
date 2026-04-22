@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E7529582-55AB-462E-AB77-C782C6B6A9FB", "criteria": "cpe:2.3:a:nasm:netwide_assembler:2.17:rc0:*:*:*:*:*:*", "lastModified": "2026-04-22T15:57:35.080", "created": "2025-09-12T21:19:04.127", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:nasm:netwide_assembler:2.17:rc0:*:*:*:*:*:*", "cpeNameId": "D044A777-5035-43AC-9495-503692ACD4B1"}]}}
