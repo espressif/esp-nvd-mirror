@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9E442141-1965-481A-BE82-B6DC11B58EAC", "criteria": "cpe:2.3:a:projectdiscovery:nuclei:*:*:*:*:*:go:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.8.0", "lastModified": "2026-04-23T15:25:02.000", "cpeLastModified": "2026-04-23T15:25:02.000", "created": "2026-04-23T15:25:02.000", "status": "Active"}}
