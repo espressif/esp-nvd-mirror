@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "634CB7F0-563B-42FC-BCF4-3F222AA63921", "criteria": "cpe:2.3:a:sgbett:bsv_ruby_sdk:*:*:*:*:*:ruby:*:*", "versionStartIncluding": "0.3.1", "versionEndExcluding": "0.8.2", "lastModified": "2026-04-23T13:40:35.540", "cpeLastModified": "2026-04-23T13:40:35.540", "created": "2026-04-23T13:40:35.540", "status": "Active"}}
