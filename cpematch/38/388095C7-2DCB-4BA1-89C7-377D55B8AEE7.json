@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "388095C7-2DCB-4BA1-89C7-377D55B8AEE7", "criteria": "cpe:2.3:a:fastify:fastify-static:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "9.1.1", "lastModified": "2026-04-23T19:31:37.827", "cpeLastModified": "2026-04-23T19:31:37.827", "created": "2026-04-23T19:31:37.827", "status": "Active"}}
