@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FD34268F-5D62-4ACF-9E83-22DA39B5B7F3", "criteria": "cpe:2.3:a:opentelemetry:opentelemetry.extensions.propagators:*:*:*:*:*:*:*:*", "versionStartExcluding": "1.3.0", "versionEndExcluding": "1.15.3", "lastModified": "2026-04-24T17:29:39.963", "cpeLastModified": "2026-04-24T17:29:39.963", "created": "2026-04-24T17:29:39.963", "status": "Active"}}
