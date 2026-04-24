@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2365DBBD-6F10-4651-8DA4-08AE79E14423", "criteria": "cpe:2.3:a:uutils:coreutils:*:*:*:*:*:rust:*:*", "versionEndExcluding": "0.8.0", "lastModified": "2026-04-24T18:58:44.253", "cpeLastModified": "2026-04-24T18:58:44.253", "created": "2026-04-24T18:58:44.253", "status": "Active"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "CF901792-1BD3-4E40-A483-36271F6B86D0", "criteria": "cpe:2.3:a:uutils:coreutils:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.6.0", "lastModified": "2026-04-23T14:20:13.083", "created": "2026-04-23T14:20:13.083", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "CF901792-1BD3-4E40-A483-36271F6B86D0", "criteria": "cpe:2.3:a:uutils:coreutils:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.6.0", "lastModified": "2026-04-24T19:57:37.537", "cpeLastModified": "2026-04-24T19:57:37.537", "created": "2026-04-23T14:20:13.083", "status": "Active"}}
