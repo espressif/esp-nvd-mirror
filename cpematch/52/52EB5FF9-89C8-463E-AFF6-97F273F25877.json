@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "52EB5FF9-89C8-463E-AFF6-97F273F25877", "criteria": "cpe:2.3:a:ultradag:ultradag:0.1.0:*:*:*:*:*:*:*", "lastModified": "2026-04-27T15:23:01.350", "created": "2026-04-27T15:22:31.770", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:ultradag:ultradag:0.1.0:*:*:*:*:*:*:*", "cpeNameId": "A1F6AF00-96AD-4589-BCC3-AFE9B8CA34D1"}]}}
