@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D47D4091-14A2-4E49-9FFD-3F6C5017A9AC", "criteria": "cpe:2.3:a:gnupg:libgcrypt:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.11.0", "versionEndExcluding": "1.11.3", "lastModified": "2026-04-27T18:33:14.040", "created": "2026-04-27T18:33:14.040", "status": "Active"}}

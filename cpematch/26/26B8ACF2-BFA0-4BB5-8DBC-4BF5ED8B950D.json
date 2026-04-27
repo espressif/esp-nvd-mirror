@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "26B8ACF2-BFA0-4BB5-8DBC-4BF5ED8B950D", "criteria": "cpe:2.3:a:angular:angular-cli:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.0.0", "versionEndExcluding": "21.2.3", "lastModified": "2026-04-27T18:32:26.083", "cpeLastModified": "2026-04-27T18:32:26.083", "created": "2026-04-27T18:32:26.083", "status": "Active"}}
