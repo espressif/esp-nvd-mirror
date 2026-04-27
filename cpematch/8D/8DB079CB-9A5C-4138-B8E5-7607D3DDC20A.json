@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8DB079CB-9A5C-4138-B8E5-7607D3DDC20A", "criteria": "cpe:2.3:a:mathjs:mathjs:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "13.1.1", "versionEndExcluding": "15.2.0", "lastModified": "2026-04-27T14:23:41.350", "cpeLastModified": "2026-04-27T14:23:41.350", "created": "2026-04-27T14:23:41.350", "status": "Active"}}
