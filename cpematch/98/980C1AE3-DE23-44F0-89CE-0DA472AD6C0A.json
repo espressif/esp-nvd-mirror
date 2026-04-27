@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "980C1AE3-DE23-44F0-89CE-0DA472AD6C0A", "criteria": "cpe:2.3:a:libgcrypt20_project:libgcrypt20:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.12.0", "versionEndExcluding": "1.12.2", "lastModified": "2026-04-27T07:54:46.347", "cpeLastModified": "2026-04-27T07:54:46.347", "created": "2026-04-27T07:54:46.347", "status": "Active"}}
