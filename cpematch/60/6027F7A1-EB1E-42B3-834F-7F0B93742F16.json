@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6027F7A1-EB1E-42B3-834F-7F0B93742F16", "criteria": "cpe:2.3:a:rust-openssl_project:rust-openssl:*:*:*:*:*:rust:*:*", "versionStartIncluding": "0.10.39", "versionEndExcluding": "0.10.78", "lastModified": "2026-04-27T20:45:13.887", "cpeLastModified": "2026-04-27T20:45:13.887", "created": "2026-04-27T20:45:13.887", "status": "Active"}}
