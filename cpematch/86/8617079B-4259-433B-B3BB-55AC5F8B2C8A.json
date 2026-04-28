@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8617079B-4259-433B-B3BB-55AC5F8B2C8A", "criteria": "cpe:2.3:a:projectcontour:contour:*:*:*:*:*:kubernetes:*:*", "versionStartIncluding": "1.32.0", "versionEndExcluding": "1.32.5", "lastModified": "2026-04-28T14:16:18.360", "cpeLastModified": "2026-04-28T14:16:18.360", "created": "2026-04-28T14:16:18.360", "status": "Active"}}
