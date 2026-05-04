@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "11C9BCEC-F7E3-4E82-B43E-59D82E4CEA52", "criteria": "cpe:2.3:a:amazon:amazon_ecs_container_agent:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.47.0", "versionEndExcluding": "1.103.0", "lastModified": "2026-05-04T15:10:54.777", "created": "2026-05-04T15:10:54.777", "status": "Active"}}
