@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9499B75E-F160-425A-B641-61BF3B71FC57", "criteria": "cpe:2.3:a:kubernetes:nginx_ingress_controller:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.14.0", "versionEndExcluding": "1.14.5", "lastModified": "2026-05-04T17:43:33.483", "cpeLastModified": "2026-05-04T17:43:33.483", "created": "2026-05-04T17:43:33.483", "status": "Active"}}
