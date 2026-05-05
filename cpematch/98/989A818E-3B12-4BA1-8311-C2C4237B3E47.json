@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "989A818E-3B12-4BA1-8311-C2C4237B3E47", "criteria": "cpe:2.3:a:uuidjs:uuid:12.0.0:*:*:*:*:node.js:*:*", "lastModified": "2026-05-05T17:38:46.080", "created": "2026-05-05T17:12:37.930", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:uuidjs:uuid:12.0.0:*:*:*:*:node.js:*:*", "cpeNameId": "1D367DCF-9E68-4E91-87AB-121C0FB90FAD"}]}}
