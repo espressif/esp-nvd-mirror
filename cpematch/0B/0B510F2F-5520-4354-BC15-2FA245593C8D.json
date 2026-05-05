@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0B510F2F-5520-4354-BC15-2FA245593C8D", "criteria": "cpe:2.3:a:rrwo:text\\:\\:minify\\:\\:xs:*:*:*:*:*:perl:*:*", "versionStartIncluding": "0.3.0", "versionEndExcluding": "0.7.8", "lastModified": "2026-05-05T18:58:24.970", "created": "2026-05-05T18:58:24.970", "status": "Active"}}
