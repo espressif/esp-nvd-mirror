@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7BAA4EC5-4994-4B5F-AE0A-0C1ABEF00861", "criteria": "cpe:2.3:a:pdfmake:pdfmake:0.3.0:beta19:*:*:*:*:*:*", "lastModified": "2026-05-07T20:16:40.107", "created": "2026-05-07T18:36:14.933", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:pdfmake:pdfmake:0.3.0:beta19:*:*:*:*:*:*", "cpeNameId": "99B518F9-8E2D-4164-81F9-3319A7C75819"}]}}
