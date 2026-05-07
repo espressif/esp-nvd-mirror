@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2B3FDA39-7E8E-4393-B618-705FC6E261B5", "criteria": "cpe:2.3:a:spomky-labs:webauthn-lib:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.2.0", "versionEndExcluding": "5.2.4", "lastModified": "2026-05-07T15:11:16.790", "created": "2026-05-07T15:11:16.790", "status": "Active"}}
