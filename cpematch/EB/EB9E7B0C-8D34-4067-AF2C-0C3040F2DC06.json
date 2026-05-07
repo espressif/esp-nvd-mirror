@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EB9E7B0C-8D34-4067-AF2C-0C3040F2DC06", "criteria": "cpe:2.3:a:forcepoint:next_generation_firewall:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.2.0", "versionEndExcluding": "7.2.5", "lastModified": "2026-05-07T11:42:25.390", "created": "2026-05-07T11:42:25.390", "status": "Active"}}
