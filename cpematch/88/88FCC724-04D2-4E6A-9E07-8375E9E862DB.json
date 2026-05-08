@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "88FCC724-04D2-4E6A-9E07-8375E9E862DB", "criteria": "cpe:2.3:a:opentelemetry:opentelemetry.exporter.zipkin:*:*:*:*:*:.net:*:*", "versionEndExcluding": "1.15.3", "lastModified": "2026-05-08T17:57:53.833", "cpeLastModified": "2026-05-08T17:57:53.833", "created": "2026-05-08T17:57:53.833", "status": "Active"}}

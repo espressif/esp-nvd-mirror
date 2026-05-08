@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6D766D1A-302B-4F72-A7A7-170E766D6241", "criteria": "cpe:2.3:a:zfnd:zebra-rpc:1.0.0:beta46:*:*:*:rust:*:*", "lastModified": "2026-05-08T18:19:14.690", "created": "2026-05-08T17:49:20.010", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:zfnd:zebra-rpc:1.0.0:beta46:*:*:*:rust:*:*", "cpeNameId": "799B37A4-DB69-4BD8-A6F8-D4E0D42C48AC"}]}}

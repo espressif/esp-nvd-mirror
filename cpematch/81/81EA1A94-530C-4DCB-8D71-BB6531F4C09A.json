@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "81EA1A94-530C-4DCB-8D71-BB6531F4C09A", "criteria": "cpe:2.3:a:linuxfoundation:dapr:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.17.0", "versionEndExcluding": "1.17.5", "lastModified": "2026-05-08T17:48:30.320", "cpeLastModified": "2026-05-08T17:48:30.320", "created": "2026-05-08T17:48:30.320", "status": "Active"}}

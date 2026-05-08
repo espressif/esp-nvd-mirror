@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1DCAE52F-25F5-4675-B977-A65F5DB5D760", "criteria": "cpe:2.3:a:linuxfoundation:dapr:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.16.0", "versionEndExcluding": "1.16.14", "lastModified": "2026-05-08T17:48:30.320", "cpeLastModified": "2026-05-08T17:48:30.320", "created": "2026-05-08T17:48:30.320", "status": "Active"}}
