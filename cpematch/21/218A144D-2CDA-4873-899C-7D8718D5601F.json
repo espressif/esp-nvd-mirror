@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "218A144D-2CDA-4873-899C-7D8718D5601F", "criteria": "cpe:2.3:a:vmware:spring_cloud_config:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.0.3", "lastModified": "2026-05-09T00:41:25.483", "cpeLastModified": "2026-05-09T00:41:25.483", "created": "2026-05-09T00:41:25.483", "status": "Active"}}
