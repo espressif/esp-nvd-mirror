@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0BF8532E-4CB1-4914-B427-35E75421F721", "criteria": "cpe:2.3:a:linuxfoundation:kubewarden:*:*:*:*:*:kubernetes:*:*", "versionEndExcluding": "1.33.0", "lastModified": "2026-05-11T19:46:04.807", "cpeLastModified": "2026-05-11T19:46:04.807", "created": "2026-05-11T19:46:04.807", "status": "Active"}}
