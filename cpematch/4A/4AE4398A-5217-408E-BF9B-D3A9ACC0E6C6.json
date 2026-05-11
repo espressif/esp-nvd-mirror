@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4AE4398A-5217-408E-BF9B-D3A9ACC0E6C6", "criteria": "cpe:2.3:a:postfix:postfix:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.9.0", "versionEndExcluding": "3.9.10", "lastModified": "2026-05-11T20:38:23.527", "cpeLastModified": "2026-05-11T20:38:23.527", "created": "2026-05-11T20:38:23.527", "status": "Active"}}
