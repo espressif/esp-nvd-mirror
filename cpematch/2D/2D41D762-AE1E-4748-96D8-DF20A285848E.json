@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2D41D762-AE1E-4748-96D8-DF20A285848E", "criteria": "cpe:2.3:a:succinct:sp1_prover:*:*:*:*:*:rust:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.0.2", "lastModified": "2026-05-11T16:46:53.170", "created": "2026-05-11T16:46:53.170", "status": "Active"}}
