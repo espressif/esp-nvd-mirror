@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E4FA4F8E-48A1-4DC2-9640-50A34E707293", "criteria": "cpe:2.3:a:apache:airflow_providers_keycloak:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.0.1", "versionEndExcluding": "0.7.0", "lastModified": "2026-05-11T14:46:04.707", "created": "2026-05-11T14:46:04.707", "status": "Active"}}
