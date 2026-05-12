@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1A9C5C40-C542-4320-9777-29A0F2D70220", "criteria": "cpe:2.3:a:arista:velocloud_edge:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.5.0", "versionEndIncluding": "6.4.1", "lastModified": "2026-05-12T15:25:04.393", "cpeLastModified": "2026-05-12T15:25:04.393", "created": "2026-05-12T15:25:04.393", "status": "Active"}}
