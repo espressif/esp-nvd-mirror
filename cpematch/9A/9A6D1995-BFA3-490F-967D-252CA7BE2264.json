@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9A6D1995-BFA3-490F-967D-252CA7BE2264", "criteria": "cpe:2.3:a:ruby-lang:net\\:\\:imap:*:*:*:*:*:ruby:*:*", "versionStartIncluding": "0.6.0", "versionEndExcluding": "0.6.4", "lastModified": "2026-05-13T18:00:15.540", "created": "2026-05-13T18:00:15.540", "status": "Active"}}
