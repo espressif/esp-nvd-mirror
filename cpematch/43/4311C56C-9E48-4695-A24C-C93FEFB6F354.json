@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4311C56C-9E48-4695-A24C-C93FEFB6F354", "criteria": "cpe:2.3:a:arubanetworks:sd-wan:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.6.0.4-2.2.0.0", "versionEndIncluding": "8.6.0.4-2.2.0.7", "lastModified": "2026-05-13T18:46:12.567", "created": "2026-05-13T18:46:12.567", "status": "Active"}}
