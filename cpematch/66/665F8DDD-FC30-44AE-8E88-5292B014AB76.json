@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "665F8DDD-FC30-44AE-8E88-5292B014AB76", "criteria": "cpe:2.3:a:leont:crypt\\:\\:argon2:*:*:*:*:*:perl:*:*", "versionStartIncluding": "0.017", "versionEndExcluding": "0.031", "lastModified": "2026-05-13T16:07:45.353", "cpeLastModified": "2026-05-13T16:07:45.353", "created": "2026-05-13T16:07:45.353", "status": "Active"}}

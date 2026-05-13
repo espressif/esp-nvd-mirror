@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A27C2F2F-55C7-453E-8FB9-CAD52817C0A2", "criteria": "cpe:2.3:a:katacontainers:confidential_containers:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.9.0", "versionEndExcluding": "0.20.0", "lastModified": "2026-05-13T14:28:54.707", "created": "2026-05-13T14:28:54.707", "status": "Active"}}

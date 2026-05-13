@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A107A3F5-43A6-45C2-B0D5-4AED46D3EC11", "criteria": "cpe:2.3:a:better-auth:better_auth:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "1.6.0", "versionEndExcluding": "1.6.5", "lastModified": "2026-05-13T15:46:45.963", "created": "2026-05-13T15:46:45.963", "status": "Active"}}
