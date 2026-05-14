@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0EB079AD-FCC7-45B1-AEDF-66A539013EED", "criteria": "cpe:2.3:a:opentelemetry:opentelemetry_ebpf_instrumentation:*:*:*:*:*:go:*:*", "versionStartIncluding": "0.4.0", "versionEndExcluding": "0.8.0", "lastModified": "2026-05-14T16:29:46.080", "created": "2026-05-14T16:29:46.080", "status": "Active"}}

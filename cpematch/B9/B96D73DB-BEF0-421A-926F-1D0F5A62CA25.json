@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B96D73DB-BEF0-421A-926F-1D0F5A62CA25", "criteria": "cpe:2.3:a:protobufjs_project:protobufjs-cli:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.0.2", "lastModified": "2026-05-14T15:17:35.810", "cpeLastModified": "2026-05-14T15:17:35.810", "created": "2026-05-14T15:17:35.810", "status": "Active"}}

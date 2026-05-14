@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "443F32C2-B323-4FA0-AB97-F6445C91C89E", "criteria": "cpe:2.3:a:vllm:vllm:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.18.0", "versionEndExcluding": "0.20.0", "lastModified": "2026-05-14T15:37:22.440", "cpeLastModified": "2026-05-14T15:37:22.440", "created": "2026-05-14T15:37:22.440", "status": "Active"}}

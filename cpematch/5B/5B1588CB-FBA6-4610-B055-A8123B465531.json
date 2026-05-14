@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5B1588CB-FBA6-4610-B055-A8123B465531", "criteria": "cpe:2.3:a:fortinet:fortiauthenticator:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.0.3", "lastModified": "2026-05-14T15:27:40.540", "created": "2026-05-14T15:27:40.540", "status": "Active"}}
