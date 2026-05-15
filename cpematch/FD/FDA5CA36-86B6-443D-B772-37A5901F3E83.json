@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FDA5CA36-86B6-443D-B772-37A5901F3E83", "criteria": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.12.6", "versionEndExcluding": "20.12.6.2", "lastModified": "2026-05-15T12:34:24.213", "cpeLastModified": "2026-05-15T12:34:24.213", "created": "2026-05-15T12:34:24.213", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A849EB68-502F-4B87-B7D9-5021F2F17D5C", "criteria": "cpe:2.3:a:mongoosejs:mongoose:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "9.0.0", "versionEndExcluding": "9.1.6", "lastModified": "2026-05-15T14:28:20.223", "cpeLastModified": "2026-05-15T14:28:20.223", "created": "2026-05-15T14:28:20.223", "status": "Active"}}
