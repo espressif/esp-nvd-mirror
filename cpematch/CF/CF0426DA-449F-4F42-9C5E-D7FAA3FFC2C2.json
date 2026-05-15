@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CF0426DA-449F-4F42-9C5E-D7FAA3FFC2C2", "criteria": "cpe:2.3:a:opentelemetry:opentelemetry.resources.azure:*:*:*:*:*:.net:*:*", "versionEndIncluding": "1.15.0", "lastModified": "2026-05-15T17:12:20.183", "cpeLastModified": "2026-05-15T17:12:20.183", "created": "2026-05-15T17:12:20.183", "status": "Active"}}
