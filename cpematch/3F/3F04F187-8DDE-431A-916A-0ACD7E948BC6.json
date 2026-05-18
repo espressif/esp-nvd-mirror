@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3F04F187-8DDE-431A-916A-0ACD7E948BC6", "criteria": "cpe:2.3:a:netmaker:netmaker:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.18.0", "versionEndExcluding": "0.18.5", "lastModified": "2026-05-18T16:44:17.500", "cpeLastModified": "2026-05-18T16:44:17.500", "created": "2026-05-18T16:44:17.500", "status": "Inactive"}}
