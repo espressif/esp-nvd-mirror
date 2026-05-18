@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D7F2A2AE-D122-46BA-BD64-67DCF4C22677", "criteria": "cpe:2.3:a:huggingface:diffusers:*:*:*:*:*:python:*:*", "versionEndExcluding": "0.38.0", "lastModified": "2026-05-18T17:23:38.853", "cpeLastModified": "2026-05-18T17:23:38.853", "created": "2026-05-18T17:23:38.853", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "22FCEB1A-DF59-4660-A23B-389E42133610", "criteria": "cpe:2.3:a:guimard:apache\\:\\:session\\:\\:generate\\:\\:sha256:*:*:*:*:*:perl:*:*", "versionEndExcluding": "1.3.19", "lastModified": "2026-05-18T18:19:21.877", "cpeLastModified": "2026-05-18T18:19:21.877", "created": "2026-05-18T18:19:21.877", "status": "Active"}}

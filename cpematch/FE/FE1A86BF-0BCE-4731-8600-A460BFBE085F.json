@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FE1A86BF-0BCE-4731-8600-A460BFBE085F", "criteria": "cpe:2.3:a:apache:flink:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.0.2", "lastModified": "2026-05-18T18:23:10.760", "cpeLastModified": "2026-05-18T18:23:10.760", "created": "2026-05-18T18:23:10.760", "status": "Active"}}
