@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DF294351-4488-43A9-B86D-5A5A1F922A2B", "criteria": "cpe:2.3:a:vercel:turborepo:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "1.1.0", "versionEndExcluding": "2.9.14", "lastModified": "2026-05-19T14:41:10.973", "created": "2026-05-19T14:41:10.973", "status": "Active"}}
