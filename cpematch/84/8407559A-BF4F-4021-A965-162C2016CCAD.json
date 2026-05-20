@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8407559A-BF4F-4021-A965-162C2016CCAD", "criteria": "cpe:2.3:a:erlef:cowlib:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.6.0", "versionEndExcluding": "2.16.1", "lastModified": "2026-05-20T16:54:22.843", "cpeLastModified": "2026-05-20T16:54:22.843", "created": "2026-05-20T16:54:22.843", "status": "Active"}}

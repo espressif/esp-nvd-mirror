@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F191F99D-6054-4A53-A20E-8181AFD0D483", "criteria": "cpe:2.3:a:progress:moveit_automation:*:*:*:*:*:*:*:*", "versionStartIncluding": "2025.1.0", "versionEndExcluding": "2025.1.7", "lastModified": "2026-05-20T16:31:30.503", "cpeLastModified": "2026-05-20T16:31:30.503", "created": "2026-05-20T16:31:30.503", "status": "Active"}}
