@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "55BBE15D-87F3-4922-AEB8-8A2CAFF0EA6E", "criteria": "cpe:2.3:a:erlang:erlang\\/ssh:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.2", "versionEndExcluding": "5.2.11.7", "lastModified": "2026-05-20T20:24:33.140", "cpeLastModified": "2026-05-20T20:24:33.140", "created": "2026-05-20T20:24:33.140", "status": "Active"}}

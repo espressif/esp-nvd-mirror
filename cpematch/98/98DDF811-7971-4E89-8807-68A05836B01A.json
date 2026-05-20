@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "98DDF811-7971-4E89-8807-68A05836B01A", "criteria": "cpe:2.3:a:nvidia:tensorrt_llm:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.2", "lastModified": "2026-05-20T19:40:16.943", "created": "2026-05-20T19:40:16.943", "status": "Active"}}

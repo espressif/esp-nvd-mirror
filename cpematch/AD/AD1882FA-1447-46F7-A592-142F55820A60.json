@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AD1882FA-1447-46F7-A592-142F55820A60", "criteria": "cpe:2.3:a:microsoft:malware_protection_engine:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.26030.3008", "versionEndExcluding": "1.1.26040.8", "lastModified": "2026-05-20T18:56:29.040", "created": "2026-05-20T18:56:29.040", "status": "Active"}}
