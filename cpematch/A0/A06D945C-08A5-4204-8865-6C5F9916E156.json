@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A06D945C-08A5-4204-8865-6C5F9916E156", "criteria": "cpe:2.3:a:erlang:erlang\\/otp:*:*:*:*:*:*:*:*", "versionStartIncluding": "28.0", "versionEndIncluding": "28.4.3", "lastModified": "2026-05-20T18:22:04.637", "cpeLastModified": "2026-05-20T18:21:36.573", "created": "2026-05-20T18:21:36.573", "status": "Inactive"}}
