@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AC791F53-54F6-4BF1-AEA0-A09443FDA6AD", "criteria": "cpe:2.3:a:kilo:kilo_code_cli:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "7.0.26", "versionEndIncluding": "7.0.47", "lastModified": "2026-05-20T14:36:43.493", "cpeLastModified": "2026-05-20T14:27:37.760", "created": "2026-05-20T14:27:37.760", "status": "Inactive"}}
