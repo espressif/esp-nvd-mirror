@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C9B291C1-492A-4684-BE65-36D10D28679F", "criteria": "cpe:2.3:a:ruby-lang:zlib:*:*:*:*:*:ruby:*:*", "versionStartIncluding": "3.1.0", "versionEndExcluding": "3.1.2", "lastModified": "2026-05-21T17:40:30.403", "cpeLastModified": "2026-05-21T17:40:30.403", "created": "2026-05-21T17:40:30.403", "status": "Active"}}

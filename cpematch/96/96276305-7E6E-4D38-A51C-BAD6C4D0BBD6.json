@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "96276305-7E6E-4D38-A51C-BAD6C4D0BBD6", "criteria": "cpe:2.3:o:arm:mbed_os:6.16.0:*:*:*:*:*:*:*", "lastModified": "2026-05-21T17:41:12.273", "created": "2025-09-08T21:33:09.023", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:arm:mbed_os:6.16.0:*:*:*:*:*:*:*", "cpeNameId": "4BA933CB-4E73-489B-BC3E-D171C4F603BE"}]}}

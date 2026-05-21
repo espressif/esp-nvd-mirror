@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FFF7015A-A90A-4B19-BCE7-DAA057147DCE", "criteria": "cpe:2.3:o:arm:mbed_os:6.17.0:*:*:*:*:*:*:*", "lastModified": "2026-05-21T17:41:12.273", "created": "2025-09-08T21:35:39.290", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:arm:mbed_os:6.17.0:*:*:*:*:*:*:*", "cpeNameId": "0AFE59ED-F168-4E7C-9A43-1508C3596F44"}]}}
