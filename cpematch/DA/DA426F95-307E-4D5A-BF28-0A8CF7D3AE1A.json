@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DA426F95-307E-4D5A-BF28-0A8CF7D3AE1A", "criteria": "cpe:2.3:a:absinthe-graphql:absinthe_plug:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.0", "versionEndExcluding": "1.5.10", "lastModified": "2026-05-21T15:41:29.333", "cpeLastModified": "2026-05-21T15:41:29.333", "created": "2026-05-21T15:41:29.333", "status": "Active"}}

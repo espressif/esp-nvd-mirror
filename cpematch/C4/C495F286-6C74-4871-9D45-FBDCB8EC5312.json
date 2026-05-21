@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C495F286-6C74-4871-9D45-FBDCB8EC5312", "criteria": "cpe:2.3:a:gleam-lang:gleam:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.9.0", "versionEndExcluding": "1.15.4", "lastModified": "2026-05-21T15:54:06.950", "cpeLastModified": "2026-05-21T15:54:06.950", "created": "2026-05-21T15:54:06.950", "status": "Active"}}

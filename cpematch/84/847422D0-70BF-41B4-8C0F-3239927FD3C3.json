@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "847422D0-70BF-41B4-8C0F-3239927FD3C3", "criteria": "cpe:2.3:a:amazon:aws_api_mcp_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.2.14", "versionEndExcluding": "1.3.9", "lastModified": "2026-05-21T15:21:02.917", "created": "2026-05-21T15:21:02.917", "status": "Active"}}
