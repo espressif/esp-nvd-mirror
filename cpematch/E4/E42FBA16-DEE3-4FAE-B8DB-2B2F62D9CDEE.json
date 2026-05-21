@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E42FBA16-DEE3-4FAE-B8DB-2B2F62D9CDEE", "criteria": "cpe:2.3:a:laravel:passport:*:*:*:*:*:laravel:*:*", "versionStartIncluding": "13.0.0", "versionEndExcluding": "13.7.1", "lastModified": "2026-05-21T18:41:13.047", "cpeLastModified": "2026-05-21T18:41:13.047", "created": "2026-05-21T18:41:13.047", "status": "Active"}}

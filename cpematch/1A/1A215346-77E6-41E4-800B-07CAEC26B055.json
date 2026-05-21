@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1A215346-77E6-41E4-800B-07CAEC26B055", "criteria": "cpe:2.3:a:apache:fory:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.13.0", "versionEndExcluding": "1.0.0", "lastModified": "2026-05-21T19:54:33.290", "cpeLastModified": "2026-05-21T19:54:33.290", "created": "2026-05-21T19:54:33.290", "status": "Active"}}
