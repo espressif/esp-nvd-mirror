@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E5174349-D7AF-4064-879C-B980604DB41C", "criteria": "cpe:2.3:a:emqx:emqx:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0", "versionEndIncluding": "6.2.0", "lastModified": "2026-05-20T23:02:10.793", "cpeLastModified": "2026-05-20T23:02:10.793", "created": "2026-05-20T23:02:10.793", "status": "Active"}}
