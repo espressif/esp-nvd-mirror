@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "40050434-50AF-4ADC-AEE9-9374ECB91F30", "criteria": "cpe:2.3:a:elixir-ecto:postgrex:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.16.0", "versionEndExcluding": "0.22.0", "lastModified": "2026-05-21T14:58:31.237", "cpeLastModified": "2026-05-21T14:58:31.237", "created": "2026-05-21T14:58:31.237", "status": "Active"}}
