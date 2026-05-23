@@ -77,6 +77,12 @@ def nvd_request(endpoint: str,
         if int(data['totalResults']) == start_idx:
             break
 
+        if int(data['resultsPerPage']) == 0:
+            raise RuntimeError(
+                f'NVD returned resultsPerPage=0 with totalResults='
+                f'{data["totalResults"]} > startIndex={start_idx}. '
+                f'Aborting to avoid committing partial data.')
+
     return res
 
 
