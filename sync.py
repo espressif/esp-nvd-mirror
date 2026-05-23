@@ -2,13 +2,18 @@
 
 import argparse
 import datetime
+import http.client
 import json
+import os
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
 from typing import Optional
+
+NVD_API_KEY = os.environ.get('NVD_API_KEY')
 
 
 def normalize_iso_datetime(date_str: Optional[str] = None) -> str:
@@ -35,7 +40,7 @@ def nvd_request(endpoint: str,
     if resync:
         retry_max = 0
     else:
-        retry_max = 100
+        retry_max = 50
 
     while True:
         params['startIndex'] = str(start_idx)
@@ -44,20 +49,26 @@ def nvd_request(endpoint: str,
         print('PARAMS:', params)
         print('URL:', url)
         req = urllib.request.Request(url)
+        if NVD_API_KEY:
+            req.add_header('apiKey', NVD_API_KEY)
 
         try:
             with urllib.request.urlopen(req, timeout=60) as resp:
                 data = json.loads(resp.read().decode())
 
-        except urllib.error.HTTPError as e:
-            if e.code == 404:
-                raise
+        except (OSError, http.client.HTTPException, json.JSONDecodeError) as e:
+            delay = 20
+            if isinstance(e, urllib.error.HTTPError):
+                if e.code == 404:
+                    raise
+                if e.code == 429:
+                    delay = 60
             retry += 1
             if retry > retry_max and not resync:
                 raise
             print((f'Failed to receive a response from NVD ({e}). '
-                   f'Trying again ({retry}/{retry_max}) in 10 seconds...'))
-            time.sleep(10)
+                   f'Trying again ({retry}/{retry_max}) in {delay} seconds...'))
+            time.sleep(delay)
             continue
 
         res.append(data)
