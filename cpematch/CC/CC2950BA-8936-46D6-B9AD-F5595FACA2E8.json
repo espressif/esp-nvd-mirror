@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CC2950BA-8936-46D6-B9AD-F5595FACA2E8", "criteria": "cpe:2.3:a:symfony:twig:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.9.0", "versionEndExcluding": "3.26.0", "lastModified": "2026-05-26T14:39:42.393", "cpeLastModified": "2026-05-26T14:39:42.393", "created": "2026-05-26T14:39:42.393", "status": "Active"}}

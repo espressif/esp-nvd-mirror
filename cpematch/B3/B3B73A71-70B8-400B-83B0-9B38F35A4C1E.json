@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B3B73A71-70B8-400B-83B0-9B38F35A4C1E", "criteria": "cpe:2.3:a:datadog:dd-trace-java:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.40.0", "versionEndExcluding": "1.60.3", "lastModified": "2026-05-22T15:12:57.267", "cpeLastModified": "2026-05-22T15:12:57.267", "created": "2026-05-22T15:12:57.267", "status": "Active"}}
