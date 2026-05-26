@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7C34AFFA-7B8D-45F0-B4BA-A3242DE2E532", "criteria": "cpe:2.3:a:benoitc:hackney:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.10.0", "versionEndExcluding": "4.0.1", "lastModified": "2026-05-26T20:12:40.010", "cpeLastModified": "2026-05-26T20:12:40.010", "created": "2026-05-26T20:12:40.010", "status": "Active"}}
