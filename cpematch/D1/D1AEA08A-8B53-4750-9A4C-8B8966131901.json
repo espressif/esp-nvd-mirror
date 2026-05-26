@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D1AEA08A-8B53-4750-9A4C-8B8966131901", "criteria": "cpe:2.3:a:vercel:vercel:*:-:*:*:*:node.js:*:*", "versionStartIncluding": "50.16.0", "versionEndExcluding": "52.0.1", "lastModified": "2026-05-26T17:57:19.840", "cpeLastModified": "2026-05-26T17:57:19.840", "created": "2026-05-26T17:57:19.840", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DAF35C18-82FD-4D93-8424-E59866D90769", "criteria": "cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:*:*:*:*:*:go:*:*", "versionStartIncluding": "0.124.0", "versionEndIncluding": "0.150.0", "lastModified": "2026-05-26T18:20:34.470", "created": "2026-05-26T18:20:34.470", "status": "Active"}}
