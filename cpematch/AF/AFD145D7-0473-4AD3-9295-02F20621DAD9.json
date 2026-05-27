@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AFD145D7-0473-4AD3-9295-02F20621DAD9", "criteria": "cpe:2.3:a:nvidia:gpu_display_driver:*:*:*:*:*:linux:*:*", "versionStartIncluding": "595", "versionEndExcluding": "595.71.05", "lastModified": "2026-05-27T15:59:57.710", "created": "2026-05-27T15:59:57.710", "status": "Active"}}
