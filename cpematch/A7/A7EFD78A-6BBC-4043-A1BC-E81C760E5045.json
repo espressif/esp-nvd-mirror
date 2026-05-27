@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A7EFD78A-6BBC-4043-A1BC-E81C760E5045", "criteria": "cpe:2.3:a:nvidia:gpu_display_driver:*:*:*:*:*:windows:*:*", "versionStartIncluding": "595", "versionEndExcluding": "596.36", "lastModified": "2026-05-27T19:21:34.717", "created": "2026-05-27T19:21:34.717", "status": "Active"}}
