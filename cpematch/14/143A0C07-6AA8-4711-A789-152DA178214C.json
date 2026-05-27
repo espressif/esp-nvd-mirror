@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "143A0C07-6AA8-4711-A789-152DA178214C", "criteria": "cpe:2.3:a:rust-lang:cargo:*:*:*:*:*:rust:*:*", "versionStartIncluding": "1.68.0", "versionEndExcluding": "1.96.0", "lastModified": "2026-05-27T14:58:07.347", "created": "2026-05-27T14:58:07.347", "status": "Active"}}

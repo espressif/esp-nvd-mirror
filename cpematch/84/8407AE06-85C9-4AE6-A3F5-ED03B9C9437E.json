@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8407AE06-85C9-4AE6-A3F5-ED03B9C9437E", "criteria": "cpe:2.3:a:openvpn:connect:*:*:*:*:*:macos:*:*", "versionStartIncluding": "3.5.1", "versionEndExcluding": "3.8.2", "lastModified": "2026-05-27T14:50:24.470", "cpeLastModified": "2026-05-27T14:50:24.470", "created": "2026-05-27T14:50:24.470", "status": "Active"}}
