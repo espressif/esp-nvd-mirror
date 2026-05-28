@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "0BCE4C89-0BB7-4478-90FB-00608E2CE464", "criteria": "cpe:2.3:a:daemontools:daemon_tools_lite:12.5.1:*:*:*:*:*:*:*", "lastModified": "2026-05-27T20:41:14.547", "created": "2026-05-27T20:41:14.547", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "0BCE4C89-0BB7-4478-90FB-00608E2CE464", "criteria": "cpe:2.3:a:daemontools:daemon_tools_lite:12.5.1:*:*:*:*:*:*:*", "lastModified": "2026-05-28T12:40:06.960", "created": "2026-05-27T20:41:14.547", "status": "Inactive"}}
