@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "42A22CB8-1987-4AAE-8540-63E534FCEE32", "criteria": "cpe:2.3:a:hitachi:vantara_pentaho_data_integration_and_analytics:*:*:*:*:*:*:*:*", "versionStartExcluding": "10.2.0.8", "versionEndExcluding": "11.0.0.0", "lastModified": "2026-05-28T18:15:55.217", "created": "2026-05-28T18:15:55.217", "status": "Active"}}

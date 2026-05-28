@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "636525D8-19DC-47DA-AFE3-58CA0CC5E4E4", "criteria": "cpe:2.3:a:clerk:clerk\\/fastify:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.1.16", "lastModified": "2026-05-28T18:18:12.253", "cpeLastModified": "2026-05-28T18:18:12.253", "created": "2026-05-28T18:18:12.253", "status": "Active"}}

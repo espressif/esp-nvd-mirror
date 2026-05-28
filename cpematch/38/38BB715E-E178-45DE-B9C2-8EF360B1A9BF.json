@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "38BB715E-E178-45DE-B9C2-8EF360B1A9BF", "criteria": "cpe:2.3:a:clerk:clerk\\/clerk-js:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "5.22.0", "versionEndExcluding": "5.125.10", "lastModified": "2026-05-28T18:18:12.253", "cpeLastModified": "2026-05-28T18:18:12.253", "created": "2026-05-28T18:18:12.253", "status": "Active"}}

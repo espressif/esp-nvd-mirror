@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "93FD23D3-85FC-4D5A-A3EA-8B7407CC61CA", "criteria": "cpe:2.3:a:clerk:clerk\\/chrome-extension:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.1.15", "lastModified": "2026-05-28T18:18:12.253", "cpeLastModified": "2026-05-28T18:18:12.253", "created": "2026-05-28T18:18:12.253", "status": "Active"}}

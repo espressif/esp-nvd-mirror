@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "209A417F-36BB-48E0-A594-17A3D8E452E1", "criteria": "cpe:2.3:a:clerk:clerk\\/nextjs:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "6.0.0", "versionEndIncluding": "6.39.3", "lastModified": "2026-05-28T18:18:12.253", "cpeLastModified": "2026-05-28T18:18:12.253", "created": "2026-05-28T18:18:12.253", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6FD1A00D-D69F-43C8-8055-60C8DA68C97A", "criteria": "cpe:2.3:a:clerk:clerk\\/react-router:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "0.0.1", "versionEndExcluding": "2.4.13", "lastModified": "2026-05-28T18:18:12.253", "cpeLastModified": "2026-05-28T18:18:12.253", "created": "2026-05-28T18:18:12.253", "status": "Active"}}

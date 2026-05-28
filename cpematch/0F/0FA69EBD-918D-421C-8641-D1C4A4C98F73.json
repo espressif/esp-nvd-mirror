@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0FA69EBD-918D-421C-8641-D1C4A4C98F73", "criteria": "cpe:2.3:a:clerk:clerk\\/nuxt:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "2.0.0", "versionEndIncluding": "2.2.5", "lastModified": "2026-05-28T18:21:29.680", "cpeLastModified": "2026-05-28T18:18:12.253", "created": "2026-05-28T18:18:12.253", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CA0368CF-A074-45E5-889E-A346F96D7A26", "criteria": "cpe:2.3:a:clerk:clerk\\/vue:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.0.16", "lastModified": "2026-05-28T18:18:12.253", "cpeLastModified": "2026-05-28T18:18:12.253", "created": "2026-05-28T18:18:12.253", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D86F31FD-76C4-4386-9B32-1593FBB0B754", "criteria": "cpe:2.3:a:pyjwt_project:pyjwt:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.8.0", "versionEndExcluding": "2.12.1", "lastModified": "2026-05-28T18:09:43.660", "cpeLastModified": "2026-05-28T18:09:43.660", "created": "2026-05-28T18:09:43.660", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D7971F38-FE69-4A83-9DB8-803FCF3CBAE5", "criteria": "cpe:2.3:a:clerk:clerk\\/tanstack-react-start:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.1.4", "lastModified": "2026-05-28T18:18:12.253", "cpeLastModified": "2026-05-28T18:18:12.253", "created": "2026-05-28T18:18:12.253", "status": "Active"}}
