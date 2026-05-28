@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A3C3C22D-0E75-48A1-A1C7-8DD4FE15BF1E", "criteria": "cpe:2.3:a:tigera:calico:*:*:*:*:enterprise:*:*:*", "versionStartIncluding": "3.22.0", "versionEndExcluding": "3.22.3", "lastModified": "2026-05-28T19:47:07.240", "created": "2026-05-28T19:47:07.240", "status": "Active"}}
