@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AA132BA2-35FB-4791-9F4F-97090025751F", "criteria": "cpe:2.3:a:ibm:aspera_high-speed_transfer_server_for_cloud_pak_for_integration:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.5.1", "versionEndExcluding": "1.5.20", "lastModified": "2026-05-28T15:51:29.160", "created": "2026-05-28T15:51:29.160", "status": "Active"}}
