@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "00A423DF-4E4D-40BB-9BB8-B7441FD25A48", "criteria": "cpe:2.3:a:portainer:portainer:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.34.0", "versionEndExcluding": "2.39.1", "lastModified": "2026-05-29T17:42:13.157", "cpeLastModified": "2026-05-29T17:17:39.230", "created": "2026-05-29T17:17:39.230", "status": "Inactive"}}
