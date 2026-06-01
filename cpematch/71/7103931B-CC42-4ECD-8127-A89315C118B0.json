@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7103931B-CC42-4ECD-8127-A89315C118B0", "criteria": "cpe:2.3:a:linuxfoundation:volcano:*:*:*:*:*:kubernetes:*:*", "versionEndExcluding": "1.12.4", "lastModified": "2026-06-01T15:46:55.700", "cpeLastModified": "2026-06-01T15:46:55.700", "created": "2026-06-01T15:46:55.700", "status": "Active"}}

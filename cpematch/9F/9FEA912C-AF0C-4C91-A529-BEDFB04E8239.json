@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9FEA912C-AF0C-4C91-A529-BEDFB04E8239", "criteria": "cpe:2.3:a:linuxfoundation:cloudnativepg:*:*:*:*:*:kubernetes:*:*", "versionStartIncluding": "1.29.0", "versionEndExcluding": "1.29.1", "lastModified": "2026-06-01T15:39:44.727", "cpeLastModified": "2026-06-01T15:39:44.727", "created": "2026-06-01T15:39:44.727", "status": "Active"}}
