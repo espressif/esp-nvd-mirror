@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FDD73EA9-97EA-48BD-A4A4-4A6CFA3C3AD5", "criteria": "cpe:2.3:a:apache:flink_kubernetes_operator:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.3.0", "versionEndExcluding": "1.15.0", "lastModified": "2026-06-01T13:39:09.067", "created": "2026-06-01T13:39:09.067", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CEC9F4C6-60A0-4D38-B94C-7EDE4BB9848F", "criteria": "cpe:2.3:a:coltrane:tfa_basic_plugins:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "7.x-1.0", "versionEndExcluding": "7.x-1.3", "lastModified": "2026-06-01T12:21:12.570", "created": "2026-06-01T12:21:12.570", "status": "Active"}}

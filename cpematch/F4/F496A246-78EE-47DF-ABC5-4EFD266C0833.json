@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F496A246-78EE-47DF-ABC5-4EFD266C0833", "criteria": "cpe:2.3:a:bartk:taxonomy_term_reference_tree:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "7.x-1.0", "versionEndExcluding": "7.x-1.12", "lastModified": "2026-06-01T13:47:36.783", "created": "2026-06-01T13:47:36.783", "status": "Active"}}
