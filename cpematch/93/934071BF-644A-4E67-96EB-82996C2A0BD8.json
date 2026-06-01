@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "934071BF-644A-4E67-96EB-82996C2A0BD8", "criteria": "cpe:2.3:a:apache:fluss:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.8.0", "versionEndExcluding": "0.9.1", "lastModified": "2026-06-01T17:22:46.137", "cpeLastModified": "2026-06-01T17:22:46.137", "created": "2026-06-01T17:22:46.137", "status": "Active"}}

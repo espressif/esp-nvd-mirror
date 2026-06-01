@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3390651C-0E1A-4B4C-837A-A8740627DFD5", "criteria": "cpe:2.3:a:taxonomy_term_reference_tree_widget_project:taxonomy_term_reference_tree_widget:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "7.x-1.0", "versionEndExcluding": "7.x-1.12", "lastModified": "2026-06-01T17:38:21.423", "created": "2026-06-01T17:38:21.423", "status": "Active"}}

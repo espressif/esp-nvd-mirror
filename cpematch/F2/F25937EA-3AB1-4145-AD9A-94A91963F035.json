@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F25937EA-3AB1-4145-AD9A-94A91963F035", "criteria": "cpe:2.3:a:ibm:netezza_performance_server_replication_services:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.2.0", "versionEndExcluding": "3.0.5.1", "lastModified": "2026-06-01T16:36:32.373", "created": "2026-06-01T16:36:32.373", "status": "Active"}}

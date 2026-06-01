@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FD3DA989-EA9D-4C1B-AEA1-7DDEFBBD17AB", "criteria": "cpe:2.3:a:ibm:security_directory_integrator:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "10.0.0.3", "lastModified": "2026-06-01T16:43:15.633", "cpeLastModified": "2026-06-01T16:43:15.633", "created": "2026-06-01T16:43:15.633", "status": "Active"}}

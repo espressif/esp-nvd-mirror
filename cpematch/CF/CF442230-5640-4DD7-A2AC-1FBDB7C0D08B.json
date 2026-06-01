@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CF442230-5640-4DD7-A2AC-1FBDB7C0D08B", "criteria": "cpe:2.3:a:stborchert:simple_hierarchical_select:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "7.x-1.0", "versionEndIncluding": "7.x-1.10", "lastModified": "2026-06-01T16:24:31.353", "cpeLastModified": "2026-06-01T16:24:31.353", "created": "2026-06-01T16:24:31.353", "status": "Active"}}

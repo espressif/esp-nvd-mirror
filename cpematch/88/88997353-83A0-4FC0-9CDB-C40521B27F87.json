@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "88997353-83A0-4FC0-9CDB-C40521B27F87", "criteria": "cpe:2.3:a:ibm:financial_transaction_manager_for_multiplatforms:*:*:*:*:*:swift_services:*:*", "versionStartIncluding": "3.2.4.0", "versionEndExcluding": "3.2.4.16", "lastModified": "2026-06-01T17:22:12.750", "created": "2026-06-01T17:22:12.750", "status": "Active"}}
