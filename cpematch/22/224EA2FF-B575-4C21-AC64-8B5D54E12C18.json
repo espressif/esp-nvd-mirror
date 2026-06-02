@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "224EA2FF-B575-4C21-AC64-8B5D54E12C18", "criteria": "cpe:2.3:a:apache:directory_ldap_api:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.1.7", "lastModified": "2026-06-02T21:25:15.867", "cpeLastModified": "2026-06-02T21:25:15.867", "created": "2026-06-02T21:25:15.867", "status": "Active"}}
