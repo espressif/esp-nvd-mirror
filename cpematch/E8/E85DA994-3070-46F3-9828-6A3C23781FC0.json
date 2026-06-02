@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E85DA994-3070-46F3-9828-6A3C23781FC0", "criteria": "cpe:2.3:a:redhat:mirror_registry:-:*:*:*:*:*:*:*", "lastModified": "2026-06-02T19:23:38.830", "created": "2025-07-30T14:33:00.033", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:redhat:mirror_registry:-:*:*:*:*:openshift:*:*", "cpeNameId": "E1DD3C81-37C6-47F1-88CB-FF8FD0644EC8"}]}}

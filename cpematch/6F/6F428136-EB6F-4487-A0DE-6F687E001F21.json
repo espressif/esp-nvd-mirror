@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6F428136-EB6F-4487-A0DE-6F687E001F21", "criteria": "cpe:2.3:a:debian:dpkg:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.21.18", "versionEndExcluding": "1.22.22", "lastModified": "2026-06-02T19:11:53.687", "cpeLastModified": "2026-06-02T19:10:10.880", "created": "2026-06-02T19:10:10.880", "status": "Inactive"}}
