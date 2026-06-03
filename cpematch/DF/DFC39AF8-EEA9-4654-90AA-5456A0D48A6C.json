@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DFC39AF8-EEA9-4654-90AA-5456A0D48A6C", "criteria": "cpe:2.3:a:redhat:build_of_keycloak:*:*:*:*:*:*:*:*", "versionStartIncluding": "26.4", "versionEndExcluding": "26.4.10", "lastModified": "2026-06-03T18:48:14.507", "cpeLastModified": "2026-06-03T18:48:14.507", "created": "2026-06-03T18:48:14.507", "status": "Active"}}
