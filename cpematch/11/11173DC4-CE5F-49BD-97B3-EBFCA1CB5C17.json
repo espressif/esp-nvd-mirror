@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "11173DC4-CE5F-49BD-97B3-EBFCA1CB5C17", "criteria": "cpe:2.3:a:broadcom:rabbitmq_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.2.0", "versionEndExcluding": "4.2.4", "lastModified": "2026-06-03T19:27:26.650", "cpeLastModified": "2026-06-03T19:27:26.650", "created": "2026-06-03T19:27:26.650", "status": "Active"}}
