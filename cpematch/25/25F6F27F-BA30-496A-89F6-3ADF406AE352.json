@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "25F6F27F-BA30-496A-89F6-3ADF406AE352", "criteria": "cpe:2.3:a:freedesktop:libinput:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.31.0", "versionEndExcluding": "1.31.3", "lastModified": "2026-06-04T19:45:43.613", "cpeLastModified": "2026-06-04T19:45:43.613", "created": "2026-06-04T19:45:43.613", "status": "Active"}}
