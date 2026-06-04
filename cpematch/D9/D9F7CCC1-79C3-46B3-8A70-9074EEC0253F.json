@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D9F7CCC1-79C3-46B3-8A70-9074EEC0253F", "criteria": "cpe:2.3:a:openstack:ironic:*:*:*:*:*:*:*:*", "versionStartIncluding": "30.0.0", "versionEndExcluding": "32.0.2", "lastModified": "2026-06-04T17:06:55.393", "created": "2026-06-04T17:06:55.393", "status": "Active"}}

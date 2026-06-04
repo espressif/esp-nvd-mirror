@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7C1BF7A9-CED0-415C-95CA-0CB594732263", "criteria": "cpe:2.3:a:shopify:remix-run\\/server-runtime:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "2.10.0", "versionEndExcluding": "2.17.5", "lastModified": "2026-06-04T17:04:43.640", "cpeLastModified": "2026-06-04T17:04:43.640", "created": "2026-06-04T17:04:43.640", "status": "Active"}}
