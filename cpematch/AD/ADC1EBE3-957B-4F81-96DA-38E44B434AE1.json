@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ADC1EBE3-957B-4F81-96DA-38E44B434AE1", "criteria": "cpe:2.3:a:canonical:livepatch_client:*:*:*:*:*:*:*:*", "versionEndExcluding": "10.15.0", "lastModified": "2026-06-05T18:36:06.900", "created": "2026-06-05T18:36:06.900", "status": "Active"}}
