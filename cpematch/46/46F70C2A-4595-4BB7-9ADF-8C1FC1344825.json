@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "46F70C2A-4595-4BB7-9ADF-8C1FC1344825", "criteria": "cpe:2.3:a:checkmk:checkmk:2.3.0:p47:*:*:*:*:*:*", "lastModified": "2026-06-08T16:40:29.340", "created": "2026-06-08T15:31:01.597", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:checkmk:checkmk:2.3.0:p47:*:*:*:*:*:*", "cpeNameId": "B7D325CF-3C4C-47B8-B78C-F70A14FCBDCE"}]}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BD280C21-CB2D-4169-ABD1-CBF918370B32", "criteria": "cpe:2.3:a:asynchttpclient_project:async-http-client:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.0.10", "lastModified": "2026-06-08T15:30:31.773", "cpeLastModified": "2026-06-08T15:30:31.773", "created": "2026-06-08T15:30:31.773", "status": "Active"}}
