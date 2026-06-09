@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7EE58AC4-17F9-49B2-9888-97123225BA65", "criteria": "cpe:2.3:a:cilium:ebpf:*:*:*:*:*:go:*:*", "versionEndIncluding": "0.21.0", "lastModified": "2026-06-09T19:51:11.010", "cpeLastModified": "2026-06-09T19:51:11.010", "created": "2026-06-09T19:51:11.010", "status": "Active"}}

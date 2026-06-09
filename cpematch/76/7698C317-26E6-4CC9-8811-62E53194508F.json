@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7698C317-26E6-4CC9-8811-62E53194508F", "criteria": "cpe:2.3:a:binary:datadog\\:\\:dogstatsd:*:*:*:*:*:perl:*:*", "versionEndIncluding": "0.07", "lastModified": "2026-06-09T20:33:29.157", "created": "2026-06-09T20:33:29.157", "status": "Active"}}
