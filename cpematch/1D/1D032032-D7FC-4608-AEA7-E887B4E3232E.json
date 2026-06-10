@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1D032032-D7FC-4608-AEA7-E887B4E3232E", "criteria": "cpe:2.3:a:vmware:spring_hateoas:*:-:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.0.4", "lastModified": "2026-06-10T18:34:25.660", "created": "2026-06-10T18:34:25.660", "status": "Active"}}
