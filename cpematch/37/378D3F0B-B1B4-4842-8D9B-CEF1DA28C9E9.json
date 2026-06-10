@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "378D3F0B-B1B4-4842-8D9B-CEF1DA28C9E9", "criteria": "cpe:2.3:a:nsa:ghidra:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.0", "versionEndExcluding": "12.1", "lastModified": "2026-06-10T19:58:50.383", "cpeLastModified": "2026-06-10T19:58:50.383", "created": "2026-06-10T19:58:50.383", "status": "Active"}}
