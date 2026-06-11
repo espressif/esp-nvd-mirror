@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "10B0DB0C-B5E5-4C4D-B5BE-DC13D7CE22C0", "criteria": "cpe:2.3:a:apache:apache-airflow-providers-samba:*:*:*:*:*:*:*:*", "versionEndExcluding": "4.12.6", "lastModified": "2026-06-11T20:48:24.910", "cpeLastModified": "2026-06-11T20:48:24.910", "created": "2026-06-11T20:48:24.910", "status": "Active"}}
