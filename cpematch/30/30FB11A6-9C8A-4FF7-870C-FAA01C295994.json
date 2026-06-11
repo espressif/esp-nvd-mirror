@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "30FB11A6-9C8A-4FF7-870C-FAA01C295994", "criteria": "cpe:2.3:a:espressif:esp-idf:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.5", "versionEndExcluding": "5.5.4", "lastModified": "2026-06-11T14:09:12.283", "cpeLastModified": "2026-06-11T14:06:20.767", "created": "2026-06-11T14:06:20.767", "status": "Inactive"}}
