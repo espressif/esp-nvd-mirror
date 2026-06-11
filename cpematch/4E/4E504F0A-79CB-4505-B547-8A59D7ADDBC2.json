@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4E504F0A-79CB-4505-B547-8A59D7ADDBC2", "criteria": "cpe:2.3:a:erlang:erlang\\/ftp:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.5", "versionEndExcluding": "1.2.6", "lastModified": "2026-06-11T16:33:27.640", "cpeLastModified": "2026-06-11T16:33:27.640", "created": "2026-06-11T16:33:27.640", "status": "Active"}}
