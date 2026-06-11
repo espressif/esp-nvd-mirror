@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "122B3480-2A1A-4DBA-A0D2-766A49180264", "criteria": "cpe:2.3:a:vmware:spring_for_graphql:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.4.0", "versionEndExcluding": "1.4.6", "lastModified": "2026-06-11T19:52:37.340", "cpeLastModified": "2026-06-11T19:52:37.340", "created": "2026-06-11T19:52:37.340", "status": "Active"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "35B80091-48DA-4414-809F-EBE675B533DB", "criteria": "cpe:2.3:a:checkmk:checkmk:2.4.0:*:*:*:*:*:*:*", "lastModified": "2025-12-16T03:00:00.070", "cpeLastModified": "2025-11-20T17:06:46.430", "created": "2025-11-20T17:06:46.430", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "35B80091-48DA-4414-809F-EBE675B533DB", "criteria": "cpe:2.3:a:checkmk:checkmk:2.4.0:*:*:*:*:*:*:*", "lastModified": "2026-06-11T20:40:02.940", "cpeLastModified": "2025-11-20T17:06:46.430", "created": "2025-11-20T17:06:46.430", "status": "Active"}}
