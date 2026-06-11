@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "05F0E6B1-0DA3-4A0B-8C89-8DFC55EC7C8B", "criteria": "cpe:2.3:a:erlang:erts:*:*:*:*:*:*:*:*", "versionStartIncluding": "17.0", "versionEndExcluding": "17.0.2", "lastModified": "2026-06-11T17:25:04.020", "cpeLastModified": "2026-06-11T17:25:04.020", "created": "2026-06-11T17:25:04.020", "status": "Active"}}

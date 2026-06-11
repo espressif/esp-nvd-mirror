@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0778AFBA-F21F-4394-AA3A-38784D379BEB", "criteria": "cpe:2.3:a:erlang:erts:*:*:*:*:*:*:*:*", "versionStartIncluding": "16.0", "versionEndExcluding": "16.4.0.2", "lastModified": "2026-06-11T17:25:04.020", "cpeLastModified": "2026-06-11T17:25:04.020", "created": "2026-06-11T17:25:04.020", "status": "Active"}}

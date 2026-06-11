@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BC41283B-463D-427D-AF2F-AAA70D1F29FD", "criteria": "cpe:2.3:a:erlang:erl_interface:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.7.16", "versionEndExcluding": "5.5.2.1", "lastModified": "2026-06-11T17:34:01.530", "cpeLastModified": "2026-06-11T17:34:01.530", "created": "2026-06-11T17:34:01.530", "status": "Active"}}
