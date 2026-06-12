@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5230D69D-DAD9-4E19-9FA8-EAAB7EAA3547", "criteria": "cpe:2.3:a:nuxt:nuxt\\/nitro-server:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.2.0", "versionEndExcluding": "4.4.6", "lastModified": "2026-06-12T18:39:02.183", "cpeLastModified": "2026-06-12T18:39:02.183", "created": "2026-06-12T18:39:02.183", "status": "Active"}}
