@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8161B509-B444-4C9D-A382-236959A028CD", "criteria": "cpe:2.3:a:nuxt:nuxt\\/webpack-builder:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.21.5", "lastModified": "2026-06-12T18:13:57.897", "cpeLastModified": "2026-06-12T18:13:57.897", "created": "2026-06-12T18:13:57.897", "status": "Active"}}

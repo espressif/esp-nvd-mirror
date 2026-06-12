@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "303175ED-30E9-4102-A671-754861587075", "criteria": "cpe:2.3:a:nuxt:nuxt\\/rspack-builder:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.12.2", "versionEndExcluding": "3.21.5", "lastModified": "2026-06-12T18:13:57.897", "cpeLastModified": "2026-06-12T18:13:57.897", "created": "2026-06-12T18:13:57.897", "status": "Active"}}
