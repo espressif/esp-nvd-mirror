@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F5579D89-84ED-45BA-922F-B84DC5E3EE93", "criteria": "cpe:2.3:a:ivanti:standalone_sentry:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.6.0", "versionEndExcluding": "10.6.2", "lastModified": "2026-06-12T12:33:30.617", "cpeLastModified": "2026-06-12T12:33:30.617", "created": "2026-06-12T12:33:30.617", "status": "Active"}}
