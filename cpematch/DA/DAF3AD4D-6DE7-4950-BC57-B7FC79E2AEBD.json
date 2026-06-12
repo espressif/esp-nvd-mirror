@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "DAF3AD4D-6DE7-4950-BC57-B7FC79E2AEBD", "criteria": "cpe:2.3:a:microsoft:office_2016:-:*:*:-:*:x86:*:*", "lastModified": "2026-06-11T15:15:57.233", "cpeLastModified": "2026-06-11T15:15:57.233", "created": "2026-06-11T15:15:57.233", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "DAF3AD4D-6DE7-4950-BC57-B7FC79E2AEBD", "criteria": "cpe:2.3:a:microsoft:office_2016:-:*:*:-:*:x86:*:*", "lastModified": "2026-06-12T02:00:00.173", "cpeLastModified": "2026-06-11T15:15:57.233", "created": "2026-06-11T15:15:57.233", "status": "Inactive"}}
