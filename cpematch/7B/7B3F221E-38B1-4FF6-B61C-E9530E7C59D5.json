@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7B3F221E-38B1-4FF6-B61C-E9530E7C59D5", "criteria": "cpe:2.3:a:broadcom:spring_data_commons:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.0.6", "lastModified": "2026-06-15T19:01:19.350", "created": "2026-06-15T19:01:19.350", "status": "Active"}}
