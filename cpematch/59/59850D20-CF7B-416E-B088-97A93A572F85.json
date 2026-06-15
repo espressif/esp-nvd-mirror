@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "59850D20-CF7B-416E-B088-97A93A572F85", "criteria": "cpe:2.3:a:linuxfoundation:opentelemetry-go_schema:*:*:*:*:*:go:*:*", "versionEndExcluding": "0.0.17", "lastModified": "2026-06-15T16:54:08.000", "created": "2026-06-15T16:50:32.823", "status": "Inactive"}}
