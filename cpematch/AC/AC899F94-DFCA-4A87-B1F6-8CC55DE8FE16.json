@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AC899F94-DFCA-4A87-B1F6-8CC55DE8FE16", "criteria": "cpe:2.3:a:broadcom:spring_authorization_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.5.0", "versionEndExcluding": "1.5.8", "lastModified": "2026-06-16T19:16:31.800", "cpeLastModified": "2026-06-16T19:16:31.800", "created": "2026-06-16T19:16:31.800", "status": "Active"}}
