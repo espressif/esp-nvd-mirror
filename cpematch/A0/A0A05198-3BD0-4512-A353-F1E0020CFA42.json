@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A0A05198-3BD0-4512-A353-F1E0020CFA42", "criteria": "cpe:2.3:a:broadcom:spring_cloud_sleuth:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.1.0", "versionEndExcluding": "3.1.14", "lastModified": "2026-06-16T19:06:15.113", "cpeLastModified": "2026-06-16T19:06:15.113", "created": "2026-06-16T19:06:15.113", "status": "Active"}}

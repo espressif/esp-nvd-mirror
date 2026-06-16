@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B03881E2-332E-431A-AC4C-6EFE24AE449E", "criteria": "cpe:2.3:a:opentelemetry:opentelemetry-cpp:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.27.0", "lastModified": "2026-06-16T18:31:31.870", "cpeLastModified": "2026-06-16T18:31:31.870", "created": "2026-06-16T18:31:31.870", "status": "Active"}}
