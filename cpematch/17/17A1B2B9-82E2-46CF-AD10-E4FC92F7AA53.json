@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "17A1B2B9-82E2-46CF-AD10-E4FC92F7AA53", "criteria": "cpe:2.3:a:metal3:ip-address-manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.11.0", "versionEndExcluding": "1.11.7", "lastModified": "2026-06-16T17:21:50.377", "cpeLastModified": "2026-06-16T17:21:50.377", "created": "2026-06-16T17:21:50.377", "status": "Active"}}

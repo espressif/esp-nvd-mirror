@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E4FFAC7E-7388-479C-ACF6-00AEAE5C4149", "criteria": "cpe:2.3:a:ibm:qiskit_software_development_kit:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.43.0", "versionEndExcluding": "1.4.6", "lastModified": "2026-06-16T17:20:25.050", "created": "2026-06-16T17:20:25.050", "status": "Active"}}
