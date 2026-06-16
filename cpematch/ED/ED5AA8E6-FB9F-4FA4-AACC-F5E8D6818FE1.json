@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ED5AA8E6-FB9F-4FA4-AACC-F5E8D6818FE1", "criteria": "cpe:2.3:a:nlnetlabs:ldns:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.0", "versionEndExcluding": "1.9.2", "lastModified": "2026-06-16T14:51:29.407", "cpeLastModified": "2026-06-16T14:50:10.083", "created": "2026-06-16T14:50:10.083", "status": "Inactive"}}
