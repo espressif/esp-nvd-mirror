@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D1BE7340-5BC2-47E3-9C7F-2016954C0954", "criteria": "cpe:2.3:a:paloaltonetworks:idira_privilege_cloud_connector:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.0", "versionEndExcluding": "1.1.100504", "lastModified": "2026-06-22T13:50:38.993", "created": "2026-06-22T13:50:38.993", "status": "Active"}}

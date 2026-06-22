@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1B541FA6-1F06-4CB5-B7FF-D62C2FC9E95C", "criteria": "cpe:2.3:a:paloaltonetworks:idira_identity_browser_extension:*:*:*:*:*:*:*:*", "versionStartIncluding": "26.0.0", "versionEndExcluding": "26.8.1", "lastModified": "2026-06-22T13:08:44.917", "created": "2026-06-22T13:08:44.917", "status": "Active"}}
