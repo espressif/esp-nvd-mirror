@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "91094832-6213-43B2-8229-005E7F3FAE8E", "criteria": "cpe:2.3:a:vmware:spring_for_apache_pulsar:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndIncluding": "2.0.5", "lastModified": "2026-06-18T17:00:45.077", "cpeLastModified": "2026-06-18T17:00:45.077", "created": "2026-06-18T17:00:45.077", "status": "Active"}}

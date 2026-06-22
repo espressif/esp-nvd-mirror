@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "67E36C20-FF20-4F82-B161-74E3838D67FD", "criteria": "cpe:2.3:a:vmware:spring_data_mongodb:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.2.0", "versionEndIncluding": "4.2.15", "lastModified": "2026-06-18T16:46:07.717", "created": "2026-06-18T16:46:07.717", "status": "Active"}}

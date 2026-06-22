@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E5CA1B3D-8DE0-409B-B9A2-F0BCB9657744", "criteria": "cpe:2.3:a:paloaltonetworks:idira_secrets_manager_self-hosted:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.0", "versionEndExcluding": "13.8.1", "lastModified": "2026-06-22T11:40:19.010", "cpeLastModified": "2026-06-22T11:40:19.010", "created": "2026-06-22T11:40:19.010", "status": "Active"}}

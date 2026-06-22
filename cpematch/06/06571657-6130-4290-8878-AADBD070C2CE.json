@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "06571657-6130-4290-8878-AADBD070C2CE", "criteria": "cpe:2.3:a:vmware:spring_for_apache_kafka:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndIncluding": "4.0.5", "lastModified": "2026-06-18T16:50:33.547", "created": "2026-06-18T16:50:33.547", "status": "Active"}}

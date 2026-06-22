@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "58997B42-0692-4857-A7C2-2015F53ABB9C", "criteria": "cpe:2.3:a:oracle:mysql_ndb_cluster:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.11", "versionEndIncluding": "8.0.46", "lastModified": "2026-06-18T18:28:16.647", "created": "2026-06-18T18:28:16.647", "status": "Active"}}

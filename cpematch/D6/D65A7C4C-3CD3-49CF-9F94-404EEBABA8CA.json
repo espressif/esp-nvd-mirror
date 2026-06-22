@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D65A7C4C-3CD3-49CF-9F94-404EEBABA8CA", "criteria": "cpe:2.3:a:apache:airflow_providers_sftp:*:*:*:*:*:*:*:*", "versionEndExcluding": "5.8.1", "lastModified": "2026-06-17T16:39:01.923", "created": "2026-06-17T16:39:01.923", "status": "Active"}}

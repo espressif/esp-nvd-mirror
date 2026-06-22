@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "50AE9E34-5A8F-44E9-82DE-FC0437507762", "criteria": "cpe:2.3:a:paloaltonetworks:idira_secrets_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.0", "versionEndExcluding": "13.8.1", "lastModified": "2026-06-22T11:20:47.617", "created": "2026-06-22T11:20:47.617", "status": "Active"}}

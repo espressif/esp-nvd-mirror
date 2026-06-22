@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "56FAF94E-4638-489B-9580-7BDBE8A0767A", "criteria": "cpe:2.3:a:dell:powerflex_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.6.0", "versionEndExcluding": "5.1.0.1", "lastModified": "2026-06-18T15:15:12.507", "cpeLastModified": "2026-06-18T15:15:12.507", "created": "2026-06-18T15:15:12.507", "status": "Active"}}

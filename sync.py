@@ -2,6 +2,8 @@
 
 import argparse
 import datetime
+import gzip
+import hashlib
 import http.client
 import json
 import os
@@ -14,6 +16,7 @@ from pathlib import Path
 from typing import Optional
 
 NVD_API_KEY = os.environ.get('NVD_API_KEY')
+NVD_FEED_CVE_BASE = 'https://nvd.nist.gov/feeds/json/cve/2.0'
 
 
 def normalize_iso_datetime(date_str: Optional[str] = None) -> str:
@@ -86,10 +89,69 @@ def nvd_request(endpoint: str,
     return res
 
 
+def download_feed(url: str, retry_max: int = 10) -> bytes:
+    retry = 0
+    while True:
+        try:
+            with urllib.request.urlopen(url, timeout=120) as resp:
+                return resp.read()
+
+        except (OSError, http.client.HTTPException) as e:
+            if isinstance(e, urllib.error.HTTPError) and e.code == 404:
+                raise
+            retry += 1
+            if retry > retry_max:
+                raise
+            print((f'Failed to download {url} ({e}). '
+                   f'Trying again ({retry}/{retry_max}) in 20 seconds...'))
+            time.sleep(20)
+            continue
+
+
+def parse_meta(raw: bytes) -> dict:
+    meta = {}
+    for line in raw.decode().splitlines():
+        key, sep, value = line.partition(':')
+        if sep:
+            meta[key.strip()] = value.strip()
+    return meta
+
+
+def nvd_feed() -> list:
+    """
+    Download all NVD CVE JSON 2.0 yearly feeds (2002 to the current year)
+    and return them as a list of response objects, mirroring the structure
+    returned by nvd_request() so that sync_cves() can consume either source
+    unchanged. The feeds are static CDN files, unaffected by the REST API's
+    rate limits and availability problems, which makes them the reliable way
+    to perform a full CVE refresh. Each payload is verified against the
+    SHA-256 published in its companion .meta file before being parsed.
+    """
+    res = []
+    current_year = datetime.datetime.now(datetime.timezone.utc).year
+    for year in range(2002, current_year + 1):
+        base = f'{NVD_FEED_CVE_BASE}/nvdcve-2.0-{year}'
+        print('FEED:', f'{base}.json.gz')
+        meta = parse_meta(download_feed(f'{base}.meta'))
+        payload = gzip.decompress(download_feed(f'{base}.json.gz'))
+
+        expected = meta.get('sha256', '').lower()
+        actual = hashlib.sha256(payload).hexdigest()
+        if expected and actual != expected:
+            raise RuntimeError(
+                f'sha256 mismatch for {base}.json.gz: expected {expected}, '
+                f'got {actual}. Aborting to avoid writing corrupt data.')
+
+        res.append(json.loads(payload))
+
+    return res
+
+
 def sync_cves(repo_path: Path,
               resync: bool = False,
               cveid: Optional[str] = None,
-              syncdate: Optional[dict] = None) -> None:
+              syncdate: Optional[dict] = None,
+              feed: bool = False) -> None:
     if resync:
         params = {}
     elif cveid:
@@ -103,7 +165,10 @@ def sync_cves(repo_path: Path,
             'lastModEndDate': normalize_iso_datetime()
         }
 
-    data = nvd_request('rest/json/cves/2.0', params, resync=resync)
+    if feed:
+        data = nvd_feed()
+    else:
+        data = nvd_request('rest/json/cves/2.0', params, resync=resync)
 
     last_modified_dt = None
     cnt = 0
@@ -203,6 +268,19 @@ if __name__ == '__main__':
     )
 
     parser.add_argument(
+        '--feed',
+        action='store_true',
+        help=(
+            'Only valid together with --resync. Perform the full CVE '
+            'resync from the NVD bulk JSON 2.0 yearly feeds '
+            '(https://nvd.nist.gov/feeds/json/cve/2.0/) instead of the '
+            'REST API. Use this when the REST API is degraded or '
+            'rate-limited. CPE match data is skipped and its sync state '
+            'in syncdate.json is left untouched.'
+        )
+    )
+
+    parser.add_argument(
         '--cveid', '-c',
         metavar='CVEID',
         help=(
@@ -221,6 +299,9 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
 
+    if args.feed and not args.resync:
+        parser.error('--feed can only be used together with --resync')
+
     repo_path = Path(args.repo)
     syncdate_path = repo_path / 'syncdate.json'
 
@@ -230,18 +311,38 @@ if __name__ == '__main__':
         sync_cpematch(repo_path, matchid=args.matchid)
     elif args.resync:
         epoch_start = '1970-01-01'
-        syncdate = {
-            'vulnerabilities': {
-                'lastModStartDate': epoch_start,
-                'lastModEndDate': epoch_start
-            },
-            'matchStrings': {
+        if args.feed:
+            # CVE-only resync from the yearly feeds. Preserve the existing
+            # CPE match sync state in syncdate.json, since cpematch is not
+            # touched here; only the vulnerabilities window is reset.
+            if syncdate_path.exists():
+                with open(syncdate_path, 'r') as f:
+                    syncdate = json.loads(f.read())
+            else:
+                syncdate = {
+                    'matchStrings': {
+                        'lastModStartDate': epoch_start,
+                        'lastModEndDate': epoch_start
+                    }
+                }
+            syncdate['vulnerabilities'] = {
                 'lastModStartDate': epoch_start,
                 'lastModEndDate': epoch_start
             }
-        }
-        sync_cpematch(repo_path, resync=True, syncdate=syncdate)
-        sync_cves(repo_path, resync=True, syncdate=syncdate)
+            sync_cves(repo_path, resync=True, syncdate=syncdate, feed=True)
+        else:
+            syncdate = {
+                'vulnerabilities': {
+                    'lastModStartDate': epoch_start,
+                    'lastModEndDate': epoch_start
+                },
+                'matchStrings': {
+                    'lastModStartDate': epoch_start,
+                    'lastModEndDate': epoch_start
+                }
+            }
+            sync_cpematch(repo_path, resync=True, syncdate=syncdate)
+            sync_cves(repo_path, resync=True, syncdate=syncdate)
 
         with open(syncdate_path, 'w') as f:
             json.dump(syncdate, f, indent=4)
