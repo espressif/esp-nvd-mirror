@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3EF5BA17-4553-4967-B3B5-25FFC24CF90E", "criteria": "cpe:2.3:a:openstack:nova:*:*:*:*:*:*:*:*", "versionStartIncluding": "33.0.0", "versionEndExcluding": "33.0.2", "lastModified": "2026-06-22T17:26:47.633", "created": "2026-06-22T17:26:47.633", "status": "Active"}}
