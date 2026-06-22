@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EC340C24-8BA9-4FB6-82AA-F4A9BE932842", "criteria": "cpe:2.3:a:paloaltonetworks:idira_privileged_session_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "14.0", "versionEndExcluding": "14.0.5", "lastModified": "2026-06-22T12:31:08.683", "created": "2026-06-22T12:31:08.683", "status": "Active"}}
