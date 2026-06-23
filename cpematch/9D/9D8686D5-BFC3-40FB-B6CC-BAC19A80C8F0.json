@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9D8686D5-BFC3-40FB-B6CC-BAC19A80C8F0", "criteria": "cpe:2.3:a:microsoft:azure_network_adapter:*:*:*:*:*:linux:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "7.1", "lastModified": "2026-06-23T17:07:04.417", "created": "2026-06-23T17:06:15.140", "status": "Inactive"}}

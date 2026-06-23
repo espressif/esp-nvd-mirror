@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "474C2CF5-4DCF-455B-A550-EEFDDB585FD4", "criteria": "cpe:2.3:a:chimurai:http-proxy-middleware:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.1.0", "lastModified": "2026-06-23T17:11:51.793", "cpeLastModified": "2026-06-23T17:11:51.793", "created": "2026-06-23T17:11:51.793", "status": "Active"}}
