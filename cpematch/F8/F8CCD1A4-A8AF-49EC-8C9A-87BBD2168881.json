@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F8CCD1A4-A8AF-49EC-8C9A-87BBD2168881", "criteria": "cpe:2.3:a:pevans:metrics\\:\\:any\\:\\:adapter\\:\\:dogstatsd:*:*:*:*:*:perl:*:*", "versionEndExcluding": "0.04", "lastModified": "2026-06-23T14:26:11.770", "created": "2026-06-23T14:26:11.770", "status": "Active"}}
