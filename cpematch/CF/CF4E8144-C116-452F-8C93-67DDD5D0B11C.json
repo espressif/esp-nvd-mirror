@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "CF4E8144-C116-452F-8C93-67DDD5D0B11C", "criteria": "cpe:2.3:a:jetbrains:hub:2025.1.1.148120:*:*:*:*:*:*:*", "lastModified": "2026-06-23T14:31:54.137", "created": "2026-06-23T14:31:54.137", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "CF4E8144-C116-452F-8C93-67DDD5D0B11C", "criteria": "cpe:2.3:a:jetbrains:hub:2025.1.1.148120:*:*:*:*:*:*:*", "lastModified": "2026-06-23T18:46:02.440", "created": "2026-06-23T14:31:54.137", "status": "Inactive"}}
