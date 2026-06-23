@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FD170D86-D657-4F8D-99BF-9624CDC0287A", "criteria": "cpe:2.3:a:messagepack:messagepack:*:*:*:*:*:c\\#:*:*", "versionStartIncluding": "3.0.3", "versionEndExcluding": "3.1.7", "lastModified": "2026-06-23T15:10:41.067", "created": "2026-06-23T15:10:41.067", "status": "Active"}}

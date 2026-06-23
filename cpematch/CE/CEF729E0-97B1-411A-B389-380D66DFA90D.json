@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CEF729E0-97B1-411A-B389-380D66DFA90D", "criteria": "cpe:2.3:a:siemens:simatic_wincc_unified_pc_runtime:*:*:*:*:*:*:*:*", "versionStartIncluding": "16", "versionEndIncluding": "20", "lastModified": "2026-06-23T16:04:23.267", "cpeLastModified": "2026-06-23T16:04:23.267", "created": "2026-06-23T16:04:23.267", "status": "Active"}}
