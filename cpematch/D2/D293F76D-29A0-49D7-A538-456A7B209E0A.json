@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D293F76D-29A0-49D7-A538-456A7B209E0A", "criteria": "cpe:2.3:a:ni:ni_grpc_device_server:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.18.0", "lastModified": "2026-06-24T18:43:26.857", "cpeLastModified": "2026-06-24T18:43:26.857", "created": "2026-06-24T18:43:26.857", "status": "Active"}}
