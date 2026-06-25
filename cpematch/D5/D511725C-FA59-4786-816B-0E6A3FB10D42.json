@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D511725C-FA59-4786-816B-0E6A3FB10D42", "criteria": "cpe:2.3:a:chromedevtools:chrome-devtools:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.20.0", "versionEndExcluding": "1.1.0", "lastModified": "2026-06-25T18:28:07.267", "cpeLastModified": "2026-06-25T18:28:07.267", "created": "2026-06-25T18:28:07.267", "status": "Active"}}

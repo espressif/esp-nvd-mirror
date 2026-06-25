@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "59601D96-4AB4-4B53-8DEC-305A6D442E6E", "criteria": "cpe:2.3:a:fasterxml:jackson-databind:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.19.0", "versionEndExcluding": "2.21.4", "lastModified": "2026-06-25T17:48:22.657", "created": "2026-06-25T17:48:22.657", "status": "Active"}}

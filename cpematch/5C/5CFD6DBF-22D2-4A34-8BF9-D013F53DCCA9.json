@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5CFD6DBF-22D2-4A34-8BF9-D013F53DCCA9", "criteria": "cpe:2.3:a:nlnetlabs:nsd:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.13.0", "versionEndExcluding": "4.14.3", "lastModified": "2026-06-25T18:29:58.277", "cpeLastModified": "2026-06-25T18:29:58.277", "created": "2026-06-25T18:29:58.277", "status": "Active"}}
