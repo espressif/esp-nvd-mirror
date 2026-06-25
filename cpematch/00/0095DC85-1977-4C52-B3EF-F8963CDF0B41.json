@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0095DC85-1977-4C52-B3EF-F8963CDF0B41", "criteria": "cpe:2.3:a:dest-unreach:socat:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.8.0.0", "versionEndExcluding": "1.8.1.2", "lastModified": "2026-06-25T19:39:37.777", "created": "2026-06-25T19:39:37.777", "status": "Active"}}
