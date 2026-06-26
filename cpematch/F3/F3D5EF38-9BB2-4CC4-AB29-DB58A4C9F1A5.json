@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F3D5EF38-9BB2-4CC4-AB29-DB58A4C9F1A5", "criteria": "cpe:2.3:a:chrome:chrome-devtools-mcp:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "0.20.0", "versionEndExcluding": "1.1.0", "lastModified": "2026-06-26T16:25:06.717", "cpeLastModified": "2026-06-26T16:25:06.717", "created": "2026-06-26T16:25:06.717", "status": "Active"}}
