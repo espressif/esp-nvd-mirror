@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "BAD1311A-8C48-4383-8B41-B935F99DED36", "criteria": "cpe:2.3:a:gpac:gpac:26.02.0:*:*:*:*:*:*:*", "lastModified": "2026-06-26T18:00:53.087", "cpeLastModified": "2026-06-26T18:00:53.087", "created": "2026-06-26T18:00:53.087", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "BAD1311A-8C48-4383-8B41-B935F99DED36", "criteria": "cpe:2.3:a:gpac:gpac:26.02.0:*:*:*:*:*:*:*", "lastModified": "2026-06-27T02:00:00.140", "cpeLastModified": "2026-06-26T18:00:53.087", "created": "2026-06-26T18:00:53.087", "status": "Inactive"}}
