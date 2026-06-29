@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EF8B39A3-B72E-4837-9CB3-F437EAC84F4B", "criteria": "cpe:2.3:a:openstack:swift:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.36.0", "versionEndExcluding": "2.36.2", "lastModified": "2026-06-29T18:17:51.710", "created": "2026-06-29T18:17:51.710", "status": "Active"}}

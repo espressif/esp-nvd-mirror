@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F7072014-1358-4B3F-92A2-7299218FAED2", "criteria": "cpe:2.3:a:grafana:grafana-operator:*:*:*:*:*:*:*:*", "versionEndExcluding": "5.24.0", "lastModified": "2026-06-29T18:18:41.490", "cpeLastModified": "2026-06-29T18:18:41.490", "created": "2026-06-29T18:18:41.490", "status": "Active"}}
