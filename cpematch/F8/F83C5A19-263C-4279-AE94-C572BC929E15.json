@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F83C5A19-263C-4279-AE94-C572BC929E15", "criteria": "cpe:2.3:a:cisco:secure_workload:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0", "versionEndExcluding": "4.0.3.17", "lastModified": "2026-06-29T19:50:04.260", "cpeLastModified": "2026-06-29T19:50:04.260", "created": "2026-06-29T19:50:04.260", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BD025602-EAFC-44FD-B776-56CC1F84FDD0", "criteria": "cpe:2.3:o:cisco:ios_xr_software:*:*:*:*:*:*:*:*", "versionStartIncluding": "25.3", "versionEndExcluding": "25.4.2", "lastModified": "2026-06-29T19:16:47.650", "cpeLastModified": "2026-06-29T19:16:47.650", "created": "2026-06-29T19:16:47.650", "status": "Active"}}
