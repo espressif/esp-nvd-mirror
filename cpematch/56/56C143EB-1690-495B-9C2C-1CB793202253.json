@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "56C143EB-1690-495B-9C2C-1CB793202253", "criteria": "cpe:2.3:a:ibm:watson_speech_services_cartridge:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "5.3.1", "lastModified": "2026-06-29T16:02:17.523", "created": "2026-06-29T16:02:17.523", "status": "Active"}}

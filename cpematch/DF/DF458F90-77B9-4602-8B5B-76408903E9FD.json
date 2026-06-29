@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DF458F90-77B9-4602-8B5B-76408903E9FD", "criteria": "cpe:2.3:a:pgadmin:pgadmin_4:*:*:*:*:*:postgresql:*:*", "versionStartIncluding": "9.13", "versionEndExcluding": "9.16", "lastModified": "2026-06-29T16:44:05.723", "cpeLastModified": "2026-06-29T16:44:05.723", "created": "2026-06-29T16:44:05.723", "status": "Active"}}
