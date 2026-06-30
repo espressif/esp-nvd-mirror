@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "04A55D64-2A2D-4C7E-8232-6283DDE62A6D", "criteria": "cpe:2.3:a:apache:cordova_inappbrowser:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.1.0", "versionEndExcluding": "6.0.1", "lastModified": "2026-06-30T16:23:11.220", "created": "2026-06-30T16:23:11.220", "status": "Active"}}
