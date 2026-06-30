@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7DE3B83B-CE98-42D6-ADFE-DBAF218EC5A2", "criteria": "cpe:2.3:a:fgmacedo:python-statemachine:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.2.0", "lastModified": "2026-06-30T14:02:34.840", "created": "2026-06-30T14:02:34.840", "status": "Active"}}
