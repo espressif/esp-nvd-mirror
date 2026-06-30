@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0653F079-4206-402F-AF7E-C1A6B0C7D32B", "criteria": "cpe:2.3:a:redhat:openshift_ai:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.3", "versionEndExcluding": "3.3.4", "lastModified": "2026-06-30T19:15:11.190", "cpeLastModified": "2026-06-30T19:15:11.190", "created": "2026-06-30T19:15:11.190", "status": "Active"}}
