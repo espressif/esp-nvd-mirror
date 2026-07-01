@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "F1FBBF37-C988-48FC-934B-0F615DEED6EF", "criteria": "cpe:2.3:a:cisco:webex:-:*:*:*:*:*:*:*", "lastModified": "2026-03-11T12:03:43.347", "created": "2025-07-07T15:17:28.103", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "F1FBBF37-C988-48FC-934B-0F615DEED6EF", "criteria": "cpe:2.3:a:cisco:webex:-:*:*:*:*:*:*:*", "lastModified": "2026-03-11T12:03:43.347", "cpeLastModified": "2026-06-30T21:24:17.923", "created": "2025-07-07T15:17:28.103", "status": "Active"}}

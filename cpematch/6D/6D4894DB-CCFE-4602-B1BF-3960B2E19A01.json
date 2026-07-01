@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6D4894DB-CCFE-4602-B1BF-3960B2E19A01", "criteria": "cpe:2.3:o:linux:linux_kernel:6.16:rc1:*:*:*:*:*:*", "lastModified": "2026-06-30T21:24:17.923", "created": "2025-09-05T14:07:55.490", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:linux:linux_kernel:6.16:rc1:*:*:*:*:*:*", "cpeNameId": "4F3DAF26-0915-4680-9451-2EA681958382"}]}}
