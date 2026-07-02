@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0437ED17-2C9E-4F41-B846-51A6A3F3761E", "criteria": "cpe:2.3:a:canonical:lxd:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.12.0", "versionEndExcluding": "5.0.7", "lastModified": "2026-07-02T13:13:22.980", "cpeLastModified": "2026-07-02T13:12:41.760", "created": "2026-07-02T13:12:41.760", "status": "Inactive"}}
