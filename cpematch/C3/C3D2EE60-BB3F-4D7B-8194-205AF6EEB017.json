@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C3D2EE60-BB3F-4D7B-8194-205AF6EEB017", "criteria": "cpe:2.3:a:apache:airflow-cncf-kubernetes:*:*:*:*:*:*:*:*", "versionEndExcluding": "10.17.0", "lastModified": "2026-07-02T16:17:37.273", "created": "2026-07-02T16:17:37.273", "status": "Active"}}

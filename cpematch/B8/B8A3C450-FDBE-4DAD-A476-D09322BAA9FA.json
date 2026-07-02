@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B8A3C450-FDBE-4DAD-A476-D09322BAA9FA", "criteria": "cpe:2.3:a:podman_project:podman:6.0.0:rc1:*:*:*:*:*:*", "lastModified": "2026-07-02T16:13:03.863", "created": "2026-07-02T15:20:39.153", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:podman_project:podman:6.0.0:rc1:*:*:*:*:*:*", "cpeNameId": "7CE0F2D7-8F77-4F66-A8BE-C820BE735A8B"}]}}

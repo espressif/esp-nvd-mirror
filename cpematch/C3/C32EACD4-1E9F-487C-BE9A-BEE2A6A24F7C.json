@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C32EACD4-1E9F-487C-BE9A-BEE2A6A24F7C", "criteria": "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.1.1", "versionEndIncluding": "10.1.55", "lastModified": "2026-07-02T15:56:53.880", "cpeLastModified": "2026-07-02T15:53:13.627", "created": "2026-07-02T15:53:13.627", "status": "Inactive"}}

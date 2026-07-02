@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "49C34B8E-5160-4AA2-8C98-660D391BB8F9", "criteria": "cpe:2.3:a:apache:airflow-providers-amazon:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "9.22.0", "lastModified": "2026-07-02T16:17:55.883", "created": "2026-07-02T16:17:55.883", "status": "Active"}}
