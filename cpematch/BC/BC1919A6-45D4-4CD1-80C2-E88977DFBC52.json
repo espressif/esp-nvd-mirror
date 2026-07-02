@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BC1919A6-45D4-4CD1-80C2-E88977DFBC52", "criteria": "cpe:2.3:a:rancher:fleet:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.15.0", "versionEndExcluding": "0.15.2", "lastModified": "2026-07-02T18:58:36.767", "cpeLastModified": "2026-07-02T18:58:36.767", "created": "2026-07-02T18:58:36.767", "status": "Active"}}
