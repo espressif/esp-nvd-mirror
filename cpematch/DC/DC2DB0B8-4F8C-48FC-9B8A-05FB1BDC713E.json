@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "DC2DB0B8-4F8C-48FC-9B8A-05FB1BDC713E", "criteria": "cpe:2.3:a:ibm:watsonx.data:5.3.1:patch1:*:*:*:*:*:*", "lastModified": "2026-07-02T14:18:39.250", "created": "2026-07-02T14:18:39.250", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "DC2DB0B8-4F8C-48FC-9B8A-05FB1BDC713E", "criteria": "cpe:2.3:a:ibm:watsonx.data:5.3.1:patch1:*:*:*:*:*:*", "lastModified": "2026-07-03T02:00:00.097", "created": "2026-07-02T14:18:39.250", "status": "Inactive"}}
