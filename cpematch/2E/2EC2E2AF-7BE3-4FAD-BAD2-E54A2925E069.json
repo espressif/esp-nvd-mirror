@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2EC2E2AF-7BE3-4FAD-BAD2-E54A2925E069", "criteria": "cpe:2.3:a:progress:flowmon:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.0.0", "versionEndExcluding": "12.5.9", "lastModified": "2026-07-06T16:37:06.393", "cpeLastModified": "2026-07-06T16:37:06.393", "created": "2026-07-06T16:37:06.393", "status": "Active"}}

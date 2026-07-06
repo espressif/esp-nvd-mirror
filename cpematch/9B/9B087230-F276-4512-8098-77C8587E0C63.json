@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9B087230-F276-4512-8098-77C8587E0C63", "criteria": "cpe:2.3:a:progress:flowmon_anomaly_detection_system:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.0.0", "versionEndExcluding": "13.0.5", "lastModified": "2026-07-06T16:43:20.597", "cpeLastModified": "2026-07-06T16:43:20.597", "created": "2026-07-06T16:43:20.597", "status": "Active"}}
