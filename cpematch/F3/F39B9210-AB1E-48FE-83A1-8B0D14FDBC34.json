@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F39B9210-AB1E-48FE-83A1-8B0D14FDBC34", "criteria": "cpe:2.3:a:elastic:defend:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.0", "versionEndExcluding": "9.2.7", "lastModified": "2026-07-06T17:42:45.137", "created": "2026-07-06T17:38:27.573", "status": "Inactive"}}

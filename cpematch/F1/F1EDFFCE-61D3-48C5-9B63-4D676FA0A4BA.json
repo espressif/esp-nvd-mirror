@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F1EDFFCE-61D3-48C5-9B63-4D676FA0A4BA", "criteria": "cpe:2.3:a:elastic:fleet_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.0", "versionEndExcluding": "9.2.5", "lastModified": "2026-07-06T18:06:31.293", "created": "2026-07-06T18:06:31.293", "status": "Active"}}
