@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1AC52645-95BC-456D-852D-F5492831905A", "criteria": "cpe:2.3:a:mediawiki:cargo:*:*:*:*:*:mediawiki:*:*", "versionStartIncluding": "1.45.0", "versionEndExcluding": "1.45.4", "lastModified": "2026-07-06T19:56:39.300", "created": "2026-07-06T19:56:39.300", "status": "Active"}}
