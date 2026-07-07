@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "05C4FCAA-8638-476C-A60F-C1FE9922D613", "criteria": "cpe:2.3:a:microsoft:visual_c\\+\\+_redistributable:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "14.40.33816", "lastModified": "2026-07-07T14:21:50.910", "created": "2026-07-07T14:21:50.910", "status": "Active"}}
