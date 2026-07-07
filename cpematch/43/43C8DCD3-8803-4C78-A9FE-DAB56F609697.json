@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "43C8DCD3-8803-4C78-A9FE-DAB56F609697", "criteria": "cpe:2.3:a:paloaltonetworks:idira_privileged_access_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "14.2", "versionEndExcluding": "14.2.7", "lastModified": "2026-07-07T11:16:23.530", "cpeLastModified": "2026-07-07T11:16:23.530", "created": "2026-07-07T11:16:23.530", "status": "Active"}}

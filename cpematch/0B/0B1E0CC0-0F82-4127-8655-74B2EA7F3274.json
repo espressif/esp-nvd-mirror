@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0B1E0CC0-0F82-4127-8655-74B2EA7F3274", "criteria": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:*:*:*:*:critical_environment:*:*:*", "versionStartIncluding": "8.7.0", "versionEndExcluding": "8.7.101", "lastModified": "2026-07-07T11:21:14.137", "created": "2026-07-07T11:21:14.137", "status": "Active"}}
