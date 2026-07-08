@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8F98C1AC-1593-43EB-929A-4D3B7597C9BC", "criteria": "cpe:2.3:a:phoenixframework:phoenix:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.8.0", "versionEndExcluding": "1.8.9", "lastModified": "2026-07-08T17:30:36.257", "cpeLastModified": "2026-07-08T17:30:36.257", "created": "2026-07-08T17:30:36.257", "status": "Active"}}
