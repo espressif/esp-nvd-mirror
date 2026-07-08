@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F124B755-8A4B-4544-BFAE-F0C2639CBB93", "criteria": "cpe:2.3:a:netapp:storagegrid:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.0", "versionEndExcluding": "12.0.0.6", "lastModified": "2026-07-08T00:26:56.820", "created": "2026-07-08T00:26:56.820", "status": "Active"}}
