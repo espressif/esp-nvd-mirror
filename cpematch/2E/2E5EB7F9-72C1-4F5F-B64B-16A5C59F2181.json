@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2E5EB7F9-72C1-4F5F-B64B-16A5C59F2181", "criteria": "cpe:2.3:a:amazon:advanced_jdbc_wrapper:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.3.0", "versionEndExcluding": "4.0.1", "lastModified": "2026-07-08T16:07:48.033", "created": "2026-07-08T16:07:48.033", "status": "Active"}}
