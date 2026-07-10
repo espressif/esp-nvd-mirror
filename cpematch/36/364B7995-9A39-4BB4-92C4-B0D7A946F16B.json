@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "364B7995-9A39-4BB4-92C4-B0D7A946F16B", "criteria": "cpe:2.3:a:nodeca:js-yaml:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.2.1", "lastModified": "2026-07-10T18:24:41.633", "cpeLastModified": "2026-07-10T18:24:41.633", "created": "2026-07-10T18:24:41.633", "status": "Active"}}
