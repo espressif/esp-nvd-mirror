@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D2F157CF-77FD-43D8-A988-465DB2C62514", "criteria": "cpe:2.3:a:cloudfoundry:bosh_cli:*:*:*:*:*:*:*:*", "versionEndExcluding": "7.10.4", "lastModified": "2026-07-10T15:56:14.117", "cpeLastModified": "2026-07-10T15:56:14.117", "created": "2026-07-10T15:56:14.117", "status": "Active"}}
