@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "963A640C-045D-4FD9-A7DA-B6F5A5F46B4C", "criteria": "cpe:2.3:a:paloaltonetworks:broker_vm:*:*:*:*:*:*:*:*", "versionStartIncluding": "30.0.0", "versionEndExcluding": "30.0.24", "lastModified": "2026-07-13T14:07:20.133", "cpeLastModified": "2026-07-13T14:07:20.133", "created": "2026-07-13T14:07:20.133", "status": "Active"}}
