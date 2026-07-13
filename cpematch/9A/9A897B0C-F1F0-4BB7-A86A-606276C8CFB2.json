@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9A897B0C-F1F0-4BB7-A86A-606276C8CFB2", "criteria": "cpe:2.3:a:paloaltonetworks:prisma_sd-wan:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.5.1", "versionEndExcluding": "6.5.3", "lastModified": "2026-07-13T18:08:52.023", "created": "2026-07-13T18:08:52.023", "status": "Active"}}
