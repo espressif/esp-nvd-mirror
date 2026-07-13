@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AD9D632C-8323-4099-8C50-6023335414D1", "criteria": "cpe:2.3:a:paloaltonetworks:trust_protection_foundation:*:*:*:*:*:*:*:*", "versionStartIncluding": "25.3.0", "versionEndExcluding": "25.3.3", "lastModified": "2026-07-13T11:30:47.777", "created": "2026-07-13T11:30:47.777", "status": "Active"}}

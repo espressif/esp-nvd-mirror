@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C665C9A9-69BC-4910-9D5F-740A769A7822", "criteria": "cpe:2.3:a:paloaltonetworks:broker_vm:*:*:*:*:*:*:*:*", "versionStartIncluding": "30.0", "versionEndExcluding": "30.0.24", "lastModified": "2026-07-13T12:12:42.097", "created": "2026-07-13T12:12:42.097", "status": "Active"}}
