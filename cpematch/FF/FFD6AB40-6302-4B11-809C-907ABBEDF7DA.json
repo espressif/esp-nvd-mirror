@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FFD6AB40-6302-4B11-809C-907ABBEDF7DA", "criteria": "cpe:2.3:a:ibm:devops_deploy:8.1.0.0:*:*:*:*:*:*:*", "lastModified": "2026-07-14T14:18:17.797", "created": "2025-08-13T15:10:20.987", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:ibm:devops_deploy:8.1.0.0:*:*:*:*:*:*:*", "cpeNameId": "C16D3B8E-2C87-47D9-AE5C-0CB091D03094"}]}}
