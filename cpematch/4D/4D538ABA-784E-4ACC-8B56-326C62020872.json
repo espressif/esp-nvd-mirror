@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4D538ABA-784E-4ACC-8B56-326C62020872", "criteria": "cpe:2.3:a:vmware:spring_advanced_message_queuing_protocol:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.0.3.1", "lastModified": "2026-07-17T17:01:08.580", "created": "2026-07-17T17:01:08.580", "status": "Active"}}

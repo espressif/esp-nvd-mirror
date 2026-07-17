@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B72E71C2-C3A1-49EF-BA51-0F4073A2CE9E", "criteria": "cpe:2.3:a:modelcontextprotocol:mcp_python_sdk:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.23.0", "versionEndExcluding": "1.27.2", "lastModified": "2026-07-17T16:31:16.010", "cpeLastModified": "2026-07-17T16:31:16.010", "created": "2026-07-17T16:31:16.010", "status": "Active"}}
