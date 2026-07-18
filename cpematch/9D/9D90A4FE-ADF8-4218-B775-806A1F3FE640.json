@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "9D90A4FE-ADF8-4218-B775-806A1F3FE640", "criteria": "cpe:2.3:a:netfoundry:zrok:2.0.3:*:*:*:*:*:*:*", "lastModified": "2026-07-17T18:12:00.390", "cpeLastModified": "2026-07-17T18:12:00.390", "created": "2026-07-17T18:12:00.390", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "9D90A4FE-ADF8-4218-B775-806A1F3FE640", "criteria": "cpe:2.3:a:netfoundry:zrok:2.0.3:*:*:*:*:*:*:*", "lastModified": "2026-07-18T02:00:00.110", "cpeLastModified": "2026-07-17T18:12:00.390", "created": "2026-07-17T18:12:00.390", "status": "Inactive"}}
