@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E305E4AD-6954-4A0E-8BF3-32BF258C8DF6", "criteria": "cpe:2.3:a:drupal_canvas_project:drupal_canvas:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "1.7.0", "versionEndExcluding": "1.7.1", "lastModified": "2026-07-21T15:40:23.250", "cpeLastModified": "2026-07-21T15:40:23.250", "created": "2026-07-21T15:40:23.250", "status": "Active"}}
