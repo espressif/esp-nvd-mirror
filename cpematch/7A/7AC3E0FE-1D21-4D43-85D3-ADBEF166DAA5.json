@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7AC3E0FE-1D21-4D43-85D3-ADBEF166DAA5", "criteria": "cpe:2.3:a:surrealdb:surrealdb:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.1.0", "versionEndExcluding": "3.1.5", "lastModified": "2026-07-22T13:40:05.683", "cpeLastModified": "2026-07-22T13:40:05.683", "created": "2026-07-22T13:40:05.683", "status": "Active"}}
