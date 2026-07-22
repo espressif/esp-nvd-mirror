@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FFF70557-B0A4-4C97-8EC1-5D5A93096337", "criteria": "cpe:2.3:a:microsoft:defender_for_endpoint:*:*:*:*:*:macos:*:*", "versionStartIncluding": "101.0.0", "versionEndExcluding": "101.26042.0020", "lastModified": "2026-07-22T16:34:00.433", "cpeLastModified": "2026-07-22T16:34:00.433", "created": "2026-07-22T16:34:00.433", "status": "Active"}}
