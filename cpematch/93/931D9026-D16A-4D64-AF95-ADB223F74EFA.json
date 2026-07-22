@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "931D9026-D16A-4D64-AF95-ADB223F74EFA", "criteria": "cpe:2.3:a:pydantic:pydantic-settings:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.12.0", "versionEndExcluding": "2.14.2", "lastModified": "2026-07-22T18:40:15.593", "cpeLastModified": "2026-07-22T18:40:15.593", "created": "2026-07-22T18:40:15.593", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DB76E7FF-77B1-43E1-A77B-49871C96D202", "criteria": "cpe:2.3:a:surrealdb:surrealdb:3.0.0:beta1:*:*:*:*:*:*", "lastModified": "2026-07-22T19:36:11.007", "created": "2026-07-22T19:07:38.140", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:surrealdb:surrealdb:3.0.0:beta1:*:*:*:*:*:*", "cpeNameId": "E391C47A-AF81-40BE-BA7B-25A8B283C8BC"}]}}
