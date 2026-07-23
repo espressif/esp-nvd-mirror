@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "CE5225BF-D3A6-41D9-B6E1-C4AD67E32F72", "criteria": "cpe:2.3:a:mozilla:firefox:153.0.0:*:*:*:-:*:*:*", "lastModified": "2026-07-22T20:02:42.693", "cpeLastModified": "2026-07-22T20:02:42.693", "created": "2026-07-22T20:02:42.693", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "CE5225BF-D3A6-41D9-B6E1-C4AD67E32F72", "criteria": "cpe:2.3:a:mozilla:firefox:153.0.0:*:*:*:-:*:*:*", "lastModified": "2026-07-23T02:00:00.193", "cpeLastModified": "2026-07-22T20:02:42.693", "created": "2026-07-22T20:02:42.693", "status": "Inactive"}}
