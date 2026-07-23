@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B3DB6AC7-3901-4DFA-AAA0-88223912F132", "criteria": "cpe:2.3:a:microsoft:odata_webapi:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.0.0", "versionEndExcluding": "7.8.0", "lastModified": "2026-07-23T13:31:57.713", "created": "2026-07-23T13:31:57.713", "status": "Active"}}

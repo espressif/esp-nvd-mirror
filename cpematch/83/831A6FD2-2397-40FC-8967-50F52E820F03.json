@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "831A6FD2-2397-40FC-8967-50F52E820F03", "criteria": "cpe:2.3:a:checkpoint:multi-domain_security_management:*:*:*:*:*:*:*:*", "versionStartIncluding": "r77.30", "versionEndExcluding": "r81.20", "lastModified": "2026-07-23T14:26:13.327", "created": "2026-07-23T14:26:13.327", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CFED378C-E73D-42F5-B62A-02919C2B0FF5", "criteria": "cpe:2.3:a:checkpoint:*:*:*:*:*:*:*:*:*", "versionStartIncluding": "r77.30", "versionEndExcluding": "r81.20", "lastModified": "2026-07-23T14:26:13.327", "created": "2026-07-23T14:25:33.623", "status": "Inactive"}}
