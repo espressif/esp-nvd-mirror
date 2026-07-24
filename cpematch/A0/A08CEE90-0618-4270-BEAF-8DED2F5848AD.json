@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A08CEE90-0618-4270-BEAF-8DED2F5848AD", "criteria": "cpe:2.3:a:mattermost:mattermost_desktop:*:*:*:*:*:*:*:*", "versionStartExcluding": "6.2.1", "versionEndExcluding": "6.3", "lastModified": "2026-07-24T14:38:25.657", "created": "2026-07-24T14:38:25.657", "status": "Active"}}
