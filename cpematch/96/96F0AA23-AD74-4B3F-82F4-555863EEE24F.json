@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "96F0AA23-AD74-4B3F-82F4-555863EEE24F", "criteria": "cpe:2.3:a:redhat:trusted_artifact_signer:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.4", "versionEndExcluding": "1.4.2", "lastModified": "2026-07-24T20:19:05.910", "cpeLastModified": "2026-07-24T20:19:05.910", "created": "2026-07-24T20:19:05.910", "status": "Active"}}
