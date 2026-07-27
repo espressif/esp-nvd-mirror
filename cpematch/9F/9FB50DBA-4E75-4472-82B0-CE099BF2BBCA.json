@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9FB50DBA-4E75-4472-82B0-CE099BF2BBCA", "criteria": "cpe:2.3:a:isc:bind:*:s1:*:*:supported_preview:*:*:*", "versionStartIncluding": "9.20.9", "versionEndIncluding": "9.20.24", "lastModified": "2026-07-27T06:26:12.800", "created": "2026-07-27T06:26:12.800", "status": "Active"}}
