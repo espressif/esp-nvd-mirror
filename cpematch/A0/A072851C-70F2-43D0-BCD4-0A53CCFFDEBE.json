@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A072851C-70F2-43D0-BCD4-0A53CCFFDEBE", "criteria": "cpe:2.3:a:oracle:project_contracts:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.2.3", "versionEndIncluding": "12.2.15", "lastModified": "2026-07-27T11:21:19.830", "cpeLastModified": "2026-07-27T11:21:19.830", "created": "2026-07-27T11:21:19.830", "status": "Active"}}
