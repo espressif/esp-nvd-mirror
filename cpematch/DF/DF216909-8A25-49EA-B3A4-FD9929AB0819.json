@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DF216909-8A25-49EA-B3A4-FD9929AB0819", "criteria": "cpe:2.3:a:oracle:siebel_cloud_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "22.3", "versionEndIncluding": "26.5", "lastModified": "2026-07-28T11:55:31.757", "cpeLastModified": "2026-07-28T11:55:31.757", "created": "2026-07-28T11:55:31.757", "status": "Active"}}
