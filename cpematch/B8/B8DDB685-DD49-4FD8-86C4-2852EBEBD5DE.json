@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B8DDB685-DD49-4FD8-86C4-2852EBEBD5DE", "criteria": "cpe:2.3:a:jfrog:artifactory:*:*:*:*:*:-:*:*", "versionStartIncluding": "7.146.0", "versionEndExcluding": "7.146.8", "lastModified": "2026-07-28T17:49:49.690", "cpeLastModified": "2026-07-28T17:49:49.690", "created": "2026-07-28T17:49:49.690", "status": "Active"}}
