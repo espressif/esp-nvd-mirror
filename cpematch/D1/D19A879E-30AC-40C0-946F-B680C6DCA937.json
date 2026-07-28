@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D19A879E-30AC-40C0-946F-B680C6DCA937", "criteria": "cpe:2.3:a:fortra:core_privileged_access_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.0.0", "versionEndExcluding": "9.0.0.5", "lastModified": "2026-07-28T13:03:49.427", "cpeLastModified": "2026-07-28T13:03:49.427", "created": "2026-07-28T13:03:49.427", "status": "Active"}}

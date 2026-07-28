@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A98189CE-7623-4771-AF8F-477823085A2D", "criteria": "cpe:2.3:a:vmware:velocloud_orchestrator:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.2.0", "versionEndExcluding": "5.2.3.14", "lastModified": "2026-07-28T12:33:15.723", "created": "2026-07-28T12:33:15.723", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F93AF860-FDF1-4061-813C-364DA582B642", "criteria": "cpe:2.3:a:arista:velocloud_orchestrator:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.2.0", "versionEndExcluding": "5.2.3.14", "lastModified": "2026-07-28T13:47:03.800", "created": "2026-07-28T13:47:03.800", "status": "Active"}}
