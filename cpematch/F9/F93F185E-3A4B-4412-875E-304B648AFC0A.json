@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F93F185E-3A4B-4412-875E-304B648AFC0A", "criteria": "cpe:2.3:a:symfony:twig-bridge:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.4.31", "lastModified": "2026-07-29T18:34:21.580", "created": "2026-07-29T18:34:21.580", "status": "Active"}}
