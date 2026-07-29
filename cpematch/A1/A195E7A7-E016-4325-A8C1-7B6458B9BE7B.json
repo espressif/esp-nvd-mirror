@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A195E7A7-E016-4325-A8C1-7B6458B9BE7B", "criteria": "cpe:2.3:a:linuxfoundation:cert-manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.18.0", "versionEndExcluding": "1.20.3", "lastModified": "2026-07-29T14:31:57.603", "cpeLastModified": "2026-07-29T14:31:30.297", "created": "2026-07-29T14:31:30.297", "status": "Inactive"}}
