@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "BEBD2B64-1EA8-4B6C-B750-819936328A22", "criteria": "cpe:2.3:a:oracle:production_scheduling:-:*:*:*:*:*:*:*", "lastModified": "2026-07-30T15:33:28.390", "created": "2026-07-30T15:33:28.390", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "BEBD2B64-1EA8-4B6C-B750-819936328A22", "criteria": "cpe:2.3:a:oracle:production_scheduling:-:*:*:*:*:*:*:*", "lastModified": "2026-07-31T02:00:00.167", "created": "2026-07-30T15:33:28.390", "status": "Inactive"}}
