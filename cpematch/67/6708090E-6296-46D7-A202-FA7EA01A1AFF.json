@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6708090E-6296-46D7-A202-FA7EA01A1AFF", "criteria": "cpe:2.3:a:jupyter:enterprise_gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.1.0", "versionEndExcluding": "3.3.0", "lastModified": "2026-08-03T16:11:30.650", "cpeLastModified": "2026-08-03T16:11:30.650", "created": "2026-08-03T16:11:30.650", "status": "Active"}}
