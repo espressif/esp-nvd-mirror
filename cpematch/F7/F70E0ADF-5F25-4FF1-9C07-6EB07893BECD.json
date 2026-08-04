@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F70E0ADF-5F25-4FF1-9C07-6EB07893BECD", "criteria": "cpe:2.3:a:fastify:fastify\\/rate-limit:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "11.2.0", "lastModified": "2026-08-04T16:35:52.840", "cpeLastModified": "2026-08-04T16:35:52.840", "created": "2026-08-04T16:35:52.840", "status": "Active"}}
