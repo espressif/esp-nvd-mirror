@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B156AB65-0DC5-4F71-9741-F3D4EEB95E8D", "criteria": "cpe:2.3:a:bouncycastle:bouncy_castle_for_java_fips:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.1.0", "versionEndExcluding": "2.1.3", "lastModified": "2026-08-04T19:48:26.587", "cpeLastModified": "2026-08-04T19:48:26.587", "created": "2026-08-04T19:48:26.587", "status": "Active"}}
