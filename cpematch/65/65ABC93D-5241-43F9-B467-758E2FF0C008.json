@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "65ABC93D-5241-43F9-B467-758E2FF0C008", "criteria": "cpe:2.3:a:msgpack:messagepack:*:*:*:*:*:ruby:*:*", "versionEndExcluding": "1.8.2", "lastModified": "2026-08-05T14:17:59.530", "cpeLastModified": "2026-08-05T14:17:59.530", "created": "2026-08-05T14:17:59.530", "status": "Active"}}
