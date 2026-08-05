@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8ED5CE1D-BE05-461A-97F0-18EB1CCDD0C1", "criteria": "cpe:2.3:a:ibm:storage_protect:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.1", "versionEndExcluding": "8.2.1.1", "lastModified": "2026-08-05T10:35:42.910", "cpeLastModified": "2026-08-05T10:35:42.910", "created": "2026-08-05T10:35:42.910", "status": "Active"}}
