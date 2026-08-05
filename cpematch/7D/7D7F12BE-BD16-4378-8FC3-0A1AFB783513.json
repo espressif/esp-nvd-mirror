@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7D7F12BE-BD16-4378-8FC3-0A1AFB783513", "criteria": "cpe:2.3:a:apache:hbase:3.0.0:alpha1:*:*:*:*:*:*", "lastModified": "2026-08-05T18:09:39.010", "created": "2026-08-05T18:08:05.110", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:apache:hbase:3.0.0:alpha1:*:*:*:*:*:*", "cpeNameId": "7D0260B8-6D8C-41FF-A5D1-F01BEB632B66"}]}}

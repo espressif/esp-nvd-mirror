@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FD8328D4-C1C7-448D-9436-A48AAB24E8C7", "criteria": "cpe:2.3:a:pypi:datamodel-code-generator:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.17.0", "versionEndExcluding": "0.60.2", "lastModified": "2026-08-05T18:04:30.907", "created": "2026-08-05T18:04:30.907", "status": "Active"}}

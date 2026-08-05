@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BDF75152-E72A-4CFC-8276-34F1FB7DEDC0", "criteria": "cpe:2.3:a:apache:hbase:3.0.0:alpha4:*:*:*:*:*:*", "lastModified": "2026-08-05T18:09:39.010", "created": "2026-08-05T18:08:05.110", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:apache:hbase:3.0.0:alpha4:*:*:*:*:*:*", "cpeNameId": "336DC71C-1692-46DF-A77D-8A8BC9CB2307"}]}}
