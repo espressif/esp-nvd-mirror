@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B79204B9-634E-49DC-86E9-F97AE111A6EA", "criteria": "cpe:2.3:a:pypi:datamodel-code-generator:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.11.6", "versionEndExcluding": "0.64.0", "lastModified": "2026-08-05T18:38:45.493", "cpeLastModified": "2026-08-05T18:38:45.493", "created": "2026-08-05T18:38:45.493", "status": "Active"}}
