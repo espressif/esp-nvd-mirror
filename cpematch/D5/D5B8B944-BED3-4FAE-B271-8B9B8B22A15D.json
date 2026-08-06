@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D5B8B944-BED3-4FAE-B271-8B9B8B22A15D", "criteria": "cpe:2.3:a:apache:httpclient:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.6.3", "lastModified": "2026-08-06T00:27:52.777", "cpeLastModified": "2026-08-06T00:24:02.377", "created": "2026-08-06T00:24:02.377", "status": "Inactive"}}
