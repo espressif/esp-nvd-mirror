@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C878934F-879A-4F9A-B81C-C284BF7797D4", "criteria": "cpe:2.3:a:bouncycastle:bcpkix-fips:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.0.12", "lastModified": "2026-08-06T17:11:09.467", "cpeLastModified": "2026-08-06T17:11:09.467", "created": "2026-08-06T17:11:09.467", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "08420234-16EB-4911-B907-6354B4241167", "criteria": "cpe:2.3:a:bouncycastle:bctls-fips:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.0.24", "lastModified": "2026-08-06T17:24:20.283", "cpeLastModified": "2026-08-06T17:24:20.283", "created": "2026-08-06T17:24:20.283", "status": "Active"}}

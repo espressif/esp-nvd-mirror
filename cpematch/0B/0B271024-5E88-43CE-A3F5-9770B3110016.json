@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0B271024-5E88-43CE-A3F5-9770B3110016", "criteria": "cpe:2.3:a:jonasbn:crypt\\:\\:openssl\\:\\:x509:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.1.3", "lastModified": "2026-08-06T19:25:01.310", "created": "2026-08-06T19:24:40.387", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DBC0D646-F489-40BB-889B-1C96606492F8", "criteria": "cpe:2.3:a:readarr:readarr:0.4.15.2787:*:*:*:*:*:*:*", "lastModified": "2026-08-06T20:52:47.403", "created": "2025-09-09T00:34:21.653", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:readarr:readarr:0.4.15.2787:*:*:*:*:*:*:*", "cpeNameId": "229B1A26-59A3-4A59-AB1B-C90D30CA7D17"}]}}

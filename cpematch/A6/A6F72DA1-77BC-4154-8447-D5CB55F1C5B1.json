@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A6F72DA1-77BC-4154-8447-D5CB55F1C5B1", "criteria": "cpe:2.3:a:bouncycastle:bcjmail-fips:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.5", "versionEndExcluding": "2.0.7", "lastModified": "2026-08-06T18:05:47.860", "cpeLastModified": "2026-08-06T18:05:47.860", "created": "2026-08-06T18:05:47.860", "status": "Active"}}
