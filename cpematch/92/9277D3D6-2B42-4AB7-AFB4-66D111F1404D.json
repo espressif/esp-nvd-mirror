@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9277D3D6-2B42-4AB7-AFB4-66D111F1404D", "criteria": "cpe:2.3:a:proxysql:proxysql:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.6", "versionEndExcluding": "4.0.9", "lastModified": "2026-08-07T20:36:37.787", "created": "2026-08-07T20:36:37.787", "status": "Active"}}
