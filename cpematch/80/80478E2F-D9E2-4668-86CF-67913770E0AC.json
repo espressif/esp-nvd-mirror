@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "80478E2F-D9E2-4668-86CF-67913770E0AC", "criteria": "cpe:2.3:a:eclipse:theia:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.66.0", "versionEndExcluding": "1.74.0", "lastModified": "2026-08-07T15:58:49.227", "cpeLastModified": "2026-08-07T15:58:49.227", "created": "2026-08-07T15:58:49.227", "status": "Active"}}
