@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1F20B507-AC5D-4A2E-AC99-C7938B1C1C24", "criteria": "cpe:2.3:a:apache:qpid_proton-dotnet:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.1.0", "lastModified": "2026-08-07T00:32:30.940", "cpeLastModified": "2026-08-07T00:32:30.940", "created": "2026-08-07T00:32:30.940", "status": "Active"}}
