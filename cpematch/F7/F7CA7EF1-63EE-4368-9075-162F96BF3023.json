@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F7CA7EF1-63EE-4368-9075-162F96BF3023", "criteria": "cpe:2.3:a:amazon:transform_mcp_server:*:*:*:*:*:python:*:*", "versionStartIncluding": "0.1.0", "versionEndExcluding": "0.1.5", "lastModified": "2026-08-10T11:39:50.807", "created": "2026-08-10T11:39:50.807", "status": "Active"}}
