@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "22BA4299-FEB2-4DE5-B652-16239B931963", "criteria": "cpe:2.3:a:ibm:datapower_gateway:*:*:*:*:continuous_delivery:*:*:*", "versionStartIncluding": "10.6.0.0", "versionEndExcluding": "10.6.0.9", "lastModified": "2026-08-10T17:15:05.207", "created": "2026-08-10T17:15:05.207", "status": "Active"}}
