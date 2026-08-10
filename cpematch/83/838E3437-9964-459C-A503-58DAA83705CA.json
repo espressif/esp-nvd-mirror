@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "838E3437-9964-459C-A503-58DAA83705CA", "criteria": "cpe:2.3:h:dell:e2722h:-:*:*:*:*:*:*:*", "lastModified": "2026-08-07T14:57:57.857", "created": "2026-08-07T14:57:57.857", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "838E3437-9964-459C-A503-58DAA83705CA", "criteria": "cpe:2.3:h:dell:e2722h:-:*:*:*:*:*:*:*", "lastModified": "2026-08-10T20:14:23.497", "created": "2026-08-07T14:57:57.857", "status": "Active", "matches": [{"cpeName": "cpe:2.3:h:dell:e2722h:-:*:*:*:*:*:*:*", "cpeNameId": "39DDD628-0FFF-448B-BF4F-693AABA19C5D"}]}}

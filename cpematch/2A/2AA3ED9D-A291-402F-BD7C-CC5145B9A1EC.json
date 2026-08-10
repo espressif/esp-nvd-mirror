@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "2AA3ED9D-A291-402F-BD7C-CC5145B9A1EC", "criteria": "cpe:2.3:h:dell:g2724d:-:*:*:*:*:*:*:*", "lastModified": "2026-08-07T14:57:57.857", "created": "2026-08-07T14:57:57.857", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "2AA3ED9D-A291-402F-BD7C-CC5145B9A1EC", "criteria": "cpe:2.3:h:dell:g2724d:-:*:*:*:*:*:*:*", "lastModified": "2026-08-10T20:14:23.497", "created": "2026-08-07T14:57:57.857", "status": "Active", "matches": [{"cpeName": "cpe:2.3:h:dell:g2724d:-:*:*:*:*:*:*:*", "cpeNameId": "9C7A3680-F073-4648-B69B-C2017D9A7A84"}]}}
