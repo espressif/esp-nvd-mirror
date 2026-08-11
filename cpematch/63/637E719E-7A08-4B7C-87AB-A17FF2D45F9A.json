@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "637E719E-7A08-4B7C-87AB-A17FF2D45F9A", "criteria": "cpe:2.3:a:cisco:secure_firewall_threat_defense:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.2.2", "versionEndExcluding": "6.4.0.15", "lastModified": "2026-08-11T19:33:44.513", "cpeLastModified": "2026-08-11T19:33:44.513", "created": "2026-08-11T19:33:44.513", "status": "Inactive"}}
