@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A7E9BA94-2844-48B3-8EBA-1E8CE1D0E17D", "criteria": "cpe:2.3:a:ibm:powervm_novalink:2.2.1:*:*:*:*:*:*:*", "lastModified": "2026-08-11T16:51:14.380", "created": "2026-08-11T16:45:29.103", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:ibm:powervm_novalink:2.2.1:*:*:*:*:*:*:*", "cpeNameId": "27EB5E8F-8916-4254-8754-E9FBC551BC94"}]}}
