@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CD7830AB-1866-404A-BBD5-C77615376745", "criteria": "cpe:2.3:a:smuellerdd:libkcapi:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.10.1", "versionEndExcluding": "1.5.1", "lastModified": "2026-08-11T14:34:35.463", "cpeLastModified": "2026-08-11T14:34:35.463", "created": "2026-08-11T14:34:35.463", "status": "Active"}}

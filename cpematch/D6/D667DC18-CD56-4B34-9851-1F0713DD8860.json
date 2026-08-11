@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D667DC18-CD56-4B34-9851-1F0713DD8860", "criteria": "cpe:2.3:a:cisco:cyber_vision:-:*:*:*:*:*:*:*", "lastModified": "2026-08-11T15:53:55.127", "created": "2026-08-11T15:37:00.170", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:cisco:cyber_vision:-:*:*:*:*:*:*:*", "cpeNameId": "A85E5FBB-609D-4599-8435-00C402EF10C9"}]}}
