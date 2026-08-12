@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "16158A4C-ABDE-4790-8ED9-BD1F881252CC", "criteria": "cpe:2.3:a:cpanel:webhost_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.130.0.0", "versionEndExcluding": "11.130.0.23", "lastModified": "2026-08-12T13:13:01.303", "created": "2026-08-12T13:13:01.303", "status": "Active"}}
