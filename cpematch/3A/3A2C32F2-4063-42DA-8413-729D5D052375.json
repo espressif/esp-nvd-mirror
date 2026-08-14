@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3A2C32F2-4063-42DA-8413-729D5D052375", "criteria": "cpe:2.3:a:ibm:security_verify_access_container:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0.0", "versionEndIncluding": "10.0.9.2", "lastModified": "2026-08-14T13:47:48.460", "cpeLastModified": "2026-08-14T13:47:48.460", "created": "2026-08-14T13:47:48.460", "status": "Active"}}
