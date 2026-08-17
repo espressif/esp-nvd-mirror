@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F50DA9A6-5D99-42CE-8174-CCEDBDF4D69D", "criteria": "cpe:2.3:a:ibm:tivoli_system_automation_application_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.1.0", "versionEndIncluding": "4.1.0.7", "lastModified": "2026-08-17T19:21:14.330", "cpeLastModified": "2026-08-17T19:21:14.330", "created": "2026-08-17T19:21:14.330", "status": "Active"}}
