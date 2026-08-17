@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3517B9B3-6949-470A-A3AF-A420B0224E30", "criteria": "cpe:2.3:a:linuxfoundation:torchvision:*:*:*:*:*:python:*:*", "versionEndExcluding": "0.28.0", "lastModified": "2026-08-17T17:09:40.843", "cpeLastModified": "2026-08-17T17:09:32.453", "created": "2026-08-17T17:09:32.453", "status": "Inactive"}}
