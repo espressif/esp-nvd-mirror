@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "822F1FAE-A72E-4930-91BB-3304E21EE068", "criteria": "cpe:2.3:a:neo4j:neo4j:*:*:*:*:enterprise:*:*:*", "versionStartIncluding": "2025.01", "versionEndExcluding": "2026.07", "lastModified": "2026-08-18T18:34:48.943", "cpeLastModified": "2026-08-18T18:34:48.943", "created": "2026-08-18T18:34:48.943", "status": "Active"}}

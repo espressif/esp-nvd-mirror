@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "45C693CF-0995-4332-9B1E-018EBCDAF83A", "criteria": "cpe:2.3:a:vmware:vcenter_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0", "versionEndExcluding": "9.0.2.0100", "lastModified": "2026-08-18T19:25:47.770", "created": "2026-08-18T19:25:47.770", "status": "Active"}}

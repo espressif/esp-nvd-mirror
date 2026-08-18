@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C5B84288-EFB5-4D7B-9B18-952EA497321A", "criteria": "cpe:2.3:a:mozilla:thunderbird:*:*:*:*:esr:*:*:*", "versionStartIncluding": "153.0", "versionEndExcluding": "153.1.0", "lastModified": "2026-08-18T19:40:37.893", "cpeLastModified": "2026-08-18T19:40:37.893", "created": "2026-08-18T19:40:37.893", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AFF16E47-BAEB-422B-85F4-6EB1C3EC71A2", "criteria": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "15.0", "versionEndExcluding": "15.0.1.14", "lastModified": "2026-08-18T18:37:12.890", "cpeLastModified": "2026-08-18T18:37:12.890", "created": "2026-08-18T18:37:12.890", "status": "Active"}}
