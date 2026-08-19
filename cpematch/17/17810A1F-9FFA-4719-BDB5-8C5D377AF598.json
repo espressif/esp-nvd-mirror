@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "17810A1F-9FFA-4719-BDB5-8C5D377AF598", "criteria": "cpe:2.3:a:pgvector_project:pgvector:*:*:*:*:*:postgresql:*:*", "versionEndExcluding": "0.8.6", "lastModified": "2026-08-19T17:05:50.383", "cpeLastModified": "2026-08-19T17:05:50.383", "created": "2026-08-19T17:05:50.383", "status": "Active"}}

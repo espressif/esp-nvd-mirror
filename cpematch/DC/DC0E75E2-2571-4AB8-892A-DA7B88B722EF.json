@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DC0E75E2-2571-4AB8-892A-DA7B88B722EF", "criteria": "cpe:2.3:a:enterprisedb:pglogical:*:*:*:*:*:postgresql:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.4.8", "lastModified": "2026-08-19T17:17:37.153", "cpeLastModified": "2026-08-19T17:17:37.153", "created": "2026-08-19T17:17:37.153", "status": "Active"}}
