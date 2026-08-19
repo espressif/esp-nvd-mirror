@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "32AA16DF-2A52-4FEA-8A2D-94AEE9EEFD22", "criteria": "cpe:2.3:a:gnu:coreutils:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.5", "versionEndIncluding": "9.11", "lastModified": "2026-08-19T20:11:26.023", "cpeLastModified": "2026-08-19T20:11:26.023", "created": "2026-08-19T20:11:26.023", "status": "Active"}}
