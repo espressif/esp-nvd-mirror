@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "221DB951-9378-4AF2-A601-DEC32D96B63E", "criteria": "cpe:2.3:a:splunk:on-call:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.0.43", "lastModified": "2026-08-20T13:58:59.850", "created": "2026-08-20T13:58:59.850", "status": "Active"}}

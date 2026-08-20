@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0A403D1D-FD65-4407-9FD4-9D166DECBB80", "criteria": "cpe:2.3:a:splunk:mcp_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.0", "versionEndExcluding": "1.2.1", "lastModified": "2026-08-20T13:58:59.850", "created": "2026-08-20T13:58:59.850", "status": "Active"}}

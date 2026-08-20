@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "112F1A06-B7A3-4ED2-AE58-09E5593D2587", "criteria": "cpe:2.3:a:splunk:model_context_protocol_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.0", "versionEndExcluding": "1.2.1", "lastModified": "2026-08-20T13:58:59.850", "created": "2026-08-20T13:58:59.850", "status": "Active"}}

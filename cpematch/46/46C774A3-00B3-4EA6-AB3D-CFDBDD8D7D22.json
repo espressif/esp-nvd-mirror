@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "46C774A3-00B3-4EA6-AB3D-CFDBDD8D7D22", "criteria": "cpe:2.3:a:splunk:connect_for_kafka:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.2.0", "versionEndExcluding": "2.2.7", "lastModified": "2026-08-20T13:58:59.850", "created": "2026-08-20T13:58:59.850", "status": "Active"}}

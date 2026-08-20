@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D08EA442-FC9A-4E3A-BB73-E19CCEAF6295", "criteria": "cpe:2.3:a:cisco:talos_intelligence_for_enterprise_security_cloud:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.0.3", "lastModified": "2026-08-20T13:58:59.850", "created": "2026-08-20T13:58:59.850", "status": "Active"}}
