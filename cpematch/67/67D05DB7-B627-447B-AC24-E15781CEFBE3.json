@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "67D05DB7-B627-447B-AC24-E15781CEFBE3", "criteria": "cpe:2.3:a:trueconf:trueconf_server:*:*:*:*:*:linux:*:*", "versionStartIncluding": "5.4.0.12700", "versionEndExcluding": "5.4.9.10019", "lastModified": "2026-08-20T18:21:49.967", "created": "2026-08-20T18:21:49.967", "status": "Active"}}
