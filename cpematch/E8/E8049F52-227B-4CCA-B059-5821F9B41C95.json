@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E8049F52-227B-4CCA-B059-5821F9B41C95", "criteria": "cpe:2.3:o:ibm:power_system_e1180_\\(9080-heu\\)_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "fw1110.00", "versionEndExcluding": "fw1110.31", "lastModified": "2026-08-21T19:49:36.763", "created": "2026-08-21T19:49:36.763", "status": "Active"}}

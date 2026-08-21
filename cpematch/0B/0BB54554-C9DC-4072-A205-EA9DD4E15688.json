@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0BB54554-C9DC-4072-A205-EA9DD4E15688", "criteria": "cpe:2.3:o:ibm:power_system_s1022_\\(9105-22a\\)_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "fw1060.00", "versionEndExcluding": "fw1060.81", "lastModified": "2026-08-21T19:49:36.763", "created": "2026-08-21T19:49:36.763", "status": "Active"}}

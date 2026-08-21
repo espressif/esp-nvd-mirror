@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AE60CFED-336E-4907-A9DD-7D3F2609074D", "criteria": "cpe:2.3:o:ibm:power_system_s1024_\\(9105-42a\\)_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "1060.00", "versionEndExcluding": "1060.81", "lastModified": "2026-08-21T18:13:43.987", "created": "2026-08-21T18:13:43.987", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0524365D-8379-4B10-B9C5-FF80EE84BA27", "criteria": "cpe:2.3:o:ibm:power_system_s1012_\\(9028-21b\\)_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "fw1060.00", "versionEndExcluding": "fw1060.81", "lastModified": "2026-08-21T19:49:36.763", "created": "2026-08-21T19:49:36.763", "status": "Active"}}

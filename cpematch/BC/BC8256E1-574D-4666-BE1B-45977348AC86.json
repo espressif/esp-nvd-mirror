@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BC8256E1-574D-4666-BE1B-45977348AC86", "criteria": "cpe:2.3:o:ibm:power_system_s1122s_\\(9824-22b\\)_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "fw1110.00", "versionEndExcluding": "fw1110.31", "lastModified": "2026-08-21T19:49:36.763", "created": "2026-08-21T19:49:36.763", "status": "Active"}}
