@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "90CBA46B-7C09-41E3-ACED-422E382CEAFC", "criteria": "cpe:2.3:a:donglight:bookstore:1.0.0:*:*:*:*:*:*:*", "lastModified": "2026-08-21T17:53:27.407", "created": "2025-08-22T20:22:31.253", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:donglight:bookstore:1.0.0:*:*:*:*:*:*:*", "cpeNameId": "F82D4267-9FC6-4AB6-995A-3A0E58BCD1F5"}]}}
