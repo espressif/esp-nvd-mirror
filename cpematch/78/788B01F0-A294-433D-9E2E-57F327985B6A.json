@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "788B01F0-A294-433D-9E2E-57F327985B6A", "criteria": "cpe:2.3:a:cisco:network_function_virtualization_infrastructure_software:4.8.1:*:*:*:*:*:*:*", "lastModified": "2026-08-24T16:34:07.920", "created": "2026-08-24T16:34:07.920", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "788B01F0-A294-433D-9E2E-57F327985B6A", "criteria": "cpe:2.3:a:cisco:network_function_virtualization_infrastructure_software:4.8.1:*:*:*:*:*:*:*", "lastModified": "2026-08-24T18:22:14.930", "created": "2026-08-24T16:34:07.920", "status": "Inactive"}}

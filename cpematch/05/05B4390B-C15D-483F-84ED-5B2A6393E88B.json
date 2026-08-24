@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "05B4390B-C15D-483F-84ED-5B2A6393E88B", "criteria": "cpe:2.3:a:cisco:enterprise_nfv_infrastructure_software:4.16.1:*:*:*:*:*:*:*", "lastModified": "2026-08-24T16:34:07.920", "created": "2026-08-24T13:20:21.767", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "05B4390B-C15D-483F-84ED-5B2A6393E88B", "criteria": "cpe:2.3:a:cisco:enterprise_nfv_infrastructure_software:4.16.1:*:*:*:*:*:*:*", "lastModified": "2026-08-24T18:22:14.930", "created": "2026-08-24T13:20:21.767", "status": "Active"}}

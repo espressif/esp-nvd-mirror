@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "CC7602A4-A781-4164-9CDC-41446BEC2015", "criteria": "cpe:2.3:a:cisco:enterprise_nfv_infrastructure_software:4.12.5:*:*:*:*:*:*:*", "lastModified": "2026-08-24T16:34:07.920", "created": "2026-08-24T13:20:21.767", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "CC7602A4-A781-4164-9CDC-41446BEC2015", "criteria": "cpe:2.3:a:cisco:enterprise_nfv_infrastructure_software:4.12.5:*:*:*:*:*:*:*", "lastModified": "2026-08-24T18:22:14.930", "created": "2026-08-24T13:20:21.767", "status": "Active"}}
