@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "477A8E68-8EC2-44CE-8816-D5623EBA53B4", "criteria": "cpe:2.3:a:versa-networks:sase_client:*:*:*:*:*:windows:*:*", "versionStartIncluding": "7.8.7", "versionEndExcluding": "7.9.5", "lastModified": "2026-08-25T14:47:48.457", "cpeLastModified": "2026-08-25T14:47:48.457", "created": "2026-08-25T14:47:48.457", "status": "Active"}}
