@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6BA53D0B-7A5B-4EB5-A1FB-053746F29F7D", "criteria": "cpe:2.3:o:riscv-software-src:opensbi:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.3", "versionEndIncluding": "1.6", "lastModified": "2026-08-26T22:54:59.127", "created": "2026-08-26T22:54:59.127", "status": "Active"}}
