@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "FBE6EF65-6D91-430B-93C9-24633B8EED20", "criteria": "cpe:2.3:h:nokia:c6-01:-:*:*:*:*:*:*:*", "lastModified": "2026-01-06T12:29:12.007", "created": "2026-01-06T12:29:12.007", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "FBE6EF65-6D91-430B-93C9-24633B8EED20", "criteria": "cpe:2.3:h:nokia:c6-01:-:*:*:*:*:*:*:*", "lastModified": "2026-08-26T14:28:04.613", "created": "2026-01-06T12:29:12.007", "status": "Active", "matches": [{"cpeName": "cpe:2.3:h:nokia:c6-01:-:*:*:*:*:*:*:*", "cpeNameId": "46945FB4-4CD8-4273-9C3B-5F3286886447"}]}}

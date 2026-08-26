@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "90BB09CB-BC99-4257-9CA8-03F1A5DFE9EF", "criteria": "cpe:2.3:a:linuxfoundation:oras-go:*:*:*:*:*:go:*:*", "versionEndExcluding": "2.6.1", "lastModified": "2026-08-26T14:32:41.407", "cpeLastModified": "2026-08-26T14:32:41.407", "created": "2026-08-26T14:32:41.407", "status": "Active"}}
