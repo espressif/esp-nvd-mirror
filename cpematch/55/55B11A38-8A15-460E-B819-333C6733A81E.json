@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "55B11A38-8A15-460E-B819-333C6733A81E", "criteria": "cpe:2.3:a:wso2:synapse_project:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0.wso2v105", "versionEndExcluding": "4.0.0.wso2v105_3", "lastModified": "2026-08-26T19:46:56.500", "created": "2026-08-26T19:46:56.500", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5751A6E2-6E8C-42E7-9349-ABA3262DB079", "criteria": "cpe:2.3:a:gnuplot:gnuplot:6.1.0:*:*:*:*:*:*:*", "lastModified": "2026-08-26T18:40:52.243", "created": "2025-08-13T18:04:48.790", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:gnuplot:gnuplot:6.1.0:*:*:*:*:*:*:*", "cpeNameId": "C5E588FB-B06F-4428-889E-1790B8997BEA"}]}}

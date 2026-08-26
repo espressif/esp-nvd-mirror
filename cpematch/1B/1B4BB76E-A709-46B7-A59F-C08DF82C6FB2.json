@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1B4BB76E-A709-46B7-A59F-C08DF82C6FB2", "criteria": "cpe:2.3:a:opentelemetry:opentelemetry\\/auto-instrumentations-node:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "0.75.0", "lastModified": "2026-08-26T20:38:01.060", "created": "2026-08-26T20:38:01.060", "status": "Active"}}

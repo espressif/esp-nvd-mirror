@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D7D081AC-A127-4564-8C9B-1C0BD844E7F7", "criteria": "cpe:2.3:a:oracle:autonomous_health_framework:*:*:*:*:*:*:*:*", "versionStartIncluding": "26.0.0", "versionEndIncluding": "26.1.0", "lastModified": "2026-08-26T18:49:43.290", "cpeLastModified": "2026-08-26T18:49:43.290", "created": "2026-08-26T18:49:43.290", "status": "Active"}}

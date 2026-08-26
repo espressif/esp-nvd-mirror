@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B7959348-A9A9-4F5D-A534-E63EAE1B3309", "criteria": "cpe:2.3:a:opentofu:opentofu:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.8.0", "versionEndExcluding": "1.8.3", "lastModified": "2026-08-26T19:45:12.687", "created": "2026-08-26T19:45:12.687", "status": "Active"}}

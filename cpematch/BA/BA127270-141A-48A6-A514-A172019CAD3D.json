@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BA127270-141A-48A6-A514-A172019CAD3D", "criteria": "cpe:2.3:a:opentelemetry:opentelemetry\\/exporter-prometheus:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "0.217.0", "lastModified": "2026-08-26T20:38:01.060", "created": "2026-08-26T20:38:01.060", "status": "Active"}}

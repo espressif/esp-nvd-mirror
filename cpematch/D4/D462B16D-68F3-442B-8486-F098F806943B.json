@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D462B16D-68F3-442B-8486-F098F806943B", "criteria": "cpe:2.3:a:wso2:carbon_api_manager_rest_api_utility:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.20.74", "versionEndExcluding": "9.20.74.388", "lastModified": "2026-08-26T20:03:10.167", "created": "2026-08-26T20:03:10.167", "status": "Active"}}

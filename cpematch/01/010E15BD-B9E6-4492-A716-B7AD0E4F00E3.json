@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "010E15BD-B9E6-4492-A716-B7AD0E4F00E3", "criteria": "cpe:2.3:a:opentelemetry:opentelemetry-js:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "0.217.0", "lastModified": "2026-08-26T20:42:49.517", "created": "2026-08-26T20:42:49.517", "status": "Active"}}
