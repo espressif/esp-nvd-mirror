@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D3A9AD1E-C6E1-4143-B62E-0E490521AB19", "criteria": "cpe:2.3:a:mongodb:bi_connector_odbc_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.4.9", "lastModified": "2026-08-27T09:17:34.767", "created": "2026-08-27T09:17:34.767", "status": "Active"}}

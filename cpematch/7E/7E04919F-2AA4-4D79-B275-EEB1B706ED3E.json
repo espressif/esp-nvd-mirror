@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7E04919F-2AA4-4D79-B275-EEB1B706ED3E", "criteria": "cpe:2.3:a:konghq:kong_mesh:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.13.0", "versionEndExcluding": "2.13.5", "lastModified": "2026-08-27T07:55:33.177", "created": "2026-08-27T07:55:33.177", "status": "Active"}}
