@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A4E073D6-3D17-4182-AC66-10692C67EE3E", "criteria": "cpe:2.3:a:systemd_project:systemd:*:*:*:*:*:*:*:*", "versionStartIncluding": "260.4", "versionEndExcluding": "261.2", "lastModified": "2026-08-27T01:47:50.703", "created": "2026-08-27T01:47:50.703", "status": "Active"}}

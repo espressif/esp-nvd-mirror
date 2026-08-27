@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6AC4A7F9-FC69-470B-81C8-C2951A2D423A", "criteria": "cpe:2.3:a:tibco:jasperreports_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "hf-10", "lastModified": "2026-08-27T03:01:37.117", "created": "2026-08-27T03:01:37.117", "status": "Active"}}

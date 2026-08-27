@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "141D61BF-445C-4BA5-85EF-84DE06397D0D", "criteria": "cpe:2.3:a:huggingface:pytorch_image_models:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.0.26", "lastModified": "2026-08-27T02:10:39.203", "created": "2026-08-27T02:10:39.203", "status": "Active"}}
