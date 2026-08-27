@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8FCC5F0E-DAC1-4582-8309-D057B5A1C6B2", "criteria": "cpe:2.3:o:intel:xeon_6972p_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "created": "2026-08-27T12:11:01.563", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:intel:xeon_6972p_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "AFC2A75B-C02A-42CE-AF1A-16427E2CA695"}]}}

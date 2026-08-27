@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9F7E9399-BC12-4D1C-B380-1BA5784C8E5C", "criteria": "cpe:2.3:h:intel:xeon_6740p:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "created": "2026-08-27T12:11:01.563", "status": "Active", "matches": [{"cpeName": "cpe:2.3:h:intel:xeon_6740p:-:*:*:*:*:*:*:*", "cpeNameId": "929F6308-980C-4855-8EF1-ADABF14942F6"}]}}

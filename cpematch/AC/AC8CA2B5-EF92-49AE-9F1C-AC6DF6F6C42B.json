@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AC8CA2B5-EF92-49AE-9F1C-AC6DF6F6C42B", "criteria": "cpe:2.3:o:intel:xeon_698x_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "created": "2026-08-27T12:11:01.563", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:intel:xeon_698x_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "83AD60E1-EFE8-48BB-B024-99673AB153EE"}]}}

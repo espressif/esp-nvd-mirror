@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "19945DCE-931D-4EF3-BD36-08093E03EF87", "criteria": "cpe:2.3:o:intel:xeon_6333p_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "created": "2026-08-27T12:11:01.563", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:intel:xeon_6333p_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "A9B78FD7-57F8-4ABB-AAE7-DCCAD8006F8F"}]}}

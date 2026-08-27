@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3C728F87-9E5D-4D04-9365-91D65014EAF7", "criteria": "cpe:2.3:o:intel:xeon_678x_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "created": "2026-08-27T12:11:01.563", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:intel:xeon_678x_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "160AC7D1-5656-4EFD-AF43-A5A6F61E4637"}]}}

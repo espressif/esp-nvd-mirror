@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9EEA2CF8-A9F0-4145-97B5-4372D719C56B", "criteria": "cpe:2.3:o:intel:xeon_6787p_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "created": "2026-08-27T12:11:01.563", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:intel:xeon_6787p_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "12E07DE1-7423-46DB-8311-AB7C44EA5E6F"}]}}

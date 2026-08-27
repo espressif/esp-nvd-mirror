@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DADB202E-D51B-4B39-B1FC-7E543CB4AD34", "criteria": "cpe:2.3:o:intel:xeon_6756p-b_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "created": "2026-08-27T12:11:01.563", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:intel:xeon_6756p-b_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "64D972A5-D702-45A9-B379-1239A572ADEA"}]}}

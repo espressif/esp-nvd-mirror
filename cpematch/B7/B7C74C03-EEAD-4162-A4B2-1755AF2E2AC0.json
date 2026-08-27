@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B7C74C03-EEAD-4162-A4B2-1755AF2E2AC0", "criteria": "cpe:2.3:o:intel:xeon_6505p_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "created": "2026-08-27T12:11:01.563", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:intel:xeon_6505p_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "93F0236F-66E2-4D21-AE17-751A86BD5EDD"}]}}

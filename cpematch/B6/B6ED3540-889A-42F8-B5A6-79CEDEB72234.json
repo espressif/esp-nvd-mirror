@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B6ED3540-889A-42F8-B5A6-79CEDEB72234", "criteria": "cpe:2.3:a:opennms:horizon:*:*:*:*:*:*:*:*", "versionStartIncluding": "36.0.0", "versionEndExcluding": "36.0.3", "lastModified": "2026-08-27T09:47:23.687", "created": "2026-08-27T09:47:23.687", "status": "Active"}}

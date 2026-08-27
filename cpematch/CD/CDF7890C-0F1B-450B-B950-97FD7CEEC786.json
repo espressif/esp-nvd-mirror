@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CDF7890C-0F1B-450B-B950-97FD7CEEC786", "criteria": "cpe:2.3:a:roskus:prospero_flow_crm:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.10.0", "versionEndExcluding": "5.15.9", "lastModified": "2026-08-27T12:24:09.187", "created": "2026-08-27T12:24:09.187", "status": "Active"}}

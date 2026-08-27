@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "04187AA4-49ED-49FA-BDF7-194E1863262B", "criteria": "cpe:2.3:o:intel:xeon_6544p-b_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "created": "2026-08-27T12:11:01.563", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:intel:xeon_6544p-b_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "1933CED2-8B85-449E-8B45-48F724B2250E"}]}}

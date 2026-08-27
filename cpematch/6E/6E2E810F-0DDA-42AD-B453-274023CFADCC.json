@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6E2E810F-0DDA-42AD-B453-274023CFADCC", "criteria": "cpe:2.3:o:intel:xeon_6718p-b_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "created": "2026-08-27T12:11:01.563", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:intel:xeon_6718p-b_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "06CAEEBA-86CE-4956-A904-254AA9829E62"}]}}

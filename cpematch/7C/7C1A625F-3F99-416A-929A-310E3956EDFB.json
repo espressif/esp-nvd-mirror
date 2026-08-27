@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7C1A625F-3F99-416A-929A-310E3956EDFB", "criteria": "cpe:2.3:o:intel:xeon_6710e_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "created": "2026-08-27T12:11:01.563", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:intel:xeon_6710e_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "160EC06D-81DC-41C7-B356-0EE163F3314A"}]}}

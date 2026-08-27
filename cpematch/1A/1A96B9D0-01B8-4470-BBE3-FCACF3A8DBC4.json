@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1A96B9D0-01B8-4470-BBE3-FCACF3A8DBC4", "criteria": "cpe:2.3:o:intel:xeon_6740e_firmware:-:*:*:*:*:*:*:*", "lastModified": "2026-08-27T13:18:53.370", "created": "2026-08-27T12:11:01.563", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:intel:xeon_6740e_firmware:-:*:*:*:*:*:*:*", "cpeNameId": "2B75A0AD-5C99-4326-AEE0-0DEF6815D027"}]}}
