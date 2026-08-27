@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "030AB073-68FD-4FB2-B41A-432E2D806B6E", "criteria": "cpe:2.3:a:zabbix:zabbix:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.44", "versionEndExcluding": "6.0.46", "lastModified": "2026-08-27T13:31:45.353", "created": "2026-08-27T13:31:45.353", "status": "Active"}}
