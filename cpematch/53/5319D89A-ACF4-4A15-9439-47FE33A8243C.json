@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "5319D89A-ACF4-4A15-9439-47FE33A8243C", "criteria": "cpe:2.3:a:intel:xeon_6421n:-:*:*:*:gold:*:*:*", "lastModified": "2026-08-27T17:15:14.873", "created": "2026-08-27T17:15:14.873", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "5319D89A-ACF4-4A15-9439-47FE33A8243C", "criteria": "cpe:2.3:a:intel:xeon_6421n:-:*:*:*:gold:*:*:*", "lastModified": "2026-08-27T18:52:34.863", "created": "2026-08-27T17:15:14.873", "status": "Inactive"}}

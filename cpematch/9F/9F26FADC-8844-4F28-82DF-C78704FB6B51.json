@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9F26FADC-8844-4F28-82DF-C78704FB6B51", "criteria": "cpe:2.3:a:buildah_project:buildah:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.38.1", "versionEndExcluding": "1.43.2", "lastModified": "2026-08-27T20:40:15.080", "created": "2026-08-27T20:40:15.080", "status": "Active"}}

@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "EDC330A8-247E-476E-AAAD-EA48ADE3BF21", "criteria": "cpe:2.3:a:intel:xeon_6426y:-:*:*:*:gold:*:*:*", "lastModified": "2026-08-27T17:15:14.873", "created": "2026-08-27T17:15:14.873", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "EDC330A8-247E-476E-AAAD-EA48ADE3BF21", "criteria": "cpe:2.3:a:intel:xeon_6426y:-:*:*:*:gold:*:*:*", "lastModified": "2026-08-27T18:52:34.863", "created": "2026-08-27T17:15:14.873", "status": "Inactive"}}

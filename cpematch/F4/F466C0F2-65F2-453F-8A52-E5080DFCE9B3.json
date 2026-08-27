@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F466C0F2-65F2-453F-8A52-E5080DFCE9B3", "criteria": "cpe:2.3:a:doorkeeper_project:doorkeeper-openid_connect:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.9.0", "versionEndExcluding": "1.10.0", "lastModified": "2026-08-27T20:40:14.293", "created": "2026-08-27T20:40:14.293", "status": "Active"}}

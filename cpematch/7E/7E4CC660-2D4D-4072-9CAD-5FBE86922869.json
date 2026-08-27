@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7E4CC660-2D4D-4072-9CAD-5FBE86922869", "criteria": "cpe:2.3:a:ggml:llama.cpp:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.9.0", "versionEndExcluding": "0.17.2", "lastModified": "2026-08-27T19:43:39.393", "created": "2026-08-27T19:43:39.393", "status": "Active"}}
