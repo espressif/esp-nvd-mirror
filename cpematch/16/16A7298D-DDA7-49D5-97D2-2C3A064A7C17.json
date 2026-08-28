@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "16A7298D-DDA7-49D5-97D2-2C3A064A7C17", "criteria": "cpe:2.3:h:ibm:ds8a00:-:*:*:*:*:*:*:*", "lastModified": "2026-08-21T15:18:23.283", "created": "2026-08-21T15:18:23.283", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "16A7298D-DDA7-49D5-97D2-2C3A064A7C17", "criteria": "cpe:2.3:h:ibm:ds8a00:-:*:*:*:*:*:*:*", "lastModified": "2026-08-28T18:34:43.500", "created": "2026-08-21T15:18:23.283", "status": "Active", "matches": [{"cpeName": "cpe:2.3:h:ibm:ds8a00:-:*:*:*:*:*:*:*", "cpeNameId": "70539082-A0FC-43E7-9FA8-7FB95BC107F7"}]}}

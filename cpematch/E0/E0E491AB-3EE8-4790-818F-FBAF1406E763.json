@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E0E491AB-3EE8-4790-818F-FBAF1406E763", "criteria": "cpe:2.3:a:wpengine:wpgraphql:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.15.1", "lastModified": "2026-08-28T19:14:47.780", "created": "2026-08-28T19:14:47.780", "status": "Active"}}

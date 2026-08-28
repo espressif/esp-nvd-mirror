@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1609DD0D-0B8F-477B-AFF8-251CECDCBE11", "criteria": "cpe:2.3:a:kube-logging:logging-operator:*:*:*:*:*:*:*:*", "versionEndExcluding": "6.6.0", "lastModified": "2026-08-28T18:09:47.927", "cpeLastModified": "2026-08-28T18:09:47.927", "created": "2026-08-28T18:09:47.927", "status": "Active"}}

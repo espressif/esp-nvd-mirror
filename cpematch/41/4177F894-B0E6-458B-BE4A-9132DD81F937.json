@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4177F894-B0E6-458B-BE4A-9132DD81F937", "criteria": "cpe:2.3:a:ruby-oauth:oauth:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.5.5", "versionEndExcluding": "1.1.6", "lastModified": "2026-08-28T18:09:21.477", "created": "2026-08-28T18:09:21.477", "status": "Active"}}
