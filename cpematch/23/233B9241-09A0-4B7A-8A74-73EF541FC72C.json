@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "233B9241-09A0-4B7A-8A74-73EF541FC72C", "criteria": "cpe:2.3:a:confidential-containers:guest-components:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.16.0", "versionEndExcluding": "0.20.0", "lastModified": "2026-08-28T01:54:49.300", "created": "2026-08-28T01:54:49.300", "status": "Active"}}

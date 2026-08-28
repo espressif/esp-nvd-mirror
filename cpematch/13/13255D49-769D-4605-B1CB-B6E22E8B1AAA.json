@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "13255D49-769D-4605-B1CB-B6E22E8B1AAA", "criteria": "cpe:2.3:a:pivotal_software:spring_batch:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.3.0", "versionEndExcluding": "4.3.14", "lastModified": "2026-08-28T02:48:42.827", "created": "2026-08-28T02:48:42.827", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C19FCFD6-7931-456C-A40B-05D3F4A59197", "criteria": "cpe:2.3:o:nvidia:dgx_spark_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndExcluding": "1.110.13", "lastModified": "2026-08-28T01:26:20.360", "created": "2026-08-28T01:26:20.360", "status": "Active"}}

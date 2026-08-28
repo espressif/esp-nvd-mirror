@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3145A7D2-7890-40CA-8B12-842EE4729278", "criteria": "cpe:2.3:a:vmware:spring_integration:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.4.0", "versionEndExcluding": "6.4.13", "lastModified": "2026-08-28T02:38:30.387", "created": "2026-08-28T02:38:30.387", "status": "Active"}}
