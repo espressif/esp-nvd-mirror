@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4A5559A7-BB49-415C-B19E-5DF87C15064B", "criteria": "cpe:2.3:a:modelcontextprotocol:php-sdk:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.5.0", "versionEndExcluding": "0.7.1", "lastModified": "2026-08-28T15:10:30.897", "created": "2026-08-28T15:10:30.897", "status": "Active"}}
