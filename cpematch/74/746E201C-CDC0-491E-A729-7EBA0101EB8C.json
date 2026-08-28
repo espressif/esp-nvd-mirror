@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "746E201C-CDC0-491E-A729-7EBA0101EB8C", "criteria": "cpe:2.3:a:ceph:ceph:*:*:*:*:*:*:*:*", "versionStartIncluding": "20.0.0", "versionEndExcluding": "20.2.4", "lastModified": "2026-08-28T00:43:00.207", "created": "2026-08-28T00:43:00.207", "status": "Active"}}
