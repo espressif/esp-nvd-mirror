@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5E312DDC-7F85-4EFC-9A55-994AA825345D", "criteria": "cpe:2.3:a:klever-io:klever-go:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.7.14", "versionEndExcluding": "1.7.18", "lastModified": "2026-08-28T10:46:58.063", "created": "2026-08-28T10:46:58.063", "status": "Active"}}
