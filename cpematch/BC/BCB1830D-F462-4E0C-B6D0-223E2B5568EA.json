@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BCB1830D-F462-4E0C-B6D0-223E2B5568EA", "criteria": "cpe:2.3:a:simplesamlphp:saml2:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.19.2", "versionEndExcluding": "4.19.3", "lastModified": "2026-08-28T06:32:42.050", "created": "2026-08-28T06:32:42.050", "status": "Active"}}
