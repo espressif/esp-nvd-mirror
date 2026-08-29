@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D159CFCB-68DA-4990-83C2-384BE4CB5324", "criteria": "cpe:2.3:a:open62541:open62541:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.5.0", "versionEndExcluding": "1.5.5", "lastModified": "2026-08-29T10:38:46.520", "created": "2026-08-29T10:38:46.520", "status": "Active"}}
