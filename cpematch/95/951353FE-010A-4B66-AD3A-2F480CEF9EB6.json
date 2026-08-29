@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "951353FE-010A-4B66-AD3A-2F480CEF9EB6", "criteria": "cpe:2.3:a:libevent_project:libevent:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.2.0-alpha-dev", "versionEndExcluding": "2.2.2-alpha", "lastModified": "2026-08-29T12:20:45.600", "created": "2026-08-29T12:20:45.600", "status": "Active"}}
