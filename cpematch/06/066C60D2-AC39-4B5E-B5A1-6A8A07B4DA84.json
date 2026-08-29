@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "066C60D2-AC39-4B5E-B5A1-6A8A07B4DA84", "criteria": "cpe:2.3:a:openstack:neutron:*:*:*:*:*:*:*:*", "versionStartIncluding": "27.0.0", "versionEndExcluding": "27.0.4", "lastModified": "2026-08-29T03:11:01.600", "created": "2026-08-29T03:11:01.600", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CD31D878-6C70-48A1-B0DA-E64ACF3D3F23", "criteria": "cpe:2.3:a:mapfish:print:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.32.0", "versionEndExcluding": "3.33.16", "lastModified": "2026-08-29T04:00:30.010", "created": "2026-08-29T04:00:30.010", "status": "Active"}}

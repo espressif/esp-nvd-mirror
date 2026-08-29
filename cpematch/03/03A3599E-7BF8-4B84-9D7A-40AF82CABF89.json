@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "03A3599E-7BF8-4B84-9D7A-40AF82CABF89", "criteria": "cpe:2.3:a:cloudfoundry:bosh_vsphere_cpi:*:*:*:*:*:*:*:*", "versionEndExcluding": "98.0.6", "lastModified": "2026-08-29T03:58:12.403", "created": "2026-08-29T03:58:12.403", "status": "Active"}}
