@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "84CB37EA-3EF1-4797-89BE-49311E5FCBA8", "criteria": "cpe:2.3:a:nodejs:nodejs:*:*:*:*:*:*:*:*", "versionStartIncluding": "24.0.0", "versionEndIncluding": "24.18.0", "lastModified": "2026-08-29T06:22:56.083", "created": "2026-08-29T06:22:56.083", "status": "Active"}}
