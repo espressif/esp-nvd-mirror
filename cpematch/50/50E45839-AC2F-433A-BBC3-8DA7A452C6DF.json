@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "50E45839-AC2F-433A-BBC3-8DA7A452C6DF", "criteria": "cpe:2.3:a:graylog:graylog:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.1.0", "versionEndExcluding": "7.1.4", "lastModified": "2026-08-28T23:50:26.293", "created": "2026-08-28T23:50:26.293", "status": "Active"}}

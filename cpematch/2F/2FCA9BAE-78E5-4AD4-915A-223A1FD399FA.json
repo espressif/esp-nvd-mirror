@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2FCA9BAE-78E5-4AD4-915A-223A1FD399FA", "criteria": "cpe:2.3:a:ibm:integrated_analytics_system:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0.0", "versionEndExcluding": "1.0.32.0", "lastModified": "2026-08-28T23:03:07.210", "cpeLastModified": "2026-08-28T23:03:07.210", "created": "2026-08-28T23:03:07.210", "status": "Active"}}
