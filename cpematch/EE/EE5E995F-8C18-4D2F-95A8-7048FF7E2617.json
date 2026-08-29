@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EE5E995F-8C18-4D2F-95A8-7048FF7E2617", "criteria": "cpe:2.3:a:temporalio:ui-server:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.7.0", "versionEndExcluding": "2.53.2", "lastModified": "2026-08-29T19:49:14.327", "created": "2026-08-29T19:49:14.327", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F15962F0-A23D-41A9-8668-E7E54FEE3BF0", "criteria": "cpe:2.3:a:alembic:ash_authentication:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0-rc.0", "versionEndExcluding": "5.0.0-rc.13", "lastModified": "2026-08-29T19:13:05.947", "created": "2026-08-29T19:13:05.947", "status": "Active"}}
