@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2E892AAF-5FC3-42C0-BCA4-40FA27A63B8E", "criteria": "cpe:2.3:a:coturn_project:coturn:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.15.0", "versionEndExcluding": "4.16.0", "lastModified": "2026-08-30T14:59:21.733", "created": "2026-08-30T14:59:21.733", "status": "Active"}}
