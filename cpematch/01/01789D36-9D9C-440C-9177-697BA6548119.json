@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "01789D36-9D9C-440C-9177-697BA6548119", "criteria": "cpe:2.3:a:better-auth:scim:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.5.0", "versionEndExcluding": "1.7.0-beta.4", "lastModified": "2026-08-29T23:13:41.693", "created": "2026-08-29T23:13:41.693", "status": "Active"}}
