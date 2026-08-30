@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "954924D9-ABB8-42E4-9929-DCAB3720F1F0", "criteria": "cpe:2.3:a:jenkins_project:codesonar_plugin:*:*:*:*:*:jenkins:*:*", "versionStartIncluding": "0", "versionEndIncluding": "3.6.0", "lastModified": "2026-08-30T19:02:23.900", "created": "2026-08-30T19:02:23.900", "status": "Active"}}
