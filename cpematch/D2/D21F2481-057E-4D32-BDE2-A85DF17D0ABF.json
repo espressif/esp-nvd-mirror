@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D21F2481-057E-4D32-BDE2-A85DF17D0ABF", "criteria": "cpe:2.3:a:langchain:langgraph-checkpoint-postgres:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.1.1", "lastModified": "2026-08-31T01:38:07.723", "created": "2026-08-31T01:38:07.723", "status": "Active"}}
