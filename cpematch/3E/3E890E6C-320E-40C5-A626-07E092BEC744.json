@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3E890E6C-320E-40C5-A626-07E092BEC744", "criteria": "cpe:2.3:a:isc:bind:*:-:*:*:*:*:*:*", "versionStartIncluding": "9.20.0", "versionEndIncluding": "9.20.24", "lastModified": "2026-09-01T20:59:19.790", "created": "2026-09-01T20:59:19.790", "status": "Active"}}
