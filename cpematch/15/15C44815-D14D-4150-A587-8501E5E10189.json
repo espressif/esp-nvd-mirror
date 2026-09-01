@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "15C44815-D14D-4150-A587-8501E5E10189", "criteria": "cpe:2.3:a:elastic:elasticsearch:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.3.0", "versionEndIncluding": "9.4.5", "lastModified": "2026-09-01T13:56:32.017", "cpeLastModified": "2026-09-01T13:44:32.667", "created": "2026-09-01T13:44:32.667", "status": "Inactive"}}

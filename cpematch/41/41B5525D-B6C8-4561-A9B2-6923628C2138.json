@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "41B5525D-B6C8-4561-A9B2-6923628C2138", "criteria": "cpe:2.3:a:intel:tensorflow:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.15.0.3", "lastModified": "2026-09-01T14:00:47.403", "created": "2026-09-01T14:00:47.403", "status": "Active"}}
