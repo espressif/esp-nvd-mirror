@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "15C8B5BB-5178-4E4F-B063-E834A6AB8AFD", "criteria": "cpe:2.3:a:intel:xeon_6766p-b:-:*:*:*:*:*:*:*", "lastModified": "2026-08-31T18:42:29.510", "created": "2026-08-31T18:42:29.510", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "15C8B5BB-5178-4E4F-B063-E834A6AB8AFD", "criteria": "cpe:2.3:a:intel:xeon_6766p-b:-:*:*:*:*:*:*:*", "lastModified": "2026-09-01T02:00:00.247", "created": "2026-08-31T18:42:29.510", "status": "Inactive"}}
