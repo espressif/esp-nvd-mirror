@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "31FCD3B3-938B-45EC-8726-9E7F829D9B87", "criteria": "cpe:2.3:a:intel:extension_for_pytorch:*:*:*:*:cpu:python:*:*", "versionEndExcluding": "2.8.0", "lastModified": "2026-09-01T14:47:13.597", "created": "2026-09-01T14:47:13.597", "status": "Active"}}

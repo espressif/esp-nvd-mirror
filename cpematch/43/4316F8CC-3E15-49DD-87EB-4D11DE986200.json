@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4316F8CC-3E15-49DD-87EB-4D11DE986200", "criteria": "cpe:2.3:a:intel:oneccl_bindings_for_pytorch:*:*:*:*:xpu:python:*:*", "versionEndExcluding": "2.8.0", "lastModified": "2026-09-01T14:53:45.053", "created": "2026-09-01T14:53:45.053", "status": "Active"}}
