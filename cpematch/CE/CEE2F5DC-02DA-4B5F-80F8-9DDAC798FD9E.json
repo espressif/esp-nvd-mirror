@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CEE2F5DC-02DA-4B5F-80F8-9DDAC798FD9E", "criteria": "cpe:2.3:a:elastic:elastic_agent:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.5.0", "versionEndExcluding": "9.5.2", "lastModified": "2026-09-02T16:06:30.177", "created": "2026-09-02T16:06:30.177", "status": "Active"}}

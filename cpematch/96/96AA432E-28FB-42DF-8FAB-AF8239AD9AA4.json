@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "96AA432E-28FB-42DF-8FAB-AF8239AD9AA4", "criteria": "cpe:2.3:a:grafana:mysql_datasource:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.0.0", "versionEndIncluding": "13.0.2", "lastModified": "2026-09-02T16:43:59.430", "created": "2026-09-02T16:43:59.430", "status": "Active"}}

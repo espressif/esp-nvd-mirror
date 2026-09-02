@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D7C4F0A0-E948-4464-B126-A16E57B79BEE", "criteria": "cpe:2.3:a:grafana:postgresql_datasource:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.0.0", "versionEndIncluding": "13.0.1", "lastModified": "2026-09-02T16:43:59.430", "created": "2026-09-02T16:43:59.430", "status": "Active"}}

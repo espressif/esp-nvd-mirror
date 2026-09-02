@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C4CA99D1-6ED9-4A15-B2D7-9DEF09662A59", "criteria": "cpe:2.3:o:f5:tmos:*:*:*:*:*:*:*:*", "versionStartIncluding": "17.5.0", "versionEndExcluding": "17.5.1.8", "lastModified": "2026-09-02T16:42:09.260", "created": "2026-09-02T16:42:09.260", "status": "Active"}}

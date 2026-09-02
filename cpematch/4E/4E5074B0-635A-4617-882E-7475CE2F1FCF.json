@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4E5074B0-635A-4617-882E-7475CE2F1FCF", "criteria": "cpe:2.3:a:elastic:maps_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.19.11", "versionEndExcluding": "8.19.19", "lastModified": "2026-09-02T16:08:56.047", "created": "2026-09-02T16:08:56.047", "status": "Active"}}

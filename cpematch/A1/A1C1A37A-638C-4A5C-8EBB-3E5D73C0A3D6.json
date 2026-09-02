@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A1C1A37A-638C-4A5C-8EBB-3E5D73C0A3D6", "criteria": "cpe:2.3:a:octopus:codefresh:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.11.15", "lastModified": "2026-09-02T17:16:08.380", "created": "2026-09-02T17:16:08.380", "status": "Active"}}

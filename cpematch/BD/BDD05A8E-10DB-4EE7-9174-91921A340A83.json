@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BDD05A8E-10DB-4EE7-9174-91921A340A83", "criteria": "cpe:2.3:a:util-linux:util-linux:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.40", "versionEndExcluding": "2.41.6", "lastModified": "2026-09-02T16:43:24.527", "created": "2026-09-02T16:43:24.527", "status": "Active"}}

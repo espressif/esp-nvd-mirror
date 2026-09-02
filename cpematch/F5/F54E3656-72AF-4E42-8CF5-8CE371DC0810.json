@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F54E3656-72AF-4E42-8CF5-8CE371DC0810", "criteria": "cpe:2.3:a:grafana:microsoft_sql_server_datasource:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.0.0", "versionEndIncluding": "13.0.1", "lastModified": "2026-09-02T16:43:59.430", "created": "2026-09-02T16:43:59.430", "status": "Active"}}
