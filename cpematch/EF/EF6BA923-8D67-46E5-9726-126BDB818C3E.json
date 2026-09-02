@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EF6BA923-8D67-46E5-9726-126BDB818C3E", "criteria": "cpe:2.3:a:getgrav:grav-plugin-api:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0-beta.10", "versionEndExcluding": "1.0.15", "lastModified": "2026-09-02T01:42:57.763", "created": "2026-09-02T01:42:57.763", "status": "Active"}}

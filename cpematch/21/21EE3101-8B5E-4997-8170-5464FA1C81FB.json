@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "21EE3101-8B5E-4997-8170-5464FA1C81FB", "criteria": "cpe:2.3:a:django-cms:django_cms:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.8", "versionEndExcluding": "5.0.9", "lastModified": "2026-09-02T01:22:12.113", "created": "2026-09-02T01:22:12.113", "status": "Active"}}
