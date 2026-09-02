@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1FD62665-4C91-447B-B053-039FBF4328A2", "criteria": "cpe:2.3:a:libexpat_project:libexpat:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.8.2", "versionEndExcluding": "2.8.4", "lastModified": "2026-09-02T05:10:19.937", "cpeLastModified": "2026-09-02T05:10:19.937", "created": "2026-09-02T05:10:19.937", "status": "Active"}}

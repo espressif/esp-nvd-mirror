@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AC320E67-7E37-42D2-B3EA-7DF1DF1751CC", "criteria": "cpe:2.3:a:getkin:kin-openapi:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.124.0", "versionEndExcluding": "0.142.0", "lastModified": "2026-09-02T05:50:08.503", "created": "2026-09-02T05:50:08.503", "status": "Active"}}
