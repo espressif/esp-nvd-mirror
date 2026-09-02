@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A34E3EF6-F261-4467-92C6-B94BD8A9866E", "criteria": "cpe:2.3:a:delinea:secret_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.0.0", "versionEndExcluding": "12.0.23", "lastModified": "2026-09-02T19:55:04.467", "created": "2026-09-02T19:55:04.467", "status": "Active"}}

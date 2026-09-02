@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1B55B509-DEE4-4AA9-AEC6-3E590E5A4132", "criteria": "cpe:2.3:a:maquina-app:rails-mcp-server:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.4.0", "versionEndExcluding": "1.6.1", "lastModified": "2026-09-02T19:31:53.403", "created": "2026-09-02T19:31:53.403", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B3B2002A-7C58-4BA8-AC16-3B02CF8F40F3", "criteria": "cpe:2.3:a:elastic:fleet_server:9.5.0:*:*:*:*:*:*:*", "lastModified": "2026-09-02T19:31:21.183", "created": "2026-09-02T19:29:24.660", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:elastic:fleet_server:9.5.0:*:*:*:*:*:*:*", "cpeNameId": "83B60CA7-1D37-447F-B836-A073F1B02B86"}]}}
