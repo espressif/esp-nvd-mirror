@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "25BF36AE-BFC0-4CCD-8F51-BA1B722F3EC9", "criteria": "cpe:2.3:a:intel:llm_library_for_pytorch:*:*:*:*:*:*:*:*", "versionEndIncluding": "2.3.0", "lastModified": "2026-09-02T11:39:08.300", "created": "2026-09-02T11:39:08.300", "status": "Active"}}
