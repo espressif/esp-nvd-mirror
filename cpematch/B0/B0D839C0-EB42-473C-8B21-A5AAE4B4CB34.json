@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B0D839C0-EB42-473C-8B21-A5AAE4B4CB34", "criteria": "cpe:2.3:a:jetbackup:jetbackup:*:*:*:*:*:wordpress:*:*", "versionStartIncluding": "3.1.7.9", "versionEndExcluding": "3.1.23.5", "lastModified": "2026-09-02T06:40:05.880", "created": "2026-09-02T06:40:05.880", "status": "Active"}}
