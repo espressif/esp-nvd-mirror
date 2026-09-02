@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E5C26866-8C46-4FAD-9063-3A004038CC35", "criteria": "cpe:2.3:o:nvidia:cumulus_linux:*:*:*:*:lts:*:*:*", "versionEndIncluding": "5.11.5", "lastModified": "2026-09-02T13:37:53.913", "cpeLastModified": "2026-09-02T13:37:53.913", "created": "2026-09-02T13:37:53.913", "status": "Active"}}

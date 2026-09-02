@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "74D27FF5-8DFE-41CE-8D93-C4120F910EF1", "criteria": "cpe:2.3:h:intel:vllm_gaudi:*:*:*:*:*:*:*:*", "versionStartIncluding": "19.0", "versionEndIncluding": "19.1", "lastModified": "2026-09-02T12:20:06.060", "created": "2026-09-02T12:20:06.060", "status": "Active"}}

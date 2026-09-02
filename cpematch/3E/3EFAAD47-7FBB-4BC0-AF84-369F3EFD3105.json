@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3EFAAD47-7FBB-4BC0-AF84-369F3EFD3105", "criteria": "cpe:2.3:a:intel:cluster_management_toolkit_for_kubernetes:*:*:*:*:*:*:*:*", "versionEndIncluding": "0.8.5", "lastModified": "2026-09-02T12:29:32.860", "created": "2026-09-02T12:29:32.860", "status": "Active"}}

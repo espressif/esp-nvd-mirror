@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A041BB9B-0710-44C7-8947-0D12F185AE5B", "criteria": "cpe:2.3:a:ibm:portieris:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.5.0", "versionEndIncluding": "0.14.2", "lastModified": "2026-09-02T13:54:20.367", "cpeLastModified": "2026-09-02T13:53:59.880", "created": "2026-09-02T13:53:59.880", "status": "Inactive"}}
