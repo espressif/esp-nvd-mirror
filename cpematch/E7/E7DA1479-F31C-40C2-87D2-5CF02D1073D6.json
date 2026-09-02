@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E7DA1479-F31C-40C2-87D2-5CF02D1073D6", "criteria": "cpe:2.3:a:elastic:apm_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.0", "versionEndExcluding": "9.4.5", "lastModified": "2026-09-02T15:49:05.880", "created": "2026-09-02T15:49:05.880", "status": "Active"}}
