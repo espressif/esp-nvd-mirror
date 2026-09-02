@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F4F76FF4-A0E7-4F5B-8A4F-A0ACAAF0A757", "criteria": "cpe:2.3:a:openfaas:gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.27.11", "versionEndExcluding": "0.27.14", "lastModified": "2026-09-02T20:14:25.190", "created": "2026-09-02T20:14:25.190", "status": "Active"}}
