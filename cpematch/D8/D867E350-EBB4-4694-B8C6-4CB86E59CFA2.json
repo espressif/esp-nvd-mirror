@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D867E350-EBB4-4694-B8C6-4CB86E59CFA2", "criteria": "cpe:2.3:a:argoproj-labs:argocd-mcp:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.8.0", "versionEndExcluding": "0.9.0", "lastModified": "2026-09-03T00:17:20.460", "created": "2026-09-03T00:17:20.460", "status": "Active"}}
