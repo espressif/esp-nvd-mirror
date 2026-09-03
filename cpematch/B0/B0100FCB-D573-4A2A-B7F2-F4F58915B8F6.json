@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B0100FCB-D573-4A2A-B7F2-F4F58915B8F6", "criteria": "cpe:2.3:a:elastic:winlogbeat:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.6.0", "versionEndExcluding": "8.13.0", "lastModified": "2026-09-03T16:03:20.790", "created": "2026-09-03T16:03:20.790", "status": "Active"}}

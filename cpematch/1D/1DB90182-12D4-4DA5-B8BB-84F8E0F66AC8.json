@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1DB90182-12D4-4DA5-B8BB-84F8E0F66AC8", "criteria": "cpe:2.3:a:elastic:metricbeat:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.19.13", "lastModified": "2026-09-03T15:58:32.230", "created": "2026-09-03T15:58:32.230", "status": "Active"}}

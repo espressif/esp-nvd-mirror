@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "29ED0BEC-4319-46B5-83BD-B5BA55B89740", "criteria": "cpe:2.3:a:ongres:stackgres:*:*:*:*:*:kubernetes:*:*", "versionEndExcluding": "1.19.0", "lastModified": "2026-09-03T14:04:37.117", "cpeLastModified": "2026-09-03T14:04:37.117", "created": "2026-09-03T14:04:37.117", "status": "Active"}}
