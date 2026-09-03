@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A25AE22C-04F1-4E0C-88E8-95AD11012889", "criteria": "cpe:2.3:a:fastify:fastify\\/busyboy:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "3.2.2", "lastModified": "2026-09-03T13:48:21.293", "cpeLastModified": "2026-09-03T13:48:21.293", "created": "2026-09-03T13:48:21.293", "status": "Active"}}

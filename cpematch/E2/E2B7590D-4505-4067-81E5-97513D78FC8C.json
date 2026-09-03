@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E2B7590D-4505-4067-81E5-97513D78FC8C", "criteria": "cpe:2.3:a:fastify:fastify\\/jwt:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "10.2.2", "lastModified": "2026-09-03T13:44:40.527", "cpeLastModified": "2026-09-03T13:44:40.527", "created": "2026-09-03T13:44:40.527", "status": "Active"}}
