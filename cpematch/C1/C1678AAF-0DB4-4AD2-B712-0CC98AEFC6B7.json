@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C1678AAF-0DB4-4AD2-B712-0CC98AEFC6B7", "criteria": "cpe:2.3:a:argoproj:argo_rollouts:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndIncluding": "1.10.0", "lastModified": "2026-09-02T23:07:43.790", "created": "2026-09-02T23:07:43.790", "status": "Active"}}
