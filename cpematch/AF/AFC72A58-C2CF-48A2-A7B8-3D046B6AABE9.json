@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AFC72A58-C2CF-48A2-A7B8-3D046B6AABE9", "criteria": "cpe:2.3:a:predis_project:predis:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0-rc1", "versionEndExcluding": "3.3.0", "lastModified": "2026-09-03T04:32:59.673", "created": "2026-09-03T04:32:59.673", "status": "Active"}}

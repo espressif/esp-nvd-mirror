@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "62B3092D-9EC8-436E-ABAB-5E937508EC0B", "criteria": "cpe:2.3:a:pydantic_project:httpx2:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.6.0", "versionEndExcluding": "2.10.0", "lastModified": "2026-09-03T05:06:52.353", "created": "2026-09-03T05:06:52.353", "status": "Active"}}

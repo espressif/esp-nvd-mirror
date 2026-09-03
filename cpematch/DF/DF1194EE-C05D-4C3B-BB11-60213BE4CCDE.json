@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DF1194EE-C05D-4C3B-BB11-60213BE4CCDE", "criteria": "cpe:2.3:a:xmldom_project:xmldom:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.9.0-beta.9", "versionEndExcluding": "0.9.11", "lastModified": "2026-09-03T02:21:44.773", "created": "2026-09-03T02:21:44.773", "status": "Active"}}
