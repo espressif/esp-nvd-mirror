@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9A226B16-2FFE-4EAC-96D2-E058C1C5F385", "criteria": "cpe:2.3:a:openstack:horizon:*:*:*:*:*:*:*:*", "versionStartIncluding": "25.4.0", "versionEndExcluding": "25.5.3", "lastModified": "2026-09-04T13:36:26.147", "cpeLastModified": "2026-09-04T13:36:26.147", "created": "2026-09-04T13:36:26.147", "status": "Active"}}

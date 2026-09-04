@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CA84DCD2-ECE8-45D5-A558-F032A326E815", "criteria": "cpe:2.3:a:ldap_\\/_active_directory_integration_project:ldap_\\/_active_directory_integration:*:*:*:*:*:drupal:*:*", "versionEndExcluding": "2.2.1", "lastModified": "2026-09-04T13:56:51.947", "created": "2026-09-04T13:56:51.947", "status": "Active"}}
