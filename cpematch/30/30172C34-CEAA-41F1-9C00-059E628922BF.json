@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "30172C34-CEAA-41F1-9C00-059E628922BF", "criteria": "cpe:2.3:a:mongodb:mongodb:*:*:*:*:*:visual_studio_code:*:*", "versionStartIncluding": "1.13.0", "versionEndExcluding": "1.17.1", "lastModified": "2026-09-04T19:49:08.907", "created": "2026-09-04T19:49:08.907", "status": "Active"}}

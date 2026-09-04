@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F6B72490-63A4-4DCC-9397-3660FCA0B883", "criteria": "cpe:2.3:a:broadcom:spring_retry:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.0.13", "lastModified": "2026-09-04T18:28:53.100", "created": "2026-09-04T18:28:53.100", "status": "Active"}}

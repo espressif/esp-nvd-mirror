@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ADD24632-B888-40B4-8266-D5AB23297E60", "criteria": "cpe:2.3:a:zenhive:mpp:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.3.0", "versionEndExcluding": "0.6.3", "lastModified": "2026-09-04T19:32:18.123", "cpeLastModified": "2026-09-04T19:32:18.123", "created": "2026-09-04T19:32:18.123", "status": "Active"}}
