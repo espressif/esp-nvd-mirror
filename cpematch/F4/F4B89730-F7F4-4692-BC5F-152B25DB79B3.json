@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F4B89730-F7F4-4692-BC5F-152B25DB79B3", "criteria": "cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:iphone_os:*:*", "versionStartIncluding": "6.3.0", "versionEndExcluding": "6.3.5", "lastModified": "2026-09-08T15:32:33.167", "created": "2026-09-08T15:32:33.167", "status": "Active"}}

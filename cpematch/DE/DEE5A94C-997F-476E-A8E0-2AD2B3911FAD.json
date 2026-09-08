@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DEE5A94C-997F-476E-A8E0-2AD2B3911FAD", "criteria": "cpe:2.3:a:broadcom:spring_amqp:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.2.0", "versionEndExcluding": "3.2.11", "lastModified": "2026-09-08T15:49:55.230", "created": "2026-09-08T15:49:55.230", "status": "Active"}}
