@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DF65B70D-CBAA-4C39-AD1D-9BF73B00CF4E", "criteria": "cpe:2.3:a:hcltech:connections:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.0", "versionEndExcluding": "7 cfix", "lastModified": "2026-09-09T19:58:52.527", "created": "2026-09-09T19:58:52.527", "status": "Active"}}
