@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6DC586BE-1BFF-4BD3-B891-77070DA57214", "criteria": "cpe:2.3:a:opentext:identity_manager_scim_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0.0000", "versionEndExcluding": "1.0.1.0400", "lastModified": "2026-09-09T15:23:51.137", "created": "2026-09-09T15:23:51.137", "status": "Active"}}
