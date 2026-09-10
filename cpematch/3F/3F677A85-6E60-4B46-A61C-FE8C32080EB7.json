@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3F677A85-6E60-4B46-A61C-FE8C32080EB7", "criteria": "cpe:2.3:a:redhat:satellite_capsule:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.18", "versionEndExcluding": "6.18.0", "lastModified": "2026-09-10T11:27:19.740", "cpeLastModified": "2026-09-10T11:27:19.740", "created": "2026-09-10T11:27:19.740", "status": "Active"}}

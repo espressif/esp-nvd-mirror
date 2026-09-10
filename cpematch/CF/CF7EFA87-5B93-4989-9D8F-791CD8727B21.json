@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CF7EFA87-5B93-4989-9D8F-791CD8727B21", "criteria": "cpe:2.3:a:redhat:ansible_automation_platform:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.1.21-1.el9ap", "lastModified": "2026-09-10T10:49:40.353", "created": "2026-09-10T10:49:40.353", "status": "Active"}}

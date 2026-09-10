@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BB9A66E0-D47E-4A46-91DE-3BEFBC9FC302", "criteria": "cpe:2.3:a:amazon:bedrock_agentcore:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.3", "versionEndExcluding": "1.6.1", "lastModified": "2026-09-10T11:26:19.417", "created": "2026-09-10T11:26:19.417", "status": "Active"}}
