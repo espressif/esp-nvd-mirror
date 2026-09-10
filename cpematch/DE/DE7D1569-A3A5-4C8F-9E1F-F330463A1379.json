@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DE7D1569-A3A5-4C8F-9E1F-F330463A1379", "criteria": "cpe:2.3:o:arista:cloudvision_exchange:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.31.0", "versionEndExcluding": "4.32.0", "lastModified": "2026-09-09T23:18:13.107", "created": "2026-09-09T23:18:13.107", "status": "Active"}}
