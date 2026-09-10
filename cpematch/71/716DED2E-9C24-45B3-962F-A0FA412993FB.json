@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "716DED2E-9C24-45B3-962F-A0FA412993FB", "criteria": "cpe:2.3:a:apache:impala:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.4.0", "versionEndIncluding": "4.5.2", "lastModified": "2026-09-10T18:54:35.917", "cpeLastModified": "2026-09-10T18:54:35.917", "created": "2026-09-10T18:54:35.917", "status": "Active"}}
