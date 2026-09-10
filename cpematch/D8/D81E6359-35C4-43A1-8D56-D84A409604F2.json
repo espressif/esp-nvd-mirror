@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D81E6359-35C4-43A1-8D56-D84A409604F2", "criteria": "cpe:2.3:a:osnexus:quantastor:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.9", "versionEndExcluding": "6.6.1", "lastModified": "2026-09-10T07:16:45.457", "cpeLastModified": "2026-09-10T07:16:45.457", "created": "2026-09-10T07:16:45.457", "status": "Active"}}

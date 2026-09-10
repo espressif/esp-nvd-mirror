@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "65F817CC-8E1D-4B1E-A574-B043ADCAAA5E", "criteria": "cpe:2.3:a:aws:s2n-quic:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.82.0", "lastModified": "2026-09-10T06:46:46.773", "created": "2026-09-10T06:46:46.773", "status": "Active"}}

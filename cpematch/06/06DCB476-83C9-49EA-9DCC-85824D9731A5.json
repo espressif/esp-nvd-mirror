@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "06DCB476-83C9-49EA-9DCC-85824D9731A5", "criteria": "cpe:2.3:a:amazon:agentcore_cli:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.3.0-preview.7.0", "versionEndExcluding": "1.0.0-preview.9", "lastModified": "2026-09-10T07:19:11.433", "created": "2026-09-10T07:19:11.433", "status": "Active"}}
