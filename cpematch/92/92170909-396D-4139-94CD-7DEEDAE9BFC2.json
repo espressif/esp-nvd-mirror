@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "92170909-396D-4139-94CD-7DEEDAE9BFC2", "criteria": "cpe:2.3:o:amd:instinct_mi325x_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "rocm 6.3.1", "lastModified": "2026-09-10T03:04:21.840", "created": "2026-09-10T03:04:21.840", "status": "Active"}}

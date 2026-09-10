@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "78CF5455-F0D4-4A41-8AAF-C5D49A092331", "criteria": "cpe:2.3:o:arm:5th_gen_gpu_architecture_kernel_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "r41p0", "versionEndIncluding": "r49p5", "lastModified": "2026-09-10T02:42:27.407", "created": "2026-09-10T02:42:27.407", "status": "Active"}}

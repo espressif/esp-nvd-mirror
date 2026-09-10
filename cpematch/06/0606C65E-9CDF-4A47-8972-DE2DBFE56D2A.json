@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0606C65E-9CDF-4A47-8972-DE2DBFE56D2A", "criteria": "cpe:2.3:a:paloaltonetworks:cortex_xdr_broker_vm:*:*:*:*:*:*:*:*", "versionStartIncluding": "30.0.0", "versionEndExcluding": "30.0.49", "lastModified": "2026-09-10T03:02:33.110", "created": "2026-09-10T03:02:33.110", "status": "Active"}}

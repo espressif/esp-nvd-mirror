@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "317DDD83-8F97-4388-8E33-3FC8EECC9246", "criteria": "cpe:2.3:o:arm:bifrost_gpu_kernel_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "r54p1", "versionEndIncluding": "r54p2", "lastModified": "2026-09-10T02:42:27.407", "created": "2026-09-10T02:42:27.407", "status": "Active"}}

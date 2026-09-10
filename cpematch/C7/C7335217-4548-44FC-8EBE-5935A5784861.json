@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C7335217-4548-44FC-8EBE-5935A5784861", "criteria": "cpe:2.3:o:amd:instinct_mi308x_firmware:*:*:*:*:*:*:*:*", "versionEndExcluding": "rocm 6.4.2", "lastModified": "2026-09-10T03:04:21.840", "created": "2026-09-10T03:04:21.840", "status": "Active"}}
