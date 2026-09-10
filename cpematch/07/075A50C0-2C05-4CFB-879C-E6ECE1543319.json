@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "075A50C0-2C05-4CFB-879C-E6ECE1543319", "criteria": "cpe:2.3:a:aws_c_http_project:aws-c-http:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.4.22", "versionEndExcluding": "0.11.0", "lastModified": "2026-09-10T09:46:22.217", "created": "2026-09-10T09:46:22.217", "status": "Active"}}
