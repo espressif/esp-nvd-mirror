@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3A14B0C7-4854-4C7B-8502-8852BD163BD3", "criteria": "cpe:2.3:a:bmc:control-m\\/server:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.20", "versionEndExcluding": "9.0.21.300", "lastModified": "2026-09-10T05:15:58.457", "created": "2026-09-10T05:15:58.457", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2B8DFCE2-DF63-4BDB-9B17-DC3CADF53755", "criteria": "cpe:2.3:a:canonical:mailcap:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndExcluding": "3.70\\+nmu1ubuntu1.22.04.1", "lastModified": "2026-09-10T04:43:40.953", "created": "2026-09-10T04:43:40.953", "status": "Active"}}
