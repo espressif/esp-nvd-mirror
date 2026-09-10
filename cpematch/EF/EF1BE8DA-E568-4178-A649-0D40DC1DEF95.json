@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EF1BE8DA-E568-4178-A649-0D40DC1DEF95", "criteria": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.0.0", "versionEndIncluding": "21.1.0", "lastModified": "2026-09-10T15:43:18.220", "cpeLastModified": "2026-09-10T15:43:18.220", "created": "2026-09-10T15:43:18.220", "status": "Active"}}

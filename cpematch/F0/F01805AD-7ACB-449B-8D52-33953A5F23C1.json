@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F01805AD-7ACB-449B-8D52-33953A5F23C1", "criteria": "cpe:2.3:a:f5:big-ip_carrier-grade_nat:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.0.0", "versionEndIncluding": "21.1.0", "lastModified": "2026-09-10T15:43:18.220", "cpeLastModified": "2026-09-10T15:43:18.220", "created": "2026-09-10T15:43:18.220", "status": "Active"}}

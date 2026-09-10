@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CAB08478-E3AD-4A50-8DF1-0541014F7584", "criteria": "cpe:2.3:a:tanium:enforce:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.0.346", "lastModified": "2026-09-10T15:26:30.180", "created": "2026-09-10T15:26:30.180", "status": "Active"}}

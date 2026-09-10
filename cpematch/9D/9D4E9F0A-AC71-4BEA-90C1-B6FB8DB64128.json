@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9D4E9F0A-AC71-4BEA-90C1-B6FB8DB64128", "criteria": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.0.0", "versionEndIncluding": "21.1.0", "lastModified": "2026-09-10T15:43:18.220", "cpeLastModified": "2026-09-10T15:43:18.220", "created": "2026-09-10T15:43:18.220", "status": "Active"}}

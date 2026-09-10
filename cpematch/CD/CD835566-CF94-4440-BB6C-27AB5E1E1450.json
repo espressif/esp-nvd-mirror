@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CD835566-CF94-4440-BB6C-27AB5E1E1450", "criteria": "cpe:2.3:a:f5:big-ip_automation_toolchain:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.0.0", "versionEndIncluding": "21.1.0", "lastModified": "2026-09-10T15:43:18.220", "cpeLastModified": "2026-09-10T15:43:18.220", "created": "2026-09-10T15:43:18.220", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3807E9B6-008E-498B-AF97-7B8BD152ACCB", "criteria": "cpe:2.3:a:okta:hyperdrive:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.4.0", "versionEndExcluding": "1.5.2", "lastModified": "2026-09-10T16:03:10.530", "cpeLastModified": "2026-09-10T16:03:10.530", "created": "2026-09-10T16:03:10.530", "status": "Active"}}
