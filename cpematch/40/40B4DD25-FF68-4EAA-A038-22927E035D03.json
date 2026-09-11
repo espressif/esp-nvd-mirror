@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "40B4DD25-FF68-4EAA-A038-22927E035D03", "criteria": "cpe:2.3:a:mongodb:ops_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.0.0", "versionEndExcluding": "8.0.23", "lastModified": "2026-09-11T17:07:26.800", "created": "2026-09-11T17:07:26.800", "status": "Active"}}
