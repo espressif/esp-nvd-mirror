@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9B6C06A6-B674-47E0-8CC0-AE688075AB99", "criteria": "cpe:2.3:a:mongodb:php_library:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.4.1", "lastModified": "2026-09-11T13:27:28.433", "created": "2026-09-11T13:27:28.433", "status": "Active"}}
