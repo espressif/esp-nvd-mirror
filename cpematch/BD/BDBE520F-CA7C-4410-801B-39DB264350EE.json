@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BDBE520F-CA7C-4410-801B-39DB264350EE", "criteria": "cpe:2.3:a:mongodb:libmongocrypt:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "1.7.0", "versionEndExcluding": "1.20.4", "lastModified": "2026-09-11T15:06:11.803", "cpeLastModified": "2026-09-11T15:06:11.803", "created": "2026-09-11T15:06:11.803", "status": "Active"}}
