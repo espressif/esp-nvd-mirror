@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "D86FA092-8E78-40C9-A9A0-4FD0A24FC1B9", "criteria": "cpe:2.3:a:microsoft:copilot:*:*:*:*:*:*:*:*", "lastModified": "2026-09-10T18:12:58.747", "cpeLastModified": "2026-09-10T18:12:58.747", "created": "2026-09-10T18:12:58.747", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "D86FA092-8E78-40C9-A9A0-4FD0A24FC1B9", "criteria": "cpe:2.3:a:microsoft:copilot:*:*:*:*:*:*:*:*", "lastModified": "2026-09-11T02:00:00.217", "cpeLastModified": "2026-09-10T18:12:58.747", "created": "2026-09-10T18:12:58.747", "status": "Inactive"}}

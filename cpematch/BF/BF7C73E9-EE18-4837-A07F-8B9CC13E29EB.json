@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "BF7C73E9-EE18-4837-A07F-8B9CC13E29EB", "criteria": "cpe:2.3:a:apache:nutch:1.23:*:*:*:*:*:*:*", "lastModified": "2026-09-10T19:50:27.473", "cpeLastModified": "2026-09-10T19:50:27.473", "created": "2026-09-10T19:50:27.473", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "BF7C73E9-EE18-4837-A07F-8B9CC13E29EB", "criteria": "cpe:2.3:a:apache:nutch:1.23:*:*:*:*:*:*:*", "lastModified": "2026-09-11T02:00:00.217", "cpeLastModified": "2026-09-10T19:50:27.473", "created": "2026-09-10T19:50:27.473", "status": "Inactive"}}
