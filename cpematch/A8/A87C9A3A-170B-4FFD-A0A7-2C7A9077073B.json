@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A87C9A3A-170B-4FFD-A0A7-2C7A9077073B", "criteria": "cpe:2.3:a:mongodb:bi_connector:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.12.0", "versionEndExcluding": "2.14.30", "lastModified": "2026-09-11T19:32:33.827", "cpeLastModified": "2026-09-11T19:32:33.827", "created": "2026-09-11T19:32:33.827", "status": "Active"}}
