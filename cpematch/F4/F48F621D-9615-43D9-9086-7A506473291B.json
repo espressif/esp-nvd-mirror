@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F48F621D-9615-43D9-9086-7A506473291B", "criteria": "cpe:2.3:a:cyrus:imap:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.11.0", "versionEndExcluding": "3.12.4", "lastModified": "2026-09-14T18:25:41.370", "created": "2026-09-14T18:25:41.370", "status": "Active"}}
