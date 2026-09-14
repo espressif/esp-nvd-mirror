@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "940B3598-CC7D-4816-8A66-66A409E5A900", "criteria": "cpe:2.3:a:mongodb:php_laravel*:*:*:*:*:*:mongodb:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "5.11.0", "lastModified": "2026-09-14T11:44:53.570", "created": "2026-09-14T11:44:53.570", "status": "Active"}}
