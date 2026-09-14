@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "21B3CAF4-BB4C-4D06-8119-6A26FD576A04", "criteria": "cpe:2.3:a:mongodb:laravel_mongodb*:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "5.11.0", "lastModified": "2026-09-14T12:34:25.720", "created": "2026-09-14T12:34:25.720", "status": "Active"}}

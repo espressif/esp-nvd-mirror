@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B2FD35BB-DD91-4147-A12B-913B5BCFCCDA", "criteria": "cpe:2.3:a:apache:opennlp:3.0.0:m4:*:*:*:*:*:*", "lastModified": "2026-09-14T13:53:17.320", "created": "2026-09-14T13:34:21.360", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:apache:opennlp:3.0.0:m4:*:*:*:*:*:*", "cpeNameId": "1CF5352C-B6B0-4CB9-838B-763F7E2D6FEB"}]}}
