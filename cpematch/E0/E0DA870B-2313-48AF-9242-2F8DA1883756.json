@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "E0DA870B-2313-48AF-9242-2F8DA1883756", "criteria": "cpe:2.3:a:microsoft:skype_for_business_server:2019:cumulative_update_6:*:*:*:*:*:*", "lastModified": "2026-09-14T15:14:31.463", "created": "2026-09-14T15:14:31.463", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "E0DA870B-2313-48AF-9242-2F8DA1883756", "criteria": "cpe:2.3:a:microsoft:skype_for_business_server:2019:cumulative_update_6:*:*:*:*:*:*", "lastModified": "2026-09-14T16:51:37.160", "created": "2026-09-14T15:14:31.463", "status": "Inactive"}}
