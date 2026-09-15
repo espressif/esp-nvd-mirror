@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9F37BAFE-B2F1-4F71-836A-D14F19EB63BE", "criteria": "cpe:2.3:a:gnu:binutils:2.47:*:*:*:*:*:*:*", "lastModified": "2026-09-15T18:03:20.440", "created": "2026-09-14T21:27:16.637", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:gnu:binutils:2.47:*:*:*:*:*:*:*", "cpeNameId": "9350555E-A0AA-4E7F-9733-14B956E7D56A"}]}}
