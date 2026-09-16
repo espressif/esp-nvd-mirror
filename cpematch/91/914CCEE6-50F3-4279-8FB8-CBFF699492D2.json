@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "914CCEE6-50F3-4279-8FB8-CBFF699492D2", "criteria": "cpe:2.3:o:apple:iphone_os:27.0:*:*:*:*:*:*:*", "lastModified": "2026-09-15T17:27:21.830", "cpeLastModified": "2026-09-15T17:27:21.830", "created": "2026-09-15T17:27:21.830", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "914CCEE6-50F3-4279-8FB8-CBFF699492D2", "criteria": "cpe:2.3:o:apple:iphone_os:27.0:*:*:*:*:*:*:*", "lastModified": "2026-09-16T01:59:59.827", "cpeLastModified": "2026-09-15T17:27:21.830", "created": "2026-09-15T17:27:21.830", "status": "Inactive"}}
