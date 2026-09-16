@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B0FB8E50-3B8A-4A78-BB90-37E12FD5E2AB", "criteria": "cpe:2.3:a:miniorange:ldap_\\/_active_directory_integration:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "8.x-1.0", "versionEndIncluding": "8.x-1.34", "lastModified": "2026-09-16T15:41:11.710", "created": "2026-09-16T15:41:11.710", "status": "Active"}}
