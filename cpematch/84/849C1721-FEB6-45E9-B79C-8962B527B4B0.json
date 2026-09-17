@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "849C1721-FEB6-45E9-B79C-8962B527B4B0", "criteria": "cpe:2.3:a:apache:airflow_akeyless_provider:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.3.1", "lastModified": "2026-09-17T14:31:32.457", "created": "2026-09-17T14:31:32.457", "status": "Active"}}

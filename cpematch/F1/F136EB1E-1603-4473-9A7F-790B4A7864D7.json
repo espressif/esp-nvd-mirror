@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F136EB1E-1603-4473-9A7F-790B4A7864D7", "criteria": "cpe:2.3:a:apache*:apache-airflow-providers-apache-kafka:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.15.0", "versionEndExcluding": "2.0.0", "lastModified": "2026-09-17T14:24:41.190", "created": "2026-09-17T14:24:41.190", "status": "Active"}}
