@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "623176A1-3B78-4044-8D55-8D4CE62F041C", "criteria": "cpe:2.3:o:apple:ipados:27.0:*:*:*:*:*:*:*", "lastModified": "2026-09-16T01:59:59.827", "cpeLastModified": "2026-09-15T17:29:58.897", "created": "2026-09-15T17:29:58.897", "status": "Inactive"}}
+{"matchString": {"matchCriteriaId": "623176A1-3B78-4044-8D55-8D4CE62F041C", "criteria": "cpe:2.3:o:apple:ipados:27.0:*:*:*:*:*:*:*", "lastModified": "2026-09-17T17:48:35.267", "cpeLastModified": "2026-09-17T17:48:35.267", "created": "2026-09-15T17:29:58.897", "status": "Active"}}
