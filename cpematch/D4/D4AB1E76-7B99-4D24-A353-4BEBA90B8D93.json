@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D4AB1E76-7B99-4D24-A353-4BEBA90B8D93", "criteria": "cpe:2.3:a:apache:nifi:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.11.0", "versionEndExcluding": "2.12.0", "lastModified": "2026-09-16T21:24:47.687", "cpeLastModified": "2026-09-18T19:56:38.287", "created": "2026-09-16T21:24:47.687", "status": "Active"}}
