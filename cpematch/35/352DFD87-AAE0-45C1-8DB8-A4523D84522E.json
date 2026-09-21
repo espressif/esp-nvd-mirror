@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "352DFD87-AAE0-45C1-8DB8-A4523D84522E", "criteria": "cpe:2.3:a:google:a2ui\\/web_core:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "0.9.0", "versionEndExcluding": "0.10.2", "lastModified": "2026-09-21T12:19:53.947", "created": "2026-09-21T12:19:53.947", "status": "Active"}}
