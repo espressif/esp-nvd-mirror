@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CEF8080B-A664-47DE-A637-965725C7E8BF", "criteria": "cpe:2.3:a:ibm:cloud_pak_for_data:-:*:*:*:*:*:*:*", "lastModified": "2026-09-22T13:09:26.887", "created": "2025-08-14T18:28:06.187", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:ibm:cloud_pak_for_data:-:*:*:*:*:*:*:*", "cpeNameId": "1DF4B676-A6E6-4552-869C-0872DBF1E9AA"}]}}
