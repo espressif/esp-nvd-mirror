@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5EC176FF-6AB9-4542-BB71-1C8293F70B41", "criteria": "cpe:2.3:a:ibm:mq:10.0.0.0:*:*:*:*:*:*:*", "lastModified": "2026-09-23T16:56:02.157", "created": "2026-09-14T21:44:20.513", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:ibm:mq:10.0.0.0:*:*:*:continuous_delivery:*:*:*", "cpeNameId": "3BEAB613-5A9F-413A-8112-4BAC07D3A986"}]}}

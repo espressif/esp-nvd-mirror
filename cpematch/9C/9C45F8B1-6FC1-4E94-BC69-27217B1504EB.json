@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9C45F8B1-6FC1-4E94-BC69-27217B1504EB", "criteria": "cpe:2.3:o:checkpoint:gaia_embedded:*:*:*:*:*:*:*:*", "versionStartIncluding": "r81.10.10", "versionEndExcluding": "r81.10.17", "lastModified": "2026-09-23T17:39:36.917", "cpeLastModified": "2026-09-23T17:25:10.963", "created": "2026-09-23T17:25:10.963", "status": "Inactive"}}
