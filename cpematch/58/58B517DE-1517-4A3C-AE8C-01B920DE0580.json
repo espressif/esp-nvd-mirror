@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "58B517DE-1517-4A3C-AE8C-01B920DE0580", "criteria": "cpe:2.3:a:arubanetworks:analytics_and_location_engine:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0.0", "versionEndExcluding": "5.1.0", "lastModified": "2026-09-24T13:24:48.823", "cpeLastModified": "2026-09-24T13:13:40.890", "created": "2026-09-24T13:13:40.890", "status": "Inactive"}}
