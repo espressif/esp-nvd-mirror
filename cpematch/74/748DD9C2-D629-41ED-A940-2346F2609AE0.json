@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "748DD9C2-D629-41ED-A940-2346F2609AE0", "criteria": "cpe:2.3:a:nvidia:infra_controller:*:*:*:*:*:*:*:*", "versionEndIncluding": "1.9", "lastModified": "2026-09-25T15:47:12.867", "created": "2026-09-25T15:47:12.867", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "748DD9C2-D629-41ED-A940-2346F2609AE0", "criteria": "cpe:2.3:a:nvidia:infra_controller:*:*:*:*:*:*:*:*", "versionEndIncluding": "1.9", "lastModified": "2026-09-25T18:14:42.707", "created": "2026-09-25T15:47:12.867", "status": "Inactive"}}
