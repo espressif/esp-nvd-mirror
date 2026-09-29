@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C2E64DEC-D5A8-4A79-B022-C71E7C664D2C", "criteria": "cpe:2.3:o:cisco:ios:15.2(7)e13:*:*:*:*:*:*:*", "lastModified": "2026-09-29T13:09:02.723", "created": "2026-09-11T04:27:34.783", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:cisco:ios:15.2\\(7\\)e13:*:*:*:*:*:*:*", "cpeNameId": "FA9B7A17-4892-4D9D-97D2-295C15225D3A"}]}}
