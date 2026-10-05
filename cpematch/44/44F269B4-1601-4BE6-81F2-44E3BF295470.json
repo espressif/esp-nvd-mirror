@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "44F269B4-1601-4BE6-81F2-44E3BF295470", "criteria": "cpe:2.3:a:microsoft:.net_sdk:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.200", "versionEndExcluding": "10.0.400", "lastModified": "2026-10-05T13:58:25.093", "created": "2026-10-05T13:58:25.093", "status": "Active"}}
