@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CF859D90-AD39-48FD-BC10-95C60DD12385", "criteria": "cpe:2.3:a:microsoft:.net_sdk:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.100", "versionEndExcluding": "8.0.130", "lastModified": "2026-10-05T14:37:48.517", "created": "2026-10-05T14:37:48.517", "status": "Active"}}
