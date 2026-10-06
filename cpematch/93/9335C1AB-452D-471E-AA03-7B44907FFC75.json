@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9335C1AB-452D-471E-AA03-7B44907FFC75", "criteria": "cpe:2.3:a:ibm:financial_transaction_manager:*:*:*:*:*:-:*:*", "versionStartIncluding": "4.0.7.0", "versionEndExcluding": "4.0.11.0", "lastModified": "2026-10-06T14:56:45.273", "created": "2026-10-06T14:56:45.273", "status": "Active"}}
