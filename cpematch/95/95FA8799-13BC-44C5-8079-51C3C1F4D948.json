@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "95FA8799-13BC-44C5-8079-51C3C1F4D948", "criteria": "cpe:2.3:a:pexip:pexip_infinity:39.1:*:*:*:*:*:*:*", "lastModified": "2026-10-05T20:19:59.530", "cpeLastModified": "2026-10-05T20:19:59.530", "created": "2026-10-05T20:19:59.530", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "95FA8799-13BC-44C5-8079-51C3C1F4D948", "criteria": "cpe:2.3:a:pexip:pexip_infinity:39.1:*:*:*:*:*:*:*", "lastModified": "2026-10-06T02:00:00.217", "cpeLastModified": "2026-10-05T20:19:59.530", "created": "2026-10-05T20:19:59.530", "status": "Inactive"}}
