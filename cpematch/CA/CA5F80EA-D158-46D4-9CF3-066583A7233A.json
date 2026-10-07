@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CA5F80EA-D158-46D4-9CF3-066583A7233A", "criteria": "cpe:2.3:o:arista:wi-fi_access_point_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "21.3.0", "lastModified": "2026-10-07T14:46:13.927", "created": "2026-10-07T14:46:13.927", "status": "Active"}}
