@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BD555B6B-FC3C-46DF-A1E0-07B61885EE34", "criteria": "cpe:2.3:a:apache:doris:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.1.0", "versionEndExcluding": "4.1.4", "lastModified": "2026-10-07T12:01:43.210", "created": "2026-10-07T12:01:43.210", "status": "Active"}}

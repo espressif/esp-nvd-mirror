@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "95BEA458-AB84-40C1-8794-5FCC71D1E533", "criteria": "cpe:2.3:a:trustedfirmware:mbed_tls:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.1.2", "lastModified": "2026-10-07T10:59:46.097", "created": "2026-10-07T10:59:46.097", "status": "Active"}}

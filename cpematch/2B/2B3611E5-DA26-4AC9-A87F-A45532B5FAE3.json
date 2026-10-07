@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2B3611E5-DA26-4AC9-A87F-A45532B5FAE3", "criteria": "cpe:2.3:a:pingidentity:pingfederate:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.0.0", "versionEndIncluding": "12.0.10", "lastModified": "2026-10-07T06:17:50.920", "created": "2026-10-07T06:17:50.920", "status": "Active"}}

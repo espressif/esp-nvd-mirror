@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4B2BE157-2746-499C-B7A9-0D37A842871A", "criteria": "cpe:2.3:a:watchguard:authentication_gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.2.2", "versionEndExcluding": "7.5.1", "lastModified": "2026-10-07T12:48:03.663", "created": "2026-10-07T12:48:03.663", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F21020BF-C643-4434-B9D1-D26ED338EC3D", "criteria": "cpe:2.3:a:siemens:industrial_edge_management:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.7.6", "versionEndExcluding": "1.15.17", "lastModified": "2026-10-07T13:47:09.707", "created": "2026-10-07T13:47:09.707", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BD007B17-5B89-4F0F-8433-C97F133CF201", "criteria": "cpe:2.3:a:microsoft:sql_server_management_studio:*:*:*:*:*:*:*:*", "versionStartIncluding": "22.0", "versionEndExcluding": "22.8.2", "lastModified": "2026-10-07T12:43:50.513", "created": "2026-10-07T12:43:50.513", "status": "Active"}}
