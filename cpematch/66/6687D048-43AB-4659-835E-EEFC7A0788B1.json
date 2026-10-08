@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6687D048-43AB-4659-835E-EEFC7A0788B1", "criteria": "cpe:2.3:a:pivotal_software:spring_ldap:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.2.0", "versionEndExcluding": "3.2.18", "lastModified": "2026-10-08T05:05:45.597", "created": "2026-10-08T05:05:45.597", "status": "Active"}}

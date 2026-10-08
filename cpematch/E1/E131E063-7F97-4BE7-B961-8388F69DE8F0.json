@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E131E063-7F97-4BE7-B961-8388F69DE8F0", "criteria": "cpe:2.3:o:vmware:esx:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0", "versionEndExcluding": "esxi80u3i-25205845", "lastModified": "2026-10-08T05:06:52.950", "created": "2026-10-08T05:06:52.950", "status": "Active"}}

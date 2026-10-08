@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "71C30948-556E-4A58-9B54-4D823CD56360", "criteria": "cpe:2.3:a:vmware:fusion:*:*:*:*:*:*:*:*", "versionStartIncluding": "25h2", "versionEndExcluding": "26h1", "lastModified": "2026-10-08T05:06:52.950", "cpeLastModified": "2026-10-08T05:06:52.950", "created": "2026-10-08T05:06:52.950", "status": "Active"}}

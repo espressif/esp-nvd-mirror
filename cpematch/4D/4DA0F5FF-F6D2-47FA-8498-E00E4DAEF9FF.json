@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4DA0F5FF-F6D2-47FA-8498-E00E4DAEF9FF", "criteria": "cpe:2.3:o:vmware:esx:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.1", "versionEndExcluding": "9.1.0.0-25370933", "lastModified": "2026-10-08T05:06:47.633", "created": "2026-10-08T05:06:47.633", "status": "Active"}}
