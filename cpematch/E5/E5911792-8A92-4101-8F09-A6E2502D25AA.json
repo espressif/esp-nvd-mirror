@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E5911792-8A92-4101-8F09-A6E2502D25AA", "criteria": "cpe:2.3:a:apache:jackrabbit:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.23.0", "versionEndIncluding": "2.23.5", "lastModified": "2026-10-08T18:27:53.043", "cpeLastModified": "2026-10-08T18:25:53.437", "created": "2026-10-08T18:25:53.437", "status": "Inactive"}}
