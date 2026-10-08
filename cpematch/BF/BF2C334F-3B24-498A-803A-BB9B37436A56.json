@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BF2C334F-3B24-498A-803A-BB9B37436A56", "criteria": "cpe:2.3:a:ollama:ollama:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.34.2", "versionEndExcluding": "0.35.0", "lastModified": "2026-10-08T20:38:42.943", "created": "2026-10-08T20:38:42.943", "status": "Active"}}
