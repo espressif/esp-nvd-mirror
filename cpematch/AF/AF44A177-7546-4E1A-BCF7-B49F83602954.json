@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AF44A177-7546-4E1A-BCF7-B49F83602954", "criteria": "cpe:2.3:a:linuxfoundation:plugin-proxy-backend:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.5.0", "versionEndExcluding": "0.6.18", "lastModified": "2026-10-07T23:51:27.587", "created": "2026-10-07T23:51:27.587", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "21C8013C-A5DF-4DB4-A60F-436CDB9A5B58", "criteria": "cpe:2.3:a:linuxfoundation:plugin-auth-backend-module-cloudflare-access-provider:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.1.0", "versionEndExcluding": "0.5.0", "lastModified": "2026-10-07T23:51:16.350", "created": "2026-10-07T23:51:16.350", "status": "Active"}}

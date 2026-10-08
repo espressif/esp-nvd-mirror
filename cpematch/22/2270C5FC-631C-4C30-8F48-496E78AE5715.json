@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2270C5FC-631C-4C30-8F48-496E78AE5715", "criteria": "cpe:2.3:a:linuxfoundation:plugin-auth-node:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.3.0", "versionEndExcluding": "0.6.15", "lastModified": "2026-10-07T23:51:49.530", "created": "2026-10-07T23:51:49.530", "status": "Active"}}
