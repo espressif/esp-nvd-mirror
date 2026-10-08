@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2A529F72-B966-47DB-87F6-291BEEFCAB74", "criteria": "cpe:2.3:a:redhat:virtio-win:*:*:*:*:*:*:*:*", "versionStartIncluding": "mm210", "versionEndExcluding": "mm320", "lastModified": "2026-10-08T08:07:06.467", "created": "2026-10-08T08:07:06.467", "status": "Active"}}
