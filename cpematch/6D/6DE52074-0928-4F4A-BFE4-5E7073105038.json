@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6DE52074-0928-4F4A-BFE4-5E7073105038", "criteria": "cpe:2.3:a:linuxfoundation:backstage_plugin-catalog-backend:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.7.0", "versionEndExcluding": "3.7.2", "lastModified": "2026-10-08T00:22:33.537", "created": "2026-10-08T00:22:33.537", "status": "Active"}}

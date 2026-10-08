@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1C42A39E-6715-41F7-8270-91E47D03B20B", "criteria": "cpe:2.3:a:backstage_project:backend-defaults:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.17.0", "versionEndExcluding": "0.17.8", "lastModified": "2026-10-08T00:22:14.493", "created": "2026-10-08T00:22:14.493", "status": "Active"}}

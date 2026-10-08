@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1D543A45-6675-4ED3-B3A4-FCE642F4235E", "criteria": "cpe:2.3:a:linuxfoundation:plugin-scaffolder-backend:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.4.0", "versionEndExcluding": "3.4.1", "lastModified": "2026-10-08T00:43:48.773", "created": "2026-10-08T00:43:48.773", "status": "Active"}}

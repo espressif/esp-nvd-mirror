@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5A010AB8-4BD2-4802-A4EC-C9F47E68A6DA", "criteria": "cpe:2.3:a:linuxfoundation:backstage:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.54.0-next.0", "versionEndExcluding": "1.54.6", "lastModified": "2026-10-08T00:22:33.537", "created": "2026-10-08T00:22:33.537", "status": "Active"}}

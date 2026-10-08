@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EFB20708-63BE-4C5D-A7E9-00D9266FF404", "criteria": "cpe:2.3:a:backstage_project:plugin-scaffolder-backend:*:*:*:*:*:backstage:*:*", "versionStartIncluding": "3.4.0", "versionEndExcluding": "3.4.1", "lastModified": "2026-10-08T00:44:17.923", "created": "2026-10-08T00:44:17.923", "status": "Active"}}

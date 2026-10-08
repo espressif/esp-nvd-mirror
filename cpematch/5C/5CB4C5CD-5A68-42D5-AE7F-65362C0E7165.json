@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5CB4C5CD-5A68-42D5-AE7F-65362C0E7165", "criteria": "cpe:2.3:a:linuxfoundation:backstage_plugin-techdocs-node:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.15.0", "versionEndExcluding": "1.15.4", "lastModified": "2026-10-08T00:42:20.980", "created": "2026-10-08T00:42:20.980", "status": "Active"}}
