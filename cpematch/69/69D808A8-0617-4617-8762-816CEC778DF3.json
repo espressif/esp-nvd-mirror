@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "69D808A8-0617-4617-8762-816CEC778DF3", "criteria": "cpe:2.3:a:gnu:freeipmi:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.7.12", "versionEndExcluding": "1.6.18", "lastModified": "2026-10-09T06:11:33.893", "created": "2026-10-09T06:11:33.893", "status": "Active"}}
