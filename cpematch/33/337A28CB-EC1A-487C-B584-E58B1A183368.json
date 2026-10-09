@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "337A28CB-EC1A-487C-B584-E58B1A183368", "criteria": "cpe:2.3:a:opentelemetry_project:ebpf-profiler:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.0.202527", "versionEndExcluding": "0.0.202622", "lastModified": "2026-10-09T05:18:37.760", "created": "2026-10-09T05:18:37.760", "status": "Active"}}

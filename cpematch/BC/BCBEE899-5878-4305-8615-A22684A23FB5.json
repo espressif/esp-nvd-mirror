@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BCBEE899-5878-4305-8615-A22684A23FB5", "criteria": "cpe:2.3:a:hapijs:joi:*:*:*:*:*:*:*:*", "versionStartIncluding": "18.0.0", "versionEndExcluding": "18.2.1", "lastModified": "2026-10-09T05:18:24.223", "created": "2026-10-09T05:18:24.223", "status": "Active"}}
