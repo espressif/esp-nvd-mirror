@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5B207A59-D51C-4821-84E1-731EDA281C07", "criteria": "cpe:2.3:a:langchain4j:langchain4j-mariadb:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.6.0-beta12", "versionEndExcluding": "1.11.8-beta19", "lastModified": "2026-10-09T16:12:18.153", "created": "2026-10-09T16:12:18.153", "status": "Active"}}

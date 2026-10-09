@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "11E6F1F5-AAC9-41C2-9BD0-EF63B085FE9C", "criteria": "cpe:2.3:a:langchain4j:langchain4j-pgvector:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.12.1-beta21", "versionEndExcluding": "1.16.3-beta26", "lastModified": "2026-10-09T16:12:18.153", "created": "2026-10-09T16:12:18.153", "status": "Active"}}

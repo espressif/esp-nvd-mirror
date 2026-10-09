@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "404C224E-8259-48A6-8C46-CC0675490E8C", "criteria": "cpe:2.3:a:apache:camel_karavan:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.18.0", "versionEndExcluding": "4.22.1", "lastModified": "2026-10-09T16:48:56.910", "created": "2026-10-09T16:48:56.910", "status": "Active"}}

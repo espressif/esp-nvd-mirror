@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "25C001DB-4EE5-4AA7-81A5-099F900A5EA9", "criteria": "cpe:2.3:a:hazelcast:hazelcast:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.6.0", "versionEndExcluding": "5.6.1", "lastModified": "2026-10-09T17:41:25.993", "created": "2026-10-09T17:41:25.993", "status": "Active"}}
