@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6A10FF61-78E8-4427-85E4-B63DE2C32EB2", "criteria": "cpe:2.3:a:pydantic:pydantic_ai:*:-:*:*:*:python:*:*", "versionStartIncluding": "2.10.0", "versionEndExcluding": "2.53.0", "lastModified": "2026-10-09T18:56:44.540", "cpeLastModified": "2026-10-09T18:56:44.540", "created": "2026-10-09T18:56:44.540", "status": "Active"}}
