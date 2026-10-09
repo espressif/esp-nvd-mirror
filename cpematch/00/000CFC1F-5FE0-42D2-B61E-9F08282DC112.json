@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "000CFC1F-5FE0-42D2-B61E-9F08282DC112", "criteria": "cpe:2.3:a:plone:plone.app.textfield:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.0.1", "lastModified": "2026-10-09T15:00:41.547", "created": "2026-10-09T15:00:41.547", "status": "Active"}}

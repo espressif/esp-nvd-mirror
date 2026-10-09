@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "40B8998F-4127-41B1-A1B6-634221332CB7", "criteria": "cpe:2.3:a:k3s:k3s:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.35.0-rc1\\+k3s1", "versionEndExcluding": "1.35.3\\+k3s1", "lastModified": "2026-10-09T14:24:54.317", "created": "2026-10-09T14:24:54.317", "status": "Active"}}

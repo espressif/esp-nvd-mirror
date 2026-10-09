@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0D07068C-8504-4308-AA82-7A8F6BCA7305", "criteria": "cpe:2.3:a:microsoft:o365_moodle:*:*:*:*:*:moodle:*:*", "versionStartIncluding": "5.1.0", "versionEndExcluding": "5.1.1", "lastModified": "2026-10-09T15:30:40.397", "created": "2026-10-09T15:30:40.397", "status": "Active"}}
