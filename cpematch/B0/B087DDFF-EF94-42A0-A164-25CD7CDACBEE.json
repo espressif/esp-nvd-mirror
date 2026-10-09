@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B087DDFF-EF94-42A0-A164-25CD7CDACBEE", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-auth-backend:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "0.29.2", "lastModified": "2026-10-09T20:40:22.683", "created": "2026-10-09T20:40:22.683", "status": "Active"}}

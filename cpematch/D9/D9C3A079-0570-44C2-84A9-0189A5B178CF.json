@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D9C3A079-0570-44C2-84A9-0189A5B178CF", "criteria": "cpe:2.3:a:cyclonedx:cyclonedx-node-npm:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.1.0", "versionEndExcluding": "5.0.0", "lastModified": "2026-10-09T20:20:46.680", "created": "2026-10-09T20:20:46.680", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "77BD66B7-65F7-4084-B2A8-F8C6DD393C5F", "criteria": "cpe:2.3:a:bouncycastle:bcpix-lts:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.73.7", "versionEndExcluding": "2.73.11", "lastModified": "2026-10-09T21:02:30.117", "created": "2026-10-09T21:02:30.117", "status": "Active"}}
