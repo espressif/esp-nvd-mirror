@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9E5EB41C-F053-4E34-B043-7EC0BB1000C8", "criteria": "cpe:2.3:a:vitest.dev:vitest:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0-beta.0", "versionEndExcluding": "5.0.0-beta.4", "lastModified": "2026-10-09T11:46:57.630", "created": "2026-10-09T11:46:57.630", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "65CE8B76-81B5-4E6B-91E6-1A35096E8B92", "criteria": "cpe:2.3:a:remix-run:server-runtime:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.17.3", "versionEndExcluding": "2.17.5", "lastModified": "2026-10-09T11:46:58.947", "created": "2026-10-09T11:46:58.947", "status": "Active"}}

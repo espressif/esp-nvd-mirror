@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "579BC1CF-753E-43E1-BCD0-6DBF9F5D4D74", "criteria": "cpe:2.3:a:libgit2:libgit2:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.9.0", "versionEndExcluding": "1.9.5", "lastModified": "2026-10-09T11:22:42.760", "created": "2026-10-09T11:22:42.760", "status": "Active"}}
