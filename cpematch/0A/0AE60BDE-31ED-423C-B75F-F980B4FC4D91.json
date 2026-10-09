@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0AE60BDE-31ED-423C-B75F-F980B4FC4D91", "criteria": "cpe:2.3:a:containerd:overlaybd:*:*:*:*:*:*:*:*", "versionEndIncluding": "1.0.18", "lastModified": "2026-10-09T01:43:11.983", "created": "2026-10-09T01:43:11.983", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CF5F7C32-02F9-4997-89C6-C1865DCDEC71", "criteria": "cpe:2.3:a:traverse_project:traverse:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.6.0", "versionEndExcluding": "0.6.12", "lastModified": "2026-10-09T01:01:53.937", "created": "2026-10-09T01:01:53.937", "status": "Active"}}

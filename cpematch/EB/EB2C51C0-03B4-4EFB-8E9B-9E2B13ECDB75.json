@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EB2C51C0-03B4-4EFB-8E9B-9E2B13ECDB75", "criteria": "cpe:2.3:a:openstack:zaqar:*:*:*:*:*:*:*:*", "versionStartIncluding": "22.0.0", "versionEndExcluding": "22.0.3", "lastModified": "2026-10-09T01:02:02.967", "created": "2026-10-09T01:02:02.967", "status": "Active"}}

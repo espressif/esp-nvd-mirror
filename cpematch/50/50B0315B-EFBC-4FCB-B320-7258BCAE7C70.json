@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "50B0315B-EFBC-4FCB-B320-7258BCAE7C70", "criteria": "cpe:2.3:a:mariadb_corporation:mariadb-connector-nodejs:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.5.0-rc.0", "versionEndExcluding": "3.5.4", "lastModified": "2026-10-09T01:29:22.540", "created": "2026-10-09T01:29:22.540", "status": "Active"}}
