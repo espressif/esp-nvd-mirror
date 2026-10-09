@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2E67A28A-68D4-40F2-9092-7B708620A86B", "criteria": "cpe:2.3:a:asynchttpclient_project:async-http-client:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.11", "versionEndExcluding": "3.0.14", "lastModified": "2026-10-08T23:21:00.383", "created": "2026-10-08T23:21:00.383", "status": "Active"}}
