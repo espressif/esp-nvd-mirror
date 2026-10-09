@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2C6495D0-CAEC-4B39-B32A-63ED5514BAC3", "criteria": "cpe:2.3:a:envoyproxy:gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.8.0-rc.0", "versionEndExcluding": "1.8.1", "lastModified": "2026-10-09T12:48:08.740", "created": "2026-10-09T12:48:08.740", "status": "Active"}}

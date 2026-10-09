@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7018F65A-899E-490F-B678-35B99CAB583C", "criteria": "cpe:2.3:a:tektoncd:pipelines-as-code:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.43.0", "versionEndExcluding": "0.48.0", "lastModified": "2026-10-09T13:41:52.323", "created": "2026-10-09T13:41:52.323", "status": "Active"}}

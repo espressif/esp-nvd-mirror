@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D3294930-51A7-4D80-A8D8-00229AF31CBA", "criteria": "cpe:2.3:a:openidc_project:cjose:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.6.1", "versionEndExcluding": "0.6.2.6", "lastModified": "2026-10-09T13:21:41.287", "created": "2026-10-09T13:21:41.287", "status": "Active"}}
