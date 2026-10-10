@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "392519C5-A65E-4A24-8C05-FD78B1EA1694", "criteria": "cpe:2.3:a:konghq:kong_gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.11.0.0", "versionEndExcluding": "3.11.0.12", "lastModified": "2026-10-10T08:51:50.543", "created": "2026-10-10T08:51:50.543", "status": "Active"}}
