@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3EEDB79B-0061-424D-B42B-3A295CF19444", "criteria": "cpe:2.3:a:redhat:multicluster_engine_for_kubernetes:*:*:*:*:*:*:*:*", "versionEndExcluding": "1787274923", "lastModified": "2026-10-10T16:22:47.680", "cpeLastModified": "2026-10-10T16:22:47.680", "created": "2026-10-10T16:22:47.680", "status": "Active"}}

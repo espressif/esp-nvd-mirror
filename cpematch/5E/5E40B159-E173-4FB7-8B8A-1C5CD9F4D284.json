@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5E40B159-E173-4FB7-8B8A-1C5CD9F4D284", "criteria": "cpe:2.3:a:erlef:oidcc_plug:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.2.0-beta.1", "versionEndExcluding": "0.5.0", "lastModified": "2026-10-10T16:42:00.220", "created": "2026-10-10T16:42:00.220", "status": "Active"}}
