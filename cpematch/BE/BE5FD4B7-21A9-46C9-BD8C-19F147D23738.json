@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BE5FD4B7-21A9-46C9-BD8C-19F147D23738", "criteria": "cpe:2.3:a:spring:micrometer_tracing:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.7.0", "versionEndExcluding": "1.7.1", "lastModified": "2026-10-10T02:56:35.117", "created": "2026-10-10T02:56:35.117", "status": "Active"}}

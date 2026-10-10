@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5CEB69A1-6014-4E3D-8B94-0326E7D7D738", "criteria": "cpe:2.3:a:micrometer_project:micrometer:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.10.0", "versionEndExcluding": "1.14.17", "lastModified": "2026-10-10T02:46:40.107", "created": "2026-10-10T02:46:40.107", "status": "Active"}}

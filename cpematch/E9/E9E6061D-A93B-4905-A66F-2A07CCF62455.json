@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E9E6061D-A93B-4905-A66F-2A07CCF62455", "criteria": "cpe:2.3:a:apereo:cas_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.3.0", "versionEndExcluding": "8.0.0-rc6", "lastModified": "2026-10-10T02:31:21.837", "created": "2026-10-10T02:31:21.837", "status": "Active"}}

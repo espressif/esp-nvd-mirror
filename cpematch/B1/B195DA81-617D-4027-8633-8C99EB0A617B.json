@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B195DA81-617D-4027-8633-8C99EB0A617B", "criteria": "cpe:2.3:a:zscaler:mcp_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.7.0", "versionEndExcluding": "0.7.2", "lastModified": "2026-10-10T02:56:41.887", "created": "2026-10-10T02:56:41.887", "status": "Active"}}
