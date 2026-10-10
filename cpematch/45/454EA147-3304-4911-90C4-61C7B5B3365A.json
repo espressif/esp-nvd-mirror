@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "454EA147-3304-4911-90C4-61C7B5B3365A", "criteria": "cpe:2.3:a:phoenixframework:phoenix_live_view:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.0-rc.0", "versionEndExcluding": "1.2.9", "lastModified": "2026-10-10T12:44:59.950", "created": "2026-10-10T12:44:59.950", "status": "Active"}}

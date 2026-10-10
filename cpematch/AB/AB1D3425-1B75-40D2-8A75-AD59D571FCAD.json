@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AB1D3425-1B75-40D2-8A75-AD59D571FCAD", "criteria": "cpe:2.3:a:phoenixframework:phoenix_live_view:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.0-rc.0", "versionEndExcluding": "1.1.33", "lastModified": "2026-10-10T12:44:59.950", "created": "2026-10-10T12:44:59.950", "status": "Active"}}

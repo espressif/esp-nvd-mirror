@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6BA79F59-8EB4-4CDC-841F-CBEBCA6B45C4", "criteria": "cpe:2.3:a:webpros:configserver_security_and_firewall:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.15", "versionEndExcluding": "16.30", "lastModified": "2026-10-10T13:44:37.207", "created": "2026-10-10T13:44:37.207", "status": "Active"}}
