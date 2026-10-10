@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0B5C260E-D738-454F-9E27-AAD571AC0ECF", "criteria": "cpe:2.3:o:netbsd:netbsd:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0", "versionEndIncluding": "8.3", "lastModified": "2026-10-10T01:08:09.350", "created": "2026-10-10T01:08:09.350", "status": "Active"}}

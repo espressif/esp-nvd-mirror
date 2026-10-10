@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6D15FD7D-B2B4-4E22-BFF4-6DFF56EA3AB2", "criteria": "cpe:2.3:a:sap:abap_development_tools:*:*:*:*:*:*:*:*", "versionStartIncluding": "sap_basis 750", "versionEndIncluding": "sap_basis 920", "lastModified": "2026-10-10T02:07:33.147", "created": "2026-10-10T02:07:33.147", "status": "Active"}}

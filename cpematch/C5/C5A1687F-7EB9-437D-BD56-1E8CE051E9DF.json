@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C5A1687F-7EB9-437D-BD56-1E8CE051E9DF", "criteria": "cpe:2.3:a:protocol-buffers-schema_project:protocol-buffers-schema:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.6.0", "versionEndExcluding": "3.6.1", "lastModified": "2026-10-10T01:08:34.220", "created": "2026-10-10T01:08:34.220", "status": "Active"}}

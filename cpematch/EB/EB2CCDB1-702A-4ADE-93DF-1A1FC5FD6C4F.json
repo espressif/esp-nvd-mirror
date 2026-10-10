@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EB2CCDB1-702A-4ADE-93DF-1A1FC5FD6C4F", "criteria": "cpe:2.3:a:plone:plone_app_portlets:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.0.0", "versionEndExcluding": "7.0.2", "lastModified": "2026-10-10T00:38:39.257", "created": "2026-10-10T00:38:39.257", "status": "Active"}}
