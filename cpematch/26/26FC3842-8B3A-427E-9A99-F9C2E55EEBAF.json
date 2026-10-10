@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "26FC3842-8B3A-427E-9A99-F9C2E55EEBAF", "criteria": "cpe:2.3:a:talend:jobserver:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0", "versionEndExcluding": "tps-6017", "lastModified": "2026-10-10T07:57:30.583", "created": "2026-10-10T07:57:30.583", "status": "Active"}}

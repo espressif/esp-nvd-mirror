@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8DBD1F81-DBE3-4C51-9CF6-003F8E3A89D8", "criteria": "cpe:2.3:a:canonical:accountsservice:*:*:*:*:*:*:*:*", "versionStartIncluding": "23.13.9-8ubuntu6", "versionEndExcluding": "23.13.9-8ubuntu7", "lastModified": "2026-10-10T06:40:53.517", "created": "2026-10-10T06:40:53.517", "status": "Active"}}

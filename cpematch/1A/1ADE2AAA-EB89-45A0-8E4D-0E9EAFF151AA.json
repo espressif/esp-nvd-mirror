@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1ADE2AAA-EB89-45A0-8E4D-0E9EAFF151AA", "criteria": "cpe:2.3:a:kubernetes:cri-o:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.34", "versionEndExcluding": "1.35.7", "lastModified": "2026-10-10T07:00:18.413", "created": "2026-10-10T07:00:18.413", "status": "Active"}}

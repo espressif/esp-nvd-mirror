@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6093D15C-90CF-4DE8-8D4B-9A0F910D8B7C", "criteria": "cpe:2.3:a:linuxfoundation:kubeedge:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.12.0", "versionEndExcluding": "1.21.2", "lastModified": "2026-10-10T07:58:06.710", "created": "2026-10-10T07:58:06.710", "status": "Active"}}
