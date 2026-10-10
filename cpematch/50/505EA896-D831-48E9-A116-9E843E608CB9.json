@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "505EA896-D831-48E9-A116-9E843E608CB9", "criteria": "cpe:2.3:a:temporalio:ringpop-go:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.0.0-20160824133849-d0de5fe13330", "versionEndExcluding": "0.0.0-20260724173031-c317effcdc8b", "lastModified": "2026-10-10T14:11:35.330", "created": "2026-10-10T14:11:35.330", "status": "Active"}}

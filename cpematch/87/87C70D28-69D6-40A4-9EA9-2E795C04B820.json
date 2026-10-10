@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "87C70D28-69D6-40A4-9EA9-2E795C04B820", "criteria": "cpe:2.3:a:temporal.io:tchannel-go:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.0.0-20150531204735-8d8ca17342b3", "versionEndExcluding": "1.22.1", "lastModified": "2026-10-10T14:11:28.613", "created": "2026-10-10T14:11:28.613", "status": "Active"}}
