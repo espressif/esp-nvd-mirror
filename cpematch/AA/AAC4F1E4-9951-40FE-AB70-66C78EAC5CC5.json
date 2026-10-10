@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AAC4F1E4-9951-40FE-AB70-66C78EAC5CC5", "criteria": "cpe:2.3:a:nginx-ignition_project:nginx-ignition:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.29.0", "versionEndExcluding": "2.40.1", "lastModified": "2026-10-10T05:41:29.310", "created": "2026-10-10T05:41:29.310", "status": "Active"}}
