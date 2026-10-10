@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D1C09A2F-8E68-4DDA-9E52-1BA1A3898CEC", "criteria": "cpe:2.3:a:plesk:plesk_restful_api:*:*:*:*:*:plesk:*:*", "versionStartIncluding": "2.4.2", "versionEndExcluding": "2.4.7", "lastModified": "2026-10-10T19:25:31.760", "created": "2026-10-10T19:25:31.760", "status": "Active"}}

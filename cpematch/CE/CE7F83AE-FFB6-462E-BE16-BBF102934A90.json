@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CE7F83AE-FFB6-462E-BE16-BBF102934A90", "criteria": "cpe:2.3:a:phpcsstandards:php_codesniffer:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.0.2", "lastModified": "2026-10-10T18:23:56.590", "created": "2026-10-10T18:23:56.590", "status": "Active"}}

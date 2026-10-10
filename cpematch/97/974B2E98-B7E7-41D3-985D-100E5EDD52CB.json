@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "974B2E98-B7E7-41D3-985D-100E5EDD52CB", "criteria": "cpe:2.3:a:fasterxml:jackson-dataformats-binary:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.1.6", "lastModified": "2026-10-10T19:25:24.053", "created": "2026-10-10T19:25:24.053", "status": "Active"}}
