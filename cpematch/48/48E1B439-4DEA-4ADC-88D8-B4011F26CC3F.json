@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "48E1B439-4DEA-4ADC-88D8-B4011F26CC3F", "criteria": "cpe:2.3:a:ibm:tririga_application_platform:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0", "versionEndExcluding": "5.0.9", "lastModified": "2026-10-13T19:33:26.100", "cpeLastModified": "2026-10-13T19:33:26.100", "created": "2026-10-13T19:33:26.100", "status": "Active"}}
