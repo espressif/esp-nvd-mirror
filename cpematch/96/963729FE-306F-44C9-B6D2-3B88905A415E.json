@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "963729FE-306F-44C9-B6D2-3B88905A415E", "criteria": "cpe:2.3:a:microsoft:aspnet_core_components_webassembly_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "10.0.13", "lastModified": "2026-10-13T21:25:35.230", "created": "2026-10-13T21:25:35.230", "status": "Active"}}
