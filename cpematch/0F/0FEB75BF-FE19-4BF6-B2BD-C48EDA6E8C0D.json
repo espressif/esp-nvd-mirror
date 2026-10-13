@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0FEB75BF-FE19-4BF6-B2BD-C48EDA6E8C0D", "criteria": "cpe:2.3:a:ui:unifi_network_controller:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.11", "versionEndExcluding": "5.11.18", "lastModified": "2026-10-13T15:08:28.870", "created": "2026-10-13T15:08:28.870", "status": "Active"}}
