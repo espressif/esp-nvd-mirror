@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C5832AD2-DCDB-4E33-89F3-706604E5E61D", "criteria": "cpe:2.3:a:microsoft:windows_defender:*:*:*:*:*:*:*:*", "versionStartIncluding": "1000.0.0.0", "versionEndExcluding": "1000.27840.1000.0", "lastModified": "2026-10-13T23:24:58.790", "created": "2026-10-13T23:24:58.790", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A0EE3ED5-CBA5-4AFA-9228-CA288D3A90AE", "criteria": "cpe:2.3:a:microsoft:windows_defender_for_endpoint:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0.0", "versionEndExcluding": "4.18.26060.3008", "lastModified": "2026-10-13T23:23:57.073", "created": "2026-10-13T23:23:57.073", "status": "Active"}}
