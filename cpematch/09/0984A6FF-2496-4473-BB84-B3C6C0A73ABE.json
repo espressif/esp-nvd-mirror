@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0984A6FF-2496-4473-BB84-B3C6C0A73ABE", "criteria": "cpe:2.3:a:kubeflow:model_registry:*:*:*:*:*:*:*:*", "versionEndIncluding": "0.3.17", "lastModified": "2026-10-14T05:28:38.343", "created": "2026-10-14T05:28:38.343", "status": "Active"}}
