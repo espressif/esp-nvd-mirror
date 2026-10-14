@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "730CE264-A67D-4E27-B46B-0C20DF715D05", "criteria": "cpe:2.3:a:netskope:endpoint_dlp:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndExcluding": "141.0", "lastModified": "2026-10-14T11:13:02.090", "created": "2026-10-14T11:13:02.090", "status": "Active"}}

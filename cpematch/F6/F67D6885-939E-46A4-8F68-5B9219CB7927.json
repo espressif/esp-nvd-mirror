@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F67D6885-939E-46A4-8F68-5B9219CB7927", "criteria": "cpe:2.3:o:ibm:power_systems_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "fw1110.00", "versionEndExcluding": "fw1110.32", "lastModified": "2026-10-14T11:34:33.047", "created": "2026-10-14T11:34:33.047", "status": "Active"}}
