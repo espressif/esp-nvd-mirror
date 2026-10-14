@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "11E03A71-36E3-4CF4-A120-084241BE36F1", "criteria": "cpe:2.3:a:microsoft:hevc_video_extensions_for_licensed_applications:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0.0", "versionEndExcluding": "2.4.85.0", "lastModified": "2026-10-14T02:55:56.123", "created": "2026-10-14T02:55:56.123", "status": "Active"}}

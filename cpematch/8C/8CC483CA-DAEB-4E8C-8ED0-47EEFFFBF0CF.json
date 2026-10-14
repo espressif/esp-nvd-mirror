@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8CC483CA-DAEB-4E8C-8ED0-47EEFFFBF0CF", "criteria": "cpe:2.3:a:microsoft:postscript_printer_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.14393.0", "versionEndExcluding": "10.0.14393.9612", "lastModified": "2026-10-14T03:09:00.013", "created": "2026-10-14T03:09:00.013", "status": "Active"}}
