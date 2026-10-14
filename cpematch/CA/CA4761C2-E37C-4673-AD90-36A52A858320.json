@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CA4761C2-E37C-4673-AD90-36A52A858320", "criteria": "cpe:2.3:a:redhat:quay:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.15", "versionEndExcluding": "3.15.8", "lastModified": "2026-10-14T10:07:23.193", "created": "2026-10-14T10:07:23.193", "status": "Active"}}
