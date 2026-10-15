@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D6222DA1-6C6A-4A15-B431-1F1EBF620342", "criteria": "cpe:2.3:a:paloaltonetworks:prisma_access:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.1.0", "versionEndExcluding": "12.1.7-h8", "lastModified": "2026-10-15T16:36:42.663", "created": "2026-10-15T16:36:42.663", "status": "Active"}}

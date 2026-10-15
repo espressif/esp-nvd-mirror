@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "76C01835-136C-487A-ABE4-8DD004CC5C96", "criteria": "cpe:2.3:o:juniper:junos_os_evolved:*:*:*:*:*:*:*:*", "versionStartIncluding": "25.4x300", "versionEndExcluding": "25.4x300-d40-evo", "lastModified": "2026-10-15T17:07:30.783", "created": "2026-10-15T17:07:30.783", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "91151B64-3CA2-40A8-9579-667A0779B45E", "criteria": "cpe:2.3:o:freebsd:freebsd:*:*:*:*:*:*:*:*", "versionStartIncluding": "14.4-release", "versionEndExcluding": "14.4-release-p10", "lastModified": "2026-10-15T16:24:57.903", "created": "2026-10-15T16:24:57.903", "status": "Active"}}
