@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "92BAD14E-BFF0-44DF-8C22-496987EEA67F", "criteria": "cpe:2.3:a:eclipse_foundation:vertx-db2-client:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.2.0", "versionEndExcluding": "5.2.1", "lastModified": "2026-10-15T15:22:24.020", "created": "2026-10-15T15:22:24.020", "status": "Active"}}

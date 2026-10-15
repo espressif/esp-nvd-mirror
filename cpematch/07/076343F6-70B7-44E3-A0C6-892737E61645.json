@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "076343F6-70B7-44E3-A0C6-892737E61645", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-kubernetes-backend:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "0.21.9", "lastModified": "2026-10-15T15:54:10.723", "cpeLastModified": "2026-10-15T15:54:10.723", "created": "2026-10-15T15:54:10.723", "status": "Active"}}

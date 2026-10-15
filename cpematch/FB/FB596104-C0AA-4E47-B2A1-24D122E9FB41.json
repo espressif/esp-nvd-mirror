@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FB596104-C0AA-4E47-B2A1-24D122E9FB41", "criteria": "cpe:2.3:a:microsoft:azure-keyvault-secrets:*:*:*:*:*:rust:*:*", "versionEndExcluding": "1.0.1", "lastModified": "2026-10-15T14:04:52.060", "created": "2026-10-15T14:04:52.060", "status": "Active"}}

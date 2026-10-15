@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F9080C96-56A1-4A41-9789-C4132BFB9813", "criteria": "cpe:2.3:a:microsoft:azure-keyvault-secrets:*:*:*:*:*:-:*:*", "versionEndExcluding": "4.11.2", "lastModified": "2026-10-15T14:04:52.060", "cpeLastModified": "2026-10-15T14:04:52.060", "created": "2026-10-15T14:04:52.060", "status": "Active"}}

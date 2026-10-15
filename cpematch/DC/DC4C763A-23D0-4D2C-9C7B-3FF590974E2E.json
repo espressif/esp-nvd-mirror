@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DC4C763A-23D0-4D2C-9C7B-3FF590974E2E", "criteria": "cpe:2.3:a:eclipse_vertx:vertx-mssql-client:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.5.35", "lastModified": "2026-10-15T15:05:09.590", "created": "2026-10-15T15:05:09.590", "status": "Active"}}

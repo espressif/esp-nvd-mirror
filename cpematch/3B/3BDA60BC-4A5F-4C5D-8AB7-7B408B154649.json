@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3BDA60BC-4A5F-4C5D-8AB7-7B408B154649", "criteria": "cpe:2.3:a:eclipse_ecsp:api-gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.1", "versionEndIncluding": "1.7.3", "lastModified": "2026-10-15T15:52:45.863", "created": "2026-10-15T15:52:45.863", "status": "Active"}}

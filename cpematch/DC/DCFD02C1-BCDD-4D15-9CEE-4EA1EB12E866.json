@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DCFD02C1-BCDD-4D15-9CEE-4EA1EB12E866", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-scaffolder-backend-module-confluence-to-markdown:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "0.3.25", "lastModified": "2026-10-15T16:00:41.810", "created": "2026-10-15T16:00:41.810", "status": "Active"}}

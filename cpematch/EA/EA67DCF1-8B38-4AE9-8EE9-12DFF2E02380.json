@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EA67DCF1-8B38-4AE9-8EE9-12DFF2E02380", "criteria": "cpe:2.3:a:eclipse:vert.x-web:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.1.0", "versionEndExcluding": "5.1.10", "lastModified": "2026-10-15T14:57:30.463", "created": "2026-10-15T14:57:30.463", "status": "Active"}}
