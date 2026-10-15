@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6E39543B-4CE7-42A0-9C54-6FAA1DCD6CAA", "criteria": "cpe:2.3:a:apache:airflow_providers_microsoft_azure:*:*:*:*:*:*:*:*", "versionEndExcluding": "14.1.0", "lastModified": "2026-10-15T06:32:16.597", "created": "2026-10-15T06:32:16.597", "status": "Active"}}

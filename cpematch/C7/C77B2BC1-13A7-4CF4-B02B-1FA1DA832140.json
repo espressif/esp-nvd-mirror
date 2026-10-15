@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C77B2BC1-13A7-4CF4-B02B-1FA1DA832140", "criteria": "cpe:2.3:a:socket:socket.io:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.4.0", "versionEndExcluding": "3.4.5", "lastModified": "2026-10-15T07:30:03.553", "created": "2026-10-15T07:30:03.553", "status": "Active"}}
