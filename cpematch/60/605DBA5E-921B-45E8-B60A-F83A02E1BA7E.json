@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "605DBA5E-921B-45E8-B60A-F83A02E1BA7E", "criteria": "cpe:2.3:a:microsoft:aspnet_core_authentication_negotiate:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "10.0.13", "lastModified": "2026-10-15T13:36:01.123", "created": "2026-10-15T13:36:01.123", "status": "Active"}}

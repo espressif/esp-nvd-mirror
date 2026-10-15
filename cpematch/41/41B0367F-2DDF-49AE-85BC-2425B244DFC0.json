@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "41B0367F-2DDF-49AE-85BC-2425B244DFC0", "criteria": "cpe:2.3:a:microsoft:aspnet_core_signalr_common:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "10.0.13", "lastModified": "2026-10-15T13:06:19.297", "created": "2026-10-15T13:06:19.297", "status": "Active"}}

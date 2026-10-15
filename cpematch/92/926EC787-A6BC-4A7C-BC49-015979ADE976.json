@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "926EC787-A6BC-4A7C-BC49-015979ADE976", "criteria": "cpe:2.3:a:microsoft:openssh:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.26200.0", "versionEndExcluding": "10.0.26200.9711", "lastModified": "2026-10-15T13:17:21.197", "created": "2026-10-15T13:17:21.197", "status": "Active"}}

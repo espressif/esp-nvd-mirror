@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F2D56A54-5CAE-4D6C-A9BA-52F89A57269E", "criteria": "cpe:2.3:a:microsoft:windows_remote_pos_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.28000.0", "versionEndExcluding": "10.0.28000.3231", "lastModified": "2026-10-15T12:48:21.797", "created": "2026-10-15T12:48:21.797", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EBAEC00F-8EE3-4192-A381-ED2A232FFFC4", "criteria": "cpe:2.3:a:microsoft:asp.net_core:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.0", "versionEndExcluding": "11.0.0-rc.2", "lastModified": "2026-10-15T13:35:06.193", "cpeLastModified": "2026-10-15T13:35:06.193", "created": "2026-10-15T13:35:06.193", "status": "Active"}}
