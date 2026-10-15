@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3B576466-AB21-47F2-9DA7-16117B77EFC2", "criteria": "cpe:2.3:a:microsoft:windows_subsystem_for_linux:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.26100.0", "versionEndExcluding": "10.0.26100.33650", "lastModified": "2026-10-15T10:56:04.543", "created": "2026-10-15T10:56:04.543", "status": "Active"}}

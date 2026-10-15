@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "28A6588C-02FA-438C-BFAF-9DA5FB43AC1A", "criteria": "cpe:2.3:a:microsoft:endpoint_configuration_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "5.00.9146.1027", "lastModified": "2026-10-15T11:04:53.080", "created": "2026-10-15T11:04:53.080", "status": "Active"}}
