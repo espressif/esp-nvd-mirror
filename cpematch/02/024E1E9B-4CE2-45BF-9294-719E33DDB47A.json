@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "024E1E9B-4CE2-45BF-9294-719E33DDB47A", "criteria": "cpe:2.3:a:redhat:hardened_images:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.12.13-3.hum1", "lastModified": "2026-10-14T23:20:52.300", "cpeLastModified": "2026-10-14T23:20:52.300", "created": "2026-10-14T23:20:52.300", "status": "Active"}}
