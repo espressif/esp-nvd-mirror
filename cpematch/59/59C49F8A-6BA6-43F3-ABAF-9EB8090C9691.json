@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "59C49F8A-6BA6-43F3-ABAF-9EB8090C9691", "criteria": "cpe:2.3:a:datadog:dd-trace-dotnet:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.43.0", "lastModified": "2026-10-15T01:34:39.400", "created": "2026-10-15T01:34:39.400", "status": "Active"}}
