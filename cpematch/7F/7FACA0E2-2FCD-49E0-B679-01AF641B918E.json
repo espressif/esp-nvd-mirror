@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7FACA0E2-2FCD-49E0-B679-01AF641B918E", "criteria": "cpe:2.3:a:pfsense:pfsense:*:*:*:*:community:*:*:*", "versionStartIncluding": "2.7.1", "versionEndIncluding": "2.9.0", "lastModified": "2026-10-19T18:28:53.840", "cpeLastModified": "2026-10-19T18:28:53.840", "created": "2026-10-19T18:28:53.840", "status": "Active"}}
