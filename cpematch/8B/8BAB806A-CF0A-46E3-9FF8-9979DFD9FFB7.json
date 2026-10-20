@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8BAB806A-CF0A-46E3-9FF8-9979DFD9FFB7", "criteria": "cpe:2.3:a:freedesktop:udisks:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.10.0", "versionEndExcluding": "2.11.2", "lastModified": "2026-10-20T10:28:58.810", "created": "2026-10-20T10:28:58.810", "status": "Active"}}

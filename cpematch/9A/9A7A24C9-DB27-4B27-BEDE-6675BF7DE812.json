@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9A7A24C9-DB27-4B27-BEDE-6675BF7DE812", "criteria": "cpe:2.3:a:google:agent_development_kit:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.9.0", "versionEndExcluding": "1.22.0", "lastModified": "2026-10-20T11:53:17.610", "created": "2026-10-20T11:53:17.610", "status": "Active"}}

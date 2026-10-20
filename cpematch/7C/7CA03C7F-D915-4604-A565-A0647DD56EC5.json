@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7CA03C7F-D915-4604-A565-A0647DD56EC5", "criteria": "cpe:2.3:o:redhat:enterprise_linux_eus:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0", "versionEndExcluding": "0\\:2.10.90-5.el10_0.3", "lastModified": "2026-10-20T10:28:58.810", "created": "2026-10-20T10:28:58.810", "status": "Active"}}
