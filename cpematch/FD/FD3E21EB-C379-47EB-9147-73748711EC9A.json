@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FD3E21EB-C379-47EB-9147-73748711EC9A", "criteria": "cpe:2.3:a:microsoft:microsoft_identity_web:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.16.0", "versionEndExcluding": "4.16.1", "lastModified": "2026-10-20T13:56:12.710", "created": "2026-10-20T13:56:12.710", "status": "Active"}}
