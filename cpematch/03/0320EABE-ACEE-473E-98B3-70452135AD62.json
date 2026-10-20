@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0320EABE-ACEE-473E-98B3-70452135AD62", "criteria": "cpe:2.3:a:microsoft:exchange_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "15.02.0.0", "versionEndExcluding": "15.02.1544.050", "lastModified": "2026-10-20T07:55:48.947", "created": "2026-10-20T07:55:48.947", "status": "Active"}}

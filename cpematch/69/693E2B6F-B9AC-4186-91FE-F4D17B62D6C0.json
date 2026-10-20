@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "693E2B6F-B9AC-4186-91FE-F4D17B62D6C0", "criteria": "cpe:2.3:a:amazon:aws_athena_query_federation:*:*:*:*:*:*:*:*", "versionStartIncluding": "2024.15.1", "versionEndExcluding": "2026.30.1", "lastModified": "2026-10-20T07:47:07.577", "created": "2026-10-20T07:47:07.577", "status": "Active"}}

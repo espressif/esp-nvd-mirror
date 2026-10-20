@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BC6B5B11-4232-42BB-A431-216E6F29F568", "criteria": "cpe:2.3:a:okta:privileged_access_client:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.59.0", "versionEndExcluding": "1.111.1", "lastModified": "2026-10-20T06:45:47.960", "created": "2026-10-20T06:45:47.960", "status": "Active"}}

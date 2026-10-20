@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1CEC848A-A0FF-483A-A8D2-25BD0FF1B54A", "criteria": "cpe:2.3:a:ibm:enterprise_build_of_quarkus:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.27.1", "versionEndIncluding": "3.27.5.sp1", "lastModified": "2026-10-20T07:56:18.150", "created": "2026-10-20T07:56:18.150", "status": "Active"}}

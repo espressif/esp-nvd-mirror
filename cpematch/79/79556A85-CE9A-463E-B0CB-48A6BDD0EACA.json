@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "79556A85-CE9A-463E-B0CB-48A6BDD0EACA", "criteria": "cpe:2.3:a:argoproj:argo_cd:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.6.0-rc1", "versionEndExcluding": "3.6.0-rc2", "lastModified": "2026-10-20T06:46:20.150", "created": "2026-10-20T06:46:20.150", "status": "Active"}}

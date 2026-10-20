@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1D950DAB-CDB8-43B7-B745-BDC9BE989B66", "criteria": "cpe:2.3:a:vectordotdev:vector:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.15.0", "versionEndExcluding": "0.57.0", "lastModified": "2026-10-20T07:00:31.743", "created": "2026-10-20T07:00:31.743", "status": "Active"}}
