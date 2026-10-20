@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "31195364-E322-4D96-9A9B-C5887197849D", "criteria": "cpe:2.3:a:okta:radius_agent:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.17.5", "versionEndExcluding": "2.28.0", "lastModified": "2026-10-20T10:00:41.807", "created": "2026-10-20T10:00:41.807", "status": "Active"}}

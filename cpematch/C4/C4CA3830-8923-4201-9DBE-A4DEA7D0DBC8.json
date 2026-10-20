@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C4CA3830-8923-4201-9DBE-A4DEA7D0DBC8", "criteria": "cpe:2.3:a:pfu:image_scanner_driver_for_linux_sp_series:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.1.0", "versionEndIncluding": "2.1.1-4", "lastModified": "2026-10-20T08:46:43.263", "created": "2026-10-20T08:46:43.263", "status": "Active"}}

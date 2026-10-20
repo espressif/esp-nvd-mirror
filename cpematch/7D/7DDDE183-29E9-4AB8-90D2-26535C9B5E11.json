@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7DDDE183-29E9-4AB8-90D2-26535C9B5E11", "criteria": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.27.0", "versionEndExcluding": "1.27.2", "lastModified": "2026-10-20T10:01:42.650", "created": "2026-10-20T10:01:42.650", "status": "Active"}}
