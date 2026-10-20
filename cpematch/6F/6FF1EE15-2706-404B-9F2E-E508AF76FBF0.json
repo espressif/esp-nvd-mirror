@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6FF1EE15-2706-404B-9F2E-E508AF76FBF0", "criteria": "cpe:2.3:a:codesys:control_rte_sl\\(for_beckhoff_cx\\):*:*:*:*:*:*:*:*", "versionStartIncluding": "3.5.21.0", "versionEndExcluding": "3.5.22.20", "lastModified": "2026-10-20T17:48:03.123", "created": "2026-10-20T17:48:03.123", "status": "Active"}}

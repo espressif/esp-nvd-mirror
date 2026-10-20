@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4A83A7D5-CFC3-493C-AB97-F01F018C82D3", "criteria": "cpe:2.3:a:codesys:hmi_sl:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.5.21.0", "versionEndExcluding": "3.5.22.20", "lastModified": "2026-10-20T17:48:03.123", "created": "2026-10-20T17:48:03.123", "status": "Active"}}

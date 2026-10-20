@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "13FCDC40-AF5B-4776-B127-0EC229359291", "criteria": "cpe:2.3:a:codesys:control_for_pfc200_sl:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.15.0.0", "versionEndExcluding": "4.21.0.0", "lastModified": "2026-10-20T17:48:03.123", "created": "2026-10-20T17:48:03.123", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1FAA37A6-0D6C-4641-B99F-CA496AB86E03", "criteria": "cpe:2.3:a:forgerock:identity_gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "2025.3.0", "versionEndExcluding": "2025.11.2", "lastModified": "2026-10-20T17:03:24.193", "created": "2026-10-20T17:03:24.193", "status": "Active"}}

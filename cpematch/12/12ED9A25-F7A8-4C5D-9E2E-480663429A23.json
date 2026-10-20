@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "12ED9A25-F7A8-4C5D-9E2E-480663429A23", "criteria": "cpe:2.3:a:codesys:control_runtime_system_toolkit:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.5.21.0", "versionEndExcluding": "3.5.22.20", "lastModified": "2026-10-20T17:48:03.123", "created": "2026-10-20T17:48:03.123", "status": "Active"}}

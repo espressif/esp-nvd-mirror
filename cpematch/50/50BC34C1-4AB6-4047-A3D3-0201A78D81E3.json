@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "50BC34C1-4AB6-4047-A3D3-0201A78D81E3", "criteria": "cpe:2.3:a:eclipse:vert.x:5.2.0:*:*:*:*:*:*:*", "lastModified": "2026-10-20T17:37:25.413", "created": "2026-10-20T17:08:22.097", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:eclipse:vert.x:5.2.0:*:*:*:*:*:*:*", "cpeNameId": "0703B1AB-F9FB-4B3E-8E91-ED3299406193"}]}}

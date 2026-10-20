@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C12D8B81-1C7C-43B0-99C3-8049ADEDBD2E", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-catalog-backend-module-gitlab:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "0.8.7", "lastModified": "2026-10-20T16:37:22.677", "created": "2026-10-20T16:37:22.677", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "373C8BAA-6691-4E8D-9956-CFA4359337F1", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-auth-backend-module-oidc-provider:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "0.4.20", "lastModified": "2026-10-20T16:11:29.497", "created": "2026-10-20T16:11:29.497", "status": "Active"}}
