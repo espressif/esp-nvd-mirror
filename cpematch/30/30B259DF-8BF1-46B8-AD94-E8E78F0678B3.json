@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "30B259DF-8BF1-46B8-AD94-E8E78F0678B3", "criteria": "cpe:2.3:o:ibm:ts4500_library_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.1.6", "versionEndExcluding": "1.12.0.4", "lastModified": "2026-10-20T15:17:17.057", "created": "2026-10-20T15:17:17.057", "status": "Active"}}

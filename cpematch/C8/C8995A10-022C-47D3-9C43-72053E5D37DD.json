@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C8995A10-022C-47D3-9C43-72053E5D37DD", "criteria": "cpe:2.3:a:microsoft:azure_arc__sql_server_extension:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.1.3518.465", "lastModified": "2026-10-20T15:44:47.140", "cpeLastModified": "2026-10-20T15:44:47.140", "created": "2026-10-20T15:44:47.140", "status": "Active"}}

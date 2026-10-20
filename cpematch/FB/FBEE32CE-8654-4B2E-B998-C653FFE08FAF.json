@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FBEE32CE-8654-4B2E-B998-C653FFE08FAF", "criteria": "cpe:2.3:o:ibm:diamondback_tape_library_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.1.6", "versionEndExcluding": "1.12.0.4", "lastModified": "2026-10-20T15:18:07.567", "cpeLastModified": "2026-10-20T15:18:07.567", "created": "2026-10-20T15:18:07.567", "status": "Active"}}

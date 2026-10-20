@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "90FB58A5-3006-4BD7-8F9F-DD77E4FA562C", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-catalog-backend-module-aws:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "0.4.27", "lastModified": "2026-10-20T14:52:59.140", "created": "2026-10-20T14:52:59.140", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F8B7BAD6-74E5-4271-8B42-821B8B753CCD", "criteria": "cpe:2.3:a:cruise-control-for-kafka:cruise-control:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.82", "versionEndExcluding": "3.1.0", "lastModified": "2026-10-20T15:26:56.023", "created": "2026-10-20T15:26:56.023", "status": "Active"}}

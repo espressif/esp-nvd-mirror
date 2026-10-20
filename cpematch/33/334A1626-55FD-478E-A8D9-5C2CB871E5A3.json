@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "334A1626-55FD-478E-A8D9-5C2CB871E5A3", "criteria": "cpe:2.3:a:ibm:sterling_connect:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.4.0.0", "versionEndExcluding": "6.4.0.6.ifix021", "lastModified": "2026-10-20T15:25:48.170", "created": "2026-10-20T15:25:48.170", "status": "Active"}}

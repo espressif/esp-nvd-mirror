@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BE389BFC-7AC7-449A-9F93-B8CDA5A07126", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-catalog-backend-module-azure:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "0.17.8", "lastModified": "2026-10-20T14:55:38.030", "created": "2026-10-20T14:52:59.140", "status": "Inactive"}}

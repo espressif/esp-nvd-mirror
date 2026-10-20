@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "93594343-A298-4F14-A2D2-59DBD231891D", "criteria": "cpe:2.3:o:ibm:security_verify_access_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.9.3", "versionEndExcluding": "10.0.9.4", "lastModified": "2026-10-20T15:26:37.437", "created": "2026-10-20T15:26:37.437", "status": "Active"}}
