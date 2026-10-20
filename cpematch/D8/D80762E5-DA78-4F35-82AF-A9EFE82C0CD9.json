@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D80762E5-DA78-4F35-82AF-A9EFE82C0CD9", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-catalog-backend-module-bitbucket-server:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "0.4.0", "versionEndExcluding": "0.5.15", "lastModified": "2026-10-20T19:51:27.590", "created": "2026-10-20T19:51:27.590", "status": "Active"}}

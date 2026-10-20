@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "983BFD45-4C2F-4D9C-8F83-08CEF72B20E0", "criteria": "cpe:2.3:a:bouncycastle:bc-lts:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.73.0", "versionEndExcluding": "2.73.11", "lastModified": "2026-10-20T18:14:56.353", "created": "2026-10-20T18:14:56.353", "status": "Active"}}

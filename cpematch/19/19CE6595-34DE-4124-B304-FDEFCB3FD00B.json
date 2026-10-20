@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "19CE6595-34DE-4124-B304-FDEFCB3FD00B", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-scaffolder-backend-module-bitbucket-server:*:*:*:*:*:node.js:*:*", "versionEndExcluding": "0.2.25", "lastModified": "2026-10-20T19:58:22.363", "created": "2026-10-20T19:58:22.363", "status": "Active"}}

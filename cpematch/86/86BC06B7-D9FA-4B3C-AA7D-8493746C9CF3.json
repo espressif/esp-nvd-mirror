@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "86BC06B7-D9FA-4B3C-AA7D-8493746C9CF3", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-auth-backend-module-cloudflare-access-provider:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "0.1.0", "versionEndExcluding": "0.5.0", "lastModified": "2026-10-20T19:47:15.973", "created": "2026-10-20T19:47:15.973", "status": "Active"}}
