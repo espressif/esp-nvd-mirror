@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EC706DE3-5EDB-41B7-A551-7E646940EB80", "criteria": "cpe:2.3:a:libreswan:libreswan:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.4", "versionEndExcluding": "5.4.1", "lastModified": "2026-10-20T05:27:48.273", "created": "2026-10-20T05:27:48.273", "status": "Active"}}

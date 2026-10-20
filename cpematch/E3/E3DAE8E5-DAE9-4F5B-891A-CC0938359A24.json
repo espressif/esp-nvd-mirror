@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E3DAE8E5-DAE9-4F5B-891A-CC0938359A24", "criteria": "cpe:2.3:o:commvault:grid_hsx_cvfs:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.1.0", "versionEndExcluding": "5.0.14.5", "lastModified": "2026-10-20T05:05:56.353", "created": "2026-10-20T05:05:56.353", "status": "Active"}}

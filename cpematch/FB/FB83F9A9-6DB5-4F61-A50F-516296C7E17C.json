@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FB83F9A9-6DB5-4F61-A50F-516296C7E17C", "criteria": "cpe:2.3:a:camunda:camunda_bpm_platform:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.24.0", "versionEndExcluding": "7.24.15", "lastModified": "2026-10-20T05:41:54.293", "created": "2026-10-20T05:41:54.293", "status": "Active"}}
