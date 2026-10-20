@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "41A39600-F683-4CA9-8285-1AF86671D4DF", "criteria": "cpe:2.3:a:ibm:cloud_pak_system:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.3.6.0", "versionEndExcluding": "2.3.6.2", "lastModified": "2026-10-20T00:19:12.817", "cpeLastModified": "2026-10-20T00:19:12.817", "created": "2026-10-20T00:19:12.817", "status": "Active"}}

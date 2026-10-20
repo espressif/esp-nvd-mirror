@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "84509025-F8EC-4B5C-B154-AF9354284B04", "criteria": "cpe:2.3:o:cisco:meraki_mv_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0", "versionEndIncluding": "6.3.2", "lastModified": "2026-10-20T01:21:16.657", "created": "2026-10-20T01:21:16.657", "status": "Active"}}
