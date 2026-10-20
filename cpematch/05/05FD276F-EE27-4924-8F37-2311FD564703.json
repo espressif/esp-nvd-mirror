@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "05FD276F-EE27-4924-8F37-2311FD564703", "criteria": "cpe:2.3:a:google:adk:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.4.0", "versionEndExcluding": "0.6.0", "lastModified": "2026-10-20T21:41:30.163", "created": "2026-10-20T21:41:30.163", "status": "Active"}}
