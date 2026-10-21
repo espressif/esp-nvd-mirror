@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C48DE55E-7354-421D-9B67-5C9097D739A6", "criteria": "cpe:2.3:a:microsoft:active_directory_federation_services:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.20348.0", "versionEndExcluding": "10.0.20348.5761", "lastModified": "2026-10-21T03:54:00.063", "created": "2026-10-21T03:54:00.063", "status": "Active"}}

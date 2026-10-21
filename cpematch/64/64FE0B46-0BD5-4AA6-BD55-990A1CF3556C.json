@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "64FE0B46-0BD5-4AA6-BD55-990A1CF3556C", "criteria": "cpe:2.3:a:blackduck:coverity_connect:*:*:*:*:*:*:*:*", "versionStartIncluding": "2024.6.0", "versionEndExcluding": "2026.6.0", "lastModified": "2026-10-21T03:33:58.440", "created": "2026-10-21T03:33:58.440", "status": "Active"}}

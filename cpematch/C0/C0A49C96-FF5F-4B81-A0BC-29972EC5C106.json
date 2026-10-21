@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C0A49C96-FF5F-4B81-A0BC-29972EC5C106", "criteria": "cpe:2.3:a:synopsys:coverity_connect:*:*:*:*:*:*:*:*", "versionStartIncluding": "2023.6.0", "versionEndExcluding": "2026.6.0", "lastModified": "2026-10-21T03:34:17.443", "created": "2026-10-21T03:34:17.443", "status": "Active"}}
