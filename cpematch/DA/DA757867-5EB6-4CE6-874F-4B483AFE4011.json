@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DA757867-5EB6-4CE6-874F-4B483AFE4011", "criteria": "cpe:2.3:a:tox-dev:filelock:*:*:*:*:*:python:*:*", "versionStartIncluding": "3.30.0", "versionEndExcluding": "4.2.1", "lastModified": "2026-10-21T14:35:14.013", "cpeLastModified": "2026-10-21T14:35:14.013", "created": "2026-10-21T14:35:14.013", "status": "Active"}}

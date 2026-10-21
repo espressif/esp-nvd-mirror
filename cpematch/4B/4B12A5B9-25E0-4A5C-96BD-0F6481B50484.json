@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4B12A5B9-25E0-4A5C-96BD-0F6481B50484", "criteria": "cpe:2.3:a:nutanix:prism:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.6", "versionEndExcluding": "7.6.0.8", "lastModified": "2026-10-21T14:06:39.753", "created": "2026-10-21T14:06:39.753", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D422F129-A7B9-408A-A81E-C8ABB071B50F", "criteria": "cpe:2.3:a:opensearch_project:opensearch-dashboards:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.19.5", "lastModified": "2026-10-21T14:34:47.300", "created": "2026-10-21T14:34:47.300", "status": "Active"}}

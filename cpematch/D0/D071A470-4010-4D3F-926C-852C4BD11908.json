@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D071A470-4010-4D3F-926C-852C4BD11908", "criteria": "cpe:2.3:a:e-guardian:siteguard:*:*:*:*:server:apache:*:*", "versionStartIncluding": "2.20", "versionEndExcluding": "7.00", "lastModified": "2026-10-21T15:33:47.723", "cpeLastModified": "2026-10-21T15:33:47.723", "created": "2026-10-21T15:33:47.723", "status": "Active"}}

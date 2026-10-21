@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "81B6EDA5-C313-4BB6-99AD-A5DD7C3E7806", "criteria": "cpe:2.3:o:stormshield:stormshield_network_security:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.3.0", "versionEndExcluding": "4.3.42", "lastModified": "2026-10-21T14:16:03.423", "created": "2026-10-21T14:16:03.423", "status": "Active"}}

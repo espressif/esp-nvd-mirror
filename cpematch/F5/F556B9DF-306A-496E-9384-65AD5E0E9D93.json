@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F556B9DF-306A-496E-9384-65AD5E0E9D93", "criteria": "cpe:2.3:o:nutanix:aos:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.6", "versionEndExcluding": "7.6.0.8", "lastModified": "2026-10-21T14:06:39.753", "created": "2026-10-21T14:06:39.753", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6C3522E7-AFE7-4507-A47D-ABB0C733654C", "criteria": "cpe:2.3:a:e-guardian:siteguard:*:*:*:*:server:internet_information_services:*:*", "versionStartIncluding": "4.10", "versionEndExcluding": "8.00", "lastModified": "2026-10-21T15:38:52.210", "cpeLastModified": "2026-10-21T15:38:52.210", "created": "2026-10-21T15:38:52.210", "status": "Active"}}
