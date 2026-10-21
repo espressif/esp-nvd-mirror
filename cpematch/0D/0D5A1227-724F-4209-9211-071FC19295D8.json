@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0D5A1227-724F-4209-9211-071FC19295D8", "criteria": "cpe:2.3:a:virtualenv:virtualenv:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.14.8", "versionEndExcluding": "21.14.10", "lastModified": "2026-10-21T02:05:27.430", "created": "2026-10-21T02:05:27.430", "status": "Active"}}
