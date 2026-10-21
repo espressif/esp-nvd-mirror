@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2BD60352-6FFB-497C-BC3C-0DE65869DEF7", "criteria": "cpe:2.3:a:jolokia:jolokia:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0", "versionEndExcluding": "2.6.2", "lastModified": "2026-10-21T11:21:42.230", "created": "2026-10-21T11:21:42.230", "status": "Active"}}

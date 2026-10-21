@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "983DD18A-30C9-4CBD-BA22-CF73C95CC3A3", "criteria": "cpe:2.3:a:microsoft:system.security.cryptography.pkcs:*:*:*:*:*:*:*:*", "versionEndExcluding": "10.0.13", "lastModified": "2026-10-21T10:39:37.710", "created": "2026-10-21T10:39:37.710", "status": "Active"}}
