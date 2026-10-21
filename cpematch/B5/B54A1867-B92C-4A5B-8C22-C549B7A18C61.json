@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B54A1867-B92C-4A5B-8C22-C549B7A18C61", "criteria": "cpe:2.3:a:eg-secure:siteguard_server_edition_for_apache_httpd_on_freebsd:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.20", "versionEndExcluding": "7.00 update 6", "lastModified": "2026-10-21T12:56:19.417", "created": "2026-10-21T12:56:19.417", "status": "Active"}}

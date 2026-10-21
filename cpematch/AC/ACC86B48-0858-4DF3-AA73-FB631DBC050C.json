@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ACC86B48-0858-4DF3-AA73-FB631DBC050C", "criteria": "cpe:2.3:a:eg-secure:siteguard_server_edition_for_apache_httpd:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.20", "versionEndExcluding": "8.00 update 5", "lastModified": "2026-10-21T12:56:19.417", "created": "2026-10-21T12:56:19.417", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4A3C528A-B2B9-47EC-8D64-A63DBDBD40CE", "criteria": "cpe:2.3:a:eg-secure:siteguard_server_edition_for_nginx_on_freebsd:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.20", "versionEndExcluding": "7.00 update 6", "lastModified": "2026-10-21T12:56:19.417", "created": "2026-10-21T12:56:19.417", "status": "Active"}}

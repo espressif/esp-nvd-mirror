@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E498DE33-9CF1-4874-8D09-C80922F1FE1B", "criteria": "cpe:2.3:a:eg-secure:siteguard_server_edition_for_nginx:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.20", "versionEndExcluding": "8.00 update 5", "lastModified": "2026-10-21T12:56:19.417", "created": "2026-10-21T12:56:19.417", "status": "Active"}}
