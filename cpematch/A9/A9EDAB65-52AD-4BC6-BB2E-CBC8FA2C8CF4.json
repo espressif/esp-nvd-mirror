@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A9EDAB65-52AD-4BC6-BB2E-CBC8FA2C8CF4", "criteria": "cpe:2.3:a:ibm:contextforge_mcp_gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.1.0", "versionEndExcluding": "1.0.6", "lastModified": "2026-10-21T04:13:55.157", "created": "2026-10-21T04:13:55.157", "status": "Active"}}
