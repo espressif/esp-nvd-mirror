@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B819B958-E86D-48C8-868E-DAA30F0CA801", "criteria": "cpe:2.3:a:redhat:jboss_enterprise_application_platform:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.1", "versionEndExcluding": "8.1.8", "lastModified": "2026-10-22T15:21:02.870", "cpeLastModified": "2026-10-22T15:21:02.870", "created": "2026-10-22T15:21:02.870", "status": "Active"}}
