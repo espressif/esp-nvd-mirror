@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8C6373E8-CFD9-41E5-BBD6-096C2A3D4A46", "criteria": "cpe:2.3:a:google:sam:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.1.0-alpha.1", "versionEndExcluding": "0.1.0-alpha.9", "lastModified": "2026-10-22T16:57:02.553", "created": "2026-10-22T16:57:02.553", "status": "Active"}}

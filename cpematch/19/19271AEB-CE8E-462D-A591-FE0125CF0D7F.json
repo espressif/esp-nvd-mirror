@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "19271AEB-CE8E-462D-A591-FE0125CF0D7F", "criteria": "cpe:2.3:a:apache:pulsar:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.2.0", "versionEndExcluding": "4.2.5", "lastModified": "2026-10-22T17:06:33.287", "created": "2026-10-22T17:06:33.287", "status": "Active"}}
