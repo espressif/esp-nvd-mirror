@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E7A6B023-49FC-425D-B23D-65B4474EC6B8", "criteria": "cpe:2.3:a:oracle:concurrent_processing:*:*:*:*:*:e-business_suite:*:*", "versionStartIncluding": "12.2.3", "versionEndIncluding": "12.2.15", "lastModified": "2026-10-22T06:32:35.610", "created": "2026-10-22T06:32:35.610", "status": "Active"}}
