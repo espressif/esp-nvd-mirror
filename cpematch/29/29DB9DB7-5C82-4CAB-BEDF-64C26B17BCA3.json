@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "29DB9DB7-5C82-4CAB-BEDF-64C26B17BCA3", "criteria": "cpe:2.3:a:linuxfoundation:vitess:*:*:*:*:*:*:*:*", "versionStartIncluding": "24.0.0", "versionEndExcluding": "24.0.2", "lastModified": "2026-10-22T14:03:39.147", "cpeLastModified": "2026-10-22T14:03:39.147", "created": "2026-10-22T14:03:39.147", "status": "Active"}}
