@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "11BA6EAD-0C01-4ADC-AAA8-E5B17F98AE57", "criteria": "cpe:2.3:a:amazon:aws_sam_cli:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.63.0", "versionEndExcluding": "1.166.2", "lastModified": "2026-10-23T18:07:28.663", "created": "2026-10-23T18:07:28.663", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "16FD81DE-A43C-430C-8DF7-D971B10E6FF7", "criteria": "cpe:2.3:a:aws_c_mqtt_project:aws-c-mqtt:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.9.1", "versionEndExcluding": "0.16.2", "lastModified": "2026-10-23T18:07:28.160", "created": "2026-10-23T18:07:28.160", "status": "Active"}}
