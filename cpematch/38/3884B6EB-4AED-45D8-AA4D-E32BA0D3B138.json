@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3884B6EB-4AED-45D8-AA4D-E32BA0D3B138", "criteria": "cpe:2.3:a:litellm:litellm:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.102.0", "versionEndExcluding": "1.102.2", "lastModified": "2026-10-23T21:07:49.353", "created": "2026-10-23T21:07:49.353", "status": "Active"}}

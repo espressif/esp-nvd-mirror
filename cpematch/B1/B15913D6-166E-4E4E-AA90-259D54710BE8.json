@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B15913D6-166E-4E4E-AA90-259D54710BE8", "criteria": "cpe:2.3:a:knime:knime_analytics_platform:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.8.4", "versionEndExcluding": "5.12.0", "lastModified": "2026-10-23T21:48:18.427", "created": "2026-10-23T21:48:18.427", "status": "Active"}}

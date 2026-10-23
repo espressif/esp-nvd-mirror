@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A85BA2C9-8345-446B-B5B5-1C73DA9D9535", "criteria": "cpe:2.3:a:google:agent_development_kit_for_java:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.1.0", "versionEndExcluding": "1.13.0", "lastModified": "2026-10-23T20:22:28.980", "created": "2026-10-23T20:22:28.980", "status": "Active"}}
