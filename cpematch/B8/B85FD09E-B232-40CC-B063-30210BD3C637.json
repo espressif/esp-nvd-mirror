@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B85FD09E-B232-40CC-B063-30210BD3C637", "criteria": "cpe:2.3:a:google:gerrit:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.13.0", "versionEndExcluding": "3.13.9", "lastModified": "2026-10-24T17:55:01.033", "created": "2026-10-24T17:55:01.033", "status": "Active"}}
