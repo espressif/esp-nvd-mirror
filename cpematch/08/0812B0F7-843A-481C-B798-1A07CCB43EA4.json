@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0812B0F7-843A-481C-B798-1A07CCB43EA4", "criteria": "cpe:2.3:a:libp2p:js-libp2p:*:*:*:*:*:*:*:*", "versionStartIncluding": "15.0.0", "versionEndExcluding": "16.0.5", "lastModified": "2026-10-24T03:11:46.937", "created": "2026-10-24T03:11:46.937", "status": "Active"}}
