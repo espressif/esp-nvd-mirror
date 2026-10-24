@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3B34AFF3-B7F8-4526-A68D-5A6BF47AD7E3", "criteria": "cpe:2.3:a:amazon:security_agent_mcp_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.1.0", "versionEndExcluding": "0.2.0", "lastModified": "2026-10-24T20:06:07.410", "created": "2026-10-24T20:06:07.410", "status": "Active"}}

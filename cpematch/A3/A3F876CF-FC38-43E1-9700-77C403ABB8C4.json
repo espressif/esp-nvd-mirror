@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A3F876CF-FC38-43E1-9700-77C403ABB8C4", "criteria": "cpe:2.3:a:microsoft:azure_keyvault_certificates:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.11.2", "versionEndExcluding": "4.9.2", "lastModified": "2026-10-24T21:46:52.223", "created": "2026-10-24T21:46:52.223", "status": "Active"}}

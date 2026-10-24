@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0EA664F3-C727-46C7-803D-C645E12F77A3", "criteria": "cpe:2.3:a:microsoft:azure_keyvault_keys:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.11.2", "versionEndExcluding": "4.10.2", "lastModified": "2026-10-24T21:46:52.223", "created": "2026-10-24T21:46:52.223", "status": "Active"}}

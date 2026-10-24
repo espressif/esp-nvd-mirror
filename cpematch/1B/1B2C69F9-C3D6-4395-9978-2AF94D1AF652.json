@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1B2C69F9-C3D6-4395-9978-2AF94D1AF652", "criteria": "cpe:2.3:a:microsoft:azure_storage_blob_batch:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "12.31.2", "lastModified": "2026-10-24T21:15:37.303", "created": "2026-10-24T21:15:37.303", "status": "Active"}}
