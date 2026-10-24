@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F6E16F5F-61D6-4686-B3D0-A085EFF1BDE8", "criteria": "cpe:2.3:a:snowflake:snowflake_nodejs_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.1.1", "versionEndExcluding": "3.3.0", "lastModified": "2026-10-24T06:04:38.217", "created": "2026-10-24T06:04:38.217", "status": "Active"}}

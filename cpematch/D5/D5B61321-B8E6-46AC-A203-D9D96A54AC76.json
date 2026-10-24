@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D5B61321-B8E6-46AC-A203-D9D96A54AC76", "criteria": "cpe:2.3:a:snowflake:libsnowflakeclient:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.2.0", "versionEndExcluding": "2.10.0", "lastModified": "2026-10-24T06:04:38.217", "created": "2026-10-24T06:04:38.217", "status": "Active"}}

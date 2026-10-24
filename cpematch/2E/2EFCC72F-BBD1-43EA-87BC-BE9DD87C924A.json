@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2EFCC72F-BBD1-43EA-87BC-BE9DD87C924A", "criteria": "cpe:2.3:a:snowflake:snowflake_odbc_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.9.0", "versionEndExcluding": "3.20.0", "lastModified": "2026-10-24T06:04:38.217", "created": "2026-10-24T06:04:38.217", "status": "Active"}}
