@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DD2869AF-DB4B-494E-AB76-939639A8BDF5", "criteria": "cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.8.1", "versionEndExcluding": "3.0.30729.9171", "lastModified": "2026-10-23T22:36:06.437", "created": "2026-10-23T22:36:06.437", "status": "Active"}}

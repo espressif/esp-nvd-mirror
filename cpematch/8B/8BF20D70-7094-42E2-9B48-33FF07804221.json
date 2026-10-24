@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8BF20D70-7094-42E2-9B48-33FF07804221", "criteria": "cpe:2.3:a:auth0:java-jwt:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.6.2", "lastModified": "2026-10-23T22:59:45.723", "created": "2026-10-23T22:59:45.723", "status": "Active"}}

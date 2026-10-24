@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6CA4AF80-EA54-4016-BC85-D44BBF9E92B3", "criteria": "cpe:2.3:a:snowflake:gosnowflake:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.2.0", "lastModified": "2026-10-23T23:15:00.967", "created": "2026-10-23T23:15:00.967", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CC742D5A-7296-4B78-A07A-1D9F188D2CA6", "criteria": "cpe:2.3:a:amazon:dynamodb-mcp-server:*:*:*:*:*:*:*:*", "versionEndExcluding": "2.1.6", "lastModified": "2026-10-23T23:40:21.940", "created": "2026-10-23T23:40:21.940", "status": "Active"}}
