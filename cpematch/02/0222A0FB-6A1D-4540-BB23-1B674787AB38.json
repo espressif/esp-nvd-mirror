@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0222A0FB-6A1D-4540-BB23-1B674787AB38", "criteria": "cpe:2.3:a:zstd-jni_project:zstd-jni:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.0", "versionEndExcluding": "1.5.7-14", "lastModified": "2026-10-24T18:51:10.450", "created": "2026-10-24T18:51:10.450", "status": "Active"}}
