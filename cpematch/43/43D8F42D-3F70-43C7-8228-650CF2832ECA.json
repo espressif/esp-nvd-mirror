@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "43D8F42D-3F70-43C7-8228-650CF2832ECA", "criteria": "cpe:2.3:a:sap:cloud-security-services-integration-library:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.6.6", "versionEndExcluding": "4.1.1", "lastModified": "2026-10-25T02:17:20.903", "created": "2026-10-25T02:17:20.903", "status": "Active"}}

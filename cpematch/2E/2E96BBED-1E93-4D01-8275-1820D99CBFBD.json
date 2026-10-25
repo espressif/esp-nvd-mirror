@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2E96BBED-1E93-4D01-8275-1820D99CBFBD", "criteria": "cpe:2.3:a:canonical:snapd:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.75.0", "versionEndExcluding": "2.76.1", "lastModified": "2026-10-25T03:36:34.410", "created": "2026-10-25T03:36:34.410", "status": "Active"}}
