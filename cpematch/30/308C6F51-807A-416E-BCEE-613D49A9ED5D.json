@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "308C6F51-807A-416E-BCEE-613D49A9ED5D", "criteria": "cpe:2.3:a:nodemailer:nodemailer:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.1.0", "versionEndExcluding": "10.0.5", "lastModified": "2026-10-25T05:15:32.747", "created": "2026-10-25T05:15:32.747", "status": "Active"}}
