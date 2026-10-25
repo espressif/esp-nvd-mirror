@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "55EDFE60-ADD8-4173-B655-E1B1E5EAA4FF", "criteria": "cpe:2.3:a:gnome:gvfs:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.48.1", "versionEndExcluding": "1.62.0", "lastModified": "2026-10-25T00:27:03.600", "created": "2026-10-25T00:27:03.600", "status": "Active"}}

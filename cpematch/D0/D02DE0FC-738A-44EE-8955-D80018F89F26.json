@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D02DE0FC-738A-44EE-8955-D80018F89F26", "criteria": "cpe:2.3:a:openvpn:openvpn:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.7_alpha3", "versionEndExcluding": "2.7.8", "lastModified": "2026-10-25T00:39:54.740", "created": "2026-10-25T00:39:54.740", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A74662B7-E856-44F7-89C0-078F5E316869", "criteria": "cpe:2.3:a:luben:zstd-jni:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.4.8-4", "versionEndExcluding": "1.5.7-14", "lastModified": "2026-10-25T01:10:32.543", "created": "2026-10-25T01:10:32.543", "status": "Active"}}
