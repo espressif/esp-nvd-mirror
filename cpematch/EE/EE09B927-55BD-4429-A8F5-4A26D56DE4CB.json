@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EE09B927-55BD-4429-A8F5-4A26D56DE4CB", "criteria": "cpe:2.3:a:mend:renovate_ee_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndExcluding": "15.4.0", "lastModified": "2026-10-24T23:49:34.367", "created": "2026-10-24T23:49:34.367", "status": "Active"}}
