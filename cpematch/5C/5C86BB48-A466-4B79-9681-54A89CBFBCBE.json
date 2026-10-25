@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5C86BB48-A466-4B79-9681-54A89CBFBCBE", "criteria": "cpe:2.3:a:progress:autonomous_rest_connector_genai_agents:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0", "versionEndExcluding": "2.1", "lastModified": "2026-10-25T06:30:39.690", "created": "2026-10-25T06:30:39.690", "status": "Active"}}

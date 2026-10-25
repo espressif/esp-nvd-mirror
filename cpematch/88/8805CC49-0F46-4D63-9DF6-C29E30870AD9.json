@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8805CC49-0F46-4D63-9DF6-C29E30870AD9", "criteria": "cpe:2.3:a:gitlab:ai_gateway:*:*:*:*:*:*:*:*", "versionStartIncluding": "19.3", "versionEndExcluding": "19.3.2", "lastModified": "2026-10-25T06:12:32.373", "created": "2026-10-25T06:12:32.373", "status": "Active"}}
