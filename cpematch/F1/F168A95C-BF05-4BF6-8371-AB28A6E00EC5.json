@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F168A95C-BF05-4BF6-8371-AB28A6E00EC5", "criteria": "cpe:2.3:a:oracle:olap:*:*:*:*:*:*:*:*", "versionStartIncluding": "23.4.0", "versionEndIncluding": "23.26.3", "lastModified": "2026-10-26T02:13:56.547", "created": "2026-10-26T02:13:56.547", "status": "Active"}}

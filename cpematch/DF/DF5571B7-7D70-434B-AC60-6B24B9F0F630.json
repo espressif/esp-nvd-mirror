@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DF5571B7-7D70-434B-AC60-6B24B9F0F630", "criteria": "cpe:2.3:a:redhat:advanced_cluster_security:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.11", "versionEndExcluding": "4.11.1", "lastModified": "2026-10-26T03:57:18.570", "created": "2026-10-26T03:57:18.570", "status": "Active"}}
