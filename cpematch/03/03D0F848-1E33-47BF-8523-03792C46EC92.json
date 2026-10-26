@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "03D0F848-1E33-47BF-8523-03792C46EC92", "criteria": "cpe:2.3:a:debian:devscripts:2.25.15:*:*:*:*:*:*:*", "lastModified": "2026-10-26T14:53:54.600", "created": "2025-08-05T19:54:04.087", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:debian:devscripts:2.25.15:*:*:*:*:*:*:*", "cpeNameId": "FAD723B1-48FF-4BD1-912E-D62110DC9F35"}]}}
