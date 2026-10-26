@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D70FD321-133A-4457-8FFC-0A67AF8826C1", "criteria": "cpe:2.3:a:ibm:qradar_siem:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.6-20260330053257", "versionEndExcluding": "7.6-20260930064911", "lastModified": "2026-10-26T10:20:55.717", "created": "2026-10-26T10:20:55.717", "status": "Active"}}
