@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AF8BDDAE-C7EA-4552-885F-D2FD9E9700D8", "criteria": "cpe:2.3:a:redhat:advanced_cluster_management_for_kubernetes:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.15", "versionEndExcluding": "2.15.2", "lastModified": "2026-10-26T20:59:54.350", "cpeLastModified": "2026-10-26T20:59:54.350", "created": "2026-10-26T20:59:54.350", "status": "Active"}}

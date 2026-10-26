@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B9EC3C99-2D2C-414D-9B9E-7BE1FBF96E4B", "criteria": "cpe:2.3:a:openresty:lua-resty-dns:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndExcluding": "0.24", "lastModified": "2026-10-26T21:11:25.710", "created": "2026-10-26T21:11:25.710", "status": "Active"}}

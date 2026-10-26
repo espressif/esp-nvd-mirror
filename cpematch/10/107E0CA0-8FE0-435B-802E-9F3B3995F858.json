@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "107E0CA0-8FE0-435B-802E-9F3B3995F858", "criteria": "cpe:2.3:a:redhat:openshift_pipelines:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.20", "versionEndExcluding": "1.20.5", "lastModified": "2026-10-26T21:09:08.497", "cpeLastModified": "2026-10-26T21:09:08.497", "created": "2026-10-26T21:09:08.497", "status": "Active"}}

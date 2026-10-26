@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "65A69093-87A1-47A0-BCF2-AA9E26F3E510", "criteria": "cpe:2.3:a:redhat:cost_management_metrics_operator:*:*:*:*:*:openshift:*:*", "versionStartIncluding": "4.0.0", "versionEndExcluding": "4.4.1", "lastModified": "2026-10-26T20:30:42.580", "cpeLastModified": "2026-10-26T20:30:42.580", "created": "2026-10-26T20:30:42.580", "status": "Active"}}

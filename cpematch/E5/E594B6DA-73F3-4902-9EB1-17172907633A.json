@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E594B6DA-73F3-4902-9EB1-17172907633A", "criteria": "cpe:2.3:a:redhat:developer_hub:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.8.0", "versionEndExcluding": "1.8.6", "lastModified": "2026-10-26T20:59:54.350", "cpeLastModified": "2026-10-26T20:59:54.350", "created": "2026-10-26T20:59:54.350", "status": "Active"}}

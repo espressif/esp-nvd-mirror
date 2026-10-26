@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CCA5DF8C-B7F4-4C64-B36A-7015984EEFB4", "criteria": "cpe:2.3:a:redhat:developer_hub:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.9.0", "versionEndExcluding": "1.9.4", "lastModified": "2026-10-26T20:59:54.350", "cpeLastModified": "2026-10-26T20:59:54.350", "created": "2026-10-26T20:59:54.350", "status": "Active"}}

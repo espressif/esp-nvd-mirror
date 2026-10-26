@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "51CADA6B-2079-4F3F-9D04-45C6D859F0B1", "criteria": "cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0-beta", "versionEndExcluding": "10.0.1037-beta", "lastModified": "2026-10-26T21:45:29.310", "created": "2026-10-26T21:45:29.310", "status": "Active"}}
