@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "210079D4-5390-44D0-9B50-33865801890E", "criteria": "cpe:2.3:a:mtrudel:bandit:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.12.4", "versionEndExcluding": "1.14.0", "lastModified": "2026-10-26T18:19:32.763", "created": "2026-10-26T18:19:32.763", "status": "Active"}}

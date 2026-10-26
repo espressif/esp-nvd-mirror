@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7AD1D12B-0CF0-4C3D-AFC5-215E9502FFA0", "criteria": "cpe:2.3:a:graphql-hive:graphql-scalars:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.24.1", "versionEndExcluding": "2.0.1", "lastModified": "2026-10-26T19:26:04.957", "created": "2026-10-26T19:26:04.957", "status": "Active"}}

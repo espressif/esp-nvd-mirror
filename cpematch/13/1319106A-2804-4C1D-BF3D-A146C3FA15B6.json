@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1319106A-2804-4C1D-BF3D-A146C3FA15B6", "criteria": "cpe:2.3:a:redhat:ai_inference_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.2.0", "versionEndExcluding": "3.2.2", "lastModified": "2026-10-26T19:07:40.513", "cpeLastModified": "2026-10-26T19:07:40.513", "created": "2026-10-26T19:07:40.513", "status": "Active"}}

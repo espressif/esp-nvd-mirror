@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A12F3317-0FDC-4BE2-BBFB-1BA3B9FD26D2", "criteria": "cpe:2.3:a:hashicorp:consul:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.21.18", "versionEndExcluding": "1.21.19", "lastModified": "2026-10-26T18:57:53.057", "created": "2026-10-26T18:57:53.057", "status": "Active"}}
