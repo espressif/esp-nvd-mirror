@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3E47E3F1-9027-4CF3-8CF4-A7F9CCFDA9BE", "criteria": "cpe:2.3:a:pgpool:pgpool-ii:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.7.0", "versionEndExcluding": "4.7.3", "lastModified": "2026-10-26T08:26:48.957", "created": "2026-10-26T08:26:48.957", "status": "Active"}}

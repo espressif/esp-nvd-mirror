@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C2817034-B705-403E-8282-022F46BDB8C8", "criteria": "cpe:2.3:a:neo4j:graphql:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.23.0", "versionEndExcluding": "7.6.4", "lastModified": "2026-10-26T06:42:25.077", "created": "2026-10-26T06:42:25.077", "status": "Active"}}
