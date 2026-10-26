@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A41558F9-8914-4F37-8616-15862553A37A", "criteria": "cpe:2.3:a:rustls_project:webpki:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.102.0-alpha.0", "versionEndExcluding": "0.103.10", "lastModified": "2026-10-26T13:08:38.403", "created": "2026-10-26T13:08:38.403", "status": "Active"}}
