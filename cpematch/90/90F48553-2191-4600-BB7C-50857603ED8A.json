@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "90F48553-2191-4600-BB7C-50857603ED8A", "criteria": "cpe:2.3:a:dell:terraform_provider_for_ome:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.2.4", "lastModified": "2026-10-26T04:42:01.260", "created": "2026-10-26T04:42:01.260", "status": "Active"}}

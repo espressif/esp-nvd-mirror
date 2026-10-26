@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CABAFDF6-2CAE-4076-92A9-6019BAD4CE6F", "criteria": "cpe:2.3:a:apache:pyarrow:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "26.0.0", "lastModified": "2026-10-26T05:38:38.433", "created": "2026-10-26T05:38:38.433", "status": "Active"}}
