@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "859B228F-9440-46C3-A465-C97A8B8EF33C", "criteria": "cpe:2.3:a:rapid7:rapid7_bulk_export_mcp:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.2.5", "versionEndExcluding": "0.6.2", "lastModified": "2026-10-27T14:07:13.163", "created": "2026-10-27T14:07:13.163", "status": "Active"}}

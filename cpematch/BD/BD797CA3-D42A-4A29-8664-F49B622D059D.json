@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BD797CA3-D42A-4A29-8664-F49B622D059D", "criteria": "cpe:2.3:a:apache:airflow_providers_hashicorp:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.6.0", "versionEndExcluding": "4.8.0", "lastModified": "2026-10-27T14:30:45.073", "created": "2026-10-27T14:30:45.073", "status": "Active"}}
