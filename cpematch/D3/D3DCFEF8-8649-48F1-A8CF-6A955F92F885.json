@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D3DCFEF8-8649-48F1-A8CF-6A955F92F885", "criteria": "cpe:2.3:a:netty:netty-tcnative:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.66.final", "versionEndExcluding": "2.0.84.final", "lastModified": "2026-10-26T22:11:40.300", "created": "2026-10-26T22:11:40.300", "status": "Active"}}

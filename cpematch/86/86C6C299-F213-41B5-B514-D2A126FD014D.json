@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "86C6C299-F213-41B5-B514-D2A126FD014D", "criteria": "cpe:2.3:a:gstreamer:gst-editing-services:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndExcluding": "1.28.8", "lastModified": "2026-10-26T22:10:31.723", "created": "2026-10-26T22:10:31.723", "status": "Active"}}
