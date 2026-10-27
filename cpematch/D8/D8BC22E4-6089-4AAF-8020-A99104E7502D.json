@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D8BC22E4-6089-4AAF-8020-A99104E7502D", "criteria": "cpe:2.3:a:streamshub:console:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.13.0", "versionEndExcluding": "0.14.1", "lastModified": "2026-10-27T11:39:38.490", "created": "2026-10-27T11:39:38.490", "status": "Active"}}

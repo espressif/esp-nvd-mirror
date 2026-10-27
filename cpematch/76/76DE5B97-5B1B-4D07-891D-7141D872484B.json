@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "76DE5B97-5B1B-4D07-891D-7141D872484B", "criteria": "cpe:2.3:a:json-2-csv_project:json-2-csv:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.15.0", "versionEndExcluding": "5.5.11", "lastModified": "2026-10-27T11:39:02.653", "created": "2026-10-27T11:39:02.653", "status": "Active"}}
