@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F41768BF-7726-433E-A506-1083E6B3B11D", "criteria": "cpe:2.3:a:aws:pgcollection:*:*:*:*:postgresql:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.1.2", "lastModified": "2026-10-27T12:40:29.603", "created": "2026-10-27T12:40:29.603", "status": "Active"}}

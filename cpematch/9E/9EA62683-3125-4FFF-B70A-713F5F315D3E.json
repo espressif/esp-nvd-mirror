@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9EA62683-3125-4FFF-B70A-713F5F315D3E", "criteria": "cpe:2.3:a:nanomsg:nanomsg:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.5-beta", "versionEndExcluding": "1.2.3", "lastModified": "2026-10-27T13:39:06.077", "created": "2026-10-27T13:39:06.077", "status": "Active"}}
