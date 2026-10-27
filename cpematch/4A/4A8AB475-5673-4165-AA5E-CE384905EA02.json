@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4A8AB475-5673-4165-AA5E-CE384905EA02", "criteria": "cpe:2.3:a:bmc:control-m\\/enterprise_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.20", "versionEndExcluding": "9.0.22", "lastModified": "2026-10-27T17:04:52.557", "created": "2026-10-27T17:04:52.557", "status": "Active"}}

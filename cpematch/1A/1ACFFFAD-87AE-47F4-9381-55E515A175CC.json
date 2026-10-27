@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1ACFFFAD-87AE-47F4-9381-55E515A175CC", "criteria": "cpe:2.3:a:apache:airflow_providers_ssh:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.3.0", "versionEndExcluding": "7.0.1", "lastModified": "2026-10-27T17:06:38.767", "created": "2026-10-27T17:06:38.767", "status": "Active"}}
