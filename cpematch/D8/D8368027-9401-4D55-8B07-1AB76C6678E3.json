@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D8368027-9401-4D55-8B07-1AB76C6678E3", "criteria": "cpe:2.3:a:drupal:stop_administrator_login:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0", "versionEndExcluding": "1.6", "lastModified": "2026-10-27T09:45:33.143", "created": "2026-10-27T09:45:33.143", "status": "Active"}}
