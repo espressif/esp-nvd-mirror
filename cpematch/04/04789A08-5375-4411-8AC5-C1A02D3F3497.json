@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "04789A08-5375-4411-8AC5-C1A02D3F3497", "criteria": "cpe:2.3:a:microsoft:dotnet:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.0.0", "versionEndExcluding": "11.0.100-rc.2", "lastModified": "2026-10-27T07:46:12.480", "created": "2026-10-27T07:46:12.480", "status": "Active"}}
