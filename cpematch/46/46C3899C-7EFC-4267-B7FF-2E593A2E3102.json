@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "46C3899C-7EFC-4267-B7FF-2E593A2E3102", "criteria": "cpe:2.3:a:openstack:octavia:*:*:*:*:*:*:*:*", "versionStartIncluding": "17.0.0", "versionEndExcluding": "17.0.1", "lastModified": "2026-10-27T04:23:58.223", "created": "2026-10-27T04:23:58.223", "status": "Active"}}
