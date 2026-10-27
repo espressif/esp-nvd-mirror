@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8D8DBEF3-24E2-4B54-8EDE-0F893B1247D0", "criteria": "cpe:2.3:a:google:brotli:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.0", "versionEndExcluding": "1.2.1", "lastModified": "2026-10-27T20:37:26.437", "cpeLastModified": "2026-10-27T20:37:26.437", "created": "2026-10-27T20:37:26.437", "status": "Active"}}
