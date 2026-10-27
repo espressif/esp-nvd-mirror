@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EDF0ADFC-C221-4594-870B-71C965D5E8DE", "criteria": "cpe:2.3:a:openstack:blazar:*:*:*:*:*:*:*:*", "versionStartIncluding": "16.0.0", "versionEndExcluding": "16.0.1", "lastModified": "2026-10-27T01:27:49.573", "created": "2026-10-27T01:27:49.573", "status": "Active"}}

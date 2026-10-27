@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "93BCF4FD-34B9-4713-BE72-005871D581B2", "criteria": "cpe:2.3:a:google:cloud_run_mcp:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.11.0", "lastModified": "2026-10-27T00:11:45.333", "created": "2026-10-27T00:11:45.333", "status": "Active"}}
