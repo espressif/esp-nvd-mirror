@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "442A0EBD-E40C-4BD5-8FAA-58D8E37652E6", "criteria": "cpe:2.3:o:juniper:session_smart_router_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.2.0", "versionEndExcluding": "7.2.3", "lastModified": "2026-10-28T17:37:17.147", "created": "2026-10-28T17:37:17.147", "status": "Active"}}

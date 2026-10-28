@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "00C239E9-DEEF-420D-A398-E5FAC1F57F61", "criteria": "cpe:2.3:a:fortinet:fortimail:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.2.0", "versionEndExcluding": "7.4.9", "lastModified": "2026-10-28T16:17:14.330", "cpeLastModified": "2026-10-28T16:16:37.967", "created": "2026-10-28T16:16:37.967", "status": "Inactive"}}
