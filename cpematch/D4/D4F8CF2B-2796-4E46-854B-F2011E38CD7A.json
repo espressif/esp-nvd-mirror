@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D4F8CF2B-2796-4E46-854B-F2011E38CD7A", "criteria": "cpe:2.3:a:dell:powerprotect_data_domain_management_center:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.13.1.0", "versionEndExcluding": "7.13.1.90", "lastModified": "2026-10-28T14:27:38.343", "created": "2026-10-28T14:27:38.343", "status": "Active"}}

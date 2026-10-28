@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2BCE8FA2-3B02-4378-8D12-AF3BB4876E47", "criteria": "cpe:2.3:a:tanium:certificate_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.18", "versionEndExcluding": "1.18.368", "lastModified": "2026-10-28T14:47:44.570", "created": "2026-10-28T14:47:44.570", "status": "Active"}}

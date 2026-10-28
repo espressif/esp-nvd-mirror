@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "44EA8B49-7D7C-4192-8FDC-6E1101A73846", "criteria": "cpe:2.3:a:python-hyper:brotlicffi:*:*:*:*:*:python:*:*", "versionStartIncluding": "1.0.3", "versionEndExcluding": "1.2.1.0", "lastModified": "2026-10-28T15:08:53.313", "created": "2026-10-28T14:04:51.700", "status": "Inactive"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C2AAF489-8B1C-4E3F-AF55-4BCD886F993D", "criteria": "cpe:2.3:a:tanium:threat_response:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.19", "versionEndExcluding": "1.19.2213", "lastModified": "2026-10-28T15:28:26.380", "created": "2026-10-28T15:28:26.380", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0105B82F-1084-4B1D-A397-2F1A6EA0B961", "criteria": "cpe:2.3:a:semantic-mediawiki:semantic_mediawiki:*:*:*:*:*:mediawiki:*:*", "versionStartIncluding": "4.2.0", "versionEndExcluding": "7.2.1", "lastModified": "2026-10-28T15:22:22.757", "cpeLastModified": "2026-10-28T15:22:22.757", "created": "2026-10-28T15:22:22.757", "status": "Active"}}
