@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D77DE8BF-75D1-4732-8A80-7C3C74B1E94D", "criteria": "cpe:2.3:a:juniper:session_smart_conductor:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.1.0", "versionEndExcluding": "7.1.7", "lastModified": "2026-10-28T18:20:46.147", "created": "2026-10-28T18:20:46.147", "status": "Active"}}
