@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B8A4929D-3D50-4AC5-A8E6-FC9C525BC96E", "criteria": "cpe:2.3:a:kubernetes:kubernetes:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.36.0", "versionEndExcluding": "1.36.5", "lastModified": "2026-10-28T10:26:58.630", "created": "2026-10-28T10:26:58.630", "status": "Active"}}
