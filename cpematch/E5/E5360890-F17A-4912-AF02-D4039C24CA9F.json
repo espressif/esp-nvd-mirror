@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E5360890-F17A-4912-AF02-D4039C24CA9F", "criteria": "cpe:2.3:a:datadog:dd-trace-py:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.5.0", "versionEndExcluding": "3.19.9", "lastModified": "2026-10-28T07:39:42.860", "created": "2026-10-28T07:39:42.860", "status": "Active"}}
