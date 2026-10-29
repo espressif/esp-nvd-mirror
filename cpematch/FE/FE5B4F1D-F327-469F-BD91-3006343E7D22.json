@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FE5B4F1D-F327-469F-BD91-3006343E7D22", "criteria": "cpe:2.3:a:bmc:remedy_it_service_management_suite:*:*:*:*:*:*:*:*", "versionStartIncluding": "25.4.01", "versionEndExcluding": "25.4.01 hotfix 22", "lastModified": "2026-10-29T13:29:39.757", "created": "2026-10-29T13:29:39.757", "status": "Active"}}
