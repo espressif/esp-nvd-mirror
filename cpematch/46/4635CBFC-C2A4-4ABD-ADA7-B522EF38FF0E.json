@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4635CBFC-C2A4-4ABD-ADA7-B522EF38FF0E", "criteria": "cpe:2.3:a:phpunit_project:phpunit:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.4.0", "versionEndExcluding": "13.4.4", "lastModified": "2026-10-29T21:50:39.870", "created": "2026-10-29T21:50:39.870", "status": "Active"}}
