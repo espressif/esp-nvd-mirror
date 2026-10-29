@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DEBF8022-9303-4D20-BAA2-ADD252A2B6B4", "criteria": "cpe:2.3:a:langchain:langgraph:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.3", "versionEndExcluding": "1.2.14", "lastModified": "2026-10-29T17:42:02.200", "created": "2026-10-29T17:42:02.200", "status": "Active"}}

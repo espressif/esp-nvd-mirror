@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "37073CC0-43B6-44CE-B433-5FD309DD7B07", "criteria": "cpe:2.3:a:netiq:advanced_authentication:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.6.0.0", "versionEndExcluding": "6.6.2", "lastModified": "2026-10-29T17:39:38.147", "created": "2026-10-29T17:39:38.147", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BD42212C-8AE1-4CAB-B18C-58D99CFC1C12", "criteria": "cpe:2.3:o:vmware:esxi:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.1.0.0", "versionEndExcluding": "9.1.0.0300", "lastModified": "2026-10-29T17:19:12.290", "cpeLastModified": "2026-10-29T17:19:12.290", "created": "2026-10-29T17:19:12.290", "status": "Active"}}
