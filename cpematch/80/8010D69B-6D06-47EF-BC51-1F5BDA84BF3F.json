@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8010D69B-6D06-47EF-BC51-1F5BDA84BF3F", "criteria": "cpe:2.3:a:apache:kafka:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.4.0", "versionEndExcluding": "4.4.0", "lastModified": "2026-10-29T04:58:07.543", "created": "2026-10-29T04:58:07.543", "status": "Active"}}

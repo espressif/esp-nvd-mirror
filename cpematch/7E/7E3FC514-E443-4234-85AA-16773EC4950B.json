@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7E3FC514-E443-4234-85AA-16773EC4950B", "criteria": "cpe:2.3:a:wso2:saml2_sso_authenticator_ui_bundle:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.5.9", "versionEndExcluding": "5.5.9.4", "lastModified": "2026-10-29T04:07:17.433", "created": "2026-10-29T04:07:17.433", "status": "Active"}}
