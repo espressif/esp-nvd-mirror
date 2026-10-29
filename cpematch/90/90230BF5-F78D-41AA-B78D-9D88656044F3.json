@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "90230BF5-F78D-41AA-B78D-9D88656044F3", "criteria": "cpe:2.3:a:redhat:build_of_apache_camel:*:*:*:*:*:spring_boot:*:*", "versionEndExcluding": "4.18.1", "lastModified": "2026-10-29T14:23:55.193", "cpeLastModified": "2026-10-29T14:23:55.193", "created": "2026-10-29T14:23:55.193", "status": "Active"}}

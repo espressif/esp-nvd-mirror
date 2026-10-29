@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AFBAF807-DBF6-4409-B2A5-DB5A8C3564C1", "criteria": "cpe:2.3:a:redhat:build_of_apache_camel:*:*:*:*:*:quarkus:*:*", "versionEndExcluding": "3.33.2", "lastModified": "2026-10-29T14:28:42.610", "created": "2026-10-29T14:28:42.610", "status": "Active"}}

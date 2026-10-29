@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8A9F9AF1-9ED2-46DE-86B7-3C47A1A55270", "criteria": "cpe:2.3:a:redhat:cert-manager_operator:*:*:*:*:*:openshift:*:*", "versionStartIncluding": "1.17.0", "versionEndExcluding": "1.17.1", "lastModified": "2026-10-29T14:12:18.973", "cpeLastModified": "2026-10-29T14:09:10.080", "created": "2026-10-29T14:09:10.080", "status": "Inactive"}}
