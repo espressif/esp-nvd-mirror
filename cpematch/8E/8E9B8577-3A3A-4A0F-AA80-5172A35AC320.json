@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8E9B8577-3A3A-4A0F-AA80-5172A35AC320", "criteria": "cpe:2.3:a:clickhouse:clickhouse:*:*:*:*:*:*:*:*", "versionStartIncluding": "26.10", "versionEndExcluding": "26.10.3.7-stable", "lastModified": "2026-10-30T11:25:04.137", "cpeLastModified": "2026-10-30T11:25:04.137", "created": "2026-10-30T11:25:04.137", "status": "Active"}}
