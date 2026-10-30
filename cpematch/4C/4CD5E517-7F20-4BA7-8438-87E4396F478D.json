@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4CD5E517-7F20-4BA7-8438-87E4396F478D", "criteria": "cpe:2.3:a:restrict_route_by_ip_project:restrict_route_by_ip:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.0.1", "lastModified": "2026-10-30T04:24:43.130", "created": "2026-10-30T04:24:43.130", "status": "Active"}}
