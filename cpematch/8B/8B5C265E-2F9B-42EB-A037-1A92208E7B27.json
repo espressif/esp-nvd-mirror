@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8B5C265E-2F9B-42EB-A037-1A92208E7B27", "criteria": "cpe:2.3:a:drupal:xray_audit:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.1.1", "lastModified": "2026-10-30T07:15:20.783", "created": "2026-10-30T07:15:20.783", "status": "Active"}}

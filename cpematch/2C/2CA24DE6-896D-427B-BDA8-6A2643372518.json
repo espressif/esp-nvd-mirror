@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2CA24DE6-896D-427B-BDA8-6A2643372518", "criteria": "cpe:2.3:a:drupal:commerce_stripe:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.2.3", "lastModified": "2026-10-30T06:35:31.053", "created": "2026-10-30T06:35:31.053", "status": "Active"}}
