@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F6266100-DA66-4C33-B59B-6E63B207EC70", "criteria": "cpe:2.3:a:getdbt:dbt-core:*:*:*:*:*:python:*:*", "versionStartIncluding": "1.6.0", "versionEndExcluding": "1.6.14", "lastModified": "2026-10-30T14:38:47.343", "created": "2026-10-30T14:38:47.343", "status": "Active"}}
