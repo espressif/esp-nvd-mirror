@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AEC1CB9C-9882-4DD8-B229-15AE1BD95D56", "criteria": "cpe:2.3:a:teamworktec:elixir:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.20.0-rc.0", "versionEndExcluding": "1.20.5", "lastModified": "2026-10-30T09:30:38.017", "created": "2026-10-30T09:30:38.017", "status": "Active"}}

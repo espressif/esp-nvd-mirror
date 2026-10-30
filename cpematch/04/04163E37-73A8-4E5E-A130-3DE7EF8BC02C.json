@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "04163E37-73A8-4E5E-A130-3DE7EF8BC02C", "criteria": "cpe:2.3:a:elixir-lang:elixir:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.19.0-rc.0", "versionEndExcluding": "1.19.7", "lastModified": "2026-10-30T09:30:42.810", "created": "2026-10-30T09:30:42.810", "status": "Active"}}
