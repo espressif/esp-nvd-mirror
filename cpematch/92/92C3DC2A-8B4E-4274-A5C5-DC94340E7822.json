@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "92C3DC2A-8B4E-4274-A5C5-DC94340E7822", "criteria": "cpe:2.3:a:mariadb:connector_j:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.5.0", "versionEndExcluding": "3.5.11", "lastModified": "2026-10-29T22:58:25.307", "created": "2026-10-29T22:58:25.307", "status": "Active"}}

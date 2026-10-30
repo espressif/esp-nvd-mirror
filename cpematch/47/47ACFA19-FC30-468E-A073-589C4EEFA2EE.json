@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "47ACFA19-FC30-468E-A073-589C4EEFA2EE", "criteria": "cpe:2.3:a:nrwl:maven:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.0.0", "versionEndExcluding": "22.7.9", "lastModified": "2026-10-29T23:16:27.377", "created": "2026-10-29T23:16:27.377", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AD87ADC6-C55B-4AEC-B20F-DD1D72F53985", "criteria": "cpe:2.3:a:servicenow:sr_csm_task_plan_templates:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.1", "versionEndExcluding": "3.0.0", "lastModified": "2026-10-29T23:51:56.937", "created": "2026-10-29T23:51:56.937", "status": "Active"}}

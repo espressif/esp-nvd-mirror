@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D9BFB3AC-7C84-4F0E-BB38-9AA7E9913DD3", "criteria": "cpe:2.3:a:graphql-python:graphql-core:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.3.0a3", "versionEndExcluding": "3.3.1", "lastModified": "2026-10-29T23:15:50.380", "created": "2026-10-29T23:15:50.380", "status": "Active"}}
