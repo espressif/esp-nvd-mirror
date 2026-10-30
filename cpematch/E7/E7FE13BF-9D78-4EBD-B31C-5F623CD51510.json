@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E7FE13BF-9D78-4EBD-B31C-5F623CD51510", "criteria": "cpe:2.3:a:openstack:keystonemiddleware:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.0.0", "versionEndExcluding": "13.0.2", "lastModified": "2026-10-30T17:51:19.493", "created": "2026-10-30T17:51:19.493", "status": "Active"}}
