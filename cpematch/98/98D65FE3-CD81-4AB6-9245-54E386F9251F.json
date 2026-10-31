@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "98D65FE3-CD81-4AB6-9245-54E386F9251F", "criteria": "cpe:2.3:a:sgbett:secp256k1-native:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.17.0", "versionEndExcluding": "0.18.0", "lastModified": "2026-10-31T01:57:33.987", "created": "2026-10-31T01:57:33.987", "status": "Active"}}

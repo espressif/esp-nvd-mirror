@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3DE3926B-4E56-4ECD-AB7B-8EC449DBAC49", "criteria": "cpe:2.3:a:openvm:openvm:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0-alpha", "versionEndExcluding": "2.0.0-rc.3", "lastModified": "2026-10-31T00:09:43.400", "created": "2026-10-31T00:09:43.400", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B0CCA51E-963B-4458-BCDD-905949C32460", "criteria": "cpe:2.3:a:drupal_project:file_force:*:*:*:*:*:drupal:*:*", "versionStartIncluding": "7.1.0", "versionEndExcluding": "7.1.3", "lastModified": "2026-10-31T01:43:54.190", "created": "2026-10-31T01:43:54.190", "status": "Active"}}
