@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CE5668DB-87D4-487E-8E54-E3D2AEC82AB8", "criteria": "cpe:2.3:a:ssl_verify_fun_project:ssl_verify_fun:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.1", "versionEndExcluding": "1.1.8", "lastModified": "2026-10-30T22:25:18.490", "created": "2026-10-30T22:25:18.490", "status": "Active"}}
