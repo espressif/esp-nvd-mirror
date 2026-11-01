@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D81E96B0-2AE4-4B39-B2A5-6D9679A97CCE", "criteria": "cpe:2.3:a:google:google_auth:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.11", "versionEndIncluding": "0.12", "lastModified": "2026-11-01T17:30:00.847", "created": "2026-11-01T17:30:00.847", "status": "Active"}}
