@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ABE5C4D3-61F0-401C-8EE7-F26A64BE311E", "criteria": "cpe:2.3:a:intel:data_center_attestation_primitives:*:*:*:*:*:-:*:*", "versionStartIncluding": "1.20", "versionEndExcluding": "1.25", "lastModified": "2026-11-02T14:20:00.687", "cpeLastModified": "2026-11-02T14:20:00.687", "created": "2026-11-02T14:20:00.687", "status": "Active"}}
