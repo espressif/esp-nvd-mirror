@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C01B3E48-E3C4-4141-890D-2ED04102B67E", "criteria": "cpe:2.3:a:wso2:carbon_user_management_ui:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.24.8", "versionEndExcluding": "5.24.8.13", "lastModified": "2026-11-02T10:26:44.373", "created": "2026-11-02T10:26:44.373", "status": "Active"}}

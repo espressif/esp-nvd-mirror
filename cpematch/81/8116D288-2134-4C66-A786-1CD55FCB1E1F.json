@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8116D288-2134-4C66-A786-1CD55FCB1E1F", "criteria": "cpe:2.3:a:wso2:keystore_rest_api_v1:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.3.213", "versionEndExcluding": "1.3.213.1", "lastModified": "2026-11-02T10:26:48.550", "created": "2026-11-02T10:26:48.550", "status": "Active"}}
