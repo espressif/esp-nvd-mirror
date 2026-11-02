@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F45D002D-9A44-4A89-8420-9BBFA9E74EEF", "criteria": "cpe:2.3:a:payhere:payhere_payment_gateway:*:*:*:*:*:wordpress:*:*", "versionStartIncluding": "2.4.0", "versionEndIncluding": "2.4.5", "lastModified": "2026-11-02T08:24:17.330", "created": "2026-11-02T08:24:17.330", "status": "Active"}}
