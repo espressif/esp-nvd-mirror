@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "253F50CF-825B-4EB5-A725-A6B4AE6CC6CE", "criteria": "cpe:2.3:a:suse:rancher_webhook:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.12.0", "versionEndExcluding": "0.12.1", "lastModified": "2026-11-02T18:55:55.593", "created": "2026-11-02T18:55:55.593", "status": "Active"}}

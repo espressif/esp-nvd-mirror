@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8F847E10-2FAF-4043-9966-635B904A4BB8", "criteria": "cpe:2.3:a:aws:aws_sdk_pandas:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.5.2", "versionEndExcluding": "3.17.1", "lastModified": "2026-11-02T18:11:58.203", "created": "2026-11-02T18:11:58.203", "status": "Active"}}

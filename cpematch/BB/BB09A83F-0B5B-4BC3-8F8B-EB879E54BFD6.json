@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BB09A83F-0B5B-4BC3-8F8B-EB879E54BFD6", "criteria": "cpe:2.3:a:suse:rancher:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.15.2", "versionEndExcluding": "2.15.3", "lastModified": "2026-11-02T18:55:55.593", "created": "2026-11-02T18:55:55.593", "status": "Active"}}
