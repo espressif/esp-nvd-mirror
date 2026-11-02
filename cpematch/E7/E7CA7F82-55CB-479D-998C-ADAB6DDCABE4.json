@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E7CA7F82-55CB-479D-998C-ADAB6DDCABE4", "criteria": "cpe:2.3:a:microsoft:azure-storage-blob-batch:*:*:*:*:*:java:*:*", "versionEndExcluding": "12.31.2", "lastModified": "2026-11-02T13:18:47.710", "created": "2026-11-02T13:18:47.710", "status": "Active"}}

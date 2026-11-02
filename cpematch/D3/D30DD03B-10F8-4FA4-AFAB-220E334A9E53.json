@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D30DD03B-10F8-4FA4-AFAB-220E334A9E53", "criteria": "cpe:2.3:a:wso2:carbon_oauth_project:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.13.27", "versionEndExcluding": "6.13.27.1", "lastModified": "2026-11-02T12:25:38.743", "created": "2026-11-02T12:25:38.743", "status": "Active"}}
