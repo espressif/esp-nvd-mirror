@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D2B55CC7-C1CA-4379-8105-EEA55F897704", "criteria": "cpe:2.3:o:juniper:junos:*:*:*:*:*:*:*:*", "versionStartIncluding": "23.4r2", "versionEndExcluding": "23.4r2-s8.13", "lastModified": "2026-11-03T01:45:53.423", "created": "2026-11-03T01:45:53.423", "status": "Active"}}
