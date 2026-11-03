@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CDE0903D-4A70-49CC-93B4-CF46CD739EF8", "criteria": "cpe:2.3:a:vaadin:charts:*:*:*:*:*:*:*:*", "versionStartIncluding": "22.0.0", "versionEndExcluding": "23.6.7", "lastModified": "2026-11-03T07:23:53.613", "created": "2026-11-03T07:23:53.613", "status": "Active"}}

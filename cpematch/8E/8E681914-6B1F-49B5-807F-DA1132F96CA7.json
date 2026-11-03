@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8E681914-6B1F-49B5-807F-DA1132F96CA7", "criteria": "cpe:2.3:a:vaadin:vaadin_charts_flow_svg_generator:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.0.0", "versionEndExcluding": "23.6.16", "lastModified": "2026-11-03T07:23:53.613", "created": "2026-11-03T07:23:53.613", "status": "Active"}}
