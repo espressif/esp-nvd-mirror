@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4404BDD2-CE60-4782-AFB3-E719B6F656C0", "criteria": "cpe:2.3:a:amazon:cicd-toolchain-for-serverless-applications:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.7", "versionEndExcluding": "1.0.11", "lastModified": "2026-11-03T14:21:03.353", "created": "2026-11-03T14:21:03.353", "status": "Active"}}

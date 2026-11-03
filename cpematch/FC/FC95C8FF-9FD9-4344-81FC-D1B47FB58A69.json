@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FC95C8FF-9FD9-4344-81FC-D1B47FB58A69", "criteria": "cpe:2.3:a:oracle:capacity:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.2.3", "versionEndExcluding": "12.2.15", "lastModified": "2026-11-03T14:25:36.680", "created": "2026-11-03T14:25:36.680", "status": "Active"}}

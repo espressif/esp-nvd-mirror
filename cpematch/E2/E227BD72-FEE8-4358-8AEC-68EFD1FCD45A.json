@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E227BD72-FEE8-4358-8AEC-68EFD1FCD45A", "criteria": "cpe:2.3:a:oracle:hr_intelligence:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.2.3", "versionEndExcluding": "12.2.15", "lastModified": "2026-11-03T15:30:44.763", "cpeLastModified": "2026-11-03T15:30:44.763", "created": "2026-11-03T15:30:44.763", "status": "Active"}}

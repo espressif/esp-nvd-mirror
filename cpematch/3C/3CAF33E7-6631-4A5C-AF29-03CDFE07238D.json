@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3CAF33E7-6631-4A5C-AF29-03CDFE07238D", "criteria": "cpe:2.3:a:oracle:depot_repair:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.2.3", "versionEndExcluding": "12.2.15", "lastModified": "2026-11-03T14:20:29.650", "cpeLastModified": "2026-11-03T14:20:29.650", "created": "2026-11-03T14:20:29.650", "status": "Active"}}

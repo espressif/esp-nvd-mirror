@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F65E5CA9-F0FF-415C-893A-950FB6F04C5B", "criteria": "cpe:2.3:a:wso2:identity_oauth2_grant_jwt:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.3.1", "versionEndExcluding": "2.3.1.4", "lastModified": "2026-11-03T16:33:17.927", "created": "2026-11-03T16:33:17.927", "status": "Active"}}

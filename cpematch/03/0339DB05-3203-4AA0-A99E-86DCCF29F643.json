@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0339DB05-3203-4AA0-A99E-86DCCF29F643", "criteria": "cpe:2.3:a:vitest_project:ui:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0-beta.6", "versionEndExcluding": "5.0.5", "lastModified": "2026-11-03T15:19:37.273", "created": "2026-11-03T15:19:37.273", "status": "Active"}}

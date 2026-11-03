@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "27D4B2BB-607F-4341-81D6-38A14BE3BAFD", "criteria": "cpe:2.3:a:oracle:sales:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.2.3", "versionEndExcluding": "12.2.15", "lastModified": "2026-11-03T15:16:41.920", "created": "2026-11-03T15:16:41.920", "status": "Active"}}

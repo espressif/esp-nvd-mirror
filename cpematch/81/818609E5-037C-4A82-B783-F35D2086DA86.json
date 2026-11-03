@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "818609E5-037C-4A82-B783-F35D2086DA86", "criteria": "cpe:2.3:a:amazon:sagemaker_python_sdk:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.257.3", "lastModified": "2026-11-03T14:21:46.620", "created": "2026-11-03T14:21:46.620", "status": "Active"}}
