@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4F770B5A-0C65-48F3-9D96-250362766D1E", "criteria": "cpe:2.3:a:trigger.dev:cli-v3:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "4.5.4", "lastModified": "2026-11-03T18:56:40.037", "created": "2026-11-03T18:56:40.037", "status": "Active"}}
