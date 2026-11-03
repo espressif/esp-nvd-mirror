@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6C4E41F7-D0B1-4E21-BCF5-9CD47AFAA61E", "criteria": "cpe:2.3:a:hmailserver:hmailserver:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.3.7", "lastModified": "2026-11-03T21:36:21.547", "created": "2026-11-03T21:36:21.547", "status": "Active"}}
