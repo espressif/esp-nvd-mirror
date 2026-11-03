@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6CCB91D2-37D7-413F-868B-86A8A5C8F421", "criteria": "cpe:2.3:a:marcosschroh:dataclasses-avroschema:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.47.3", "versionEndExcluding": "0.70.6", "lastModified": "2026-11-03T08:35:49.500", "created": "2026-11-03T08:35:49.500", "status": "Active"}}

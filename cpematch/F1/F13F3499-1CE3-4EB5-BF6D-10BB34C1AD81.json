@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F13F3499-1CE3-4EB5-BF6D-10BB34C1AD81", "criteria": "cpe:2.3:a:amazon:graphql-api-construct:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.4.0", "versionEndExcluding": "1.21.4", "lastModified": "2026-11-03T08:16:31.853", "created": "2026-11-03T08:16:31.853", "status": "Active"}}

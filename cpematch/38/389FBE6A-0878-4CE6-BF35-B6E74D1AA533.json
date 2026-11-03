@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "389FBE6A-0878-4CE6-BF35-B6E74D1AA533", "criteria": "cpe:2.3:a:huggingface:text_embeddings_inference:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndIncluding": "1.9.4", "lastModified": "2026-11-03T09:21:41.227", "created": "2026-11-03T09:21:41.227", "status": "Active"}}

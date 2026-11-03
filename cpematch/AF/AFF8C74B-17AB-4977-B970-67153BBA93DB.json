@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AFF8C74B-17AB-4977-B970-67153BBA93DB", "criteria": "cpe:2.3:a:modelcontextprotocol:java_sdk:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.8.0", "versionEndExcluding": "0.13.0", "lastModified": "2026-11-03T08:36:21.063", "created": "2026-11-03T08:36:21.063", "status": "Active"}}

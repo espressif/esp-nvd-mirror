@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6430248E-0143-4007-9FC6-0C7A1CD92723", "criteria": "cpe:2.3:a:cohere-ai:cohere-python:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.11.0", "versionEndIncluding": "7.2.0", "lastModified": "2026-11-03T09:01:42.177", "created": "2026-11-03T09:01:42.177", "status": "Active"}}

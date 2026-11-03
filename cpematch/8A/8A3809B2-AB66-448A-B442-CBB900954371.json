@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8A3809B2-AB66-448A-B442-CBB900954371", "criteria": "cpe:2.3:a:quarkiverse:quarkus-langchain4j:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.9.0", "versionEndIncluding": "1.14.1", "lastModified": "2026-11-03T09:01:55.290", "created": "2026-11-03T09:01:55.290", "status": "Active"}}
