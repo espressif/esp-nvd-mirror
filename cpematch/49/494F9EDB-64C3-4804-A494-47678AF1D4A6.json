@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "494F9EDB-64C3-4804-A494-47678AF1D4A6", "criteria": "cpe:2.3:a:jupyterlite_project:jupyterlite-core:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.7.5", "versionEndExcluding": "0.8.4", "lastModified": "2026-11-03T02:47:32.257", "created": "2026-11-03T02:47:32.257", "status": "Active"}}

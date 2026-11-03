@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CECDECF8-409E-4BFB-9F38-2580C27ABFFD", "criteria": "cpe:2.3:o:openvpn:ovpn-dco-win:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.4.0", "versionEndExcluding": "2.8.13", "lastModified": "2026-11-03T03:45:08.913", "created": "2026-11-03T03:45:08.913", "status": "Active"}}

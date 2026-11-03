@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D47C94D0-AB05-479A-9EA9-5CD1D82A7A57", "criteria": "cpe:2.3:a:tanstack:start-server-core:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.143.12", "versionEndExcluding": "1.169.39", "lastModified": "2026-11-03T02:48:20.957", "created": "2026-11-03T02:48:20.957", "status": "Active"}}
