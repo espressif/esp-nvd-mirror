@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F4B216DB-FB47-4F72-998C-DA9CF98EC818", "criteria": "cpe:2.3:a:getdbt:dbt-core:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0-alpha.0", "versionEndExcluding": "2.0.0-alpha.5", "lastModified": "2026-11-02T23:48:55.390", "created": "2026-11-02T23:48:55.390", "status": "Active"}}

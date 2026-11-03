@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7B901821-4A21-4691-BFE0-F7889559BA4B", "criteria": "cpe:2.3:a:paloaltonetworks:bridgecrew_checkov:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.2.0", "versionEndExcluding": "3.2.533", "lastModified": "2026-11-02T23:29:51.583", "created": "2026-11-02T23:29:51.583", "status": "Active"}}
