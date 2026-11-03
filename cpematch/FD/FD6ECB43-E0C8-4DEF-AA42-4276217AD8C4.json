@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FD6ECB43-E0C8-4DEF-AA42-4276217AD8C4", "criteria": "cpe:2.3:a:bmc:helix_network_management:*:*:*:*:*:*:*:*", "versionStartIncluding": "26.3.00", "versionEndExcluding": "26.3.01", "lastModified": "2026-11-03T13:45:32.287", "created": "2026-11-03T13:45:32.287", "status": "Active"}}

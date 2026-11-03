@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EAB45316-190D-41A2-BFA1-634B48F7A12A", "criteria": "cpe:2.3:a:mend:renovate_ee_worker:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndExcluding": "15.5.0", "lastModified": "2026-11-03T12:39:39.630", "created": "2026-11-03T12:39:39.630", "status": "Active"}}

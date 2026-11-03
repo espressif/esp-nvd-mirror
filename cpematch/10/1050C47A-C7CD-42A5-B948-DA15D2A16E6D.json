@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1050C47A-C7CD-42A5-B948-DA15D2A16E6D", "criteria": "cpe:2.3:a:vaadin:vaadin_framework:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.1.0", "versionEndExcluding": "7.7.55", "lastModified": "2026-11-03T12:10:23.267", "created": "2026-11-03T12:10:23.267", "status": "Active"}}

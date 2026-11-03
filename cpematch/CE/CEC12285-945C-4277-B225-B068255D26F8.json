@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CEC12285-945C-4277-B225-B068255D26F8", "criteria": "cpe:2.3:a:vaadin:flow:*:*:*:*:*:*:*:*", "versionStartIncluding": "25.1.0", "versionEndExcluding": "25.1.19", "lastModified": "2026-11-03T12:10:23.267", "created": "2026-11-03T12:10:23.267", "status": "Active"}}

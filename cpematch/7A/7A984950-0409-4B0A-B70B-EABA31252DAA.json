@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7A984950-0409-4B0A-B70B-EABA31252DAA", "criteria": "cpe:2.3:a:amazon:neptune_engine:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.0.0", "versionEndExcluding": "1.5.0.0", "lastModified": "2026-11-03T12:27:30.370", "created": "2026-11-03T12:27:30.370", "status": "Active"}}

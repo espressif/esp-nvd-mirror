@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4F7E4C6C-812A-4BD0-AB36-6E6C7AEB30BB", "criteria": "cpe:2.3:a:mend:renovate_enterprise_edition_helm_chart:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndExcluding": "10.5.0", "lastModified": "2026-11-03T12:39:39.630", "created": "2026-11-03T12:39:39.630", "status": "Active"}}
