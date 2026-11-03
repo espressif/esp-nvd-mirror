@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "08BF1803-2F33-411B-A255-522EAFF270BB", "criteria": "cpe:2.3:a:haproxy:haproxy:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0r1", "versionEndExcluding": "3.0r1-362.1441", "lastModified": "2026-11-03T11:46:46.353", "created": "2026-11-03T11:46:46.353", "status": "Active"}}

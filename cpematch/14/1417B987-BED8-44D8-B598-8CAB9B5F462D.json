@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1417B987-BED8-44D8-B598-8CAB9B5F462D", "criteria": "cpe:2.3:a:haproxy:data_plane_api:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.3.0", "versionEndExcluding": "3.3.9", "lastModified": "2026-11-03T11:05:30.253", "created": "2026-11-03T11:05:30.253", "status": "Active"}}

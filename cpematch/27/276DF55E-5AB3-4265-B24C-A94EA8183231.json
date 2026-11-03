@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "276DF55E-5AB3-4265-B24C-A94EA8183231", "criteria": "cpe:2.3:a:amazon:amazon_extensions_s3_encryption:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.2.2", "lastModified": "2026-11-03T11:38:16.833", "created": "2026-11-03T11:38:16.833", "status": "Active"}}

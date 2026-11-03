@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "92217FE2-FB8E-4A47-8442-B187DB2B4D0B", "criteria": "cpe:2.3:a:microsoft:system.formats.cbor:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0", "versionEndExcluding": "10.0.13", "lastModified": "2026-11-03T11:03:42.063", "created": "2026-11-03T11:03:42.063", "status": "Active"}}
