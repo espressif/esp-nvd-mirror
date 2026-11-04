@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8DB5756A-404A-49AC-8D0C-46D65C35F85B", "criteria": "cpe:2.3:a:babelfish-for-postgresql:babelfish_extensions:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0", "versionEndIncluding": "4.8", "lastModified": "2026-11-04T15:20:21.347", "created": "2026-11-04T15:20:21.347", "status": "Active"}}
