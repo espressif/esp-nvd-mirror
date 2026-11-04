@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "43AB919B-595F-47E9-9CBE-15202171C152", "criteria": "cpe:2.3:a:tanium:deploy:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.45.0", "versionEndExcluding": "2.45.322", "lastModified": "2026-11-04T01:28:32.260", "created": "2026-11-04T01:28:32.260", "status": "Active"}}
