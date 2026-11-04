@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "09A5848C-A1E1-4AF7-9067-228C03D7E373", "criteria": "cpe:2.3:a:tanium:endpoint_configuration_toolset_solution:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.71", "versionEndExcluding": "1.71.26", "lastModified": "2026-11-04T08:23:34.653", "created": "2026-11-04T08:23:34.653", "status": "Active"}}

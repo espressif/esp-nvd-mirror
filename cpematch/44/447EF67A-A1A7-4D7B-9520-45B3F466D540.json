@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "447EF67A-A1A7-4D7B-9520-45B3F466D540", "criteria": "cpe:2.3:a:eclipse:jetty-ethereum:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.1.0", "versionEndExcluding": "12.1.13", "lastModified": "2026-11-04T10:38:34.250", "created": "2026-11-04T10:38:34.250", "status": "Active"}}

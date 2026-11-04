@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B1B6C2C9-701A-44A2-8465-809DBF59FB8D", "criteria": "cpe:2.3:a:cisco:open_source_snort3:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.6.0.0", "versionEndIncluding": "3.6.3.0", "lastModified": "2026-11-04T10:42:14.283", "created": "2026-11-04T10:42:14.283", "status": "Active"}}

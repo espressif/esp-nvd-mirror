@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B8360934-B995-4ED2-8A40-9A17D98AAC4E", "criteria": "cpe:2.3:a:eclipse_foundation:jetty-ee9-security:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.1.0", "versionEndExcluding": "12.1.12", "lastModified": "2026-11-04T10:21:07.547", "created": "2026-11-04T10:21:07.547", "status": "Active"}}

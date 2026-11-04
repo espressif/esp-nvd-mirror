@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5BE71E08-6DC2-4173-849D-CC35B54FC76D", "criteria": "cpe:2.3:a:eclipse_foundation:jetty-ee9-annotations:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.0.0", "versionEndExcluding": "12.0.39", "lastModified": "2026-11-04T10:21:06.083", "created": "2026-11-04T10:21:06.083", "status": "Active"}}

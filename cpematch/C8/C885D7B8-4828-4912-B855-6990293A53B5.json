@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C885D7B8-4828-4912-B855-6990293A53B5", "criteria": "cpe:2.3:a:tanium:integrity_monitor:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.6", "versionEndExcluding": "3.6.608", "lastModified": "2026-11-04T08:23:34.653", "created": "2026-11-04T08:23:34.653", "status": "Active"}}

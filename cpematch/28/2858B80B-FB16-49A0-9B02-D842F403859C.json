@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2858B80B-FB16-49A0-9B02-D842F403859C", "criteria": "cpe:2.3:a:tanium:health_check:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.13", "versionEndExcluding": "1.13.653", "lastModified": "2026-11-04T08:23:34.653", "created": "2026-11-04T08:23:34.653", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D266F409-A30A-44D6-B20C-717022DBF454", "criteria": "cpe:2.3:a:cisco:utd_snort_ips_engine_software:*:*:*:*:*:*:*:*", "versionStartIncluding": "17.4.1a", "versionEndIncluding": "17.4.2", "lastModified": "2026-11-04T10:42:14.283", "created": "2026-11-04T10:42:14.283", "status": "Active"}}
