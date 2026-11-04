@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B8D58880-C738-494F-8080-145211E25159", "criteria": "cpe:2.3:a:laravel:framework:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.45.0", "versionEndExcluding": "12.68.0", "lastModified": "2026-11-03T22:16:11.963", "created": "2026-11-03T22:16:11.963", "status": "Active"}}
