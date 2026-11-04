@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4DE6C4E9-6BF9-4A7B-8B13-AC4F5BBB93AC", "criteria": "cpe:2.3:o:siemens:industrial_edge_device_kit_arm64:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.27.1-1", "versionEndExcluding": "1.28.0-6", "lastModified": "2026-11-04T17:32:57.430", "created": "2026-11-04T17:32:57.430", "status": "Active"}}

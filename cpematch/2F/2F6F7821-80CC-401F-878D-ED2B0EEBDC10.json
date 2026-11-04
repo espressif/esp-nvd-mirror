@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2F6F7821-80CC-401F-878D-ED2B0EEBDC10", "criteria": "cpe:2.3:a:containerd:runwasi:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.6.1", "lastModified": "2026-11-04T18:00:53.450", "created": "2026-11-04T18:00:53.450", "status": "Active"}}

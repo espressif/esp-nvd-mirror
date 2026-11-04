@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D9C59F64-1E32-4011-A892-BC0745348776", "criteria": "cpe:2.3:o:siemens:industrial_edge_device_kit_x86_64:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.26.2-1", "versionEndExcluding": "1.27.1-1", "lastModified": "2026-11-04T17:32:57.430", "created": "2026-11-04T17:32:57.430", "status": "Active"}}
