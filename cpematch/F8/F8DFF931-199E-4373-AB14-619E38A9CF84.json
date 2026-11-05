@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F8DFF931-199E-4373-AB14-619E38A9CF84", "criteria": "cpe:2.3:a:libgme:game_music_emu:0.6.0:*:*:*:*:*:*:*", "lastModified": "2026-11-05T19:09:40.713", "created": "2026-11-05T18:49:49.450", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:libgme:game_music_emu:0.6.0:*:*:*:*:*:*:*", "cpeNameId": "A5DCD59A-52CF-402C-B242-0766187C9302"}]}}
