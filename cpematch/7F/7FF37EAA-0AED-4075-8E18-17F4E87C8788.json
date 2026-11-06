@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7FF37EAA-0AED-4075-8E18-17F4E87C8788", "criteria": "cpe:2.3:a:auth_project:core:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.1.0", "versionEndExcluding": "0.41.3", "lastModified": "2026-11-06T15:12:48.327", "created": "2026-11-06T15:12:48.327", "status": "Active"}}

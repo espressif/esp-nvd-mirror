@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EB2C932C-02D5-499C-A51B-40A0518E41C1", "criteria": "cpe:2.3:a:nextauthjs:next-auth:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.6", "versionEndExcluding": "4.24.15", "lastModified": "2026-11-06T15:12:54.093", "created": "2026-11-06T15:12:54.093", "status": "Active"}}

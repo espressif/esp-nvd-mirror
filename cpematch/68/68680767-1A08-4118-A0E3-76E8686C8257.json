@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "68680767-1A08-4118-A0E3-76E8686C8257", "criteria": "cpe:2.3:a:redhat:etcd:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.7.0-alpha.0", "versionEndExcluding": "3.7.1", "lastModified": "2026-11-06T16:01:53.540", "created": "2026-11-06T16:01:53.540", "status": "Active"}}
