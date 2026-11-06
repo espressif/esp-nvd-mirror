@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "256C5BC5-2C30-4034-B930-A27A8C18E1F2", "criteria": "cpe:2.3:a:schedmd:slurm:*:*:*:*:*:*:*:*", "versionStartIncluding": "26.05.0", "versionEndIncluding": "26.05.3", "lastModified": "2026-11-06T02:03:33.540", "created": "2026-11-06T02:03:33.540", "status": "Active"}}
