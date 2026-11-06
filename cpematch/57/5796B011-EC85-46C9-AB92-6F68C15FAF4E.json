@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5796B011-EC85-46C9-AB92-6F68C15FAF4E", "criteria": "cpe:2.3:o:johnsoncontrols:cw_edge_controller_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "cw 3.3b24", "versionEndIncluding": "cw 3.3b25", "lastModified": "2026-11-06T08:01:20.270", "created": "2026-11-06T08:01:20.270", "status": "Active"}}

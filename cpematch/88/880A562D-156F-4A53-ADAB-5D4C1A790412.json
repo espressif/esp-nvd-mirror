@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "880A562D-156F-4A53-ADAB-5D4C1A790412", "criteria": "cpe:2.3:a:openstack:manila:*:*:*:*:*:*:*:*", "versionStartIncluding": "23.0.0", "versionEndExcluding": "23.0.1", "lastModified": "2026-11-06T06:58:40.267", "created": "2026-11-06T06:58:40.267", "status": "Active"}}
