@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BEE9246F-CF58-43CE-A406-1FDCF6019F50", "criteria": "cpe:2.3:o:siemens:siplus_s7-1500_cpu_1518-4_pn\\/dp_mfp_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "v3.1.0", "versionEndExcluding": "v3.1.5", "lastModified": "2026-11-06T17:47:20.407", "created": "2026-11-06T17:47:20.407", "status": "Active"}}

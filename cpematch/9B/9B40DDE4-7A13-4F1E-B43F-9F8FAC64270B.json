@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9B40DDE4-7A13-4F1E-B43F-9F8FAC64270B", "criteria": "cpe:2.3:a:kubevirt:kubevirt:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.8.0", "versionEndExcluding": "1.8.3", "lastModified": "2026-11-06T17:00:00.293", "created": "2026-11-06T17:00:00.293", "status": "Active"}}

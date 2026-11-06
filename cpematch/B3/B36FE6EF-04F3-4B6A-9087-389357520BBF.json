@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B36FE6EF-04F3-4B6A-9087-389357520BBF", "criteria": "cpe:2.3:a:redhat:openshift_virtualization:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.17", "versionEndExcluding": "1779174925", "lastModified": "2026-11-06T17:00:00.293", "cpeLastModified": "2026-11-06T17:00:00.293", "created": "2026-11-06T17:00:00.293", "status": "Active"}}
