@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C7DD7E15-18ED-4251-94C7-C64C3D24B0F9", "criteria": "cpe:2.3:a:ibm:watsonx_orchestrate_cartridge_for_cloud_pak_for_data:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.8.4", "versionEndExcluding": "4.8.6", "lastModified": "2026-11-08T19:46:56.820", "created": "2026-11-08T19:46:56.820", "status": "Active"}}

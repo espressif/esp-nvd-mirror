@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A179A0AB-60AE-4C2C-A6A1-FF51444C9CC8", "criteria": "cpe:2.3:a:ibm:cloud_pak_for_data:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.3.1.2 interim fix 001", "versionEndIncluding": "11.3.1.2 interim fix 002", "lastModified": "2026-11-08T19:45:56.237", "created": "2026-11-08T19:45:56.237", "status": "Active"}}

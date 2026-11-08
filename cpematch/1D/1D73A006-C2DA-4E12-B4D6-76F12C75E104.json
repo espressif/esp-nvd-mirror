@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1D73A006-C2DA-4E12-B4D6-76F12C75E104", "criteria": "cpe:2.3:o:ibm:netezza_appliance_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.3.0.2-if2", "versionEndExcluding": "11.3.1.5", "lastModified": "2026-11-08T19:04:11.140", "created": "2026-11-08T19:04:11.140", "status": "Active"}}

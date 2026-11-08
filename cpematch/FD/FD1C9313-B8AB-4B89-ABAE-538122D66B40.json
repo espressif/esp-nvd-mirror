@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FD1C9313-B8AB-4B89-ABAE-538122D66B40", "criteria": "cpe:2.3:a:ibm:cockroachdb_postgresql_for_ibm_vpc:*:*:*:*:*:*:*:*", "versionStartIncluding": "25.2.0", "versionEndExcluding": "25.2.20", "lastModified": "2026-11-08T19:35:41.027", "created": "2026-11-08T19:35:41.027", "status": "Active"}}

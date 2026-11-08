@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "79F19639-14B2-4B32-960F-DB812A805425", "criteria": "cpe:2.3:a:ibm:turbonomic_kubeturbo_agent:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.16.0", "versionEndExcluding": "8.20.4", "lastModified": "2026-11-08T18:44:14.137", "created": "2026-11-08T18:44:14.137", "status": "Active"}}
