@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5D90D4F6-A351-496B-A9A9-028D4E79A4C3", "criteria": "cpe:2.3:a:splunk:nmap_scanner:*:*:*:*:*:splunk_soar:*:*", "versionEndExcluding": "3.0.15", "lastModified": "2026-11-08T00:29:09.620", "created": "2026-11-08T00:29:09.620", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "97ED19C5-AC5C-4B4B-824C-2E5A7DE382BF", "criteria": "cpe:2.3:a:crowdstrike:crowdstrike_oauth_api_app:*:*:*:*:soar:*:*:*", "versionEndExcluding": "5.1.3", "lastModified": "2026-11-08T00:45:05.480", "created": "2026-11-08T00:45:05.480", "status": "Active"}}

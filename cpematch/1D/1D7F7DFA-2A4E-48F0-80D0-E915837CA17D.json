@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1D7F7DFA-2A4E-48F0-80D0-E915837CA17D", "criteria": "cpe:2.3:a:splunk:rsa_securid_authentication_manager_app:*:*:*:*:splunk_soar:*:*:*", "versionEndExcluding": "1.0.5", "lastModified": "2026-11-08T00:55:40.420", "created": "2026-11-08T00:55:40.420", "status": "Active"}}

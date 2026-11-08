@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C5CF3B2B-580E-478B-B7D3-8162736DF04D", "criteria": "cpe:2.3:a:cisco:snort3:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.7.0.0", "versionEndIncluding": "3.7.4.0", "lastModified": "2026-11-08T01:20:37.733", "created": "2026-11-08T01:20:37.733", "status": "Active"}}
