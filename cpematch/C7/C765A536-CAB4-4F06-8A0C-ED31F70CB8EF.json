@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C765A536-CAB4-4F06-8A0C-ED31F70CB8EF", "criteria": "cpe:2.3:a:ibm:openbmc:*:*:*:*:*:*:*:*", "versionStartIncluding": "op910.00", "versionEndExcluding": "op910.96", "lastModified": "2026-11-08T20:23:46.990", "created": "2026-11-08T20:23:46.990", "status": "Active"}}

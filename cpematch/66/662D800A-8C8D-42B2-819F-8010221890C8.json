@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "662D800A-8C8D-42B2-819F-8010221890C8", "criteria": "cpe:2.3:a:redhat:hibernate_validator:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.0.beta2", "versionEndExcluding": "9.0.2.final", "lastModified": "2026-11-08T20:56:46.970", "created": "2026-11-08T20:56:46.970", "status": "Active"}}

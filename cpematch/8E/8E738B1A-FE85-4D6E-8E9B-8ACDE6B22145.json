@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8E738B1A-FE85-4D6E-8E9B-8ACDE6B22145", "criteria": "cpe:2.3:o:ibm:hardware_management_console:*:*:*:*:*:*:*:*", "versionStartIncluding": "op940.00", "versionEndExcluding": "op940.83", "lastModified": "2026-11-08T20:23:40.600", "created": "2026-11-08T20:23:40.600", "status": "Active"}}
