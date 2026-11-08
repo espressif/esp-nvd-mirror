@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B5F0A21E-FF83-406B-9A2C-A875F884B41E", "criteria": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.6.0.0", "versionEndExcluding": "7.6.0.6", "lastModified": "2026-11-08T17:23:22.447", "created": "2026-11-08T17:23:22.447", "status": "Active"}}

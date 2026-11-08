@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "703A02DA-DAC9-435C-988E-F079854CA60A", "criteria": "cpe:2.3:a:ibm:qiskit:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.4.2", "versionEndExcluding": "2.6.2", "lastModified": "2026-11-08T17:53:30.730", "cpeLastModified": "2026-11-08T17:53:30.730", "created": "2026-11-08T17:53:30.730", "status": "Active"}}
