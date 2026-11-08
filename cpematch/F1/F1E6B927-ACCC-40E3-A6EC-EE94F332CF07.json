@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F1E6B927-ACCC-40E3-A6EC-EE94F332CF07", "criteria": "cpe:2.3:a:amazon:athena_query_federation_clickhouse_connector:*:*:*:*:*:*:*:*", "versionEndExcluding": "2026.17.1", "lastModified": "2026-11-07T22:37:50.590", "created": "2026-11-07T22:37:50.590", "status": "Active"}}

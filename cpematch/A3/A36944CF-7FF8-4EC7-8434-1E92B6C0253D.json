@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A36944CF-7FF8-4EC7-8434-1E92B6C0253D", "criteria": "cpe:2.3:a:dell:terraform_provider_for_redfish:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.0", "versionEndExcluding": "1.6.2", "lastModified": "2026-11-07T23:25:22.000", "created": "2026-11-07T23:25:22.000", "status": "Active"}}
