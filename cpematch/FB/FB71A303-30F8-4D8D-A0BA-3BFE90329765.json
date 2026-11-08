@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FB71A303-30F8-4D8D-A0BA-3BFE90329765", "criteria": "cpe:2.3:a:parseplatform:parse-server:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.10.6-alpha.1", "versionEndExcluding": "9.10.7-alpha.2", "lastModified": "2026-11-08T14:24:36.213", "created": "2026-11-08T14:24:36.213", "status": "Active"}}

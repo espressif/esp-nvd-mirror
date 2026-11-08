@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "104EAFBA-51E9-46FD-8AA0-ED1DDEA0A452", "criteria": "cpe:2.3:a:thalesgroup:safenet_authentication_client:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.8 r7", "versionEndIncluding": "10.9 r3 ga \\(build 10.9.7449\\)", "lastModified": "2026-11-08T14:44:15.740", "created": "2026-11-08T14:44:15.740", "status": "Active"}}

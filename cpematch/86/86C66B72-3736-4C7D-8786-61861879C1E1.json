@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "86C66B72-3736-4C7D-8786-61861879C1E1", "criteria": "cpe:2.3:a:docker:buildx:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.21.0", "versionEndExcluding": "0.37.2", "lastModified": "2026-11-08T14:25:15.727", "created": "2026-11-08T14:25:15.727", "status": "Active"}}
