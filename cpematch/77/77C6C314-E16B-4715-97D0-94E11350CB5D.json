@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "77C6C314-E16B-4715-97D0-94E11350CB5D", "criteria": "cpe:2.3:o:cisco:meraki_mx_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "mx_26.1.4", "versionEndIncluding": "mx_26.1.6", "lastModified": "2026-11-08T03:14:46.283", "created": "2026-11-08T03:14:46.283", "status": "Active"}}
