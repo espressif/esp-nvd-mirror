@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C35F1F35-34AB-4DE5-A4C4-027886DF31D5", "criteria": "cpe:2.3:a:debian:advanced_package_tool:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.3.0", "versionEndExcluding": "3.3.3ubuntu0.1", "lastModified": "2026-11-09T00:54:53.347", "created": "2026-11-09T00:54:53.347", "status": "Active"}}

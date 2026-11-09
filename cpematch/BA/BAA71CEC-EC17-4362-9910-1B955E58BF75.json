@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BAA71CEC-EC17-4362-9910-1B955E58BF75", "criteria": "cpe:2.3:a:debian:advanced_package_tool:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.2.0", "versionEndExcluding": "3.2.1", "lastModified": "2026-11-09T00:54:53.347", "created": "2026-11-09T00:54:53.347", "status": "Active"}}

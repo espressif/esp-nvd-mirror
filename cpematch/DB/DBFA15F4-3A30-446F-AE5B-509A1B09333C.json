@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DBFA15F4-3A30-446F-AE5B-509A1B09333C", "criteria": "cpe:2.3:a:fasterxml:jackson-dataformats-binary:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.19.0", "versionEndExcluding": "2.21.8", "lastModified": "2026-11-09T00:25:29.223", "created": "2026-11-09T00:25:29.223", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D61A9075-D0CB-4579-A8CC-73AD791A8349", "criteria": "cpe:2.3:a:altairgraphql:altair_fastify_plugin:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.2.4", "versionEndExcluding": "8.5.8", "lastModified": "2026-11-09T01:21:41.850", "created": "2026-11-09T01:21:41.850", "status": "Active"}}

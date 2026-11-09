@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D5C0DDC6-F0E0-4E8F-8BA0-AD970A5D07E6", "criteria": "cpe:2.3:a:jopenlibs_project:vault-java-driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.2.0", "versionEndExcluding": "7.0.0", "lastModified": "2026-11-09T00:46:05.480", "created": "2026-11-09T00:46:05.480", "status": "Active"}}

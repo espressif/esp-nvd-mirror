@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "625E14A6-D214-4A03-B4EA-907B6276DB7D", "criteria": "cpe:2.3:a:altairgraphql:altair_koa_middleware:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.2.4", "versionEndExcluding": "8.5.8", "lastModified": "2026-11-09T01:21:41.850", "created": "2026-11-09T01:21:41.850", "status": "Active"}}
