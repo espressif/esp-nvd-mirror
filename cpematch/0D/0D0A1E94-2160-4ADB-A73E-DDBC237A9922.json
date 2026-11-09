@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0D0A1E94-2160-4ADB-A73E-DDBC237A9922", "criteria": "cpe:2.3:a:modelcontextprotocol_project:server-legacy:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.3.1", "lastModified": "2026-11-09T02:03:56.830", "created": "2026-11-09T02:03:56.830", "status": "Active"}}

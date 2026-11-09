@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4DE6AA43-43BF-4AEA-B8BE-C7D73471139C", "criteria": "cpe:2.3:a:modelcontextprotocol_project:sdk:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.6.0", "versionEndExcluding": "1.32.0", "lastModified": "2026-11-09T02:03:56.830", "created": "2026-11-09T02:03:56.830", "status": "Active"}}
