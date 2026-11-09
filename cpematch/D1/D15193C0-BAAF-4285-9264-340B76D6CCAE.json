@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D15193C0-BAAF-4285-9264-340B76D6CCAE", "criteria": "cpe:2.3:a:pymodaq_project:pymodaq_data:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.3.0", "versionEndExcluding": "5.3.10", "lastModified": "2026-11-09T06:13:48.410", "created": "2026-11-09T06:13:48.410", "status": "Active"}}
