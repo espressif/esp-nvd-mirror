@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D720ECFC-AF12-462E-B4D9-E2A8886CC7D9", "criteria": "cpe:2.3:a:amazon:aurora_postgresql_with_babelfish:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.11.0", "versionEndExcluding": "3.11.2", "lastModified": "2026-11-09T05:30:19.653", "created": "2026-11-09T05:30:19.653", "status": "Active"}}

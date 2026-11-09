@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0F2CF910-9765-4764-A8CA-EEDFB7067654", "criteria": "cpe:2.3:a:eclipse:mojarra:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0.0-m1", "versionEndExcluding": "5.0.0-m12", "lastModified": "2026-11-09T05:48:31.413", "created": "2026-11-09T05:48:31.413", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "82AEA13E-C418-4DA4-9EF0-289F1CBFDED1", "criteria": "cpe:2.3:a:ohif:viewers:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.5.0-beta.0", "versionEndExcluding": "3.12.15", "lastModified": "2026-11-09T04:20:08.253", "created": "2026-11-09T04:20:08.253", "status": "Active"}}

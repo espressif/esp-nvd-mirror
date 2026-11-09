@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A4CADD3D-F30F-498B-9011-4938C679B3D2", "criteria": "cpe:2.3:a:ecto_project:ecto:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.4.0", "versionEndExcluding": "3.14.3", "lastModified": "2026-11-09T04:07:17.900", "created": "2026-11-09T04:07:17.900", "status": "Active"}}

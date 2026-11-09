@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FE4A80BB-8509-49DC-ADA4-286465913670", "criteria": "cpe:2.3:a:amazon:babelfish_for_postgresql:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.1", "versionEndIncluding": "2.15", "lastModified": "2026-11-09T05:30:19.653", "created": "2026-11-09T05:30:19.653", "status": "Active"}}
