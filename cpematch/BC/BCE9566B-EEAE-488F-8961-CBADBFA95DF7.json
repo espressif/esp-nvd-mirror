@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BCE9566B-EEAE-488F-8961-CBADBFA95DF7", "criteria": "cpe:2.3:a:eclipse_foundation:basyx_helm_charts:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0-rc.1", "versionEndExcluding": "3.12.2", "lastModified": "2026-11-09T15:55:56.460", "created": "2026-11-09T15:55:56.460", "status": "Active"}}

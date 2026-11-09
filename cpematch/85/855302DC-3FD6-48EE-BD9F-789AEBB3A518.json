@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "855302DC-3FD6-48EE-BD9F-789AEBB3A518", "criteria": "cpe:2.3:a:sonicwall:nsv_xs:-:*:*:*:*:*:*:*", "lastModified": "2026-11-09T14:48:14.190", "created": "2026-11-09T14:42:52.750", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:sonicwall:nsv_xs:-:*:*:*:*:*:*:*", "cpeNameId": "E4BD605D-633B-4E8D-88F6-C8772D06BF0E"}]}}
