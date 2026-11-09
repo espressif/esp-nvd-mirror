@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DDFD53D4-0B84-4A2A-B122-50D2D873D719", "criteria": "cpe:2.3:a:cesnet_project:ipfixcol2:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.7.1", "versionEndExcluding": "2.9.0", "lastModified": "2026-11-09T11:28:15.810", "created": "2026-11-09T11:28:15.810", "status": "Active"}}
