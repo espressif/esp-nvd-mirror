@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1C347EED-B2AF-46E5-B0D1-A273D91CCA25", "criteria": "cpe:2.3:a:zbateson:mail-mime-parser:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.3.0", "versionEndExcluding": "3.0.9", "lastModified": "2026-11-09T09:40:13.620", "created": "2026-11-09T09:40:13.620", "status": "Active"}}
