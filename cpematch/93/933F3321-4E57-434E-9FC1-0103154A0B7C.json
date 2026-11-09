@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "933F3321-4E57-434E-9FC1-0103154A0B7C", "criteria": "cpe:2.3:a:cern_fts:fts-monitoring:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.14.0", "versionEndExcluding": "3.14.1", "lastModified": "2026-11-08T22:18:37.493", "created": "2026-11-08T22:18:37.493", "status": "Active"}}

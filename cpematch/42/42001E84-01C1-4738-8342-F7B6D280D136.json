@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "42001E84-01C1-4738-8342-F7B6D280D136", "criteria": "cpe:2.3:a:gpustack:gpustack:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.2.0", "versionEndExcluding": "2.2.2", "lastModified": "2026-11-08T23:36:37.980", "created": "2026-11-08T23:36:37.980", "status": "Active"}}
