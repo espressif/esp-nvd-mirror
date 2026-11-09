@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4B802A18-5B66-44B8-A82F-0856B16B9CC8", "criteria": "cpe:2.3:a:hickory-dns:hickory-net:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.26.0-beta.1", "versionEndExcluding": "0.26.2", "lastModified": "2026-11-09T21:54:59.157", "created": "2026-11-09T21:54:59.157", "status": "Active"}}

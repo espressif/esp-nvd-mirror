@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8840A273-22F2-4282-9CF5-72279E045A2D", "criteria": "cpe:2.3:a:apache:commons-codec:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.16.0", "versionEndExcluding": "1.23.0", "lastModified": "2026-11-09T20:35:10.507", "created": "2026-11-09T20:35:10.507", "status": "Active"}}
