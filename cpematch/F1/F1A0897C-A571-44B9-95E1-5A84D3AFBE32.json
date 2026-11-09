@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F1A0897C-A571-44B9-95E1-5A84D3AFBE32", "criteria": "cpe:2.3:a:amazon:amazon_vpc_cni_k8s:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.22.3", "lastModified": "2026-11-09T13:08:50.580", "created": "2026-11-09T13:08:50.580", "status": "Active"}}
