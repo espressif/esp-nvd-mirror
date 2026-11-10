@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FCFD52DC-53CF-46E1-9EDD-EEC478A6148F", "criteria": "cpe:2.3:a:rustls_project:rustls:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.23.44", "versionEndExcluding": "0.23.46", "lastModified": "2026-11-10T00:15:30.180", "created": "2026-11-10T00:15:30.180", "status": "Active"}}

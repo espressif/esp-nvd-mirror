@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "99D1F982-6BCB-4E58-9FF4-73C3E7B77414", "criteria": "cpe:2.3:a:sap:web_dispatcher:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.16", "versionEndIncluding": "9.21", "lastModified": "2026-11-10T01:34:05.103", "created": "2026-11-10T01:34:05.103", "status": "Active"}}
