@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A33A6E4F-569F-446F-8557-24FB02E1E4F4", "criteria": "cpe:2.3:a:apache:tomee:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.0-m1", "versionEndIncluding": "10.2.0", "lastModified": "2026-11-10T16:43:06.200", "created": "2026-11-10T16:43:06.200", "status": "Active"}}
