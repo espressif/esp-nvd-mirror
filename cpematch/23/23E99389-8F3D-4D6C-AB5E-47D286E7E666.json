@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "23E99389-8F3D-4D6C-AB5E-47D286E7E666", "criteria": "cpe:2.3:a:vaadin:rich_text_editor:*:*:*:*:*:*:*:*", "versionStartIncluding": "25.1.0", "versionEndExcluding": "25.1.15", "lastModified": "2026-11-10T12:32:34.597", "created": "2026-11-10T12:32:34.597", "status": "Active"}}
