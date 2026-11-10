@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A0B26FED-E673-4DEB-8A5B-C0DD94B3350E", "criteria": "cpe:2.3:a:amazon:amazon_braket_schemas:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.17.0", "versionEndExcluding": "1.32.2", "lastModified": "2026-11-10T05:40:13.373", "created": "2026-11-10T05:40:13.373", "status": "Active"}}

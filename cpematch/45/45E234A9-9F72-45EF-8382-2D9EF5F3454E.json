@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "45E234A9-9F72-45EF-8382-2D9EF5F3454E", "criteria": "cpe:2.3:a:barassistant:bar_assistant:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.0-rc1", "versionEndExcluding": "6.11.0", "lastModified": "2026-11-10T05:09:01.487", "created": "2026-11-10T05:09:01.487", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "046D60FB-9A45-4C3B-8718-E4F12F2DA489", "criteria": "cpe:2.3:a:amazon:aws_parallelcluster:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.16.0", "lastModified": "2026-11-10T05:39:53.413", "created": "2026-11-10T05:39:53.413", "status": "Active"}}
