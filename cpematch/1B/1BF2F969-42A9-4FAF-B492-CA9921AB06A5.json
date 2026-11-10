@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1BF2F969-42A9-4FAF-B492-CA9921AB06A5", "criteria": "cpe:2.3:a:trendyol:kafka-konsumer:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.3.3", "versionEndExcluding": "2.6.18", "lastModified": "2026-11-10T08:37:04.867", "created": "2026-11-10T08:37:04.867", "status": "Active"}}
