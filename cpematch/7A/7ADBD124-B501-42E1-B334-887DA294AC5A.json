@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7ADBD124-B501-42E1-B334-887DA294AC5A", "criteria": "cpe:2.3:a:microsoft:powershell:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.20348.0", "versionEndExcluding": "10.0.20348.5870", "lastModified": "2026-11-11T12:07:37.597", "created": "2026-11-11T12:07:37.597", "status": "Active"}}
