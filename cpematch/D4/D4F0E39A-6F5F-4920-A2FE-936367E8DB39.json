@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D4F0E39A-6F5F-4920-A2FE-936367E8DB39", "criteria": "cpe:2.3:a:microsoft:dotnet_web_projecttemplates_8.0:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.32", "versionEndExcluding": "8.0.34", "lastModified": "2026-11-11T21:58:00.863", "created": "2026-11-11T21:58:00.863", "status": "Active"}}

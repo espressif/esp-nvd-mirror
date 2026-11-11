@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E3798C11-5B12-4540-BBFA-824018EC57DF", "criteria": "cpe:2.3:a:microsoft:aspire_dashboard_sdk_linux-x64:*:*:*:*:*:*:*:*", "versionStartIncluding": "13.6.1", "versionEndExcluding": "13.6.5", "lastModified": "2026-11-11T21:55:15.323", "created": "2026-11-11T21:55:15.323", "status": "Active"}}

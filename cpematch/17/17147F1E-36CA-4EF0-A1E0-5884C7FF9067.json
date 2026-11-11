@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "17147F1E-36CA-4EF0-A1E0-5884C7FF9067", "criteria": "cpe:2.3:a:microsoft:dotnet-scaffold-aspnet:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.0.0", "versionEndExcluding": "20.3.0", "lastModified": "2026-11-11T21:58:00.863", "created": "2026-11-11T21:58:00.863", "status": "Active"}}
