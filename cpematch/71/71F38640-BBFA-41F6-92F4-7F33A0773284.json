@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "71F38640-BBFA-41F6-92F4-7F33A0773284", "criteria": "cpe:2.3:a:microsoft:agent_framework_sdk:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.21.0", "versionEndExcluding": "1.8.77", "lastModified": "2026-11-11T01:34:59.590", "created": "2026-11-11T01:34:59.590", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EC603423-51EB-4F29-B079-0148149EB55B", "criteria": "cpe:2.3:a:microsoft:authentication_library_for_javascript:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "5.21.0", "lastModified": "2026-11-11T00:53:49.993", "created": "2026-11-11T00:53:49.993", "status": "Active"}}

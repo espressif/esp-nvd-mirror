@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4EBF3872-551D-4C33-96BC-193C42A65DB1", "criteria": "cpe:2.3:a:microsoft:entra_private_network_connector:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.5.4892.0", "versionEndExcluding": "1.5.5130.0", "lastModified": "2026-11-11T01:04:42.330", "created": "2026-11-11T01:04:42.330", "status": "Active"}}

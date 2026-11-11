@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8AB0CB08-F0F0-4A74-849D-8515E86E1427", "criteria": "cpe:2.3:a:microsoft:azure_machine_learning:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "2.45.1", "lastModified": "2026-11-11T01:03:15.753", "created": "2026-11-11T01:03:15.753", "status": "Active"}}
