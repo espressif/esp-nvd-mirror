@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5A05C185-B9F9-41FE-BDF6-209C58D18FCB", "criteria": "cpe:2.3:a:microsoft:azure_local:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.2610.2.3134", "lastModified": "2026-11-10T23:43:46.400", "created": "2026-11-10T23:43:46.400", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3F878110-E19F-4D24-BA9B-0C4DA243CFC9", "criteria": "cpe:2.3:a:microsoft:testplatform_cli:*:*:*:*:*:*:*:*", "versionStartIncluding": "17.2.0", "versionEndExcluding": "18.11.1", "lastModified": "2026-11-10T22:18:43.763", "created": "2026-11-10T22:18:43.763", "status": "Active"}}

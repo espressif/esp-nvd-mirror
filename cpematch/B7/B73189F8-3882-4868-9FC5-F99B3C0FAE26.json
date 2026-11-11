@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B73189F8-3882-4868-9FC5-F99B3C0FAE26", "criteria": "cpe:2.3:a:microsoft:jscript:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.20348.0", "versionEndExcluding": "10.0.20348.5870", "lastModified": "2026-11-10T23:14:50.310", "created": "2026-11-10T23:14:50.310", "status": "Active"}}
