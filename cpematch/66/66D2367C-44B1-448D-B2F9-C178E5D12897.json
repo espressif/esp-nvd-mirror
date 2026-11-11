@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "66D2367C-44B1-448D-B2F9-C178E5D12897", "criteria": "cpe:2.3:a:microsoft:aspnetcore_webutilities:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.3.12", "versionEndExcluding": "11.0.0", "lastModified": "2026-11-11T13:10:02.667", "created": "2026-11-11T13:10:02.667", "status": "Active"}}

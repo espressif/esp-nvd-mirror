@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2EEF31F9-3AA3-4413-B4B7-01CAE0D5F79C", "criteria": "cpe:2.3:a:microsoft:aspnet_core_http_connections:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.0", "versionEndExcluding": "1.2.14", "lastModified": "2026-11-11T13:10:42.083", "created": "2026-11-11T13:10:42.083", "status": "Active"}}
