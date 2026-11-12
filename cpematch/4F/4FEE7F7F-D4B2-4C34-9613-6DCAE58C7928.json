@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4FEE7F7F-D4B2-4C34-9613-6DCAE58C7928", "criteria": "cpe:2.3:a:percona:toolkit:3.6.0:*:*:*:*:*:*:*", "lastModified": "2026-11-12T19:12:03.583", "created": "2025-08-05T16:23:10.687", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:percona:toolkit:3.6.0:*:*:*:*:*:*:*", "cpeNameId": "84CB02A5-05AB-4A20-A9A0-69513240035C"}]}}
