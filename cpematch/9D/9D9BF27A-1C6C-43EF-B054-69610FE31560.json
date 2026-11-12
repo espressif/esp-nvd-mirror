@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9D9BF27A-1C6C-43EF-B054-69610FE31560", "criteria": "cpe:2.3:a:microsoft:microsoft.extensions.validation:*:*:*:*:*:*:*:*", "versionStartIncluding": "11.0.0-rc.1.26425.128", "versionEndExcluding": "11.0.0", "lastModified": "2026-11-11T22:15:50.660", "created": "2026-11-11T22:15:50.660", "status": "Active"}}
