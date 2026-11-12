@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EEB68B27-0235-4EB5-B347-A82914A255BC", "criteria": "cpe:2.3:a:microsoft:internet_information_services:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.26200.0", "versionEndExcluding": "10.0.26200.9974", "lastModified": "2026-11-12T08:56:25.060", "created": "2026-11-12T08:56:25.060", "status": "Active"}}
