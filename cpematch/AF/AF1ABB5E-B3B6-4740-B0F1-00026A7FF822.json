@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AF1ABB5E-B3B6-4740-B0F1-00026A7FF822", "criteria": "cpe:2.3:a:dell:openmanage_ansible_modules:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.2", "versionEndIncluding": "10.0.3", "lastModified": "2026-11-16T18:54:31.537", "created": "2026-11-16T18:54:31.537", "status": "Active"}}

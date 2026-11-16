@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "879EB12A-FC02-4064-8643-8AF0C39F7E14", "criteria": "cpe:2.3:a:dell:terraform_provider_for_powerstore:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.2.1", "versionEndExcluding": "1.3.1", "lastModified": "2026-11-16T18:55:24.460", "created": "2026-11-16T18:55:24.460", "status": "Active"}}
