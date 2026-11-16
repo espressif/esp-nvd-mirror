@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BE95993C-BA9E-4C39-BA37-B8F4C7D80818", "criteria": "cpe:2.3:a:apache:datasketches_cpp:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0-incubating", "versionEndExcluding": "5.3.1", "lastModified": "2026-11-16T20:37:09.410", "created": "2026-11-16T20:37:09.410", "status": "Active"}}
