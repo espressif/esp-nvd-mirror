@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "06E40A96-59F2-49CA-80F7-884C86FFD284", "criteria": "cpe:2.3:a:microsoft:windows_feedback_hub:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.0.26100.0", "versionEndExcluding": "10.0.26100.33822", "lastModified": "2026-11-17T05:27:21.653", "created": "2026-11-17T05:27:21.653", "status": "Active"}}
