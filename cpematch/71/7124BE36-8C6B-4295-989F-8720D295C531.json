@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "7124BE36-8C6B-4295-989F-8720D295C531", "criteria": "cpe:2.3:a:microsoft:microsoft_365:-:*:*:*:ltsc:macos:-:*", "lastModified": "2026-11-16T16:55:11.330", "created": "2026-11-16T16:55:11.330", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "7124BE36-8C6B-4295-989F-8720D295C531", "criteria": "cpe:2.3:a:microsoft:microsoft_365:-:*:*:*:ltsc:macos:-:*", "lastModified": "2026-11-17T03:00:00.130", "created": "2026-11-16T16:55:11.330", "status": "Inactive"}}
