@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "66ED9C1D-8E2B-4778-8D3D-C90034C95996", "criteria": "cpe:2.3:a:elixir-grpc:grpc_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.1.0", "lastModified": "2026-11-17T15:11:47.750", "created": "2026-11-17T15:11:47.750", "status": "Active"}}

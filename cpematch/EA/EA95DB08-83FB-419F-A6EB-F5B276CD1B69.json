@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EA95DB08-83FB-419F-A6EB-F5B276CD1B69", "criteria": "cpe:2.3:o:comfast:cf-n1_firmware:2.6.0:*:*:*:*:*:*:*", "lastModified": "2026-11-17T16:01:41.093", "created": "2025-09-09T19:24:27.267", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:comfast:cf-n1_firmware:2.6.0:*:*:*:*:*:*:*", "cpeNameId": "1213967E-4F77-4B9A-8D42-926BE5FCB8BE"}]}}

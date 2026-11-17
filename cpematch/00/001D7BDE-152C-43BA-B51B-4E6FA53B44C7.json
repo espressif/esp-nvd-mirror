@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "001D7BDE-152C-43BA-B51B-4E6FA53B44C7", "criteria": "cpe:2.3:a:codesys:automation_server_connector:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0.0", "versionEndExcluding": "1.40.0.0", "lastModified": "2026-11-17T14:05:43.840", "created": "2026-11-17T14:05:43.840", "status": "Active"}}
