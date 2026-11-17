@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8EF7A180-FE90-42CE-B2EA-DD37DEB865E5", "criteria": "cpe:2.3:a:cern:rucio:*:*:*:*:*:*:*:*", "versionStartIncluding": "41.0.0", "versionEndExcluding": "41.1.1", "lastModified": "2026-11-17T20:38:08.190", "created": "2026-11-17T20:38:08.190", "status": "Active"}}

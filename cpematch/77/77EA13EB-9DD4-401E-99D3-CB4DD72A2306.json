@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "77EA13EB-9DD4-401E-99D3-CB4DD72A2306", "criteria": "cpe:2.3:a:broadcom:tcpreplay:4.5.1:*:*:*:*:*:*:*", "lastModified": "2026-11-17T20:37:52.920", "created": "2025-09-11T16:05:51.470", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:broadcom:tcpreplay:4.5.1:*:*:*:*:*:*:*", "cpeNameId": "C114B69F-E82F-4D53-A2D2-1F0C3A508BD7"}]}}

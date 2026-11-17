@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C05DDE6F-7A87-450E-BE0B-46FB5218BF19", "criteria": "cpe:2.3:a:broadcom:autosys_workload_automation:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.1", "versionEndExcluding": "24.2.01", "lastModified": "2026-11-17T20:08:13.377", "created": "2026-11-17T20:08:13.377", "status": "Active"}}

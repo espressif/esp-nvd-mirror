@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F1388997-C8C4-43F2-B104-4CC9C5AF8A2B", "criteria": "cpe:2.3:a:bitcoinjs:tiny-secp256k1:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.1.0", "versionEndExcluding": "2.2.5", "lastModified": "2026-11-17T20:38:50.340", "created": "2026-11-17T20:38:50.340", "status": "Active"}}
