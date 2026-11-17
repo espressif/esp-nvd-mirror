@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B39B612B-07D3-4EE4-A9C4-2E2DA81DFE48", "criteria": "cpe:2.3:a:fastify_project:busboy:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "3.2.6", "lastModified": "2026-11-16T22:55:26.237", "created": "2026-11-16T22:55:26.237", "status": "Active"}}

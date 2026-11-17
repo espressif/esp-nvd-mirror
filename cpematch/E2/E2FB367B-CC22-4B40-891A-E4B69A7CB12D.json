@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E2FB367B-CC22-4B40-891A-E4B69A7CB12D", "criteria": "cpe:2.3:a:fastify_project:proxy-addr:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "5.1.3", "lastModified": "2026-11-16T22:35:18.560", "created": "2026-11-16T22:35:18.560", "status": "Active"}}
