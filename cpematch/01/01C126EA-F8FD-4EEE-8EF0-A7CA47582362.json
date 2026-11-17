@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "01C126EA-F8FD-4EEE-8EF0-A7CA47582362", "criteria": "cpe:2.3:a:hono:node-server:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.1.6", "lastModified": "2026-11-17T18:30:41.053", "created": "2026-11-17T18:30:41.053", "status": "Active"}}
