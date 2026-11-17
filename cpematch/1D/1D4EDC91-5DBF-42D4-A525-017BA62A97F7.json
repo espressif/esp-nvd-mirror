@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1D4EDC91-5DBF-42D4-A525-017BA62A97F7", "criteria": "cpe:2.3:a:linuxfoundation:backstage\\/plugin-techdocs-node:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "1.14.0", "versionEndExcluding": "1.14.1", "lastModified": "2026-11-17T17:54:40.757", "created": "2026-11-17T17:54:40.757", "status": "Active"}}
