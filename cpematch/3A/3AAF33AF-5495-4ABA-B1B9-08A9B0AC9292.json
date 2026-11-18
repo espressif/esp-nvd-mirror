@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3AAF33AF-5495-4ABA-B1B9-08A9B0AC9292", "criteria": "cpe:2.3:o:siemens:siplus_s7-1500_cpu_1518-4_pn\\/dp_mfp_firmware:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.1.6", "versionEndExcluding": "3.1.7", "lastModified": "2026-11-18T14:11:15.093", "created": "2026-11-18T14:11:15.093", "status": "Active"}}
