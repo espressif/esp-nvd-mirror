@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B240D6EA-F90C-44FA-B955-89DE965EDCC9", "criteria": "cpe:2.3:a:amazon:corretto:*:*:*:*:*:*:*:*", "versionStartIncluding": "27.0.0.33.1", "versionEndIncluding": "27.0.1.1.4", "lastModified": "2026-11-18T20:09:51.243", "created": "2026-11-18T20:09:51.243", "status": "Active"}}
