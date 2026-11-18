@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7A4674A6-23F2-4960-9F31-A0E93B4B1388", "criteria": "cpe:2.3:a:nvidia:model_optimizer:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.43.0", "versionEndExcluding": "0.44.0", "lastModified": "2026-11-18T08:56:35.893", "created": "2026-11-18T08:56:35.893", "status": "Active"}}

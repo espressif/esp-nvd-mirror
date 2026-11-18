@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F0EBD34C-599B-4C4F-8ACA-4FE784D263B3", "criteria": "cpe:2.3:a:nvidia:transformer_engine:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndIncluding": "2.16.0", "lastModified": "2026-11-18T08:49:01.593", "created": "2026-11-18T08:49:01.593", "status": "Active"}}
