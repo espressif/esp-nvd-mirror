@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "579104BD-A8EE-4615-A7F3-F3478503D5F8", "criteria": "cpe:2.3:a:f5:waf:*:*:*:*:*:nginx:*:*", "versionStartIncluding": "5.16.0", "versionEndExcluding": "5.16.2", "lastModified": "2026-11-19T21:41:08.240", "created": "2026-11-19T21:41:08.240", "status": "Active"}}

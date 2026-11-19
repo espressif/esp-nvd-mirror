@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "540BEE84-4852-404B-AB71-83299922D8B4", "criteria": "cpe:2.3:a:yakifo:amqtt:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.11.0", "versionEndExcluding": "0.11.4", "lastModified": "2026-11-19T20:42:38.080", "created": "2026-11-19T20:42:38.080", "status": "Active"}}

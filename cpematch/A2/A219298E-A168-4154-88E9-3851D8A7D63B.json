@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A219298E-A168-4154-88E9-3851D8A7D63B", "criteria": "cpe:2.3:a:ibm:watsonx.data:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.4.0", "versionEndExcluding": "2.4.0 patch 9", "lastModified": "2026-11-19T21:28:54.220", "created": "2026-11-19T21:28:54.220", "status": "Active"}}
