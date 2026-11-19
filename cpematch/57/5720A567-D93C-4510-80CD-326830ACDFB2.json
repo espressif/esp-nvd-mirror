@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5720A567-D93C-4510-80CD-326830ACDFB2", "criteria": "cpe:2.3:a:redhat:build_of_openjdk:*:*:*:*:*:*:*:*", "versionStartIncluding": "21.0.0", "versionEndExcluding": "21.0.13.1", "lastModified": "2026-11-19T11:46:16.310", "created": "2026-11-19T11:46:16.310", "status": "Active"}}
