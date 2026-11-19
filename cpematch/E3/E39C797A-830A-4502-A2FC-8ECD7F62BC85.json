@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E39C797A-830A-4502-A2FC-8ECD7F62BC85", "criteria": "cpe:2.3:a:f5:nginx_ingress_controller:*:*:*:*:continuous_releases:*:*:*", "versionStartIncluding": "5.6.0", "versionEndIncluding": "5.6.3", "lastModified": "2026-11-19T17:24:58.490", "created": "2026-11-19T17:24:58.490", "status": "Active"}}

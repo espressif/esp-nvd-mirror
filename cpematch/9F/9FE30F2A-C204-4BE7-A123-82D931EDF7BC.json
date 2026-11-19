@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9FE30F2A-C204-4BE7-A123-82D931EDF7BC", "criteria": "cpe:2.3:a:littlefs-project:littlefs:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.8.0", "versionEndIncluding": "2.11.3", "lastModified": "2026-11-19T17:49:16.583", "created": "2026-11-19T17:49:16.583", "status": "Active"}}
