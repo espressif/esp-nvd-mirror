@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BF9FE80F-ED85-49FB-9F2F-DF7A03ADDB0D", "criteria": "cpe:2.3:a:vanderbilt:redcap:*:*:*:*:*:*:*:*", "versionStartIncluding": "16.1.0", "versionEndExcluding": "17.3.10", "lastModified": "2026-11-18T22:12:19.470", "cpeLastModified": "2026-11-18T22:12:19.470", "created": "2026-11-18T22:12:19.470", "status": "Active"}}
