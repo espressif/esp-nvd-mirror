@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AB278D50-2B9A-45E3-BDF1-28A1B76A4E43", "criteria": "cpe:2.3:a:apache:texera:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.0-incubating", "versionEndExcluding": "1.3.0-incubating", "lastModified": "2026-11-20T19:35:30.543", "created": "2026-11-20T19:35:30.543", "status": "Active"}}

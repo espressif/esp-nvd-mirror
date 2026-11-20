@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C5E222E3-9854-45D7-B51A-90AAC1ADB372", "criteria": "cpe:2.3:a:apache:opennlp:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0-m1", "versionEndExcluding": "3.0.0", "lastModified": "2026-11-20T18:14:20.600", "created": "2026-11-20T18:14:20.600", "status": "Active"}}
