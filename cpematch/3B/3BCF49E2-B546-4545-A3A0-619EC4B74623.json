@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3BCF49E2-B546-4545-A3A0-619EC4B74623", "criteria": "cpe:2.3:a:vmware:cloud_foundation:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.1", "versionEndExcluding": "9.1.1.0200", "lastModified": "2026-11-20T20:31:12.173", "cpeLastModified": "2026-11-20T20:31:12.173", "created": "2026-11-20T20:31:12.173", "status": "Active"}}
