@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D8C28321-E7C3-486D-A7AA-14FCC8E9D003", "criteria": "cpe:2.3:a:apache:iggy:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.9.0", "versionEndExcluding": "0.10.0", "lastModified": "2026-11-20T17:43:53.397", "created": "2026-11-20T17:43:53.397", "status": "Active"}}

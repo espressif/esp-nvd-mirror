@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EF94875C-358D-479F-8FFB-4888A9C606EE", "criteria": "cpe:2.3:a:oracle:openjdk:*:*:*:*:*:*:*:*", "versionStartIncluding": "25", "versionEndIncluding": "25.0.5.0.3", "lastModified": "2026-11-20T16:49:13.720", "created": "2026-11-20T16:49:13.720", "status": "Active"}}
