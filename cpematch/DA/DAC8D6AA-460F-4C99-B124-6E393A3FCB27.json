@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DAC8D6AA-460F-4C99-B124-6E393A3FCB27", "criteria": "cpe:2.3:a:neo4j:spring_data_neo4j:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.1.0", "versionEndExcluding": "8.0.9", "lastModified": "2026-11-21T07:35:40.900", "created": "2026-11-21T07:35:40.900", "status": "Active"}}

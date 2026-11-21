@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "53806F9B-3B5F-47A3-A64D-4D7225AA8991", "criteria": "cpe:2.3:a:warehouse-pg:warehouse-pg:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.27.1", "versionEndExcluding": "6.27.8", "lastModified": "2026-11-21T06:45:38.370", "created": "2026-11-21T06:45:38.370", "status": "Active"}}
