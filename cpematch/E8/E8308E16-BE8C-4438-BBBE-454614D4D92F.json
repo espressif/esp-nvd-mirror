@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E8308E16-BE8C-4438-BBBE-454614D4D92F", "criteria": "cpe:2.3:a:poweradmin:pa_server_monitor:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.3.0", "versionEndExcluding": "4.3.5", "lastModified": "2026-11-21T03:58:31.970", "created": "2026-11-21T03:58:31.970", "status": "Active"}}
