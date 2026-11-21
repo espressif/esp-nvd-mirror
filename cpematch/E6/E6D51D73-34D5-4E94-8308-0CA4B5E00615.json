@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E6D51D73-34D5-4E94-8308-0CA4B5E00615", "criteria": "cpe:2.3:a:cesanta:mongoose:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.22", "versionEndExcluding": "7.24", "lastModified": "2026-11-20T23:42:38.133", "cpeLastModified": "2026-11-20T23:42:38.133", "created": "2026-11-20T23:42:38.133", "status": "Active"}}
