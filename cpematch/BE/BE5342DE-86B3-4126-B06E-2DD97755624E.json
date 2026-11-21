@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BE5342DE-86B3-4126-B06E-2DD97755624E", "criteria": "cpe:2.3:a:axigen:axigen_mail_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.7.0", "versionEndExcluding": "10.7.3", "lastModified": "2026-11-21T10:54:42.563", "created": "2026-11-21T10:54:42.563", "status": "Active"}}

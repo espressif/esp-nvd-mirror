@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0006D780-67DB-4C19-819E-94C77C6E655D", "criteria": "cpe:2.3:a:pretix:pretixscan_proxy:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndExcluding": "2.7.3", "lastModified": "2026-11-21T10:35:00.783", "created": "2026-11-21T10:35:00.783", "status": "Active"}}

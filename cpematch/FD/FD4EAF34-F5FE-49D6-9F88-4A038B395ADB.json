@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FD4EAF34-F5FE-49D6-9F88-4A038B395ADB", "criteria": "cpe:2.3:a:rustrak:rustrak:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndExcluding": "0.26.0", "lastModified": "2026-11-21T10:19:34.030", "created": "2026-11-21T10:19:34.030", "status": "Active"}}

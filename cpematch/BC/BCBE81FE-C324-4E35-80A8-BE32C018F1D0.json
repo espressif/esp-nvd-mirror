@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BCBE81FE-C324-4E35-80A8-BE32C018F1D0", "criteria": "cpe:2.3:a:pretix:pretixscan_desktop:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "2.0.1", "lastModified": "2026-11-21T10:21:34.727", "created": "2026-11-21T10:21:34.727", "status": "Active"}}
