@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6FBBF7EE-2DDC-43A0-B945-EFBB70EE903F", "criteria": "cpe:2.3:a:tensorchord:envd:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.3.38", "versionEndExcluding": "1.3.6", "lastModified": "2026-11-21T21:38:33.753", "created": "2026-11-21T21:38:33.753", "status": "Active"}}
