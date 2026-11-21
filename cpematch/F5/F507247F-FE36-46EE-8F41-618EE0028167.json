@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F507247F-FE36-46EE-8F41-618EE0028167", "criteria": "cpe:2.3:a:f5:big-ip_next_for_kubernetes:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.2.0", "versionEndExcluding": "bnk-2.2.5-ehf1", "lastModified": "2026-11-21T05:08:20.710", "cpeLastModified": "2026-11-21T05:08:20.710", "created": "2026-11-21T05:08:20.710", "status": "Active"}}

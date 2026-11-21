@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1201C825-1897-477E-9FC0-8EC7672AA7E4", "criteria": "cpe:2.3:o:f5:tmos:*:*:*:*:*:*:*:*", "versionStartIncluding": "17.1.0", "versionEndExcluding": "bigip-17.1.3.6.0.14.20-eng", "lastModified": "2026-11-21T05:45:39.910", "created": "2026-11-21T05:45:39.910", "status": "Active"}}
