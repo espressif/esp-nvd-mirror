@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7AFD7DD2-1EB7-4007-AE31-1910E514EEAA", "criteria": "cpe:2.3:a:okta:okta.sdk.abstractions:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "4.0.8", "lastModified": "2026-11-22T11:26:30.263", "created": "2026-11-22T11:26:30.263", "status": "Active"}}

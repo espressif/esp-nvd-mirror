@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C9DC400C-616C-469C-B38A-F0E5011C5854", "criteria": "cpe:2.3:a:okta:okta_client_sdk_for_python:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.1.0", "versionEndExcluding": "0.3.1", "lastModified": "2026-11-22T10:51:41.547", "created": "2026-11-22T10:51:41.547", "status": "Active"}}

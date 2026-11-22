@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5EEB7045-B681-472A-89CF-F841859345C4", "criteria": "cpe:2.3:a:django-tenants:django-tenants:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.4.1", "versionEndExcluding": "4.0.1", "lastModified": "2026-11-22T10:37:25.873", "created": "2026-11-22T10:37:25.873", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "822F7EEA-96DE-4B2B-8782-0E4C4A439484", "criteria": "cpe:2.3:a:temporalio:temporal-proxy:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.1.0", "versionEndIncluding": "0.10.1", "lastModified": "2026-11-22T10:37:52.630", "created": "2026-11-22T10:37:52.630", "status": "Active"}}
