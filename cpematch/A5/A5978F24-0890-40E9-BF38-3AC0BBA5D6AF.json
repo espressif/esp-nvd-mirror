@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A5978F24-0890-40E9-BF38-3AC0BBA5D6AF", "criteria": "cpe:2.3:a:callstack:agent-device:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.21.36", "versionEndExcluding": "0.21.37", "lastModified": "2026-11-21T23:34:50.610", "created": "2026-11-21T23:34:50.610", "status": "Active"}}
