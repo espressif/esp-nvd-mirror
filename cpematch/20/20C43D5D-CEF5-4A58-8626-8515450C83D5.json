@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "20C43D5D-CEF5-4A58-8626-8515450C83D5", "criteria": "cpe:2.3:a:amazon:aws_privateca_issuer:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.12.0", "lastModified": "2026-11-22T14:06:53.467", "created": "2026-11-22T14:06:53.467", "status": "Active"}}

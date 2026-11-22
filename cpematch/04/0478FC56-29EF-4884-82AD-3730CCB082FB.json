@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0478FC56-29EF-4884-82AD-3730CCB082FB", "criteria": "cpe:2.3:a:amazon:aws_privateca_issuer_eks_addon:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.12.0-eksbuild.1", "lastModified": "2026-11-22T14:06:53.887", "created": "2026-11-22T14:06:53.887", "status": "Active"}}

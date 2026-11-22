@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AE2A6E00-8391-4844-9404-18C71486E732", "criteria": "cpe:2.3:a:a2aproject:a2a-java-sdk-http-client:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.3.0.final", "versionEndExcluding": "1.5.0.final", "lastModified": "2026-11-22T14:06:14.540", "created": "2026-11-22T14:06:14.540", "status": "Active"}}
