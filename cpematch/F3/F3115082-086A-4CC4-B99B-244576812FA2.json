@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F3115082-086A-4CC4-B99B-244576812FA2", "criteria": "cpe:2.3:a:kubernetes-sigs:aws-efs-csi-driver:*:*:*:*:*:*:*:*", "versionEndExcluding": "3.5.4-eksbuild.1", "lastModified": "2026-11-22T13:58:58.173", "cpeLastModified": "2026-11-22T13:58:58.173", "created": "2026-11-22T13:58:58.173", "status": "Active"}}
