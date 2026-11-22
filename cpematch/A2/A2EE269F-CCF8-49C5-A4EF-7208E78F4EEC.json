@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A2EE269F-CCF8-49C5-A4EF-7208E78F4EEC", "criteria": "cpe:2.3:a:robert_ancell:lightdm:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.10.3-2", "versionEndExcluding": "1.32.0-6\\+deb13u1", "lastModified": "2026-11-22T01:45:30.017", "created": "2026-11-22T01:45:30.017", "status": "Active"}}

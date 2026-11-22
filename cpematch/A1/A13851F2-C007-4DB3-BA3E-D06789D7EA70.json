@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A13851F2-C007-4DB3-BA3E-D06789D7EA70", "criteria": "cpe:2.3:a:likaia:nginxpulse:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.5.0", "versionEndExcluding": "1.6.26", "lastModified": "2026-11-22T01:19:38.900", "created": "2026-11-22T01:19:38.900", "status": "Active"}}

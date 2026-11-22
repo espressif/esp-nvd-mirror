@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "94F49DF8-A8B4-411D-AB70-67E8891463B1", "criteria": "cpe:2.3:a:spamscope:mail-parser:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.8.0", "versionEndExcluding": "4.6.0", "lastModified": "2026-11-22T01:59:09.387", "created": "2026-11-22T01:59:09.387", "status": "Active"}}
