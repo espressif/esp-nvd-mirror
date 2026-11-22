@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "23591313-D37D-4A13-B3EE-1F4CE64C1C4E", "criteria": "cpe:2.3:a:fastify:http-proxy:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.4.0", "versionEndExcluding": "11.6.10", "lastModified": "2026-11-22T04:28:17.613", "created": "2026-11-22T04:28:17.613", "status": "Active"}}
