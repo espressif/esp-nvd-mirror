@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D4CDFFE8-AF3F-40F2-96BC-FB0F45664B66", "criteria": "cpe:2.3:a:mongodb:mongodb_nodejs_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndExcluding": "7.9.1", "lastModified": "2026-11-22T08:15:05.237", "created": "2026-11-22T08:15:05.237", "status": "Active"}}

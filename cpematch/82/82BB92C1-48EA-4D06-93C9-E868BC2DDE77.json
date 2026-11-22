@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "82BB92C1-48EA-4D06-93C9-E868BC2DDE77", "criteria": "cpe:2.3:a:k8s-mcp-server_project:k8s-mcp-server:*:*:*:*:*:*:*:*", "versionEndExcluding": "1.1.0", "lastModified": "2026-11-22T09:26:32.040", "created": "2026-11-22T09:26:32.040", "status": "Active"}}
