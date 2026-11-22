@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EDE16077-3664-4C35-81DD-C220B1D143B4", "criteria": "cpe:2.3:a:dmtf:libspdm:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.0.0-rc1", "versionEndExcluding": "4.0.0-rc2", "lastModified": "2026-11-22T02:46:01.430", "created": "2026-11-22T02:46:01.430", "status": "Active"}}
