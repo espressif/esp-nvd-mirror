@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "191E9E55-853D-427F-B651-EB55E8C27DF7", "criteria": "cpe:2.3:a:amazon:document-loader-mcp-server:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.10", "versionEndExcluding": "1.0.21", "lastModified": "2026-11-22T17:09:45.613", "created": "2026-11-22T17:09:45.613", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C8161F5D-BBCD-4EF6-93CA-B91C81B994B4", "criteria": "cpe:2.3:a:splunk:splunk:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.6.0", "versionEndExcluding": "10.6.1", "lastModified": "2026-11-22T17:55:08.580", "created": "2026-11-22T17:55:08.580", "status": "Active"}}
