@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "B58F2BC1-171A-403A-A6F8-4214E7D8B977", "criteria": "cpe:2.3:h:siemens:simatic_et_200sp_open_control_1515sp_pc3_v4:-:*:*:*:*:*:*:*", "lastModified": "2026-11-23T13:45:21.350", "created": "2026-11-23T13:45:21.350", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "B58F2BC1-171A-403A-A6F8-4214E7D8B977", "criteria": "cpe:2.3:h:siemens:simatic_et_200sp_open_control_1515sp_pc3_v4:-:*:*:*:*:*:*:*", "lastModified": "2026-11-23T14:56:38.760", "created": "2026-11-23T13:45:21.350", "status": "Inactive"}}

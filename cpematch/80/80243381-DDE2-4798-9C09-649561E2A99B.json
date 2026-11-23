@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "80243381-DDE2-4798-9C09-649561E2A99B", "criteria": "cpe:2.3:o:microsoft:windows_11_26h2:-:*:*:*:*:*:x64:*", "lastModified": "2026-11-23T15:46:56.817", "created": "2026-11-23T14:29:22.997", "status": "Active", "matches": [{"cpeName": "cpe:2.3:o:microsoft:windows_11_26h2:-:*:*:*:*:*:x64:*", "cpeNameId": "2D7A87AB-999E-495A-9F04-9B5445797E75"}]}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FE925902-DBA2-4030-AF35-00C735CE6A11", "criteria": "cpe:2.3:a:microsoft:azure_key_vault_certificate:*:*:*:*:*:.net:*:*", "versionEndExcluding": "4.9.2", "lastModified": "2026-11-23T14:55:18.250", "created": "2026-11-23T14:55:18.250", "status": "Active"}}

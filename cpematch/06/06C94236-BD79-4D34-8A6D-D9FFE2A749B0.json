@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "06C94236-BD79-4D34-8A6D-D9FFE2A749B0", "criteria": "cpe:2.3:a:microsoft:azure_key_vault_certificate:*:*:*:*:*:.net:*:*", "versionEndExcluding": "4.9.1", "lastModified": "2026-11-23T15:10:56.740", "created": "2026-11-23T15:10:56.740", "status": "Active"}}
