@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "37A138C3-39F3-4F21-9963-227159F911D2", "criteria": "cpe:2.3:a:spring:spring_data_elasticsearch:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.1.0", "versionEndExcluding": "6.1.3", "lastModified": "2026-11-23T11:53:51.257", "created": "2026-11-23T11:53:51.257", "status": "Active"}}
