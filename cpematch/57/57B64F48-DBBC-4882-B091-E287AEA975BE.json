@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "57B64F48-DBBC-4882-B091-E287AEA975BE", "criteria": "cpe:2.3:a:vpulim:node-soap:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndExcluding": "1.14.1", "lastModified": "2026-11-23T08:28:15.607", "created": "2026-11-23T08:28:15.607", "status": "Active"}}

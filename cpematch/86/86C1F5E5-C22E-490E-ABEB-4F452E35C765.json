@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "86C1F5E5-C22E-490E-ABEB-4F452E35C765", "criteria": "cpe:2.3:a:eclipse_iceoryx:iceoryx2:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.6.0", "versionEndExcluding": "0.10.1", "lastModified": "2026-11-23T08:34:34.937", "created": "2026-11-23T08:34:34.937", "status": "Active"}}

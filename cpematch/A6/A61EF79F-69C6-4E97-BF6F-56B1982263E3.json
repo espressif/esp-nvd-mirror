@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A61EF79F-69C6-4E97-BF6F-56B1982263E3", "criteria": "cpe:2.3:a:fastify:swagger-ui:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.1.0", "versionEndExcluding": "6.1.5", "lastModified": "2026-11-23T09:19:59.540", "created": "2026-11-23T09:19:59.540", "status": "Active"}}
