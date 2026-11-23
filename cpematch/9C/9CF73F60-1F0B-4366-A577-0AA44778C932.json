@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9CF73F60-1F0B-4366-A577-0AA44778C932", "criteria": "cpe:2.3:o:nvidia:virtio-net_lts25:*:*:*:*:*:*:*:*", "versionEndExcluding": "25.10.2", "lastModified": "2026-11-23T18:10:43.553", "created": "2026-11-23T18:10:43.553", "status": "Active"}}

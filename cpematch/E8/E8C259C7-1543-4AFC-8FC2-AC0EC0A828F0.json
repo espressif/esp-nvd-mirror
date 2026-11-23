@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E8C259C7-1543-4AFC-8FC2-AC0EC0A828F0", "criteria": "cpe:2.3:a:freshsoftware:x-netstat:5.63:*:*:*:*:*:*:*", "lastModified": "2026-11-23T19:14:42.140", "created": "2026-11-23T18:11:04.250", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:freshsoftware:x-netstat:5.63:*:*:*:*:*:*:*", "cpeNameId": "77652B68-E95E-41EA-A401-0C200E1FEDBC"}]}}
