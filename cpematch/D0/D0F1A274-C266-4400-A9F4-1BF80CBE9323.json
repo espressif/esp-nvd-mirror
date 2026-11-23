@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D0F1A274-C266-4400-A9F4-1BF80CBE9323", "criteria": "cpe:2.3:a:astronomer:astro_airflow_mcp:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.5.0", "versionEndExcluding": "0.9.2", "lastModified": "2026-11-23T16:56:35.247", "created": "2026-11-23T16:56:35.247", "status": "Active"}}
