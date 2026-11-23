@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "609357E0-39E0-4FFA-95DE-B03952507068", "criteria": "cpe:2.3:a:openstack:cinder:*:*:*:*:*:*:*:*", "versionStartIncluding": "29.0.0", "versionEndExcluding": "29.1.1", "lastModified": "2026-11-23T01:07:12.053", "created": "2026-11-23T01:07:12.053", "status": "Active"}}
