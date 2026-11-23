@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D0DB082F-DC10-4958-A68A-BB579A96CDCE", "criteria": "cpe:2.3:h:labkotec:lid-3300ip_type2:*:*:*:*:*:*:*:*", "lastModified": "2026-11-23T13:55:08.973", "created": "2026-11-23T13:14:39.803", "status": "Active", "matches": [{"cpeName": "cpe:2.3:h:labkotec:lid-3300ip_type2:-:*:*:*:*:*:*:*", "cpeNameId": "5DB35264-0C8E-45EF-99D3-857A9DB91D70"}]}}

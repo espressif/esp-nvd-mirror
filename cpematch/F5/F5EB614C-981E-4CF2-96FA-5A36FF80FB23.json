@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F5EB614C-981E-4CF2-96FA-5A36FF80FB23", "criteria": "cpe:2.3:h:labkotec:lid-3300ip:*:*:*:*:*:*:*:*", "lastModified": "2026-11-23T13:55:08.973", "created": "2026-11-23T13:14:39.803", "status": "Active", "matches": [{"cpeName": "cpe:2.3:h:labkotec:lid-3300ip:-:*:*:*:*:*:*:*", "cpeNameId": "9EE77A9C-5D75-47D7-81E4-CD8839ED8E07"}]}}
