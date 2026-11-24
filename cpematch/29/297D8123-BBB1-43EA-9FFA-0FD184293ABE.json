@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "297D8123-BBB1-43EA-9FFA-0FD184293ABE", "criteria": "cpe:2.3:a:pyton:cpython:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.11.0", "versionEndExcluding": "3.11.16", "lastModified": "2026-11-24T14:53:40.407", "created": "2026-11-24T14:53:40.407", "status": "Active"}}
