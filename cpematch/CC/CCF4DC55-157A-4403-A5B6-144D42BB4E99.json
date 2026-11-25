@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CCF4DC55-157A-4403-A5B6-144D42BB4E99", "criteria": "cpe:2.3:a:elixir-ecto:db_connection:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.1.0", "versionEndExcluding": "2.10.3", "lastModified": "2026-11-25T00:48:36.870", "created": "2026-11-25T00:48:36.870", "status": "Active"}}

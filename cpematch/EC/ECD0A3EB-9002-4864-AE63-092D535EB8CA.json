@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ECD0A3EB-9002-4864-AE63-092D535EB8CA", "criteria": "cpe:2.3:a:actix:actix-http:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.18.10", "versionEndExcluding": "3.20.2", "lastModified": "2026-11-25T01:54:35.560", "created": "2026-11-25T01:54:35.560", "status": "Active"}}

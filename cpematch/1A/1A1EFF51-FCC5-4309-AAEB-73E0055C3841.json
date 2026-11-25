@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1A1EFF51-FCC5-4309-AAEB-73E0055C3841", "criteria": "cpe:2.3:a:symfony:ux_live_component:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.8.1", "lastModified": "2026-11-25T01:29:08.320", "created": "2026-11-25T01:29:08.320", "status": "Active"}}
