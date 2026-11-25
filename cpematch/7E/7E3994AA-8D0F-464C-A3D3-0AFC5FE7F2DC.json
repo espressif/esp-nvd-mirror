@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7E3994AA-8D0F-464C-A3D3-0AFC5FE7F2DC", "criteria": "cpe:2.3:a:mongodb:ruby_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.8.0", "versionEndExcluding": "5.2.1", "lastModified": "2026-11-25T20:53:17.180", "created": "2026-11-25T20:53:17.180", "status": "Active"}}

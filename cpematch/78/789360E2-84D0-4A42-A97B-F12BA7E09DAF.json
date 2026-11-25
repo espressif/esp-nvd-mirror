@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "789360E2-84D0-4A42-A97B-F12BA7E09DAF", "criteria": "cpe:2.3:a:microsoft:outlook:16.83.3:*:*:*:*:macos:*:*", "lastModified": "2026-11-25T20:15:49.673", "created": "2025-08-22T15:18:31.663", "status": "Active", "matches": [{"cpeName": "cpe:2.3:a:microsoft:outlook:16.83.3:*:*:*:*:macos:*:*", "cpeNameId": "169A3F90-5CF9-424E-AB44-9CC4351ED51F"}]}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "68803CF8-363E-4E4C-9FEF-8542DBDEA5C0", "criteria": "cpe:2.3:a:mongodb:php_driver:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.8.0", "versionEndExcluding": "5.12.2", "lastModified": "2026-11-25T20:43:27.147", "created": "2026-11-25T20:43:27.147", "status": "Active"}}
