@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "BFE41B34-019A-4953-9BF4-B808183A746A", "criteria": "cpe:2.3:a:mediawiki:translate_extension:*:*:*:*:*:mediawiki:*:*", "versionStartIncluding": "1.45.0", "versionEndExcluding": "1.45.7", "lastModified": "2026-11-25T16:17:31.210", "created": "2026-11-25T16:17:31.210", "status": "Active"}}

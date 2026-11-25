@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "DB151955-78B9-4D9C-B82B-E4F75C526E22", "criteria": "cpe:2.3:a:wikimedia:echo_extension:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.45.0", "versionEndExcluding": "1.45.7", "lastModified": "2026-11-25T17:15:32.327", "created": "2026-11-25T17:15:32.327", "status": "Active"}}

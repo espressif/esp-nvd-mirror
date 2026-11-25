@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8825C5D1-5D75-4C7B-BAE1-38085C2DAF9F", "criteria": "cpe:2.3:a:mediawiki:mobilefrontend:*:*:*:*:*:mediawiki:*:*", "versionStartIncluding": "1.43.0", "versionEndExcluding": "1.43.12", "lastModified": "2026-11-25T16:56:46.313", "created": "2026-11-25T16:56:46.313", "status": "Active"}}

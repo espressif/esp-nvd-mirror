@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "9499E897-B96E-4329-8E89-DAB322AB5A95", "criteria": "cpe:2.3:a:wikimedia:parsoid:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.45.0", "versionEndExcluding": "1.45.7", "lastModified": "2026-11-25T16:25:24.587", "created": "2026-11-25T16:25:24.587", "status": "Active"}}
