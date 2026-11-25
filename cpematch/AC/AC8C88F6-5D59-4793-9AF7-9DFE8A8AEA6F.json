@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AC8C88F6-5D59-4793-9AF7-9DFE8A8AEA6F", "criteria": "cpe:2.3:a:mediawiki:abusefilter:*:*:*:*:*:mediawiki:*:*", "versionStartIncluding": "1.46.0", "versionEndExcluding": "1.46.3", "lastModified": "2026-11-25T14:45:00.320", "created": "2026-11-25T14:45:00.320", "status": "Active"}}

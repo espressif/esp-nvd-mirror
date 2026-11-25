@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8AAF3A12-4180-4606-BF66-645906897714", "criteria": "cpe:2.3:a:mediawiki:oathauth:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.46.0", "versionEndExcluding": "1.46.3", "lastModified": "2026-11-25T15:45:24.113", "created": "2026-11-25T15:45:24.113", "status": "Active"}}
