@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4C44A224-D773-4D3F-9553-4799CCE9660E", "criteria": "cpe:2.3:a:nousresearch:hermes-agent:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.21.6", "versionEndExcluding": "0.23.2", "lastModified": "2026-11-25T13:59:23.147", "created": "2026-11-25T13:59:23.147", "status": "Active"}}

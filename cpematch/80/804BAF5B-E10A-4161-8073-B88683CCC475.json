@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "804BAF5B-E10A-4161-8073-B88683CCC475", "criteria": "cpe:2.3:a:agpt:autogpt_platform:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.6.67", "versionEndExcluding": "0.11.3", "lastModified": "2026-11-25T13:58:45.903", "created": "2026-11-25T13:58:45.903", "status": "Active"}}

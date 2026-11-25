@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EDCC181C-FF45-4DE1-86AD-1CDDA1C8DB2E", "criteria": "cpe:2.3:a:codesys:visualization:*:*:*:*:*:development_system:*:*", "versionStartIncluding": "3.0.0.0", "versionEndExcluding": "4.11.0.0", "lastModified": "2026-11-25T12:04:10.360", "created": "2026-11-25T12:04:10.360", "status": "Active"}}
