@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "F5BBBD74-EC44-4EC1-ADE4-CEB1F3EAB0C5", "criteria": "cpe:2.3:a:ex-aws:ex_aws_s3:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5.9", "versionEndExcluding": "2.6.0", "lastModified": "2026-11-25T07:41:26.090", "created": "2026-11-25T07:41:26.090", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2065A884-965A-4EDA-94B3-6F3CB72BB392", "criteria": "cpe:2.3:a:ex-aws:ex_aws_dynamo:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0", "versionEndExcluding": "4.3.0", "lastModified": "2026-11-25T07:29:26.893", "created": "2026-11-25T07:29:26.893", "status": "Active"}}

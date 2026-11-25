@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "00C42860-A184-458A-928E-02C7047A3512", "criteria": "cpe:2.3:a:ex-aws:ex_aws_kms:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.1.0", "versionEndExcluding": "2.7.0", "lastModified": "2026-11-25T07:29:08.127", "created": "2026-11-25T07:29:08.127", "status": "Active"}}
