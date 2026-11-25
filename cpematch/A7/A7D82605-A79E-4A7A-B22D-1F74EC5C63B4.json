@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A7D82605-A79E-4A7A-B22D-1F74EC5C63B4", "criteria": "cpe:2.3:a:eclipse:che:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.61.0", "versionEndExcluding": "7.125.0", "lastModified": "2026-11-25T11:45:02.810", "created": "2026-11-25T11:45:02.810", "status": "Active"}}
