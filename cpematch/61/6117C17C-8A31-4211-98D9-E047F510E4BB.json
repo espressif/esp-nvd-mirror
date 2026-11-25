@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "6117C17C-8A31-4211-98D9-E047F510E4BB", "criteria": "cpe:2.3:a:redhat:rsyslog:*:*:*:*:*:*:*:*", "lastModified": "2026-11-24T20:16:28.200", "created": "2026-11-24T20:16:28.200", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "6117C17C-8A31-4211-98D9-E047F510E4BB", "criteria": "cpe:2.3:a:redhat:rsyslog:*:*:*:*:*:*:*:*", "lastModified": "2026-11-25T03:00:00.173", "created": "2026-11-24T20:16:28.200", "status": "Inactive"}}

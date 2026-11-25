@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "53091948-4CF9-4849-B731-7998C98B9B25", "criteria": "cpe:2.3:a:delta-io:delta_sharing_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.4.0", "versionEndExcluding": "1.5.0", "lastModified": "2026-11-25T02:45:50.190", "created": "2026-11-25T02:45:50.190", "status": "Active"}}
