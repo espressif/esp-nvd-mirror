@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7D118D93-DCC7-4D05-98CE-8F09513BA40C", "criteria": "cpe:2.3:a:xen-orchestra:xen_orchestra_server:*:*:*:*:*:*:*:*", "versionStartExcluding": "5.213.0", "versionEndExcluding": "5.213.1", "lastModified": "2026-11-25T19:18:27.807", "created": "2026-11-25T19:18:27.807", "status": "Active"}}
