@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "95DCA8C5-6AB0-44B9-A7D3-CA26EA60F274", "criteria": "cpe:2.3:a:drupal:graphql_core_schema:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.0.0", "versionEndExcluding": "1.0.29", "lastModified": "2026-11-26T02:26:20.017", "created": "2026-11-26T02:26:20.017", "status": "Active"}}
