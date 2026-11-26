@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "92EF622A-F105-4AC2-927C-F174F1F1B9C9", "criteria": "cpe:2.3:a:gunicorn:gunicorn:*:*:*:*:*:*:*:*", "versionStartIncluding": "25.2.0", "versionEndExcluding": "27.0.0", "lastModified": "2026-11-26T09:52:00.740", "created": "2026-11-26T09:52:00.740", "status": "Active"}}
