@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4540ED65-1E19-4321-9826-70645B8C73AF", "criteria": "cpe:2.3:a:eclipse_foundation:basyx_java_server_sdk:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.0.0-milestone-10", "versionEndExcluding": "2.0.0-milestone-17", "lastModified": "2026-11-26T12:39:55.747", "created": "2026-11-26T12:39:55.747", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3F00CFFE-8964-4A22-9A2E-F722BF876199", "criteria": "cpe:2.3:a:broadcom:vmware_avi_load_balancer:*:*:*:*:*:*:*:*", "versionStartIncluding": "32.1.3", "versionEndExcluding": "32.1.3-2p1", "lastModified": "2026-11-26T12:15:31.120", "created": "2026-11-26T12:15:31.120", "status": "Active"}}
