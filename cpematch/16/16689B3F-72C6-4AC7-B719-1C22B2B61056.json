@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "16689B3F-72C6-4AC7-B719-1C22B2B61056", "criteria": "cpe:2.3:a:gnome:networkmanager:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.36.6-0ubuntu2.5", "versionEndExcluding": "1.36.6-0ubuntu2.6", "lastModified": "2026-11-25T23:06:32.883", "created": "2026-11-25T23:06:32.883", "status": "Active"}}
