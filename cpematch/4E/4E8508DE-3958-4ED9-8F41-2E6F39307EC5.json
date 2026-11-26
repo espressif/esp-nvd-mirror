@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4E8508DE-3958-4ED9-8F41-2E6F39307EC5", "criteria": "cpe:2.3:a:broadcom:siteminder:*:*:*:*:*:*:*:*", "versionStartIncluding": "r12.52 sp1 cr1", "versionEndExcluding": "r12.52 sp1 cr6", "lastModified": "2026-11-26T07:27:45.090", "created": "2026-11-26T07:27:45.090", "status": "Active"}}

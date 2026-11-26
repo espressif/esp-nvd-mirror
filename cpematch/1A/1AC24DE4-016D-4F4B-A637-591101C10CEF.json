@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "1AC24DE4-016D-4F4B-A637-591101C10CEF", "criteria": "cpe:2.3:a:hynetworks:hysteria:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.5.0", "versionEndExcluding": "2.8.2", "lastModified": "2026-11-26T06:24:42.563", "created": "2026-11-26T06:24:42.563", "status": "Active"}}

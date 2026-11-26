@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E713DEA1-D92C-4F3B-BA4A-1C31DDDBC2FE", "criteria": "cpe:2.3:a:symfony:security-http:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndExcluding": "5.4.57", "lastModified": "2026-11-26T08:04:41.430", "created": "2026-11-26T08:04:41.430", "status": "Active"}}
