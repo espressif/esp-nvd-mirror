@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "07D6F960-EF72-457C-8EFE-6687166FCA7D", "criteria": "cpe:2.3:a:simple_oauth_project:simple_oauth:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.0.0", "versionEndExcluding": "5.2.6", "lastModified": "2026-11-26T01:33:28.290", "created": "2026-11-26T01:33:28.290", "status": "Active"}}

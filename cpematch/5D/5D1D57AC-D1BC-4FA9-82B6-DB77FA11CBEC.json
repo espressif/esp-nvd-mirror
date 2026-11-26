@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5D1D57AC-D1BC-4FA9-82B6-DB77FA11CBEC", "criteria": "cpe:2.3:a:symfony_project:routing:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.4.51", "lastModified": "2026-11-26T00:07:22.273", "created": "2026-11-26T00:07:22.273", "status": "Active"}}

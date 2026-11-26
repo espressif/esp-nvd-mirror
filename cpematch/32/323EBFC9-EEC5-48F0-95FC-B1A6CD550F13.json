@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "323EBFC9-EEC5-48F0-95FC-B1A6CD550F13", "criteria": "cpe:2.3:a:symfony:doctrine-bridge:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.0.0", "versionEndExcluding": "6.4.51", "lastModified": "2026-11-26T00:38:20.480", "created": "2026-11-26T00:38:20.480", "status": "Active"}}

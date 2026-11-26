@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8D9197D0-A1FE-4D08-B55B-E3DD1AF288B7", "criteria": "cpe:2.3:a:drupal:reset_password_email_otp:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.0.0", "versionEndExcluding": "1.0.5", "lastModified": "2026-11-26T01:54:23.937", "created": "2026-11-26T01:54:23.937", "status": "Active"}}

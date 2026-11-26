@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "38A4EAD6-71AE-4DD3-8834-C05B41A2A01F", "criteria": "cpe:2.3:a:symfony:mailer:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.3.0", "versionEndExcluding": "7.4.24", "lastModified": "2026-11-26T00:15:47.480", "created": "2026-11-26T00:15:47.480", "status": "Active"}}

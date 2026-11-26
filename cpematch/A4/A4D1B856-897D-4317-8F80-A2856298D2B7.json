@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A4D1B856-897D-4317-8F80-A2856298D2B7", "criteria": "cpe:2.3:a:drupal:scheduler:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.2.0", "versionEndExcluding": "2.2.3", "lastModified": "2026-11-26T01:54:07.870", "created": "2026-11-26T01:54:07.870", "status": "Active"}}

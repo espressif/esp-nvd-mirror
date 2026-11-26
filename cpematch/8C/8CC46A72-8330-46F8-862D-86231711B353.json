@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8CC46A72-8330-46F8-862D-86231711B353", "criteria": "cpe:2.3:a:symfony:http_client:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.1.9", "versionEndExcluding": "7.4.24", "lastModified": "2026-11-26T00:38:32.450", "created": "2026-11-26T00:38:32.450", "status": "Active"}}
