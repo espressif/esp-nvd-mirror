@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "73A7B2E9-3B41-4B5D-9269-F6D9A92F309D", "criteria": "cpe:2.3:a:apache:airflow_providers_cncf_kubernetes:*:*:*:*:*:*:*:*", "versionStartIncluding": "10.5.0", "versionEndExcluding": "11.0.0", "lastModified": "2026-11-26T19:42:47.173", "created": "2026-11-26T19:42:47.173", "status": "Active"}}

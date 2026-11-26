@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "C01D4AF6-10E5-42A3-AB71-DA50E43B11BB", "criteria": "cpe:2.3:a:pulp_project:pulp_python:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.28.0", "versionEndExcluding": "3.36.7", "lastModified": "2026-11-26T18:50:40.587", "created": "2026-11-26T18:50:40.587", "status": "Active"}}
