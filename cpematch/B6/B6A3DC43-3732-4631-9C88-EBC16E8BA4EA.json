@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B6A3DC43-3732-4631-9C88-EBC16E8BA4EA", "criteria": "cpe:2.3:a:traefik:traefik:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.8.0-rc.1", "versionEndExcluding": "3.8.0-rc.2", "lastModified": "2026-11-26T17:10:59.680", "created": "2026-11-26T17:10:59.680", "status": "Active"}}
