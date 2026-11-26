@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "ECFC39E8-14D4-4DC3-826A-2339AA1070AB", "criteria": "cpe:2.3:a:better-auth:drizzle_adapter:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.5.0-beta.9", "versionEndExcluding": "1.7.16", "lastModified": "2026-11-26T05:46:32.473", "created": "2026-11-26T05:46:32.473", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "8EE3A65F-E8BD-4EF7-975C-42EA19D30F7B", "criteria": "cpe:2.3:a:better-auth:better_auth_electron:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.5.0-beta.12", "versionEndExcluding": "1.7.16", "lastModified": "2026-11-26T05:55:14.733", "created": "2026-11-26T05:55:14.733", "status": "Active"}}

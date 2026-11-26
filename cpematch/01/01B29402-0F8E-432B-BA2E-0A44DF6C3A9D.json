@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "01B29402-0F8E-432B-BA2E-0A44DF6C3A9D", "criteria": "cpe:2.3:a:better-auth:kysely_adapter:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.8.0-beta.0", "versionEndExcluding": "1.8.0-beta.5", "lastModified": "2026-11-26T05:46:32.473", "created": "2026-11-26T05:46:32.473", "status": "Active"}}
