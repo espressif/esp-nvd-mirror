@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "54896089-69AC-4247-B607-2363BD0A05D3", "criteria": "cpe:2.3:a:kerberos-io:agent:*:*:*:*:*:*:*:*", "versionStartIncluding": "0", "versionEndExcluding": "3.14.4", "lastModified": "2026-11-26T14:58:06.550", "created": "2026-11-26T14:58:06.550", "status": "Active"}}
