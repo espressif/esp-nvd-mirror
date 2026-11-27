@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "80023DA9-6569-468E-B0A9-4A97A7C728E8", "criteria": "cpe:2.3:a:openresty:stream-lua-nginx-module:*:*:*:*:*:*:*:*", "versionEndExcluding": "0.0.20rc4", "lastModified": "2026-11-26T23:53:04.517", "created": "2026-11-26T23:53:04.517", "status": "Active"}}
