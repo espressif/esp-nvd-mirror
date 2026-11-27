@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "FC319459-195D-4975-B832-5476802B8ED1", "criteria": "cpe:2.3:o:dynabook:drfec_sys:*:*:*:*:*:windows:*:*", "versionEndExcluding": "11.0.0.0", "lastModified": "2026-11-27T15:56:20.303", "created": "2026-11-27T15:56:20.303", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "FC319459-195D-4975-B832-5476802B8ED1", "criteria": "cpe:2.3:o:dynabook:drfec_sys:*:*:*:*:*:windows:*:*", "versionEndExcluding": "11.0.0.0", "lastModified": "2026-11-27T16:59:10.440", "created": "2026-11-27T15:56:20.303", "status": "Inactive"}}

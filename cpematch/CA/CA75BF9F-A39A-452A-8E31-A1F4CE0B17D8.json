@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CA75BF9F-A39A-452A-8E31-A1F4CE0B17D8", "criteria": "cpe:2.3:a:vstorm-co:pydantic_deep:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.2.18", "versionEndExcluding": "0.4.0", "lastModified": "2026-11-27T17:15:07.107", "created": "2026-11-27T17:15:07.107", "status": "Active"}}

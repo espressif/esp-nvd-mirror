@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0000C14A-FF3A-47AB-BE91-6FF914F61851", "criteria": "cpe:2.3:a:allauth:django-allauth:*:*:*:*:*:*:*:*", "versionStartIncluding": "65.17.0", "versionEndExcluding": "65.23.0", "lastModified": "2026-11-27T17:47:20.783", "created": "2026-11-27T17:47:20.783", "status": "Active"}}
