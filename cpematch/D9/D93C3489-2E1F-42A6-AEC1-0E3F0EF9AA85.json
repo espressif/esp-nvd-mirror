@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D93C3489-2E1F-42A6-AEC1-0E3F0EF9AA85", "criteria": "cpe:2.3:a:eclipse_apoapsis:ort_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.1.0", "versionEndExcluding": "0.84.0", "lastModified": "2026-11-27T04:09:30.317", "created": "2026-11-27T04:09:30.317", "status": "Active"}}
