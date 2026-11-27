@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FB1F2279-1128-4B91-8666-EE57A6CE7A29", "criteria": "cpe:2.3:a:pi-hole:ftldns:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.6.2", "versionEndExcluding": "6.7", "lastModified": "2026-11-27T19:55:08.363", "created": "2026-11-27T19:55:08.363", "status": "Active"}}
