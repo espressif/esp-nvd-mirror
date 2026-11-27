@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D23353E9-5E49-4EC9-BF60-DEA3F3324A4E", "criteria": "cpe:2.3:a:postgresql:psqlodbc:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.02.0000", "versionEndExcluding": "18.00.0007", "lastModified": "2026-11-27T01:19:07.210", "created": "2026-11-27T01:19:07.210", "status": "Active"}}
