@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "38E910ED-DCDD-4F38-8152-A307550893E7", "criteria": "cpe:2.3:a:openwrt:luci_app_unbound:*:*:*:*:*:*:*:*", "versionEndIncluding": "26.288.56989\\~75a306d", "lastModified": "2026-11-27T07:55:31.560", "created": "2026-11-27T07:55:31.560", "status": "Active"}}
