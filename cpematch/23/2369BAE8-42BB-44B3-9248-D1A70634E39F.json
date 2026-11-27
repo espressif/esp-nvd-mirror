@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2369BAE8-42BB-44B3-9248-D1A70634E39F", "criteria": "cpe:2.3:a:powerdns:authoritative_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.1.0", "versionEndExcluding": "5.1.6", "lastModified": "2026-11-27T14:43:45.070", "created": "2026-11-27T14:43:45.070", "status": "Active"}}
