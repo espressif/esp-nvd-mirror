@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "78989AA7-827C-4A5C-A8FE-A6993CF13839", "criteria": "cpe:2.3:a:mcu-tools:mcuboot:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.9.0", "versionEndExcluding": "2.5.1", "lastModified": "2026-11-27T12:04:56.110", "created": "2026-11-27T12:04:56.110", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0015917F-68D1-4CD1-8AF8-D1220363F2C5", "criteria": "cpe:2.3:a:web-token:jwt-signature:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.5.0", "versionEndIncluding": "3.2.10", "lastModified": "2026-11-27T10:37:43.600", "created": "2026-11-27T10:37:43.600", "status": "Active"}}
