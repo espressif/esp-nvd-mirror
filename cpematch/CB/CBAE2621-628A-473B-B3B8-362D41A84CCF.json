@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CBAE2621-628A-473B-B3B8-362D41A84CCF", "criteria": "cpe:2.3:a:ossrs:simple_realtime_server:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.0.0", "versionEndExcluding": "8.0.73", "lastModified": "2026-11-27T03:03:25.377", "created": "2026-11-27T03:03:25.377", "status": "Active"}}
