@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "A94543D3-7826-4A68-8659-D5ADBAE9129A", "criteria": "cpe:2.3:a:genetec:security_center:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.14.0.0", "versionEndExcluding": "5.14.0.1", "lastModified": "2026-11-27T13:06:42.080", "created": "2026-11-27T13:06:42.080", "status": "Active"}}
