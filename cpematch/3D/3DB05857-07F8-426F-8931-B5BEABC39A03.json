@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3DB05857-07F8-426F-8931-B5BEABC39A03", "criteria": "cpe:2.3:a:web-token:jwt-signature-algorithm-rsa:*:*:*:*:*:*:*:*", "versionEndIncluding": "3.2.10", "lastModified": "2026-11-27T09:13:26.777", "created": "2026-11-27T09:13:26.777", "status": "Active"}}

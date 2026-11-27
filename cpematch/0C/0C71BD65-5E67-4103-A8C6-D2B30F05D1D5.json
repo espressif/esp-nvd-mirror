@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0C71BD65-5E67-4103-A8C6-D2B30F05D1D5", "criteria": "cpe:2.3:a:flatpak:flatpak:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.19.0", "versionEndExcluding": "1.19.4", "lastModified": "2026-11-27T09:26:16.790", "created": "2026-11-27T09:26:16.790", "status": "Active"}}

@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "332850CB-0713-439A-93D4-C336F257ED6C", "criteria": "cpe:2.3:a:web-token:jwt-encryption-algorithm-ecdh-es:*:*:*:*:*:*:*:*", "versionStartIncluding": "2.2.0", "versionEndIncluding": "3.2.10", "lastModified": "2026-11-27T08:57:13.667", "created": "2026-11-27T08:57:13.667", "status": "Active"}}

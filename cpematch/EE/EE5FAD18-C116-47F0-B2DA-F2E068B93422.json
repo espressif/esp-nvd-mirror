@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "EE5FAD18-C116-47F0-B2DA-F2E068B93422", "criteria": "cpe:2.3:a:web-token:jwt-experimental:*:*:*:*:*:*:*:*", "versionStartIncluding": "4.1.0", "versionEndExcluding": "4.1.11", "lastModified": "2026-11-27T09:14:50.540", "created": "2026-11-27T09:14:50.540", "status": "Active"}}
