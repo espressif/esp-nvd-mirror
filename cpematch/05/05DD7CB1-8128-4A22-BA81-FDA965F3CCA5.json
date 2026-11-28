@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "05DD7CB1-8128-4A22-BA81-FDA965F3CCA5", "criteria": "cpe:2.3:a:git-lfs:git-lfs:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.5.0", "versionEndExcluding": "3.8.1", "lastModified": "2026-11-27T22:49:34.840", "created": "2026-11-27T22:49:34.840", "status": "Active"}}

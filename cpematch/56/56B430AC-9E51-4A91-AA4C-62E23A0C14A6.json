@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "56B430AC-9E51-4A91-AA4C-62E23A0C14A6", "criteria": "cpe:2.3:a:coder:vscode_coder:*:*:*:*:*:visual_studio_code:*:*", "versionStartIncluding": "0.1.20", "versionEndExcluding": "1.14.6", "lastModified": "2026-11-27T22:36:30.650", "created": "2026-11-27T22:36:30.650", "status": "Active"}}

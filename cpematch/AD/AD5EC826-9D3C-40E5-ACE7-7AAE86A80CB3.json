@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "AD5EC826-9D3C-40E5-ACE7-7AAE86A80CB3", "criteria": "cpe:2.3:a:ontola:atomic-server:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.30.0", "versionEndExcluding": "0.40.3", "lastModified": "2026-11-27T22:36:10.847", "created": "2026-11-27T22:36:10.847", "status": "Active"}}
