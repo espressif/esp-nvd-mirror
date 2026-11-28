@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "32A18B10-7446-4EDC-B4DD-25756C2F780C", "criteria": "cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:*:*", "versionStartIncluding": "6.6.145", "versionEndIncluding": "6.6.\\*", "lastModified": "2026-11-28T07:37:41.857", "created": "2026-11-28T07:37:41.857", "status": "Active"}}
