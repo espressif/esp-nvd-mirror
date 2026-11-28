@@ -1,1 +1,1 @@
-{"matchString": {"matchCriteriaId": "2A975085-7BEE-419D-8E22-BB73F205EE83", "criteria": "cpe:2.3:a:python:python:3.14.0b4:*:*:*:*:*:*:*", "lastModified": "2026-11-27T13:41:18.980", "created": "2026-11-27T13:41:18.980", "status": "Active"}}
+{"matchString": {"matchCriteriaId": "2A975085-7BEE-419D-8E22-BB73F205EE83", "criteria": "cpe:2.3:a:python:python:3.14.0b4:*:*:*:*:*:*:*", "lastModified": "2026-11-28T03:00:00.240", "created": "2026-11-27T13:41:18.980", "status": "Inactive"}}
