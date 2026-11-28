@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "CFB3190E-30FB-4890-BF02-D341435A4AF5", "criteria": "cpe:2.3:a:ing-bank:cassandra-jdbc-wrapper:*:*:*:*:*:*:*:*", "versionEndExcluding": "4.16.4", "lastModified": "2026-11-28T09:59:42.370", "created": "2026-11-28T09:59:42.370", "status": "Active"}}
